@@ -1,0 +1,32 @@
+Logging started: 19.12.2023 16:28
+rec lore wanderer.pants
+You grab a scroll of legend lore.
+You couldn't find what you were looking for.
+
+583H 125V 39995843X 60.83% 42C T:14 Exits:W> 
+
+rec lore wanderers.pants
+You couldn't find what you were looking for.
+
+583H 125V 39995843X 60.83% 42C T:11 Exits:W> 
+
+l pants
+Some wanderer's pants of Que-Teh looks rather common.
+
+583H 125V 39995843X 60.83% 42C T:9 Exits:W> 
+
+rec lore pants
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pants wanderer's que-teh'
+ Item Type: ARMOR       
+ Mat Class: hide         Material: rawhide
+ Weight   : 5            Value   : 130
+
+ Affects  : MOVE          by 9
+ Effects  : DETECT_UNDEAD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+
+583H 125V 39995843X 60.83% 42C T:2 Exits:W> 
+

@@ -1,0 +1,18 @@
+Logging started: 19.12.2023 16:23
+browse talisman
+You browse through the merchandise and notice:
+The surface of the talisman gleams brightly. (100%)
+You feel informed:
+ Object 'talisman cryptic ancient elven'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 245
+
+ Affects  : MOVE_REGEN    by 1
+ Affects  : HEALTH        by 3
+ Effects  : DETECT_MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A cryptic ancient elven talisman is wearable: neck.
+
+583H 102V 39995843X 60.83% 703C T:8 Exits:NEW> 
+

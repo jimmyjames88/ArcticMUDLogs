@@ -1,0 +1,16 @@
+Logging started: 19.12.2023 13:18
+exam spurs
+The spurs's metallic surface is shiny and new. (98%)
+You feel informed:
+ Object 'spurs benevolent dull set'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 7            Value   : 40
+
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+ Apply    : 7
+Some benevolent spurs is wearable: feet.
+
+583H 137V 44925281X 46.50% 177C T:36 Exits:ESW> 
+

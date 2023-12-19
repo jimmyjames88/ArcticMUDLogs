@@ -1,0 +1,20 @@
+Logging started: 19.12.2023 16:24
+browse heavy.barbed
+You browse through the merchandise and notice:
+The surface of the spear gleams brightly. (98%)
+A heavy barbed spear is of very good quality.
+You feel informed:
+ Object 'spear heavy barbed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 19           Value   : 360
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 4D4
+A heavy barbed spear requires knowledge of the skill 'piercers'.
+
+577H 106V 39995843X 60.83% 434C Mem:1 T:2 Exits:NEW> 
+

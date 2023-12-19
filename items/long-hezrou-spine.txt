@@ -1,0 +1,18 @@
+Logging started: 19.12.2023 13:06
+exam spine
+The spine appears to be in perfect condition. (96%)
+A long hezrou spine is of superb quality.
+You feel informed:
+ Object 'spine hezrou hezrou's long'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 7            Value   : 600
+
+ Affects  : skill envenom       by +5
+ Item is  : BLESS
+ Class    : spear
+ Damage   : 3D5
+A long hezrou spine requires knowledge of the skill 'piercers'.
+
+583H 115V 44925281X 46.50% 1509C T:40 Exits:NEW> 
+

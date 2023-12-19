@@ -1,0 +1,24 @@
+Logging started: 19.12.2023 13:18
+
+A citizen leaves east.
+
+583H 140V 44925281X 46.50% 213C T:46 Exits:NEW> 
+
+exam rose
+The vambraces's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'vambraces galvanized steel rose'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 60
+
+ Affects  : INT           by 1
+ Affects  : LEARN         by 5
+ Item is  : ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+ This object is part of a larger set.
+Some vambraces of the Rose is wearable: arms.
+
+583H 140V 44925281X 46.50% 213C T:46 Exits:NEW> 
+

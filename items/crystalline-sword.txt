@@ -1,0 +1,18 @@
+Logging started: 19.12.2023 13:15
+rec lore crystalline.sword
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword crystalline crystal'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 12           Value   : 350
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC BLESS ANTI_EVIL
+ Immune   : IMMUNE_HEAT
+ Class    : long_sword
+ Damage   : 3D6
+
+583H 150V 44925281X 46.50% 177C T:48 Exits:W> 
+

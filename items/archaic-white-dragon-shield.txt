@@ -1,0 +1,24 @@
+Logging started: 19.12.2023 16:27
+browse dragon.shield
+You browse through the merchandise and notice:
+The shield appears to be in perfect condition. (100%)
+An archaic white dragon shield is of superb quality.
+You feel informed:
+ Object 'shield archaic white dragon'
+ Item Type: WORN        
+ Mat Class: natural      Material: dragonbone
+ Weight   : 5            Value   : 450
+
+ Affects  : regeneration by  10%
+ Affects  : regeneration by  10%
+ Effects  : SHIELD
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An archaic white dragon shield is wearable: shield.
+
+583H 140V 39995843X 60.83% 434C T:2 Exits:NEW> 
+
+
+The elixir flashes a silvery glint and twinkles out.
+
+583H 140V 39995843X 60.83% 434C T:60 Exits:NEW> 
+

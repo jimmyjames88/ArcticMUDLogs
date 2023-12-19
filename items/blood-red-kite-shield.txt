@@ -1,0 +1,18 @@
+Logging started: 19.12.2023 13:06
+exam kite
+The shield's metallic surface is shiny and new. (96%)
+A blood red spiked kite shield is of fair quality.
+You feel informed:
+ Object 'shield blood red spiked kite'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: copper
+ Weight   : 32           Value   : 200
+
+ Affects  : score criticals by 0.6%
+ Affects  : HEALTH        by 10
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A blood red spiked kite shield is wearable: shield.
+
+583H 115V 44925281X 46.50% 1509C T:58 Exits:NEW> 
+

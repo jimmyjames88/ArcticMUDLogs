@@ -1,0 +1,19 @@
+Logging started: 19.12.2023 13:10
+browse grey.robe
+You browse through the merchandise and notice:
+The robe appears to be brand new. (100%)
+You feel informed:
+ Object 'robe grey'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 110
+
+ Affects  : WIS           by 1
+ Affects  : ARMOR         by -3
+ Effects  : HIDE
+ Item is  : BLESS
+ Restricts: NOMAGE NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A grey witch's robe is wearable: about.
+
+577H 148V 44925281X 46.50% 812C T:42 Exits:NEW> 
+

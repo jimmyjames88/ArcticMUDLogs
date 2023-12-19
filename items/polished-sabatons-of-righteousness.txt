@@ -1,0 +1,18 @@
+Logging started: 19.12.2023 13:08
+browse sabatons
+You browse through the merchandise and notice:
+The sabatons's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'sabatons polished righteousness'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 420
+
+ Affects  : resist criticals by 1.3%
+ Effects  : SENSE_LIFE
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+Some polished sabatons of righteousness is wearable: feet.
+
+583H 128V 44925281X 46.50% 1439C T:51 Exits:NEW> 
+

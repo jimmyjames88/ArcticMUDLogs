@@ -1,0 +1,15 @@
+Logging started: 19.12.2023 13:13
+browse breeches
+You browse through the merchandise and notice:
+The breeches appears to be brand new. (99%)
+You feel informed:
+ Object 'breeches pair leopard skin'
+ Item Type: WORN        
+ Mat Class: hide         Material: pelt
+ Weight   : 3            Value   : 225
+
+ Effects  : IS_FLYING
+A pair of leopard skin breeches is wearable: legs.
+
+583H 150V 44925281X 46.50% 812C T:24 Exits:NEW> 
+

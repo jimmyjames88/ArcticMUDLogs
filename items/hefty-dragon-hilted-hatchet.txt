@@ -1,0 +1,24 @@
+Logging started: 19.12.2023 13:11
+browse hatchet
+You browse through the merchandise and notice:
+The hatchet's metallic surface is shiny and new. (100%)
+A hefty dragon-hilted hatchet is of fair quality.
+You feel informed:
+ Object 'hatchet hefty dragon hilted'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 9            Value   : 260
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 1
+ Class    : hatchet
+ Damage   : 2D5
+A hefty dragon-hilted hatchet requires knowledge of the skill 'axes'.
+
+577H 148V 44925281X 46.50% 812C T:58 Exits:NEW> 
+
+
+The captain of the Palanthas guard arrives from the north.
+
+577H 148V 44925281X 46.50% 812C T:57 Exits:NEW> 
+

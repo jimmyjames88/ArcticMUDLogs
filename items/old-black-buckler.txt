@@ -1,0 +1,16 @@
+Logging started: 19.12.2023 16:29
+rec lore old.buckler
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield old black buckler'
+ Item Type: WORN        
+ Mat Class: wood         Material: vallenwood
+ Weight   : 15           Value   : 100
+
+ Affects  : healing received by  1%
+ Affects  : HEALTH        by 10
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+583H 140V 39995843X 60.83% 42C T:38 Exits:W> 
+

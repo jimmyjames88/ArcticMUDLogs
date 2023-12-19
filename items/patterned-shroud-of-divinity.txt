@@ -1,0 +1,21 @@
+Logging started: 19.12.2023 16:25
+browse shroud
+You browse through the merchandise and notice:
+The shroud appears to be brand new. (99%)
+A dark purple burial shroud is wearable: body.
+
+The surface of the shroud gleams brightly. (100%)
+You feel informed:
+ Object 'shroud patterned divinity'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 8            Value   : 425
+
+ Affects  : RESIST_BREATH by 15
+ Affects  : MOVE          by 8
+ Effects  : DETECT_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A patterned shroud of divinity is wearable: about.
+
+583H 140V 39995843X 60.83% 434C T:16 Exits:NEW> 
+
