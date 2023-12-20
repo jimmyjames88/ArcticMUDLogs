@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 12:11
+browse mithril.rod
+You browse through the merchandise and notice:
+The rod's metallic surface shines brilliantly. (99%)
+A mithril-capped rod is of excellent quality.
+You feel informed:
+ Object 'rod mithril-capped'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 7            Value   : 800
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : rod
+ Damage   : 3D6
+A mithril-capped rod requires knowledge of the skill 'bludgeons'.
+
+583H 132V 34052599X 47.92% 610C T:31 Exits:NESW> 
+

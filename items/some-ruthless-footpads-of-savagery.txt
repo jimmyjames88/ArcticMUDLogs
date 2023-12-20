@@ -1,0 +1,29 @@
+Logging started: 20.12.2023 10:10
+browse footpads
+You browse through the merchandise and notice:
+The footpads's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'footpads ruthless pads savagery'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 5            Value   : 420
+
+ Affects  : regeneration by  9%
+ Affects  : HP_REGEN      by 3
+ Effects  : IMMUNE_DISEASE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+Some ruthless footpads of savagery is wearable: feet.
+
+583H 140V 37210397X 89.83% 5633C T:1 Exits:NESW> 
+
+
+A Tarsian peasant arrives from the south.
+
+583H 140V 37210397X 89.83% 5633C T:1 Exits:NESW> 
+
+
+The cloud-veiled sky becomes even darker as the sun sets.
+The elixir flashes a silvery glint and twinkles out.
+
+583H 140V 37210397X 89.83% 5633C T:60 Exits:NESW> 

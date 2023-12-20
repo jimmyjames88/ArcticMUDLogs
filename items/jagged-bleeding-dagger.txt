@@ -1,0 +1,23 @@
+Logging started: 20.12.2023 13:39
+browse jagged.dagger
+You browse through the merchandise and notice:
+The dagger's metallic surface shines brilliantly. (97%)
+A jagged bleeding dagger is of very good quality.
+You feel informed:
+ Object 'dagger jagged bleeding'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 17           Value   : 200
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Affects  : skill backstab      by +5
+ Affects  : skill envenom       by +10
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : dagger
+ Damage   : 5D3
+A jagged bleeding dagger requires knowledge of the skill 'short blades'.
+
+395H 132V 32080439X 50.69% 147C T:2 Exits:NESW> 
+

@@ -1,0 +1,24 @@
+Logging started: 20.12.2023 10:54
+rec lore wings.sorrow
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'amulet black metal bat wings needless sorrow'
+ Item Type: WORN        
+ Mat Class: metal        Material: mithril
+ Weight   : 1            Value   : 1000
+
+ Affects  : HIT           by -5
+ Affects  : WIS           by -5
+ Effects  : DETECT_INVISIBLE INFRAVISION
+ Item is  : EVIL MAGIC NODROP
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_DISINTEGRATION IMMUNE_GAS IMMUNE_HEAT IMMUNE_POISON IMMUNE_SLEEP
+
+578H 66V 35074135X 17.15% 331C T:7 Exits:NESW> 
+
+
+You are hungry.
+You are thirsty.
+
+578H 93V 35074135X 17.15% 331C T:60 Exits:NESW> 
+

@@ -1,0 +1,17 @@
+Logging started: 20.12.2023 10:13
+exam kite
+The shield's metallic surface is shiny and new. (99%)
+A steel kite shield is of good quality.
+You feel informed:
+ Object 'shield kite teardrop tear drop elaborate steel'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 750
+
+ Affects  : skill shield block  by +5
+ Affects  : RESIST_ELECTR by 15
+ Apply    : 10
+A steel kite shield is wearable: shield.
+
+583H 138V 37210397X 89.83% 3730C T:25 Exits:NESW> 
+

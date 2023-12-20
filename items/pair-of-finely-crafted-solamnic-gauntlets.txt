@@ -1,0 +1,23 @@
+Logging started: 20.12.2023 01:16
+rec lore solamnic.gauntlets
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets bronze solamnic crafted finely pair'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 10           Value   : 300
+
+ Affects  : ARMOR         by -10
+ Affects  : DEX           by 1
+ Item is  : BLESS ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+
+583H 136V 37788467X 89.83% 152C T:43 Exits:NESW> 
+
+
+A stray pet dog leaves south.
+
+583H 136V 37788467X 89.83% 152C T:41 Exits:NESW> 
+

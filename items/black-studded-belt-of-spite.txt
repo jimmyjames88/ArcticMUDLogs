@@ -1,0 +1,27 @@
+Logging started: 20.12.2023 12:44
+
+The image of a goblin shaman quickly fades in and out of view.
+Your body tingles slightly, for a brief moment.
+
+457H 132V 32979411X 47.92% 282C Mem:1 T:53 Exits:NESW> 
+
+browse belt.spite
+You browse through the merchandise and notice:
+The belt appears to be brand new. (100%)
+You feel informed:
+ Object 'belt black studded spite'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 7            Value   : 100
+
+ Affects  : healing received by  1%
+ Affects  : score criticals by 0.2%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A black studded belt of spite is wearable: waist.
+
+457H 132V 32979411X 47.92% 282C Mem:1 T:52 Exits:NESW> 
+
+
+A citizen of Kalaman arrives from the east.
+
+457H 132V 32979411X 47.92% 282C Mem:1 T:51 Exits:NESW> 

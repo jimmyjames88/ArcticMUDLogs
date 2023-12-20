@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 13:38
+browse wretched
+You browse through the merchandise and notice:
+The dagger's metallic surface is shiny and new. (100%)
+A wretched barbed dagger is of fair quality.
+You feel informed:
+ Object 'dagger wretched barbed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 9            Value   : 275
+
+ Affects  : HITROLL       by 1
+ Class    : dagger
+ Damage   : 2D5
+A wretched barbed dagger requires knowledge of the skill 'short blades'.
+
+354H 132V 32080439X 50.69% 147C T:1 Exits:NESW> 
+

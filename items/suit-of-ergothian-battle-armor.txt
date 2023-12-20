@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 12:09
+browse ergothian.armor
+You browse through the merchandise and notice:
+The armor's metallic surface is shiny and new. (96%)
+You feel informed:
+ Object 'armor ergothian battle suit armour'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 18           Value   : 120
+
+ Affects  : CON           by 1
+ Item is  : MAGIC
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 6
+A suit of ergothian battle armor is wearable: body.
+
+583H 132V 34052599X 47.92% 742C T:31 Exits:NESW> 
+

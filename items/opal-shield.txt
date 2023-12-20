@@ -1,0 +1,27 @@
+Logging started: 20.12.2023 10:13
+exam opal
+The shield is quite beautiful and pristine. (99%)
+An opal shield is of good quality.
+An opal shield is wearable: shield.
+
+583H 138V 37210397X 89.83% 3730C T:6 Exits:NESW> 
+
+rec lore opal
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield opal'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 25           Value   : 175
+
+ Item is  : GLOW BLESS
+ Apply    : 6
+
+583H 138V 37210397X 89.83% 3730C T:1 Exits:NESW> 
+
+
+You feel less righteous.
+
+583H 140V 37210397X 89.83% 3730C T:60 Exits:NESW> 
+

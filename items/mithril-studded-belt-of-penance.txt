@@ -1,0 +1,16 @@
+Logging started: 20.12.2023 10:53
+rec lore mithril.belt
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'belt mithril studded penance'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 4            Value   : 110
+
+ Affects  : CHA           by 1
+ Affects  : MOVE_REGEN    by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+578H 51V 35074135X 17.15% 91C T:29 Exits:NESW> 
+

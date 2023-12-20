@@ -1,0 +1,25 @@
+Logging started: 20.12.2023 10:06
+browse blue.suit
+You browse through the merchandise and notice:
+The suit's scaly surface is in fine shape. (99%)
+You feel informed:
+ Object 'suit armor armour blue magnificent dragonscale highlord highlord's'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 55           Value   : 1000
+
+ Effects  : DETECT_GOOD
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ELECTRICITY
+ Apply    : 20
+A blue suit of highlord's armor is wearable: body.
+
+574H 125V 37210397X 89.83% 17C Mem:1 T:1 Exits:NESW> 
+
+Your studies complete, you close your prayerbook with a smile.
+You are hungry.
+You are thirsty.
+
+583H 140V 37210397X 89.83% 17C T:60 Exits:NESW> 
+

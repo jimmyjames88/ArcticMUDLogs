@@ -1,0 +1,32 @@
+Logging started: 20.12.2023 12:45
+
+A Kalaman cityguard arrives from the east.
+
+457H 132V 32979411X 47.92% 282C Mem:1 T:4 Exits:NESW> 
+
+browse club
+You browse through the merchandise and notice:
+The wooden surface of the club is in perfect condition. (99%)
+A club embedded with claws is of fair quality.
+You feel informed:
+ Object 'club huge spiked'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 10           Value   : 150
+
+ Affects  : HITROLL       by 3
+ Class    : club
+ Damage   : 2D7
+A club embedded with claws requires knowledge of the skill 'bludgeons'.
+
+457H 132V 32979411X 47.92% 282C Mem:1 T:2 Exits:NESW> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+The rising sun proclaims a new day.
+Once again the time has come for righteous anger.
+You are hungry.
+You are thirsty.
+
+488H 132V 32979411X 47.92% 282C T:60 Exits:NESW> 
+

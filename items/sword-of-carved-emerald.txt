@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 13:40
+browse emerald.sword
+You browse through the merchandise and notice:
+The sword is quite beautiful and pristine. (100%)
+A sword of carved emerald is of excellent quality.
+You feel informed:
+ Object 'sword emerald'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 30           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : GLOW
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : bastard_sword
+ Damage   : 4D6
+A sword of carved emerald requires knowledge of the skill 'two-handed'.
+
+436H 132V 32080439X 50.69% 147C T:9 Exits:NESW> 
+

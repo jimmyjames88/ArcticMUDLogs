@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 10:08
+browse diamond.blade
+You browse through the merchandise and notice:
+The blade is breathtaking as light refracts through it. (100%)
+A long diamond-edged blade is of excellent quality.
+You feel informed:
+ Object 'blade long diamond diamond-edged'
+ Item Type: WEAPON      
+ Mat Class: crystal      Material: diamond
+ Weight   : 11           Value   : 400
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 2D6
+A long diamond-edged blade requires knowledge of the skill 'long blades'.
+
+583H 140V 37210397X 89.83% 17C T:46 Exits:NESW> 
+

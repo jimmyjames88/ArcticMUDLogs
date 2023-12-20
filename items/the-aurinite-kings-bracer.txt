@@ -1,0 +1,19 @@
+Logging started: 20.12.2023 10:11
+browse aurinite
+You browse through the merchandise and notice:
+The bracer is quite beautiful as light strikes it. (100%)
+You feel informed:
+ Object 'bracer crystal aurinite king'
+ Item Type: WORN        
+ Mat Class: crystal      Material: crystal
+ Weight   : 1            Value   : 1500
+
+ Affects  : spell slots   by +1 at level 6
+ Affects  : RESIST_HEAT   by -4
+ Affects  : SAVING_PARA   by 1
+ Item is  : GLOW HUM MAGIC ANTI_EVIL NORENT
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+The Aurinite king's bracer is wearable: wrist.
+
+583H 140V 37210397X 89.83% 5633C T:27 Exits:NESW> 
+
