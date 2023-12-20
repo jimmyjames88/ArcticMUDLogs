@@ -1,0 +1,16 @@
+Logging started: 19.12.2023 16:47
+rec lore black.pearl
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pearl black ring'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 100
+
+ Affects  : STR           by -2
+ Effects  : DETECT_INVISIBLE
+ Item is  : MAGIC
+
+583H 87V 39195375X 81.83% 765C T:23 Exits:S> 
+

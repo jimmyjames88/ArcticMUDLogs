@@ -1,0 +1,16 @@
+Logging started: 20.12.2023 00:57
+rec lore sable
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shirt sable leather'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: fine_leather
+ Weight   : 14           Value   : 300
+
+ Affects  : ARMOR         by -4
+ Affects  : CON           by 1
+ Apply    : 4
+
+583H 140V 37800549X 89.83% 921C T:14 Exits:WU> 
+

@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 00:58
+rec lore elegant.gloves
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves elegant protection'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 7            Value   : 110
+
+ Affects  : MOVE          by 8
+ Affects  : SAVING_BREATH by -1
+ Effects  : SENSE_LIFE
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+
+583H 140V 37800549X 89.83% 921C T:29 Exits:WU> 
+

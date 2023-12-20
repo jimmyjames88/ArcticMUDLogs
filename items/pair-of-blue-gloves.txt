@@ -1,0 +1,23 @@
+Logging started: 19.12.2023 16:48
+
+You are hungry.
+You are thirsty.
+
+583H 96V 39195375X 81.83% 765C T:60 Exits:S> 
+
+rec lore blue.gloves
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gloves blue'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 100
+
+ Affects  : INT           by 1
+ Affects  : casting level by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+583H 96V 39195375X 81.83% 765C T:48 Exits:S> 
+
