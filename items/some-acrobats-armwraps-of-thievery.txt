@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 15:45
+browse armwraps
+You browse through the merchandise and notice:
+The armwraps appears to be brand new. (100%)
+Some acrobat's armwraps of thievery is wearable: arms.
+
+The armwraps looks healthy. (100%)
+You feel informed:
+ Object 'armwraps horrific wraps foresight'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: organic
+ Weight   : 2            Value   : 140
+
+ Affects  : HP_REGEN      by 2
+ Affects  : HP_REGEN      by 4
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 1
+Some horrific armwraps of foresight is wearable: arms.
+
+583H 132V 30516701X 58.38% 1226C T:43 Exits:NEW> 
+

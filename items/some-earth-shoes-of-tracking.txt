@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 15:45
+browse earth.shoes
+You browse through the merchandise and notice:
+The shoes appears to be brand new. (100%)
+You feel informed:
+ Object 'shoes earth tracking'
+ Item Type: ARMOR       
+ Mat Class: hide         Material: rawhide
+ Weight   : 8            Value   : 140
+
+ Affects  : HEALTH        by 2
+ Affects  : RESIST_MAGIC  by 4
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 1
+Some earth shoes of tracking is wearable: feet.
+
+583H 132V 30516701X 58.38% 1226C T:15 Exits:NEW> 
+

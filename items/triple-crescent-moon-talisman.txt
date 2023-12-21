@@ -1,0 +1,13 @@
+
+You browse through the merchandise and notice:
+The talisman's metallic surface is shiny and new.
+You feel informed:
+ Object 'talisman moon crescent triple pewter black cord'
+ Item Type: WORN        
+ Mat Class: metal        Material: tin
+ Weight   : 3            Value   : 630
+
+ Item is  : GLOW HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NODARK_KNIGHT NOBARBARIAN
+A triple crescent moon talisman is wearable: neck.
+

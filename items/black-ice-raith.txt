@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 10:50
+browse raith
+You browse through the merchandise and notice:
+The raith appears to be in perfect condition. (100%)
+A black ice raith is of average quality.
+You feel informed:
+ Object 'raith black ice maelstrom'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: ice
+ Weight   : 20           Value   : 500
+
+ Item is  : MAGIC
+ Class    : battle_axe
+ Damage   : 5D5
+A black ice raith requires knowledge of the skill 'axes'.
+
+481H 132V 15884909X 0.00% 644C T:55 Exits:NESW> 
+

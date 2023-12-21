@@ -1,0 +1,19 @@
+Logging started: 20.12.2023 15:44
+browse shirt.thorn
+You browse through the merchandise and notice:
+The shirt's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'shirt marshal's white dragon thorn'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 12           Value   : 150
+
+ Affects  : regeneration by  3%
+ Affects  : INT           by 1
+ Effects  : HIDE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A marshal's white dragon shirt of the Thorn is wearable: body.
+
+583H 127V 30516701X 58.38% 1226C T:52 Exits:NEW> 
+

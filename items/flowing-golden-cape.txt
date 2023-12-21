@@ -1,0 +1,16 @@
+Logging started: 20.12.2023 15:47
+exam cape
+The cape is becoming unravelled. (76%)
+You feel informed:
+ Object 'cape golden flowing'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 8            Value   : 165
+
+ Effects  : CAN_FLY
+ Item is  : GLOW MAGIC
+ Apply    : 4
+A flowing golden cape is wearable: about.
+
+583H 132V 30516701X 58.38% 1026C T:38 Exits:NE> 
+

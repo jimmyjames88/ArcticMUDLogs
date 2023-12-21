@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 10:51
+browse decorative
+You browse through the merchandise and notice:
+The shortsword's metallic surface is shiny and new. (100%)
+A decorative curved shortsword is of fair quality.
+You feel informed:
+ Object 'shortsword decorative curved'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 14           Value   : 200
+
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 3D4
+A decorative curved shortsword requires knowledge of the skill 'short blades'.
+
+512H 132V 15884909X 0.00% 644C T:41 Exits:NESW> 
+

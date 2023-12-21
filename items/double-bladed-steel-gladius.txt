@@ -1,0 +1,26 @@
+Logging started: 21.12.2023 10:51
+browse gladius
+You browse through the merchandise and notice:
+The gladius's metallic surface is shiny and new. (98%)
+A double bladed steel gladius is of superb quality.
+You feel informed:
+ Object 'gladius steel bladed double sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 22           Value   : 600
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Affects  : HIT           by 10
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 3D6
+A double bladed steel gladius requires knowledge of the skill 'long blades'.
+
+512H 132V 15884909X 0.00% 644C T:22 Exits:NESW> 
+
+
+A watchman of Port Balifor arrives from the north.
+
+512H 132V 15884909X 0.00% 644C T:21 Exits:NESW> 
+

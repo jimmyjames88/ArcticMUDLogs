@@ -1,0 +1,19 @@
+Logging started: 20.12.2023 21:32
+browse cowl
+You browse through the merchandise and notice:
+The cowl appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'cowl human bone inscribed premonition'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 260
+
+ Affects  : regeneration by  4%
+ Affects  : SAVING_SPELL  by -1
+ Effects  : DETECT_SCRY
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 2
+A human bone-inscribed cowl of premonition is wearable: head.
+
+583H 132V 24697461X 75.00% 792C Mem:2 T:17 Exits:NESW> 
+

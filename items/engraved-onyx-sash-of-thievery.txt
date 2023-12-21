@@ -1,0 +1,22 @@
+Logging started: 20.12.2023 21:31
+
+A mouse arrives from the west.
+
+574H 119V 24697461X 75.00% 792C Mem:3 T:12 Exits:NESW> 
+browse onyx.sash
+
+You browse through the merchandise and notice:
+The sash appears to be brand new. (100%)
+You feel informed:
+ Object 'sash engraved onyx thievery'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 4            Value   : 120
+
+ Affects  : MOVE_REGEN    by 1
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+An engraved onyx sash of thievery is wearable: waist.
+
+574H 119V 24697461X 75.00% 792C Mem:3 T:12 Exits:NESW> 
+

@@ -1,0 +1,22 @@
+Logging started: 20.12.2023 17:48
+browse adamantite
+You browse through the merchandise and notice:
+The breastplate's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'breastplate plate battle-scarred battle scarred adamantite'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: adamantite
+ Weight   : 3            Value   : 650
+
+ Affects  : CON           by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+ This object is part of a larger set.
+A battle-scarred adamantite breastplate is wearable: body.
+
+The shinguard's metallic surface is shiny and new. (99%)
+A pair of segmented black adamantite shin guards is wearable: legs.
+
+583H 132V 26974671X 73.15% 698C T:43 Exits:NESW> 
+

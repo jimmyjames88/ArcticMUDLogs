@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 22:08
+rec lore black.granite
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield black granite'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: stone
+ Weight   : 25           Value   : 400
+
+ Affects  : SAVING_PARA   by -2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 7
+
+583H 114V 21438445X 76.85% 393C T:3 Exits:NESW> 
+

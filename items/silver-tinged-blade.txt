@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 14:24
+browse silver.blade
+You browse through the merchandise and notice:
+The blade's metallic surface is shiny and new. (100%)
+A silver-tinged blade is of very good quality.
+You feel informed:
+ Object 'blade sword silver silver-tinged'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 500
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 2
+ Item is  : GLOW
+ Restricts: NOMAGE NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 4D4
+A silver-tinged blade requires knowledge of the skill 'long blades'.
+
+516H 132V 31509819X 50.69% 524C T:4 Exits:NEW> 
+

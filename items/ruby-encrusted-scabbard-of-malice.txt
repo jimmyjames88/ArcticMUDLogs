@@ -1,0 +1,17 @@
+Logging started: 20.12.2023 17:13
+browse scabbard.malice
+You browse through the merchandise and notice:
+The scabbard's scaly surface is in fine shape. (95%)
+You feel informed:
+ Object 'scabbard ruby encrusted malice'
+ Item Type: CONTAINER   
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 5            Value   : 340
+
+ Affects  : INT           by 1
+ Affects  : MOVE          by 13
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+scabbard (here) : 
+
+567H 81V 28075049X 59.92% 542C T:17 Exits:NEW> 
+

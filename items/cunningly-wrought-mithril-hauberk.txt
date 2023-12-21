@@ -1,0 +1,22 @@
+The hauberk's metallic surface shines brilliantly. (97%)
+You feel informed:
+ Object 'hauberk mithril mesh'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 12           Value   : 780
+
+ Affects  : skill rescue        by +4
+ Item is  : BLESS
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 10
+
+Deep under the mountain, a long-bearded dwarf sits at his forge, skillfully
+twisting fine rings of mithril into a coat worthy of his King.A cunningly wrought mithril hauberk is wearable: body.
+
+583H 132V 21438445X 76.85% 638C T:40 Exits:NESW> 
+
+
+A watchman of Port Balifor arrives from the north.
+
+583H 132V 21438445X 76.85% 638C T:39 Exits:NESW> 
+

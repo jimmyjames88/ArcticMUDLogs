@@ -1,0 +1,21 @@
+Logging started: 20.12.2023 15:44
+browse ruby.flail
+You browse through the merchandise and notice:
+The flail's metallic surface is shiny and new. (100%)
+A ruby-encrusted battle flail is of very good quality.
+You feel informed:
+ Object 'flail ruby-encrusted battle'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 13           Value   : 500
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : flail
+ Damage   : 3D6
+A ruby-encrusted battle flail requires knowledge of the skill 'bludgeons'.
+
+583H 127V 30516701X 58.38% 1226C T:23 Exits:NEW> 
+

@@ -1,0 +1,17 @@
+Logging started: 21.12.2023 10:50
+browse slaughter
+You browse through the merchandise and notice:
+The helmet's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'helmet burnished slaughter'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 7            Value   : 200
+
+ Affects  : MOVE          by 13
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+A burnished helmet of slaughter is wearable: head.
+
+481H 132V 15884909X 0.00% 644C T:11 Exits:NESW> 
+

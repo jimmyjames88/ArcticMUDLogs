@@ -1,0 +1,22 @@
+Logging started: 20.12.2023 21:32
+
+A mouse arrives from the east.
+
+583H 132V 24697461X 75.00% 792C Mem:2 T:48 Exits:NESW> 
+
+browse wispy
+You browse through the merchandise and notice:
+The hood appears to be brand new. (100%)
+You feel informed:
+ Object 'hood wispy willow bark storm'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 260
+
+ Affects  : MOVE_REGEN    by 4
+ Affects  : MEM_FACTOR    by 4
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A wispy willow bark hood of the storm is wearable: head.
+
+583H 132V 24697461X 75.00% 792C Mem:2 T:47 Exits:NESW> 
+

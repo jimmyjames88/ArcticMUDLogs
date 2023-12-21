@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 22:05
+browse green.leggings
+You browse through the merchandise and notice:
+The leggings's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'leggings green dragonscale dragon scale bright pair'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 12           Value   : 600
+
+ Affects  : ARMOR         by -4
+ Affects  : HIT           by 8
+ Apply    : 4
+ This object is part of a larger set.
+A pair of bright green dragonscale leggings is wearable: legs.
+
+583H 130V 21438445X 76.85% 638C T:29 Exits:NESW> 
+

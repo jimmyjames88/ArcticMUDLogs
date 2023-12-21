@@ -1,0 +1,23 @@
+Logging started: 20.12.2023 14:23
+
+A Palanthian guard arrives from the north.
+
+516H 132V 31509819X 50.69% 524C T:51 Exits:NEW> 
+
+browse thicket
+You browse through the merchandise and notice:
+The gown appears to be brand new. (100%)
+You feel informed:
+ Object 'gown moss patched thicket'
+ Item Type: WORN        
+ Mat Class: hide         Material: pelt
+ Weight   : 4            Value   : 215
+
+ Affects  : HP_REGEN      by 2
+ Affects  : CONCENTRATION by 10
+ Affects  : Experience gained by  1%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A moss-patched gown of the thicket is wearable: about.
+
+516H 132V 31509819X 50.69% 524C T:49 Exits:NEW> 
+

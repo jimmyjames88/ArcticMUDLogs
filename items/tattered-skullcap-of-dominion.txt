@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 17:13
+browse dominion
+You browse through the merchandise and notice:
+The skullcap's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'skullcap tattered dominion'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 5            Value   : 525
+
+ Affects  : ARMOR         by -10
+ Effects  : DETECT_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A tattered skullcap of dominion is wearable: head.
+
+583H 108V 28075049X 59.92% 542C T:49 Exits:NEW> 
+

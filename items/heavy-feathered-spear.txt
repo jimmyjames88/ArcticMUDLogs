@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 10:52
+browse feathered
+You browse through the merchandise and notice:
+The surface of the spear gleams brightly. (100%)
+A heavy feathered spear is of very good quality.
+You feel informed:
+ Object 'spear heavy feathered'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 18           Value   : 360
+
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+A heavy feathered spear requires knowledge of the skill 'piercers'.
+
+543H 132V 15884909X 0.00% 644C T:56 Exits:NESW> 
+

@@ -1,0 +1,15 @@
+Logging started: 21.12.2023 10:54
+rec lore wicked.pike
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pike steel wicked'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 23           Value   : 160
+
+ Class    : pike
+ Damage   : 4D4
+
+583H 122V 15884909X 0.00% 193C T:25 Exits:NESW> 
+

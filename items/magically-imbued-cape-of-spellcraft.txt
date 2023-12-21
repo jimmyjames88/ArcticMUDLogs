@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 21:33
+browse imbued
+You browse through the merchandise and notice:
+The cape is delicate and brand new. (100%)
+You feel informed:
+ Object 'cape magical imbued spellcraft'
+ Item Type: WORN        
+ Mat Class: cloth        Material: gossamer
+ Weight   : 7            Value   : 110
+
+ Affects  : MOVE          by 10
+ Affects  : healing received by  5%
+ Affects  : casting level by 3
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+A magically imbued cape of spellcraft is wearable: about.
+
+583H 132V 24697461X 75.00% 792C Mem:1 T:56 Exits:NESW> 
+

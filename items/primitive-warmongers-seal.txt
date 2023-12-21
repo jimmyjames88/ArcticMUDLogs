@@ -1,0 +1,18 @@
+Logging started: 20.12.2023 21:33
+browse seal
+You browse through the merchandise and notice:
+The surface of the seal gleams brightly. (99%)
+You feel informed:
+ Object 'seal primitive warmonger's'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 215
+
+ Affects  : MOVE          by 11
+ Affects  : resist criticals by 0.2%
+ Effects  : DETECT_UNDEAD
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A primitive warmonger's seal is wearable: finger.
+
+583H 132V 24697461X 75.00% 792C Mem:1 T:39 Exits:NESW> 
+
