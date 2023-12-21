@@ -21,3 +21,26 @@ A commander's blood stained hauberk of resolve is wearable: body.
 
 536H 54V 28075049X 59.92% 542C T:14 Exits:NEW> 
 
+Logging started: 21.12.2023 14:43
+
+A priest of Hiddukel leaves west.
+
+584H 132V 11401315X 7.00% 595C T:46 Exits:NESW> 
+
+browse hauberk.resolve
+You browse through the merchandise and notice:
+The hauberk's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'hauberk commander's blood stained resolve'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 9            Value   : 150
+
+ Affects  : healing received by  2%
+ Affects  : healing received by  3%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+A commander's blood stained hauberk of resolve is wearable: body.
+
+584H 132V 11401315X 7.00% 595C T:44 Exits:NESW> 
+

@@ -1,0 +1,20 @@
+Logging started: 21.12.2023 16:50
+browse sharp.knife
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A sharp knife is of poor quality.
+You feel informed:
+ Object 'knife sharp'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: tin
+ Weight   : 10           Value   : 100
+
+ Affects  : casting level by 1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 3D3
+A sharp knife requires knowledge of the skill 'short blades'.
+
+584H 132V 6619793X 42.71% 591C T:31 Exits:NES> 
+

@@ -1,0 +1,19 @@
+Logging started: 21.12.2023 16:49
+browse rose
+You browse through the merchandise and notice:
+The fullplate's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'fullplate justicar's plate suit rose'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 12           Value   : 475
+
+ Affects  : RESIST_HEAT   by 14
+ Affects  : spell damage done by  3%
+ Effects  : DETECT_ASTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+A justicar's fullplate suit of the Rose is wearable: body.
+
+584H 132V 6619793X 42.71% 591C T:55 Exits:NES> 
+

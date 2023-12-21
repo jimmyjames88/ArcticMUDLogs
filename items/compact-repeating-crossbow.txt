@@ -1,0 +1,22 @@
+Logging started: 21.12.2023 14:43
+browse repeating
+You browse through the merchandise and notice:
+The crossbow's metallic surface is shiny and new. (100%)
+A compact repeating crossbow is of excellent quality.
+You feel informed:
+ Object 'crossbow bow repeating compact complicated'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 360
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOCLERIC
+ Class    : hand_crossbow
+ Damage   : 3D5
+ This object is part of a larger set.
+A compact repeating crossbow requires knowledge of the skill 'miscellaneous'.
+
+584H 132V 11401315X 7.00% 595C T:15 Exits:NESW> 
+

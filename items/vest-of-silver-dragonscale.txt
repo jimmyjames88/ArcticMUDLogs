@@ -1,0 +1,21 @@
+Logging started: 21.12.2023 12:21
+browse silver.vest
+You browse through the merchandise and notice:
+The vest's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'vest dragonscale silver shimmering'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 4            Value   : 450
+
+ Affects  : spell slots   by +2 at level 4
+ Affects  : STR           by 1
+ Affects  : HIT           by 10
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_COLD IMMUNE_HEAT
+ Apply    : 8
+A vest of silver dragonscale is wearable: body.
+
+583H 132V 14503005X 1.43% 713C T:40 Exits:NESW> 
+

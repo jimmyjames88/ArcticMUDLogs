@@ -1,0 +1,24 @@
+Logging started: 21.12.2023 16:51
+
+The rising sun proclaims a new day.
+
+584H 132V 6619793X 42.71% 591C T:60 Exits:NES> 
+browse emerald.knife
+You browse through the merchandise and notice:
+The stone surface of the knife is flawless. (100%)
+An engraved emerald knife is of excellent quality.
+You feel informed:
+ Object 'knife emerald engraved'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: stone
+ Weight   : 5            Value   : 340
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS
+ Class    : knife
+ Damage   : 4D4
+An engraved emerald knife requires knowledge of the skill 'short blades'.
+
+584H 132V 6619793X 42.71% 591C T:60 Exits:NES> 
+

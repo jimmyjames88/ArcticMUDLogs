@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 16:48
+browse glasses
+You browse through the merchandise and notice:
+The surface of the glasses is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'glasses runed eldritch magic'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 5            Value   : 525
+
+ Affects  : SAVING_BREATH by -2
+ Affects  : casting level by 1
+ Effects  : DETECT_SCRY
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+Some runed glasses of eldritch magic is wearable: head.
+
+584H 132V 6619793X 42.71% 591C T:58 Exits:NES> 
+

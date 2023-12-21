@@ -1,0 +1,22 @@
+Logging started: 21.12.2023 14:46
+browse pistol
+You browse through the merchandise and notice:
+The crossbow's metallic surface is shiny and new. (99%)
+A stubby pistol crossbow is of very good quality.
+You feel informed:
+ Object 'crossbow bow pistol stubby small'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 240
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOCLERIC
+ Class    : hand_crossbow
+ Damage   : 2D6
+ This object is part of a larger set.
+A stubby pistol crossbow requires knowledge of the skill 'miscellaneous'.
+
+584H 132V 11401315X 7.00% 290C T:28 Exits:NESW> 
+

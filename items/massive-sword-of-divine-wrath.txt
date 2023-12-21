@@ -1,0 +1,21 @@
+Logging started: 21.12.2023 12:20
+browse sword.wrath
+You browse through the merchandise and notice:
+The sword is breathtaking as light refracts through it. (99%)
+A massive sword of divine wrath is of superb quality.
+You feel informed:
+ Object 'sword massive divine wrath'
+ Item Type: WEAPON      
+ Mat Class: crystal      Material: diamond
+ Weight   : 32           Value   : 1000
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 3
+ Item is  : GLOW MAGIC BLESS ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : two_handed_sword
+ Damage   : 1D1
+A massive sword of divine wrath requires knowledge of the skill 'two-handed'.
+
+583H 132V 14503005X 1.43% 713C T:35 Exits:NESW> 
+

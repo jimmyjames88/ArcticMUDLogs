@@ -1,0 +1,19 @@
+Logging started: 21.12.2023 14:42
+browse prowess
+You browse through the merchandise and notice:
+The chestguard's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'chestguard commander's blood stained prowess'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 9            Value   : 400
+
+ Affects  : regeneration by  9%
+ Affects  : resist criticals by 0.7%
+ Effects  : IMMUNE_POISON
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+A commander's blood stained chestguard of prowess is wearable: body.
+
+584H 132V 11401315X 7.00% 595C T:8 Exits:NESW> 
+

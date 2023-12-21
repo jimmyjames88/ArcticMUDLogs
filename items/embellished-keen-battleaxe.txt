@@ -1,0 +1,19 @@
+Logging started: 21.12.2023 12:48
+browse keen
+You browse through the merchandise and notice:
+The battleaxe's metallic surface is shiny and new. (99%)
+An embellished keen battleaxe is of very good quality.
+You feel informed:
+ Object 'battleaxe embellished keen battle axe'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 38           Value   : 360
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : battle_axe
+ Damage   : 4D7
+An embellished keen battleaxe requires knowledge of the skill 'axes'.
+
+582H 132V 11401315X 7.00% 619C Mem:1 T:2 Exits:NESW> 
+

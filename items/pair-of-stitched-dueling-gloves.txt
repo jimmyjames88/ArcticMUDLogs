@@ -1,0 +1,25 @@
+Logging started: 21.12.2023 11:20
+
+Mustafa flies in from the south.
+Vendetta flies in from the south.
+
+583H 132V 14503005X 1.43% 751C T:35 Exits:NESW> 
+
+browse stitched.gloves
+You browse through the merchandise and notice:
+The gloves appears rough and in perfect condition. (99%)
+You feel informed:
+ Object 'gloves dueling stitched pair'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 250
+
+ Affects  : HITROLL       by 2
+ Affects  : skill parry         by +5
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+A pair of stitched dueling gloves is wearable: hands.
+
+583H 132V 14503005X 1.43% 751C T:34 Exits:NESW> 
+

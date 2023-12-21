@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 12:47
+browse golden.cloak
+You browse through the merchandise and notice:
+The cloak appears to be brand new. (99%)
+You feel informed:
+ Object 'cloak golden long'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 6            Value   : 300
+
+ Affects  : STR           by 1
+ Affects  : HIT           by 6
+ Item is  : MAGIC
+ Immune   : IMMUNE_HEAT
+A long golden cloak is wearable: about.
+
+551H 107V 11401315X 7.00% 679C Mem:2 T:4 Exits:NESW> 
+

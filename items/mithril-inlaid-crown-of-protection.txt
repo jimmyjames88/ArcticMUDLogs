@@ -1,0 +1,18 @@
+Logging started: 21.12.2023 16:50
+browse mithril.crown
+You browse through the merchandise and notice:
+The crown's metallic surface is bright and shiny. (99%)
+You feel informed:
+ Object 'crown mithril inlaid protection'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 6            Value   : 140
+
+ Affects  : HEALTH        by 3
+ Affects  : ARMOR         by -8
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+A mithril-inlaid crown of protection is wearable: head.
+
+584H 132V 6619793X 42.71% 591C T:14 Exits:NES> 
+
