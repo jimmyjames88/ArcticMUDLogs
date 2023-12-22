@@ -1,0 +1,16 @@
+Logging started: 22.12.2023 13:23
+browse silver.amulet
+You browse through the merchandise and notice:
+The surface of the amulet gleams brightly. (100%)
+You feel informed:
+ Object 'amulet silver'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 250
+
+ Affects  : RESIST_COLD   by 6
+ Item is  : MAGIC
+A silver amulet is wearable: neck.
+
+489H 132V 32311593X 94.57% 653C T:39 Exits:NESW> 
+

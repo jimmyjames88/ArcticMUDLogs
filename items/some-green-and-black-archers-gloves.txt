@@ -1,0 +1,20 @@
+Logging started: 22.12.2023 13:24
+browse green.gloves
+You browse through the merchandise and notice:
+The gloves appears oiled and in perfect condition. (99%)
+You feel informed:
+ Object 'gloves archer archer's green black'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: fine_leather
+ Weight   : 2            Value   : 500
+
+ Affects  : DEX           by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NOCLERIC NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_HEAT
+ Apply    : 5
+Some green and black archer's gloves is wearable: hands.
+
+520H 132V 32311593X 94.57% 653C T:52 Exits:NESW> 
+

@@ -1,0 +1,24 @@
+Logging started: 21.12.2023 19:45
+Logging started: 21.12.2023 19:45
+browse halberd
+You browse through the merchandise and notice:
+The halberd's metallic surface shines brilliantly. (100%)
+A glittering durable halberd is of superb quality.
+You feel informed:
+ Object 'halberd glittering durable'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 21           Value   : 475
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : halberd
+ Damage   : 2D9
+A glittering durable halberd requires knowledge of the skill 'pole arms'.
+
+584H 125V 5512547X 42.71% 444C Mem:1 T:1 Exits:NES> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+
+584H 132V 5512547X 42.71% 444C T:60 Exits:NES> 

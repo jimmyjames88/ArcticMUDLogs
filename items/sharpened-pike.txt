@@ -1,0 +1,19 @@
+Logging started: 22.12.2023 12:45
+browse pike
+You browse through the merchandise and notice:
+The hard wooden surface of the pike is in perfect condition. (100%)
+A sharpened pike is of poor quality.
+You feel informed:
+ Object 'pike sharpened'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 13           Value   : 140
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : pike
+ Damage   : 3D3
+A sharpened pike requires knowledge of the skill 'pole arms'.
+
+602H 123V 41413965X 58.86% 1416C T:20 Exits:NESW> 
+

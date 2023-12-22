@@ -1,0 +1,19 @@
+Logging started: 21.12.2023 22:13
+browse rapier
+You browse through the merchandise and notice:
+The rapier's metallic surface is shiny and new. (100%)
+A splendid well-balanced rapier is of fair quality.
+You feel informed:
+ Object 'rapier splendid well balanced'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 7            Value   : 215
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Class    : rapier
+ Damage   : 3D3
+A splendid well-balanced rapier requires knowledge of the skill 'long blades'.
+
+602H 132V 41534247X 58.86% 653C T:56 Exits:NES> 
+

@@ -1,0 +1,16 @@
+Logging started: 21.12.2023 22:14
+browse battle.gauntlets
+You browse through the merchandise and notice:
+The gauntlets appears rough and in perfect condition. (99%)
+You feel informed:
+ Object 'gauntlets enchanted battle elven pair'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 1            Value   : 125
+
+ Affects  : DAMROLL       by 2
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A pair of enchanted elven battle gauntlets is wearable: hands.
+
+602H 132V 41534247X 58.86% 653C T:50 Exits:NES> 
+

@@ -1,0 +1,21 @@
+Logging started: 22.12.2023 14:09
+browse razor.sharp
+You browse through the merchandise and notice:
+The longsword's metallic surface is shiny and new. (99%)
+A razor sharp longsword, inscribed with runes is of good quality.
+You feel informed:
+ Object 'longsword sword sharp razor'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 16           Value   : 650
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_DISINTEGRATION IMMUNE_ELECTRICITY IMMUNE_GAS IMMUNE_HEAT
+ Class    : long_sword
+ Damage   : 3D5
+A razor sharp longsword, inscribed with runes requires knowledge of the skill 'long blades'.
+
+520H 114V 32311593X 94.57% 627C T:7 Exits:NESW> 
+

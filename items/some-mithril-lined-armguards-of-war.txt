@@ -1,0 +1,23 @@
+Logging started: 21.12.2023 22:15
+browse mithril
+You browse through the merchandise and notice:
+The armguards's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'armguards mithril lined war'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 6            Value   : 425
+
+ Affects  : RESIST_ELECTR by 11
+ Affects  : SAVING_SPELL  by -1
+ Effects  : DETECT_POISON
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+Some mithril lined armguards of war is wearable: arms.
+
+602H 132V 41534247X 58.86% 653C T:23 Exits:NES> 
+
+A Solace citizen leaves north.
+
+602H 132V 41534247X 58.86% 653C T:23 Exits:NES> 
+

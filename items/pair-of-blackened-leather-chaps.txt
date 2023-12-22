@@ -1,0 +1,17 @@
+Logging started: 22.12.2023 14:10
+browse blackened.chaps
+You browse through the merchandise and notice:
+The chaps appears very tough and in perfect condition. (96%)
+You feel informed:
+ Object 'chaps leather blackened'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rigid_leather
+ Weight   : 20           Value   : 600
+
+ Affects  : RESIST_HEAT   by 16
+ Affects  : DEX           by 1
+ Apply    : 0
+A pair of blackened leather chaps is wearable: legs.
+
+551H 132V 32311593X 94.57% 627C T:12 Exits:NESW> 
+

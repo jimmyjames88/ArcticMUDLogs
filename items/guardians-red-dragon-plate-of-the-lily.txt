@@ -1,0 +1,22 @@
+Logging started: 21.12.2023 22:13
+
+A street illusionist arrives from the east.
+
+602H 132V 41534247X 58.86% 653C T:23 Exits:NES> 
+
+browse red.dragon
+You browse through the merchandise and notice:
+The plate's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'plate guardian's red dragon lily'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 340
+
+ Affects  : score criticals by 1.2%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+A guardian's red dragon plate of the Lily is wearable: body.
+
+602H 132V 41534247X 58.86% 653C T:22 Exits:NES> 
+

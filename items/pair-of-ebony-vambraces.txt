@@ -1,0 +1,16 @@
+Logging started: 21.12.2023 19:46
+browse ebony.vambraces
+You browse through the merchandise and notice:
+The hard wooden surface of the vambraces is in perfect condition. (100%)
+You feel informed:
+ Object 'vambraces vambrace ebony'
+ Item Type: ARMOR       
+ Mat Class: wood         Material: rosewood
+ Weight   : 11           Value   : 230
+
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+A pair of ebony vambraces is wearable: arms.
+
+584H 132V 5512547X 42.71% 444C T:37 Exits:NES> 
+

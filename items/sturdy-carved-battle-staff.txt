@@ -1,0 +1,21 @@
+Logging started: 22.12.2023 12:45
+browse carved.staff
+You browse through the merchandise and notice:
+The hard wooden surface of the staff is in perfect condition. (100%)
+A sturdy carved battle staff is of fair quality.
+You feel informed:
+ Object 'staff sturdy carved battle'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: blackenwood
+ Weight   : 10           Value   : 215
+
+ Affects  : casting level by 1
+ Effects  : DETECT_POISON
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 3D4
+A sturdy carved battle staff requires knowledge of the skill 'bludgeons'.
+
+602H 132V 41413965X 58.86% 1416C T:30 Exits:NESW> 
+

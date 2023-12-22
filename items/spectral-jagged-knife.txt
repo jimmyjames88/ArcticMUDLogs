@@ -1,0 +1,23 @@
+Logging started: 22.12.2023 13:21
+browse spectral.knife
+You browse through the merchandise and notice:
+The knife's metallic surface shines brilliantly. (100%)
+A spectral jagged knife is of superb quality.
+You feel informed:
+ Object 'knife spectral jagged'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 14           Value   : 500
+
+ Affects  : HITROLL       by 1
+ Affects  : casting level by 3
+ Affects  : HEALTH        by 10
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 5D3
+A spectral jagged knife requires knowledge of the skill 'short blades'.
+
+427H 132V 32311593X 94.57% 653C Mem:1 T:60 Exits:NESW> 
+
