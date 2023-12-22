@@ -1,0 +1,14 @@
+The surface of the ring is shiny and glitters golden. (96%)
+You feel informed:
+ Object 'ring white gold shadow'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 100
+
+ Affects  : RESIST_COLD   by 3
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC
+A white gold ring is wearable: finger.
+
+602H 132V 32304915X 94.57% 736C T:14 Exits:NES> 
+

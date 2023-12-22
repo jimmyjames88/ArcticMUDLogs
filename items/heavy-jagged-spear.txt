@@ -1,0 +1,20 @@
+Logging started: 22.12.2023 16:11
+browse jagged.spear
+You browse through the merchandise and notice:
+The surface of the spear gleams brightly. (100%)
+A heavy jagged spear is of very good quality.
+You feel informed:
+ Object 'spear heavy jagged'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 16           Value   : 420
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+A heavy jagged spear requires knowledge of the skill 'piercers'.
+
+602H 132V 32304915X 94.57% 736C T:41 Exits:NES> 
+

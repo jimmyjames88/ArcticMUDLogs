@@ -1,0 +1,31 @@
+Logging started: 22.12.2023 16:10
+
+Maniatis stops using a pair of scorched steel rerebraces.
+
+602H 132V 32304915X 94.57% 520C T:60 Exits:NES> 
+
+
+A Solace citizen arrives from the north.
+
+602H 132V 32304915X 94.57% 520C T:59 Exits:NES> 
+
+rec lore platinum.lance
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'lance etched platinum'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 24           Value   : 240
+
+ Affects  : DAMROLL       by 1
+ Affects  : RESIST_ELECTR by -20
+ Affects  : skill strike        by +5
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : lance
+ Damage   : 3D6
+
+602H 132V 32304915X 94.57% 520C T:58 Exits:NES> 
+

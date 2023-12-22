@@ -1,0 +1,15 @@
+Logging started: 22.12.2023 16:09
+browse pigmy.rock
+You browse through the merchandise and notice:
+The stone surface of the rock is flawless. (100%)
+You feel informed:
+ Object 'rock speak-rock pigmy brown fossilized lump'
+ Item Type: OTHER       
+ Mat Class: natural      Material: stone
+ Weight   : 5            Value   : 200
+
+ Affects  : CONCENTRATION by 10
+ Affects  : skill punch         by +7
+
+602H 132V 32304915X 94.57% 64C T:46 Exits:NES> 
+

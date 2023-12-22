@@ -1,0 +1,17 @@
+Logging started: 22.12.2023 16:43
+rec lore mithril.axe
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'battleaxe axe heavy mithril ironwood'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 30           Value   : 200
+
+ Affects  : HITROLL       by -2
+ Affects  : DAMROLL       by 3
+ Class    : battle_axe
+ Damage   : 2D11
+
+602H 89V 32099365X 94.57% 1596C T:36 Exits:ESW> 
+

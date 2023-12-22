@@ -1,0 +1,17 @@
+Logging started: 22.12.2023 16:44
+rec lore sharp.blade
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'blade sharp silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 5            Value   : 250
+
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC
+ Class    : short_sword
+ Damage   : 4D3
+
+602H 98V 32099365X 94.57% 1526C T:41 Exits:ESW> 
+
