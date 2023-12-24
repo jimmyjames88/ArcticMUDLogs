@@ -1,0 +1,19 @@
+Logging started: 24.12.2023 00:30
+browse saber
+You browse through the merchandise and notice:
+The saber is in pristine condition. (99%)
+A light glassteel saber is of good quality.
+You feel informed:
+ Object 'saber light glassteel'
+ Item Type: WEAPON      
+ Mat Class: crystal      Material: glass
+ Weight   : 7            Value   : 200
+
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : sabre
+ Damage   : 2D8
+An elegant weapon from a more civilized age.A light glassteel saber requires knowledge of the skill 'long blades'.
+
+607H 132V 13693551X 0.00% 611C T:10 Exits:NESW> 
+

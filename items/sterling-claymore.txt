@@ -1,0 +1,20 @@
+Logging started: 23.12.2023 21:36
+browse claymore
+You browse through the merchandise and notice:
+The claymore's metallic surface is shiny and new. (99%)
+A sterling claymore is of excellent quality.
+You feel informed:
+ Object 'claymore sterling sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 26           Value   : 700
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : claymore
+ Damage   : 2D10
+A sterling claymore requires knowledge of the skill 'two-handed'.
+
+607H 90V 18673043X 59.87% 2947C T:50 Exits:NESW> 
+

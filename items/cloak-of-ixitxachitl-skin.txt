@@ -1,0 +1,17 @@
+Logging started: 24.12.2023 15:01
+rec lore skin.cloak
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cloak ixitxachitl skin black ray'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 150
+
+ Affects  : ARMOR         by -5
+ Affects  : RESIST_NEGATI by 15
+ Effects  : DETECT_UNDEAD
+ Item is  : MAGIC
+
+609H 127V 6720751X 63.90% 563C T:53 Exits:NESW> 
+

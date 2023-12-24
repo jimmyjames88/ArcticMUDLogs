@@ -1,0 +1,17 @@
+Logging started: 24.12.2023 13:29
+brow elegant.rapier
+You browse through the merchandise and notice:
+The rapier's metallic surface is shiny and new. (100%)
+An elegant slender rapier is of very good quality.
+You feel informed:
+ Object 'rapier elegant slender'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 9            Value   : 380
+
+ Class    : rapier
+ Damage   : 4D3
+An elegant slender rapier requires knowledge of the skill 'long blades'.
+
+607H 132V 13693551X 0.00% 355C T:5 Exits:NESW> 
+

@@ -1,0 +1,22 @@
+Logging started: 24.12.2023 13:25
+browse charred
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A charred serrated black knife is of fair quality.
+You feel informed:
+ Object 'knife charred serrated black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 10           Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 3
+ Affects  : casting level by 1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 3D4
+A charred serrated black knife requires knowledge of the skill 'short blades'.
+
+607H 132V 13693551X 0.00% 355C T:30 Exits:NESW> 
+

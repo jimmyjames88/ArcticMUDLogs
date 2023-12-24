@@ -1,0 +1,18 @@
+Logging started: 24.12.2023 00:32
+browse komodo
+You browse through the merchandise and notice:
+The boots appears rough and in perfect condition. (99%)
+You feel informed:
+ Object 'boots komodo hide skin dragon'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 400
+
+ Affects  : DEX           by 1
+ Affects  : ARMOR         by -8
+ Effects  : SNEAK
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+Some komodo skin boots is wearable: feet.
+
+600H 130V 13693551X 0.00% 611C T:56 Exits:NESW> 
+

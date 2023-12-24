@@ -1,0 +1,17 @@
+Logging started: 24.12.2023 14:52
+rec lore eye.bracer
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'bracer gleaming basilisk eye'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 245
+
+ Affects  : ARMOR         by -3
+ Affects  : HIT           by 2
+ Effects  : INVISIBLE
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+599H 132V 6720751X 63.90% 2642C T:54 Exits:NESW> 
+

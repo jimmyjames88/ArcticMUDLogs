@@ -17,3 +17,20 @@ A splendid well-balanced rapier requires knowledge of the skill 'long blades'.
 
 602H 132V 41534247X 58.86% 653C T:56 Exits:NES> 
 
+Logging started: 24.12.2023 13:28
+browse splendid
+You browse through the merchandise and notice:
+The rapier's metallic surface is shiny and new. (100%)
+A splendid well-balanced rapier is of fair quality.
+You feel informed:
+ Object 'rapier splendid well balanced'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 9            Value   : 245
+
+ Class    : rapier
+ Damage   : 2D5
+A splendid well-balanced rapier requires knowledge of the skill 'long blades'.
+
+607H 132V 13693551X 0.00% 355C T:33 Exits:NESW> 
+

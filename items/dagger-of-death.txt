@@ -1,0 +1,20 @@
+Logging started: 23.12.2023 23:49
+browse dagger.death
+You browse through the merchandise and notice:
+The dagger's metallic surface is shiny and new. (100%)
+A dagger of death is of poor quality.
+You feel informed:
+ Object 'dagger black death'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 300
+
+ Affects  : skill backstab      by +3
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : dagger
+ Damage   : 2D7
+A dagger of death requires knowledge of the skill 'short blades'.
+
+607H 128V 15701525X 65.33% 72C T:31 Exits:NESW> 
+

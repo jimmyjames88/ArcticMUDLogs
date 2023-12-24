@@ -1,0 +1,26 @@
+Logging started: 23.12.2023 21:37
+browse crude.blade
+You browse through the merchandise and notice:
+The blade is quite beautiful and pristine. (100%)
+A crude black crystal blade is of superb quality.
+You feel informed:
+ Object 'blade crystal black crude sword thick'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 22           Value   : 1200
+
+ Affects  : HITROLL       by -3
+ Affects  : DAMROLL       by 3
+ Item is  : HUM MAGIC BLESS ANTI_GOOD NORENT HOT
+ Immune   : IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Class    : bastard_sword
+ Damage   : 4D5
+A crude black crystal blade requires knowledge of the skill 'two-handed'.
+
+607H 90V 18673043X 59.87% 2947C T:1 Exits:NESW> 
+
+
+You feel less righteous.
+
+607H 114V 18673043X 59.87% 2947C T:60 Exits:NESW> 
+

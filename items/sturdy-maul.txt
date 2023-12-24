@@ -1,0 +1,24 @@
+Logging started: 24.12.2023 00:33
+browse maul
+You browse through the merchandise and notice:
+The maul's metallic surface is shiny and new. (100%)
+A sturdy maul is of good quality.
+You feel informed:
+ Object 'maul sturdy'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 12           Value   : 110
+
+ Affects  : HITROLL       by 2
+ Item is  : GLOW
+ Class    : mace
+ Damage   : 4D4
+A sturdy maul requires knowledge of the skill 'bludgeons'.
+
+600H 130V 13693551X 0.00% 611C T:24 Exits:NESW> 
+
+pg
+Huh?!
+
+600H 130V 13693551X 0.00% 611C T:22 Exits:NESW> 
+

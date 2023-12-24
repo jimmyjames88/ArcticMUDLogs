@@ -1,0 +1,17 @@
+Logging started: 23.12.2023 23:53
+browse ceremonial.bone
+You browse through the merchandise and notice:
+The armbands appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'armbands arm bands ceremonial bone'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 250
+
+ Affects  : DAMROLL       by -1
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+Some ceremonial bone armbands is wearable: arms.
+
+607H 132V 15701525X 65.33% 907C T:19 Exits:NESW> 
+

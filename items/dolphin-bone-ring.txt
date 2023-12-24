@@ -1,0 +1,23 @@
+Logging started: 24.12.2023 15:02
+
+Lord Calof arrives from the east.
+A bodyguard arrives from the east.
+A bodyguard arrives from the east.
+A bodyguard arrives from the east.
+
+609H 124V 6720751X 63.90% 63C T:21 Exits:NESW> 
+
+rec lore dolphin.ring
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring dolphin bone white'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 2            Value   : 200
+
+ Affects  : ARMOR         by -4
+ Item is  : MAGIC
+
+609H 124V 6720751X 63.90% 63C T:20 Exits:NESW> 
+

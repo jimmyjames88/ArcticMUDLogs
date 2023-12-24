@@ -1,0 +1,18 @@
+Logging started: 24.12.2023 00:32
+browse tangled
+You browse through the merchandise and notice:
+The tails looks healthy. (100%)
+You feel informed:
+ Object 'tails rats heap tangled tangle'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 4            Value   : 120
+
+ Affects  : CHA           by 1
+ Affects  : healing received by  2%
+ Effects  : IMMUNE_DISEASE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A tangled heap of rats tails is wearable: wrist.
+
+600H 130V 13693551X 0.00% 611C T:5 Exits:NESW> 
+

@@ -1,0 +1,18 @@
+Logging started: 24.12.2023 13:28
+browse suit.battle
+You browse through the merchandise and notice:
+The armor's metallic surface is bright and shiny. (99%)
+You feel informed:
+ Object 'armor armour suit battle'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 30           Value   : 250
+
+ Affects  : HIT           by 10
+ Affects  : healing received by  2%
+ Item is  : GLOW MAGIC
+ Apply    : 8
+A suit of battle armor is wearable: body.
+
+607H 132V 13693551X 0.00% 355C T:9 Exits:NESW> 
+

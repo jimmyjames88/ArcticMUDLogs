@@ -1,0 +1,18 @@
+Logging started: 24.12.2023 15:23
+browse beast.scale
+You browse through the merchandise and notice:
+The harness's scaly surface is in fine shape. (96%)
+You feel informed:
+ Object 'harness beast scale butchery'
+ Item Type: WORN        
+ Mat Class: scale        Material: dragonscale
+ Weight   : 4            Value   : 550
+
+ Affects  : HITROLL       by 1
+ Affects  : ARMOR         by -2
+ Effects  : RECUPERATE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A beast scale harness of butchery is wearable: about.
+
+609H 128V 6720751X 63.90% 281C T:52 Exits:NESW> 
+

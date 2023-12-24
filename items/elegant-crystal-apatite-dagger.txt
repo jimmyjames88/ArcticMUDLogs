@@ -1,0 +1,21 @@
+Logging started: 24.12.2023 13:29
+browse crystal.dagger
+You browse through the merchandise and notice:
+The dagger is quite beautiful and pristine. (99%)
+An elegant crystal apatite dagger is of good quality.
+You feel informed:
+ Object 'dagger crystal apatite elegant'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 8            Value   : 600
+
+ Affects  : DEX           by 2
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ELECTRICITY
+ Class    : dagger
+ Damage   : 2D8
+An elegant crystal apatite dagger requires knowledge of the skill 'short blades'.
+
+607H 132V 13693551X 0.00% 355C T:29 Exits:NESW> 
+

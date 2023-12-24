@@ -1,0 +1,17 @@
+Logging started: 24.12.2023 13:26
+browse green.cloak
+You browse through the merchandise and notice:
+The cloak's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'cloak green mastery'
+ Item Type: WORN        
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 7            Value   : 420
+
+ Affects  : MOVE          by 18
+ Effects  : IS_FLYING
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A green cloak of mastery is wearable: about.
+
+607H 132V 13693551X 0.00% 355C T:53 Exits:NESW> 
+

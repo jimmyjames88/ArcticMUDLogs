@@ -1,0 +1,21 @@
+Logging started: 24.12.2023 00:34
+browse dragon.shirt
+You browse through the merchandise and notice:
+The shirt's scaly surface is in fine shape. (99%)
+You feel informed:
+ Object 'shirt dragon scales'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 9            Value   : 500
+
+ Affects  : RESIST_HEAT   by 7
+ Apply    : 7
+A shirt of dragon scales is wearable: body.
+
+607H 132V 13693551X 0.00% 611C T:53 Exits:NESW> 
+
+
+A Kalaman cityguard leaves west.
+
+607H 132V 13693551X 0.00% 611C T:53 Exits:NESW> 
+

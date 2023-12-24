@@ -1,0 +1,18 @@
+Logging started: 24.12.2023 13:30
+browse runed.bangle
+You browse through the merchandise and notice:
+The surface of the bangle is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'bangle ice cold obsidian runed'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 380
+
+ Affects  : HP_REGEN      by 2
+ Affects  : regeneration by  1%
+ Effects  : SLEEP_AWARENESS
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An ice cold obsidian runed bangle is wearable: wrist.
+
+607H 132V 13693551X 0.00% 355C T:41 Exits:NESW> 
+

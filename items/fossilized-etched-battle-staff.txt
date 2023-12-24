@@ -1,0 +1,23 @@
+Logging started: 23.12.2023 23:50
+browse fossilized
+You browse through the merchandise and notice:
+The surface of the staff gleams brightly. (100%)
+A fossilized etched battle staff is of very good quality.
+You feel informed:
+ Object 'staff fossilized etched battle'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 10           Value   : 420
+
+ Affects  : HITROLL       by 1
+ Affects  : casting level by 2
+ Affects  : spell slots   by +1 at level 5
+ Effects  : DETECT_POISON
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 2D8
+A fossilized etched battle staff requires knowledge of the skill 'bludgeons'.
+
+607H 132V 15701525X 65.33% 72C T:34 Exits:NESW> 
+
