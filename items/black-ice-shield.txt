@@ -1,0 +1,24 @@
+Logging started: 22.12.2023 23:44
+
+A feral cat runs in circles chasing its tail.
+
+598H 58V 34630847X 96.57% 2998C T:24 Exits:NESW> 
+
+rec lore ice.shield
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield black ice'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: ice
+ Weight   : 16           Value   : 200
+
+ Affects  : RESIST_COLD   by 16
+ Item is  : GLOW
+ Restricts: NOMAGE NOTHIEF NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_COLD
+ Apply    : 8
+
+598H 58V 34630847X 96.57% 2998C T:20 Exits:NESW> 
+

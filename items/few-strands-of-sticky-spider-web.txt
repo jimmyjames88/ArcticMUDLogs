@@ -1,0 +1,16 @@
+Logging started: 23.12.2023 13:33
+rec lore web
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'web spider sticky strands strand enchantment component'
+ Item Type: SPELL_COMPONENT
+ Mat Class: natural      Material: organic
+ Weight   : 0            Value   : 12
+
+ Item is  : SELF_DESTRUCT BLESS NODROP
+A skeletal spider spins a magic web, entrapping the power of
+death within.
+
+600H 127V 26463891X 49.60% 221C T:41 Exits:NESW> 
+

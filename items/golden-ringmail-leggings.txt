@@ -1,0 +1,27 @@
+Logging started: 23.12.2023 16:31
+
+A drunken sailor arrives from the east.
+
+607H 132V 26463891X 49.60% 927C T:11 Exits:NESW> 
+
+
+A watchman of Port Balifor leaves east.
+
+607H 132V 26463891X 49.60% 927C T:6 Exits:NESW> 
+
+browse golden.leggings
+You browse through the merchandise and notice:
+The surface of the leggings is shiny and glitters golden. (99%)
+You feel informed:
+ Object 'leggings gold golden ringmail'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 5            Value   : 160
+
+ Affects  : SAVING_BREATH by -1
+ Affects  : MOVE          by 8
+ Restricts: NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+Some golden ringmail leggings is wearable: legs.
+
+607H 132V 26463891X 49.60% 927C T:5 Exits:NESW> 
+

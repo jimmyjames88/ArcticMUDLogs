@@ -1,0 +1,23 @@
+Logging started: 23.12.2023 15:11
+
+A watchman of Port Balifor leaves east.
+
+600H 132V 26463891X 49.60% 1604C T:42 Exits:NESW> 
+
+browse charm
+You browse through the merchandise and notice:
+The surface of the charm gleams brightly. (100%)
+You feel informed:
+ Object 'charm burnished aquamarine'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 275
+
+ Affects  : RESIST_ACID   by 5
+ Affects  : healing received by  3%
+ Effects  : DETECT_UNDEAD
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A burnished aquamarine charm is wearable: neck.
+
+600H 132V 26463891X 49.60% 1604C T:42 Exits:NESW> 
+

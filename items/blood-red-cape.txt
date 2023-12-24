@@ -1,7 +1,5 @@
-Logging started: 22.12.2023 13:23
-browse blood.cape
-You browse through the merchandise and notice:
-The cape appears to be brand new. (99%)
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
 You feel informed:
  Object 'cape red blood'
  Item Type: WORN        
@@ -11,7 +9,4 @@ You feel informed:
  Affects  : HIT           by 8
  Affects  : RESIST_HEAT   by 6
  Item is  : GLOW MAGIC
-A blood red cape is wearable: neck.
-
-458H 132V 32311593X 94.57% 653C T:26 Exits:NESW> 
 

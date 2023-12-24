@@ -1,0 +1,18 @@
+Logging started: 22.12.2023 23:28
+browse orb
+You browse through the merchandise and notice:
+The stone surface of the orb is flawless. (100%)
+You feel informed:
+ Object 'orb granite black'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 3            Value   : 400
+
+ Affects  : RESIST_MAGIC  by -15
+ Affects  : casting level by 3
+ Item is  : HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+A black granite orb is wearable: hold.
+
+592H 127V 35430065X 94.57% 2239C T:6 Exits:NES> 
+

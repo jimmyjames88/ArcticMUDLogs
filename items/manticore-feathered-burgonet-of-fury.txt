@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 12:36
+browse manticore
+You browse through the merchandise and notice:
+The burgonet's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'burgonet manticore feathered fury'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 8            Value   : 360
+
+ Affects  : SAVING_SPELL  by -2
+ Affects  : ARMOR         by -7
+ Effects  : WATERBREATH
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+A manticore-feathered burgonet of fury is wearable: head.
+
+600H 132V 34630847X 96.57% 746C T:17 Exits:NESW> 
+

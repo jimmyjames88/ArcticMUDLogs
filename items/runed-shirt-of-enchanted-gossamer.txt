@@ -1,0 +1,23 @@
+Logging started: 22.12.2023 23:28
+
+A Solace peacekeeper arrives from the east.
+
+592H 127V 35430065X 94.57% 2239C T:28 Exits:NES> 
+
+browse runed
+You browse through the merchandise and notice:
+The shirt is delicate and brand new. (100%)
+You feel informed:
+ Object 'shirt runed gossamer enchanted'
+ Item Type: WORN        
+ Mat Class: cloth        Material: gossamer
+ Weight   : 3            Value   : 525
+
+ Affects  : casting level by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+ This object is part of a larger set.
+A runed shirt of enchanted gossamer is wearable: body.
+
+592H 127V 35430065X 94.57% 2239C T:27 Exits:NES> 
+

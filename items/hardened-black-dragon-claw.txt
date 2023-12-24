@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 16:29
+browse dragon.claw
+You browse through the merchandise and notice:
+The claw appears to be in perfect condition. (100%)
+A hardened black dragon claw is of fair quality.
+You feel informed:
+ Object 'claw hardened black dragon'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: tooth
+ Weight   : 8            Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Class    : claw
+ Damage   : 2D5
+A hardened black dragon claw requires knowledge of the skill 'miscellaneous'.
+
+607H 132V 26463891X 49.60% 927C T:13 Exits:NESW> 
+

@@ -1,0 +1,24 @@
+Logging started: 23.12.2023 15:16
+
+A watchman of Port Balifor leaves west.
+
+607H 132V 26463891X 49.60% 944C T:23 Exits:NESW> 
+
+browse cube
+You browse through the merchandise and notice:
+The something's metallic surface shines brilliantly. (99%)
+You feel informed:
+ Object 'cube mithril silvery small'
+ Item Type: WORN        
+ Mat Class: metal        Material: mithril
+ Weight   : 4            Value   : 200
+
+ Affects  : INT           by -1
+ Affects  : HIT           by -5
+ Affects  : casting level by 2
+ Effects  : INVISIBLE DETECT_INVISIBLE
+ Item is  : INVISIBLE MAGIC BLESS
+Something is wearable: hold.
+
+607H 132V 26463891X 49.60% 944C T:21 Exits:NESW> 
+

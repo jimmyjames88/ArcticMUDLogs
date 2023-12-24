@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 17:58
+browse verdant.gauntlets
+You browse through the merchandise and notice:
+The gauntlets's scaly surface is in fine shape. (96%)
+You feel informed:
+ Object 'gauntlets verdant striking'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 5            Value   : 500
+
+ Affects  : resist criticals by 1.9%
+ Affects  : RESIST_HEAT   by 6
+ Effects  : SLEEP_AWARENESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+Some verdant gauntlets of striking is wearable: hands.
+
+597H 132V 25668641X 53.07% 185C T:50 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 15:11
+browse green.wrist
+You browse through the merchandise and notice:
+The wristband's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'wristband green band wrist dragonscale dragon scale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 6            Value   : 600
+
+ Affects  : ARMOR         by -4
+ Affects  : HIT           by 7
+ Item is  : MAGIC
+ Apply    : 4
+ This object is part of a larger set.
+A green dragonscale wrist band is wearable: wrist.
+
+600H 132V 26463891X 49.60% 1604C T:56 Exits:NESW> 
+

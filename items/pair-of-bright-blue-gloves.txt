@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 18:28
+browse blue.gloves
+You browse through the merchandise and notice:
+The gloves appears to be soft and brand new. (98%)
+You feel informed:
+ Object 'gloves blue'
+ Item Type: WORN        
+ Mat Class: cloth        Material: silk
+ Weight   : 2            Value   : 2000
+
+ Affects  : spell slots   by +1 at level 5
+ Affects  : regeneration by  5%
+ Affects  : casting level by 1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+A pair of bright blue gloves is wearable: hands.
+
+605H 132V 21994533X 58.80% 1950C T:21 Exits:NESW> 
+

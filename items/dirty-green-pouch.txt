@@ -1,0 +1,15 @@
+Logging started: 23.12.2023 12:40
+rec lore green.pouch
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pouch dirty green'
+ Item Type: CONTAINER   
+ Mat Class: cloth        Material: wool
+ Weight   : 3            Value   : 100
+
+ Affects  : ARMOR         by -7
+ Item is  : BLESS
+
+600H 132V 34630847X 96.57% 361C T:49 Exits:NESW> 
+

@@ -1,0 +1,17 @@
+Logging started: 23.12.2023 15:12
+browse rooster
+You browse through the merchandise and notice:
+The claw is quite beautiful and pristine. (100%)
+A jagged rooster claw is of very good quality.
+You feel informed:
+ Object 'claw jagged rooster'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 9            Value   : 420
+
+ Class    : claw
+ Damage   : 4D3
+A jagged rooster claw requires knowledge of the skill 'miscellaneous'.
+
+600H 132V 26463891X 49.60% 1604C T:37 Exits:NESW> 
+

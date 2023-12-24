@@ -1,0 +1,28 @@
+Logging started: 22.12.2023 23:27
+
+A Solace peacekeeper arrives from the east.
+
+592H 132V 35430065X 94.57% 3069C T:34 Exits:NES> 
+
+rec lore shining.plate
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shining silver plate'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: silver
+ Weight   : 14           Value   : 200
+
+ Affects  : STR           by 1
+ Affects  : ARMOR         by -5
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOBARBARIAN NOSHAMAN
+ Apply    : 6
+
+592H 132V 35430065X 94.57% 3069C T:33 Exits:NES> 
+
+
+The janitor arrives from the east.
+
+592H 132V 35430065X 94.57% 3069C T:32 Exits:NES> 
+

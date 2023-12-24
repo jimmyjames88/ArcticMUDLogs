@@ -1,0 +1,19 @@
+Logging started: 22.12.2023 16:47
+browse arcana
+You browse through the merchandise and notice:
+The shroud appears to be brand new. (100%)
+You feel informed:
+ Object 'shroud enchanted arcana'
+ Item Type: WORN        
+ Mat Class: hide         Material: pelt
+ Weight   : 4            Value   : 200
+
+ Affects  : MEM_FACTOR    by 4
+ Affects  : MOVE_REGEN    by 1
+ Affects  : casting level by 2
+ Effects  : SENSE_LIFE
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+An enchanted shroud of arcana is wearable: about.
+
+602H 132V 32099365X 94.57% 1873C T:48 Exits:NES> 
+

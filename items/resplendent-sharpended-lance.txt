@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 13:36
+browse lance
+You browse through the merchandise and notice:
+The lance's metallic surface is shiny and new. (100%)
+A resplendent sharpened lance is of superb quality.
+You feel informed:
+ Object 'lance resplendent sharpened'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 48           Value   : 500
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : lance
+ Damage   : 5D6
+A resplendent sharpened lance requires knowledge of the skill 'pole arms'.
+
+600H 132V 26463891X 49.60% 1431C T:54 Exits:NESW> 
+

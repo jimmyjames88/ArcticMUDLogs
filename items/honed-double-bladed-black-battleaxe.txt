@@ -1,0 +1,25 @@
+Logging started: 23.12.2023 12:38
+
+A feral cat runs in circles chasing its tail.
+
+600H 132V 34630847X 96.57% 746C T:52 Exits:NESW> 
+
+browse honed
+You browse through the merchandise and notice:
+The battleaxe's metallic surface is shiny and new. (100%)
+A honed double-bladed black battleaxe is of fair quality.
+You feel informed:
+ Object 'battleaxe honed double bladed black battle axe'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 34           Value   : 245
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : battle_axe
+ Damage   : 4D5
+A honed double-bladed black battleaxe requires knowledge of the skill 'axes'.
+
+600H 132V 34630847X 96.57% 746C T:50 Exits:NESW> 
+

@@ -1,0 +1,25 @@
+Logging started: 23.12.2023 17:59
+
+A watchman of Port Balifor arrives from the west.
+
+607H 131V 25668641X 53.07% 190C T:28 Exits:NESW> 
+
+rec lore brass.leggings
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'leggings brass dragon scale dragonscale'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 18           Value   : 600
+
+ Affects  : ARMOR         by -10
+ Affects  : STR           by 1
+ Item is  : MAGIC ANTI_EVIL
+ Immune   : IMMUNE_HEAT
+ Apply    : 10
+ This object is part of a larger set.
+
+607H 131V 25668641X 53.07% 190C T:22 Exits:NESW> 
+

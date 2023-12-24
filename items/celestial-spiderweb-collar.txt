@@ -1,0 +1,18 @@
+Logging started: 23.12.2023 18:27
+browse celestial
+You browse through the merchandise and notice:
+The surface of the collar is shiny and glitters golden. (99%)
+You feel informed:
+ Object 'collar celestial spiderweb'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 340
+
+ Affects  : healing done by  2%
+ Affects  : HIT           by 2
+ Effects  : PROTECT_UNDEAD
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A celestial spiderweb collar is wearable: neck.
+
+574H 130V 21994533X 58.80% 1950C Mem:1 T:19 Exits:NESW> 
+

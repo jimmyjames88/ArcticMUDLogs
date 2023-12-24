@@ -1,0 +1,23 @@
+Logging started: 23.12.2023 15:12
+
+Kirn leaves west.
+
+600H 132V 26463891X 49.60% 1604C T:9 Exits:NESW> 
+
+browse suede.gloves
+You browse through the merchandise and notice:
+The gloves appears oiled and in perfect condition. (99%)
+You feel informed:
+ Object 'gloves black suede soft pair leather'
+ Item Type: WORN        
+ Mat Class: leather      Material: fine_leather
+ Weight   : 2            Value   : 65
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Affects  : skill disable       by +5
+ Item is  : MAGIC
+A pair of black suede gloves is wearable: hands.
+
+600H 132V 26463891X 49.60% 1604C T:6 Exits:NESW> 
+

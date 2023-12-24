@@ -1,0 +1,22 @@
+Logging started: 22.12.2023 17:43
+
+A long-tailed ground dove stretches its wings and flies north.
+
+602H 132V 32099365X 94.57% 1847C T:40 Exits:NES> 
+
+browse lynx
+You browse through the merchandise and notice:
+The sheath's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'sheath lynx skin swiftness'
+ Item Type: CONTAINER   
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 3            Value   : 420
+
+ Affects  : MOVE_REGEN    by 8
+ Effects  : HIDE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+sheath (here) : 
+
+602H 132V 32099365X 94.57% 1847C T:40 Exits:NES> 
+

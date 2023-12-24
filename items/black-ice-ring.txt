@@ -1,0 +1,20 @@
+Logging started: 22.12.2023 17:44
+
+The janitor leaves south.
+
+602H 132V 32099365X 94.57% 1847C T:38 Exits:NES> 
+
+browse ice.ring
+You browse through the merchandise and notice:
+The ring appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'ring black ice water walking'
+ Item Type: BOAT        
+ Mat Class: natural      Material: ice
+ Weight   : 1            Value   : 100
+
+ Effects  : WATERBREATH
+ Item is  : MAGIC
+
+602H 132V 32099365X 94.57% 1847C T:37 Exits:NES> 
+

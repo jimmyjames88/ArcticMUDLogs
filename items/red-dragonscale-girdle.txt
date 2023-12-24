@@ -1,0 +1,16 @@
+Logging started: 22.12.2023 16:48
+browse girdle
+You browse through the merchandise and notice:
+The girdle's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'girdle red dragonscale hide'
+ Item Type: CONTAINER   
+ Mat Class: scale        Material: dragonscale
+ Weight   : 5            Value   : 300
+
+ Affects  : RESIST_HEAT   by 20
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_HEAT
+You sense that this item was created by Boras Trueforge.girdle (here) : 
+
+602H 132V 32099365X 94.57% 1873C T:58 Exits:NES> 
+

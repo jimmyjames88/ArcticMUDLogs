@@ -1,0 +1,19 @@
+Logging started: 23.12.2023 15:13
+browse skirmish
+You browse through the merchandise and notice:
+The leggings's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'leggings scored skirmish'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 6            Value   : 150
+
+ Affects  : healing received by  2%
+ Affects  : CON           by 1
+ Affects  : Experience gained by  1%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+Some scored leggings of skirmish is wearable: legs.
+
+600H 132V 26463891X 49.60% 1604C T:17 Exits:NESW> 
+

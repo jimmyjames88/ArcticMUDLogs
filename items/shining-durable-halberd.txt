@@ -1,0 +1,19 @@
+Logging started: 22.12.2023 17:43
+browse durable
+You browse through the merchandise and notice:
+The halberd's metallic surface is shiny and new. (100%)
+A shining durable halberd is of fair quality.
+You feel informed:
+ Object 'halberd shining durable'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 14           Value   : 245
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : halberd
+ Damage   : 3D5
+A shining durable halberd requires knowledge of the skill 'pole arms'.
+
+592H 126V 32099365X 94.57% 1847C T:6 Exits:NES> 
+

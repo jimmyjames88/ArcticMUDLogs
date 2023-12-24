@@ -1,0 +1,22 @@
+Logging started: 23.12.2023 12:39
+
+The radiance surrounding you fades away.
+
+600H 132V 34630847X 96.57% 746C T:60 Exits:NESW> 
+
+browse sabre
+You browse through the merchandise and notice:
+The sabre's metallic surface shines brilliantly. (99%)
+The ancient sabre of solamnic steel is of good quality.
+You feel informed:
+ Object 'sabre ancient solamnic steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 10           Value   : 400
+
+ Class    : sabre
+ Damage   : 3D4
+The ancient sabre of solamnic steel requires knowledge of the skill 'long blades'.
+
+600H 132V 34630847X 96.57% 746C T:60 Exits:NESW> 
+

@@ -1,0 +1,26 @@
+Logging started: 22.12.2023 23:45
+
+A watchman of Port Balifor leaves east.
+
+600H 72V 34630847X 96.57% 2723C T:11 Exits:NESW> 
+
+rec lore diamond.shield
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield diamond'
+ Item Type: ARMOR       
+ Mat Class: crystal      Material: diamond
+ Weight   : 18           Value   : 300
+
+ Affects  : SAVING_SPELL  by -1
+ Affects  : RESIST_MAGIC  by 5
+ Item is  : GLOW BLESS
+ Apply    : 5
+
+600H 72V 34630847X 96.57% 2723C T:5 Exits:NESW> 
+
+A watchman of Port Balifor arrives from the west.
+
+600H 72V 34630847X 96.57% 2723C T:4 Exits:NESW> 
+

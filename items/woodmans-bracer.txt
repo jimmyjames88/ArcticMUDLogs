@@ -1,0 +1,18 @@
+Logging started: 23.12.2023 12:37
+browse bracer
+You browse through the merchandise and notice:
+The bracer's metallic surface is shiny and new. (100%)
+
+The bracer is stiff and in perfect condition. (98%)
+You feel informed:
+ Object 'bracer woodsman's woodsmans woodsman'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 2            Value   : 300
+
+ Apply    : 4
+ This object is part of a larger set.
+A woodsman's bracer is wearable: wrist.
+
+600H 132V 34630847X 96.57% 746C T:3 Exits:NESW> 
+

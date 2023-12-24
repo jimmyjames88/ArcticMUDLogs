@@ -1,0 +1,20 @@
+Logging started: 23.12.2023 17:54
+browse onyx
+You browse through the merchandise and notice:
+The stone surface of the ring is flawless. (100%)
+A black onyx ring is wearable: finger.
+
+The surface of the ring gleams brightly. (99%)
+You feel informed:
+ Object 'ring obscured onyx'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 200
+
+ Affects  : HIT           by 2
+ Affects  : RESIST_GAS    by 7
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+An obscured onyx ring is wearable: finger.
+
+473H 132V 25668641X 53.07% 880C T:58 Exits:NESW> 
+

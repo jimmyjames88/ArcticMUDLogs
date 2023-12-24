@@ -1,0 +1,28 @@
+Logging started: 22.12.2023 16:46
+
+A Solace peacekeeper arrives from the east.
+
+602H 132V 32099365X 94.57% 1873C T:40 Exits:NES> 
+
+
+A plump housewife leaves north.
+
+602H 132V 32099365X 94.57% 1873C T:40 Exits:NES> 
+
+browse honed.halberd
+You browse through the merchandise and notice:
+The halberd's metallic surface is shiny and new. (100%)
+A gleaming honed halberd is of very good quality.
+You feel informed:
+ Object 'halberd gleaming honed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 340
+
+ Item is  : MAGIC
+ Class    : halberd
+ Damage   : 3D5
+A gleaming honed halberd requires knowledge of the skill 'pole arms'.
+
+602H 132V 32099365X 94.57% 1873C T:39 Exits:NES> 
+

@@ -1,0 +1,29 @@
+Logging started: 23.12.2023 15:13
+
+Kirn arrives from the west.
+
+600H 132V 26463891X 49.60% 1604C T:57 Exits:NESW> 
+
+
+Kirn leaves south.
+
+600H 132V 26463891X 49.60% 1604C T:57 Exits:NESW> 
+
+browse toxicity
+You browse through the merchandise and notice:
+The leggings's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'leggings lithe toxicity'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 7            Value   : 360
+
+ Affects  : RESIST_HEAT   by 10
+ Affects  : HITROLL       by 1
+ Effects  : DETECT_MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+Some lithe leggings of toxicity is wearable: legs.
+
+600H 132V 26463891X 49.60% 1604C T:56 Exits:NESW> 
+
