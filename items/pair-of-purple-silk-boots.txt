@@ -1,0 +1,20 @@
+Logging started: 24.12.2023 17:59
+browse silk.boots
+You browse through the merchandise and notice:
+The boots appears to be brand new. (99%)
+You feel informed:
+ Object 'boots purple silk'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 15           Value   : 300
+
+ Affects  : AGE           by 15
+ Affects  : MOVE          by 10
+ Effects  : CAN_FLY
+ Item is  : HUM MAGIC
+ Restricts: NOPALADIN NOWARRIOR NODARK_KNIGHT
+ Apply    : 5
+A pair of purple silk boots is wearable: feet.
+
+609H 132V 1X 7.06% 222C T:57 Exits:NEW> 
+

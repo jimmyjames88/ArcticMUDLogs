@@ -1,0 +1,16 @@
+Logging started: 24.12.2023 17:57
+rec lore skull.mask
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'mask skull'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 100
+
+ Affects  : WIS           by 1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+609H 93V 1X 7.06% 95C T:8 Exits:NEW> 
+

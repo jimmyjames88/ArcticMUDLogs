@@ -1,0 +1,17 @@
+Logging started: 24.12.2023 19:06
+browse hulk
+You browse through the merchandise and notice:
+The eye looks healthy. (100%)
+You feel informed:
+ Object 'eye umber hulk'
+ Item Type: LIGHT       
+ Mat Class: natural      Material: organic
+ Weight   : 2            Value   : 500
+
+ Affects  : SAVING_SPELL  by -1
+ Affects  : casting level by 1
+ Effects  : DETECT_EVIL DETECT_INVISIBLE SENSE_LIFE
+ Item is  : GLOW MAGIC HOT
+
+557H 108V 1X 7.06% 649C Mem:1 T:6 Exits:NEW> 
+

@@ -1,0 +1,16 @@
+Logging started: 24.12.2023 19:38
+rec lore shield
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield dark'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 22           Value   : 100
+
+ Affects  : ARMOR         by -7
+ Item is  : HUM MAGIC
+ Apply    : 5
+
+287H 113V 8100001X 7.06% 1470C Mem:9 T:54 Exits:NESW> 
+

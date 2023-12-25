@@ -1,0 +1,16 @@
+Logging started: 24.12.2023 19:05
+browse idol
+You browse through the merchandise and notice:
+The surface of the idol gleams brightly. (100%)
+You feel informed:
+ Object 'idol glowing marbled green'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 230
+
+ Affects  : HEALTH        by 1
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A glowing marbled green idol is wearable: hold.
+
+557H 108V 1X 7.06% 649C T:54 Exits:NEW> 
+

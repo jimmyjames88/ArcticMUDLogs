@@ -1,0 +1,23 @@
+Logging started: 24.12.2023 16:25
+browse beaded
+You browse through the merchandise and notice:
+The necklace appears rough and in perfect condition. (100%)
+You feel informed:
+ Object 'necklace beaded leather'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 4            Value   : 650
+
+ Affects  : spell slots   by +1 at level 4
+ Affects  : spell slots   by +1 at level 6
+ Item is  : GLOW MAGIC BLESS ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A beaded leather necklace is wearable: neck.
+
+602H 124V 1X 83.50% 1040C T:47 Exits:NES> 
+
+
+A small kitten chases a piece of dust around the room.
+A small kitten leaves north.
+
+602H 124V 1X 83.50% 1040C T:46 Exits:NES> 
