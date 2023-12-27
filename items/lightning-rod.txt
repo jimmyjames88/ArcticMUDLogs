@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 16:12
+browse lightning.ro
+You browse through the merchandise and notice:
+The rod's metallic surface is bright and shiny. (99%)
+You feel informed:
+ Object 'rod lightning'
+ Item Type: OTHER       
+ Mat Class: metal        Material: bronze
+ Weight   : 6            Value   : 540
+
+ Affects  : RESIST_ELECTR by -24
+ Affects  : spell slots   by +2 at level 6
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+603H 151V 1X 25.16% 701C T:55 Exits:NES> 
+

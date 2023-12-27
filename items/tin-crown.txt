@@ -1,0 +1,26 @@
+Logging started: 25.12.2023 12:12
+
+A feral cat pounces on a piece of dirt.
+
+603H 151V 1X 98.26% 193C T:28 Exits:NESW> 
+
+browse tin.crown
+You browse through the merchandise and notice:
+The crown's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'crown tin'
+ Item Type: WORN        
+ Mat Class: metal        Material: tin
+ Weight   : 1            Value   : 120
+
+ Effects  : DETECT_INVISIBLE
+A tin crown is wearable: head.
+
+603H 151V 1X 98.26% 193C T:27 Exits:NESW> 
+
+
+A feral cat chases a piece of dust around the room.
+A feral cat pounces on a piece of dirt.
+
+603H 151V 1X 98.26% 193C T:27 Exits:NESW> 
+

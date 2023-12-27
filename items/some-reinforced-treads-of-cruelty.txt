@@ -1,0 +1,19 @@
+Logging started: 27.12.2023 13:11
+browse treads
+You browse through the merchandise and notice:
+The treads's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'treads reinforced cruelty'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 8            Value   : 120
+
+ Affects  : STR           by 1
+ Affects  : HP_REGEN      by 3
+ Effects  : DETECT_UNDEAD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+Some reinforced treads of cruelty is wearable: feet.
+
+592H 132V 1X 0.00% 479C T:3 Exits:NESW> 
+

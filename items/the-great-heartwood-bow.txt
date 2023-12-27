@@ -1,0 +1,22 @@
+Logging started: 25.12.2023 12:13
+browse bow
+You browse through the merchandise and notice:
+The hard wooden surface of the bow is in perfect condition. (100%)
+You feel informed:
+ Object 'bow heartwood great'
+ Item Type: BOW         
+ Mat Class: wood         Material: rosewood
+ Weight   : 11           Value   : 550
+
+ Affects  : RANGED_HITROL by 3
+ Affects  : skill instinct      by +7
+ Affects  : skill shoot         by +5
+ Item is  : MAGIC BLESS ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_DISINTEGRATION IMMUNE_ELECTRICITY IMMUNE_GAS IMMUNE_HEAT
+ Speed    : 13
+ Power    : 13
+ Accuracy : 11
+
+603H 151V 1X 98.26% 193C T:36 Exits:NESW> 
+

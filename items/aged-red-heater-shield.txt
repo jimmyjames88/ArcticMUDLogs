@@ -1,0 +1,22 @@
+Logging started: 26.12.2023 22:36
+
+A Kalaman cityguard arrives from the west.
+
+592H 122V 1X 42.22% 630C T:6 Exits:NESW> 
+
+rec lore aged.heater
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield aged red heater'
+ Item Type: WORN        
+ Mat Class: wood         Material: blackenwood
+ Weight   : 13           Value   : 275
+
+ Affects  : spell slots   by +1 at level 2
+ Affects  : CHA           by 1
+ Effects  : DETECT_POISON
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+
+592H 122V 1X 42.22% 630C T:4 Exits:NESW> 
+

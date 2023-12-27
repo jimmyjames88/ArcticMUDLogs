@@ -1,0 +1,18 @@
+Logging started: 27.12.2023 13:10
+browse bone.bow
+You browse through the merchandise and notice:
+The bow appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'bow bone dragon smooth'
+ Item Type: BOW         
+ Mat Class: natural      Material: dragonbone
+ Weight   : 10           Value   : 600
+
+ Affects  : RANGED_DAMROL by 3
+ Affects  : RANGED_HITROL by 3
+ Speed    : 13
+ Power    : 14
+ Accuracy : 14
+
+592H 132V 1X 0.00% 479C Mem:1 T:15 Exits:NESW> 
+

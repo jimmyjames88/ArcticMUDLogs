@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 12:11
+browse sea.dragon
+You browse through the merchandise and notice:
+The trident appears to be in perfect condition. (100%)
+A severed sea dragon claw trident is of very good quality.
+You feel informed:
+ Object 'trident claw sea dragon severed coral shaft'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 10           Value   : 260
+
+ Class    : trident
+ Damage   : 3D4
+A severed sea dragon claw trident requires knowledge of the skill 'piercers'.
+
+603H 151V 1X 98.26% 193C T:34 Exits:NESW> 
+

@@ -1,0 +1,23 @@
+Logging started: 25.12.2023 16:13
+
+A Solace peacekeeper arrives from the north.
+
+603H 151V 1X 25.16% 701C T:58 Exits:NES> 
+
+browse shark.bow
+You browse through the merchandise and notice:
+The crossbow appears to be in perfect condition. (100%)
+A shark jaw bone crossbow is of fair quality.
+You feel informed:
+ Object 'crossbow bow shark jaw bone coral stock'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 24           Value   : 360
+
+ Affects  : HITROLL       by 2
+ Class    : crossbow
+ Damage   : 4D5
+A shark jaw bone crossbow requires knowledge of the skill 'miscellaneous'.
+
+603H 151V 1X 25.16% 701C T:57 Exits:NES> 
+

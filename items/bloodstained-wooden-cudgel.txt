@@ -1,0 +1,20 @@
+Logging started: 26.12.2023 19:32
+browse cudgel
+You browse through the merchandise and notice:
+The hard wooden surface of the cudgel is in perfect condition. (100%)
+A bloodstained wooden cudgel is of average quality.
+You feel informed:
+ Object 'cudgel bloodstained wooden club blood stained'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 15           Value   : 100
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC BLESS
+ Class    : hammer
+ Damage   : 3D5
+A bloodstained wooden cudgel requires knowledge of the skill 'bludgeons'.
+
+592H 147V 1X 27.47% 1722C T:42 Exits:NESW> 
+

@@ -1,0 +1,16 @@
+Logging started: 25.12.2023 14:18
+rec lore owl.bracelet
+You stop using a blessed pearl and onyx lined jewel.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'bracelet white owl'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 10
+
+ Affects  : HITROLL       by 1
+ Item is  : BLESS
+
+594H 132V 1X 16.27% 816C T:40 Exits:ESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 26.12.2023 19:34
+browse red.tinged
+You browse through the merchandise and notice:
+The hard wooden surface of the staff is in perfect condition. (100%)
+A red tinged staff wrapped in leather is of superb quality.
+You feel informed:
+ Object 'staff red wrapped tinged'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: rosewood
+ Weight   : 21           Value   : 800
+
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : staff
+ Damage   : 3D6
+A red tinged staff wrapped in leather requires knowledge of the skill 'bludgeons'.
+
+592H 147V 1X 27.47% 1722C T:1 Exits:NESW> 
+

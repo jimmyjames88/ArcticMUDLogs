@@ -1,0 +1,19 @@
+Logging started: 26.12.2023 19:41
+browse cuisses
+You browse through the merchandise and notice:
+The cuisses's metallic surface shines brilliantly. (99%)
+You feel informed:
+ Object 'cuisses solid war'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 550
+
+ Affects  : HIT           by 12
+ Affects  : healing received by  2%
+ Effects  : DETECT_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+Some solid cuisses of war is wearable: legs.
+
+592H 147V 1X 27.47% 1032C T:25 Exits:NESW> 
+

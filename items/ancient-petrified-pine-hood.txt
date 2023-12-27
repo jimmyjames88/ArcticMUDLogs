@@ -1,0 +1,18 @@
+Logging started: 25.12.2023 22:54
+browse pine.hood
+You browse through the merchandise and notice:
+The hood appears to be brand new. (100%)
+You feel informed:
+ Object 'hood ancient petrified pine storm'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 7            Value   : 230
+
+ Affects  : HEALTH        by 6
+ Affects  : HP_REGEN      by 5
+ Effects  : IMMUNE_FEAR
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+An ancient petrified pine hood of the storm is wearable: head.
+
+592H 147V 1X 27.47% 2727C T:28 Exits:NES> 
+

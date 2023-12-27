@@ -1,0 +1,20 @@
+Logging started: 25.12.2023 16:11
+browse giant
+You browse through the merchandise and notice:
+The hard wooden surface of the hammer is in perfect condition. (100%)
+A giant's hammer is of good quality.
+You feel informed:
+ Object 'hammer giant's giant'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 28           Value   : 330
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : hammer
+ Damage   : 2D10
+A giant's hammer requires knowledge of the skill 'bludgeons'.
+
+603H 150V 1X 25.16% 701C T:21 Exits:NES> 
+

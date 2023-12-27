@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 14:07
+rec lore jeweled.crown
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'crown jewel jeweled intricate'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 4            Value   : 900
+
+ Affects  : INT           by 2
+ Affects  : casting level by 4
+ Effects  : DETECT_EVIL DETECT_INVISIBLE DETECT_MAGIC DETECT_GOOD
+ Item is  : GLOW MAGIC BLESS
+
+450H 151V 1X 16.27% 574C T:19 Exits:ESW> 
+

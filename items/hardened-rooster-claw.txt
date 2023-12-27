@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 14:15
+browse rooster
+You browse through the merchandise and notice:
+The claw appears to be in perfect condition. (100%)
+A hardened rooster claw is of fair quality.
+You feel informed:
+ Object 'claw hardened rooster'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: tooth
+ Weight   : 9            Value   : 200
+
+ Class    : claw
+ Damage   : 2D5
+A hardened rooster claw requires knowledge of the skill 'miscellaneous'.
+
+603H 151V 1X 16.27% 753C T:45 Exits:NEW> 
+

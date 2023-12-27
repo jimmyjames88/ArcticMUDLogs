@@ -1,0 +1,24 @@
+Logging started: 27.12.2023 10:28
+
+A feral cat purrs contentedly.
+A feral cat leaves east.
+
+592H 132V 1X 96.09% 744C T:57 Exits:NESW> 
+
+rec lore silver.lance
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'lance footman's silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 20           Value   : 650
+
+ Affects  : HITROLL       by 2
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : lance
+ Damage   : 2D8
+
+592H 132V 1X 96.09% 744C T:56 Exits:NESW> 
+

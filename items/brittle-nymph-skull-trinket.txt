@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 16:11
+browse nymph
+You browse through the merchandise and notice:
+The surface of the trinket gleams brightly. (100%)
+You feel informed:
+ Object 'trinket brittle nymph skull'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 245
+
+ Affects  : regeneration by  2%
+ Affects  : RESIST_BREATH by 6
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A brittle nymph skull trinket is wearable: hold.
+
+603H 150V 1X 25.16% 701C T:55 Exits:NES> 
+

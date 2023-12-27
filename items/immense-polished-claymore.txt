@@ -1,0 +1,18 @@
+Logging started: 25.12.2023 22:54
+browse immense
+You browse through the merchandise and notice:
+The claymore's metallic surface is shiny and new. (100%)
+An immense polished claymore is of very good quality.
+You feel informed:
+ Object 'claymore immense polished sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 40           Value   : 400
+
+ Item is  : MAGIC
+ Class    : claymore
+ Damage   : 4D7
+An immense polished claymore requires knowledge of the skill 'two-handed'.
+
+592H 147V 1X 27.47% 2727C T:52 Exits:NES> 
+

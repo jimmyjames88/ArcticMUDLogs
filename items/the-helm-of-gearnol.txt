@@ -1,0 +1,18 @@
+Logging started: 27.12.2023 13:12
+browse gearnol
+You browse through the merchandise and notice:
+The helm's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'helm helmet gearnol gearnol's'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 150
+
+ Affects  : CON           by 1
+ Item is  : HUM ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER
+ Apply    : 8
+The helm of Gearnol is wearable: head.
+
+592H 132V 1X 0.00% 479C T:37 Exits:NESW> 
+

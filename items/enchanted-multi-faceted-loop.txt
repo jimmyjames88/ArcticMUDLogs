@@ -1,0 +1,16 @@
+Logging started: 27.12.2023 13:11
+browse loop
+You browse through the merchandise and notice:
+The surface of the loop gleams brightly. (99%)
+You feel informed:
+ Object 'loop enchanted multi faceted'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 215
+
+ Affects  : HIT           by 3
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An enchanted multi-faceted loop is wearable: finger.
+
+592H 132V 1X 0.00% 479C T:40 Exits:NESW> 
+

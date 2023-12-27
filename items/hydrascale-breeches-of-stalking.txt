@@ -1,0 +1,19 @@
+Logging started: 25.12.2023 14:16
+browse hydrascale
+You browse through the merchandise and notice:
+The breeches is stiff and in perfect condition. (100%)
+You feel informed:
+ Object 'breeches hydrascale stalking'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: hard_leather
+ Weight   : 8            Value   : 230
+
+ Affects  : regeneration by  5%
+ Affects  : HP_REGEN      by 6
+ Effects  : NOSUMMON
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+Some hydrascale breeches of stalking is wearable: legs.
+
+603H 151V 1X 16.27% 753C T:47 Exits:NEW> 
+

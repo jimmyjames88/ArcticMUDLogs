@@ -1,0 +1,15 @@
+Logging started: 25.12.2023 14:06
+rec lore multicolored.cloak
+You stop using a blessed pearl and onyx lined jewel.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cloak multicolored'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 3            Value   : 90
+
+ Effects  : HIDE
+
+415H 128V 1X 16.27% 574C T:8 Exits:ESW> 
+

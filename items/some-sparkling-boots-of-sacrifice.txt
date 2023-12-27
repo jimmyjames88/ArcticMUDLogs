@@ -1,0 +1,18 @@
+Logging started: 25.12.2023 12:10
+browse sparkling.boots
+You browse through the merchandise and notice:
+The boots appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'boots sparkling sacrifice'
+ Item Type: WORN        
+ Mat Class: natural      Material: earth
+ Weight   : 5            Value   : 320
+
+ Affects  : spell damage done by  3%
+ Affects  : resist criticals by 0.5%
+ Effects  : IMMUNE_FEAR
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+Some sparkling boots of sacrifice is wearable: feet.
+
+592H 130V 1X 98.26% 589C T:5 Exits:NESW> 
+

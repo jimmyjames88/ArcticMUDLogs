@@ -1,0 +1,16 @@
+Logging started: 26.12.2023 19:37
+rec lore delicate.ring
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring copper delicate'
+ Item Type: WAND        
+ Mat Class: metal        Material: copper
+ Weight   : 1            Value   : 30
+
+ Item is  : SELF_DESTRUCT MAGIC
+ Charges  : 10
+ Level 20 : blur
+
+592H 147V 1X 27.47% 1472C T:49 Exits:NESW> 
+

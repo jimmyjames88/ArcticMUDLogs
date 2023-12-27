@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 12:11
+browse sigil
+You browse through the merchandise and notice:
+The surface of the sigil is shiny and glitters golden. (97%)
+You feel informed:
+ Object 'sigil shimmering icy black'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 400
+
+ Affects  : HIT           by 6
+ Affects  : HIT           by 8
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A shimmering icy black sigil is wearable: hold.
+
+603H 151V 1X 98.26% 193C T:6 Exits:NESW> 
+

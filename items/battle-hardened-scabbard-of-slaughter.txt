@@ -1,0 +1,23 @@
+Logging started: 24.12.2023 23:41
+browse scabbard
+You browse through the merchandise and notice:
+The scabbard is stiff and in perfect condition. (100%)
+You feel informed:
+ Object 'scabbard battle hardened slaughter'
+ Item Type: CONTAINER   
+ Mat Class: leather      Material: hard_leather
+ Weight   : 7            Value   : 260
+
+ Affects  : score criticals by 0.6%
+ Affects  : DEX           by 1
+ Effects  : NOCHARM
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+scabbard (here) : 
+
+594H 146V 1X 98.26% 1729C T:16 Exits:NESW> 
+
+
+A watchman of Port Balifor arrives from the west.
+
+594H 146V 1X 98.26% 1729C T:15 Exits:NESW> 
+

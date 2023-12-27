@@ -1,0 +1,19 @@
+Logging started: 26.12.2023 19:38
+browse red.gold
+You browse through the merchandise and notice:
+The longsword's metallic surface is shiny and new. (99%)
+A red and gold hilted longsword is of poor quality.
+You feel informed:
+ Object 'longsword sword red gold'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 9            Value   : 110
+
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 3D5
+A red and gold hilted longsword requires knowledge of the skill 'long blades'.
+
+592H 147V 1X 27.47% 1032C T:17 Exits:NESW> 
+

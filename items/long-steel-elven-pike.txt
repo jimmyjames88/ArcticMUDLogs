@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 22:51
+rec lore elven.pike
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pike elven steel long'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 22           Value   : 250
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Class    : pike
+ Damage   : 2D9
+
+594H 145V 1X 27.47% 2710C T:57 Exits:WU> 
+

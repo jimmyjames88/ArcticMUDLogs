@@ -1,0 +1,18 @@
+Logging started: 26.12.2023 19:40
+browse rose.engraved
+You browse through the merchandise and notice:
+The legplates's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'legplates leg plates rose engraved solamnic'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 1000
+
+ Affects  : HITROLL       by 2
+ Affects  : HEALTH        by -10
+ Item is  : MAGIC
+ Apply    : 8
+Some rose-engraved solamnic legplates is wearable: legs.
+
+592H 147V 1X 27.47% 1032C T:53 Exits:NESW> 
+

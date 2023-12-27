@@ -1,0 +1,30 @@
+Logging started: 25.12.2023 23:25
+browse arcane.shield
+You browse through the merchandise and notice:
+The shield appears to be in perfect condition. (100%)
+A primordial green arcane shield is of superb quality.
+You feel informed:
+ Object 'shield primordial green arcane'
+ Item Type: WORN        
+ Mat Class: natural      Material: dragonbone
+ Weight   : 7            Value   : 425
+
+ Affects  : HIT           by 9
+ Affects  : HP_REGEN      by 2
+ Effects  : NOSUMMON
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A primordial green arcane shield is wearable: shield.
+
+443H 147V 1X 27.47% 2873C Mem:1 T:53 Exits:NES> 
+
+
+A small kitten purrs contentedly.
+
+443H 147V 1X 27.47% 2873C Mem:1 T:52 Exits:NES> 
+
+
+A plump housewife arrives from the south.
+A small kitten pounces on a piece of dirt.
+
+443H 147V 1X 27.47% 2873C Mem:1 T:52 Exits:NES> 
+

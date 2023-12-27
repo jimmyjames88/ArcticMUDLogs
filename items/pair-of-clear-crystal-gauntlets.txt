@@ -1,0 +1,18 @@
+Logging started: 26.12.2023 23:08
+rec lore clear.gauntlets
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets crystal clear'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 15           Value   : 300
+
+ Affects  : INT           by 1
+ Affects  : WIS           by 1
+ Item is  : MAGIC
+ Apply    : 2
+ This object is part of a larger set.
+
+592H 132V 1X 59.02% 967C T:43 Exits:WU> 
+

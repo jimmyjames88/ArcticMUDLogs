@@ -1,0 +1,24 @@
+Logging started: 24.12.2023 22:12
+
+A mouse arrives from the east.
+A feral cat chases a piece of dust around the room.
+
+594H 151V 2063049X 64.38% 244C T:46 Exits:NESW> 
+
+rec lore katana
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'katana black edged sharp blade'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 10           Value   : 120
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 2D6
+
+594H 151V 2063049X 64.38% 244C T:43 Exits:NESW> 
+

@@ -1,0 +1,21 @@
+Logging started: 25.12.2023 16:13
+browse shark.necklace
+
+The janitor arrives from the east.
+
+603H 151V 1X 25.16% 701C T:28 Exits:NES> 
+You browse through the merchandise and notice:
+The necklace appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'necklace tooth shark'
+ Item Type: WORN        
+ Mat Class: natural      Material: tooth
+ Weight   : 5            Value   : 120
+
+ Affects  : MOVE          by 10
+ Effects  : WATERBREATH
+ Item is  : MAGIC
+A shark tooth necklace is wearable: neck.
+
+603H 151V 1X 25.16% 701C T:28 Exits:NES> 
+

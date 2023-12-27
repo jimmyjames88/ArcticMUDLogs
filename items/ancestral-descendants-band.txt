@@ -1,0 +1,16 @@
+Logging started: 26.12.2023 19:36
+browse ancestral.band
+You browse through the merchandise and notice:
+The surface of the band gleams brightly. (100%)
+You feel informed:
+ Object 'band ancestral descendant's'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 3            Value   : 425
+
+ Affects  : resist criticals by 1.5%
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+An ancestral descendant's band is wearable: finger.
+
+592H 147V 1X 27.47% 1722C T:55 Exits:NESW> 
+

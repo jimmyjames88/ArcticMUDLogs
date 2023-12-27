@@ -1,0 +1,19 @@
+Logging started: 26.12.2023 22:52
+browse dragon.heater
+You browse through the merchandise and notice:
+The shield's metallic surface is shiny and new. (97%)
+An elaborate platinum dragon heater is of fair quality.
+You feel informed:
+ Object 'shield elaborate platinum dragon heater'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: copper
+ Weight   : 22           Value   : 260
+
+ Affects  : LEARN         by 4
+ Affects  : HP_REGEN      by 6
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+An elaborate platinum dragon heater is wearable: shield.
+
+592H 112V 1X 59.02% 695C T:6 Exits:NESW> 
+

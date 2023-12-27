@@ -1,0 +1,18 @@
+Logging started: 25.12.2023 14:15
+browse azure.hood
+You browse through the merchandise and notice:
+The hood appears to be brand new. (95%)
+You feel informed:
+ Object 'hood azure symboled white'
+ Item Type: OTHER       
+ Mat Class: cloth        Material: wool
+ Weight   : 3            Value   : 500
+
+ Affects  : spell slots   by +1 at level 7
+ Affects  : INT           by -1
+ Affects  : casting level by 3
+ Item is  : MAGIC ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+
+603H 136V 1X 16.27% 753C T:27 Exits:NEW> 
+

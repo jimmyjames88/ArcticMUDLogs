@@ -1,0 +1,17 @@
+Logging started: 26.12.2023 19:32
+browse apron
+You browse through the merchandise and notice:
+The apron appears to be brand new. (100%)
+You feel informed:
+ Object 'apron butcher butchers blood drenched'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 10           Value   : 400
+
+ Affects  : skill carve         by +5
+ Affects  : HIT           by 10
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOSHAMAN
+A butcher's apron drenched in blood is wearable: about.
+
+592H 147V 1X 27.47% 1722C T:23 Exits:NESW> 
+

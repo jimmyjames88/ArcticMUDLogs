@@ -1,0 +1,22 @@
+Logging started: 26.12.2023 19:34
+browse war.axe
+You browse through the merchandise and notice:
+The axe's metallic surface is shiny and new. (100%)
+A massive minotaur war axe is of very good quality.
+You feel informed:
+ Object 'axe minotaur war steel massive'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 24           Value   : 650
+
+ Affects  : CON           by 1
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 1
+ Item is  : ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : battle_axe
+ Damage   : 3D6
+A massive minotaur war axe requires knowledge of the skill 'axes'.
+
+592H 147V 1X 27.47% 1722C T:42 Exits:NESW> 
+

@@ -1,0 +1,16 @@
+Logging started: 26.12.2023 19:31
+exam pauldron
+The pauldron appears to be in perfect condition. (99%)
+You feel informed:
+ Object 'pauldron bleached skull-faced skull bone'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 5            Value   : 500
+
+ Affects  : STR           by 1
+ Affects  : resist criticals by 2%
+ Apply    : 4
+A bleached skull-faced pauldron is wearable: arms.
+
+592H 123V 1X 27.47% 1722C T:5 Exits:NESW> 
+

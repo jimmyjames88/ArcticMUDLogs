@@ -1,0 +1,19 @@
+Logging started: 27.12.2023 13:11
+browse staff
+You browse through the merchandise and notice:
+The hard wooden surface of the staff is in perfect condition. (100%)
+An etched battle staff is of poor quality.
+You feel informed:
+ Object 'staff etched battle'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 10           Value   : 130
+
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 3D3
+An etched battle staff requires knowledge of the skill 'bludgeons'.
+
+592H 132V 1X 0.00% 479C T:22 Exits:NESW> 
+

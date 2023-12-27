@@ -1,0 +1,24 @@
+Logging started: 24.12.2023 23:41
+browse whip
+You browse through the merchandise and notice:
+The bullwhip appears rough and in perfect condition. (100%)
+A bone spiked bullwhip is of fair quality.
+A bone spiked bullwhip requires knowledge of the skill 'miscellaneous'.
+
+The whip appears to be in perfect condition. (100%)
+A three-headed chain whip is of very good quality.
+You feel informed:
+ Object 'whip three headed chain'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: earth
+ Weight   : 20           Value   : 380
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : whip
+ Damage   : 3D5
+A three-headed chain whip requires knowledge of the skill 'miscellaneous'.
+
+594H 151V 1X 98.26% 1729C T:25 Exits:NESW> 
+

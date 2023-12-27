@@ -1,0 +1,23 @@
+Logging started: 25.12.2023 12:13
+browse inky
+You browse through the merchandise and notice:
+The something's metallic surface is shiny and new. (96%)
+You feel informed:
+ Object 'helm black inky'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: adamantite
+ Weight   : 9            Value   : 250
+
+ Effects  : INVISIBLE DETECT_GOOD
+ Item is  : GLOW EVIL INVISIBLE MAGIC ANTI_GOOD
+ Apply    : 7
+Something is wearable: head.
+
+603H 151V 1X 98.26% 193C T:4 Exits:NESW> 
+
+
+A feral cat runs in circles chasing its tail.
+A feral cat leaves east.
+
+603H 151V 1X 98.26% 193C T:3 Exits:NESW> 
+

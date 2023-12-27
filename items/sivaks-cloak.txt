@@ -1,0 +1,22 @@
+Logging started: 25.12.2023 16:13
+browse sivak
+You browse through the merchandise and notice:
+The cloak appears rough and in perfect condition. (100%)
+You feel informed:
+ Object 'cloak sivak sivak's'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 9            Value   : 267
+
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+ Apply    : 5
+A sivak's cloak is wearable: about.
+
+603H 151V 1X 25.16% 701C T:8 Exits:NES> 
+
+
+A small kitten pounces on a piece of dirt.
+
+603H 151V 1X 25.16% 701C T:7 Exits:NES> 
+

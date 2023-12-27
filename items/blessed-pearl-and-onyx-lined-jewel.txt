@@ -1,0 +1,17 @@
+Logging started: 25.12.2023 12:10
+browse blessed
+You browse through the merchandise and notice:
+The surface of the jewel is shiny and glitters golden. (97%)
+You feel informed:
+ Object 'jewel blessed pearl onyx lined'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 360
+
+ Affects  : CON           by 1
+ Affects  : RESIST_MAGIC  by 12
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A blessed pearl and onyx lined jewel is wearable: hold.
+
+594H 151V 1X 98.26% 589C T:19 Exits:NESW> 
+

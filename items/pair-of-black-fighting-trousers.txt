@@ -1,0 +1,24 @@
+Logging started: 26.12.2023 22:53
+browse trousers
+You browse through the merchandise and notice:
+The trousers appears to be brand new. (99%)
+You feel informed:
+ Object 'trousers black fighting'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 3            Value   : 400
+
+ Affects  : skill hunt          by +10
+ Affects  : skill fence         by +10
+ Affects  : HIT           by 9
+ Affects  : DEX           by 1
+ Item is  : MAGIC ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_HEAT
+ Apply    : 6
+The trousers are supreme fighting gear for masters of the arts of battle.
+Whoever wears them would be in a better position to come out alive in any
+situation.A pair of black fighting trousers is wearable: legs.
+
+592H 132V 1X 59.02% 695C T:3 Exits:NESW> 
+

@@ -1,0 +1,18 @@
+Logging started: 26.12.2023 19:38
+browse white.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A shining white broadsword is of fair quality.
+You feel informed:
+ Object 'sword broadsword white shining'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 18           Value   : 180
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : broad_sword
+ Damage   : 4D4
+A shining white broadsword requires knowledge of the skill 'long blades'.

@@ -1,0 +1,17 @@
+Logging started: 26.12.2023 19:33
+browse dire.fang
+You browse through the merchandise and notice:
+The fang appears to be in perfect condition. (98%)
+A dire fang is of good quality.
+You feel informed:
+ Object 'fang dire'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 11           Value   : 150
+
+ Class    : stiletto
+ Damage   : 2D8
+A dire fang requires knowledge of the skill 'short blades'.
+
+592H 147V 1X 27.47% 1722C T:54 Exits:NESW> 
+

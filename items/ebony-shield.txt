@@ -1,0 +1,24 @@
+Logging started: 25.12.2023 16:15
+
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+You feel less powerful.
+
+603H 151V 1X 25.16% 42C T:60 Exits:WU> 
+
+rec lore ebony.shield
+You stop using a blessed pearl and onyx lined jewel.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield ebony'
+ Item Type: ARMOR       
+ Mat Class: wood         Material: rosewood
+ Weight   : 22           Value   : 150
+
+ Affects  : skill bash          by +6
+ Apply    : 7
+
+594H 151V 1X 25.16% 42C T:59 Exits:WU> 
+
