@@ -1,0 +1,23 @@
+Logging started: 27.12.2023 15:40
+rec lore erudites
+You grab a scroll of legend lore.
+You couldn't find what you were looking for.
+
+557H 129V 1X 42.61% 337C T:20 Exits:W> 
+
+rec lore erudite
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword erudite's erudite'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 480
+
+ Affects  : HITROLL       by 2
+ Item is  : GLOW MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+ Class    : short_sword
+ Damage   : 3D4
+
+557H 129V 1X 42.61% 337C T:18 Exits:W> 
+

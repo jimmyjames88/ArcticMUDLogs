@@ -1,0 +1,20 @@
+Logging started: 27.12.2023 14:27
+browse dull
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A dull black sword is of poor quality.
+You feel informed:
+ Object 'sword dull black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 28           Value   : 200
+
+ Affects  : DAMROLL       by -1
+ Item is  : GLOW MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOSHAMAN
+ Class    : two_handed_sword
+ Damage   : 3D4
+A dull black sword requires knowledge of the skill 'two-handed'.
+
+592H 132V 1X 0.00% 526C T:29 Exits:NESW> 
+

@@ -1,0 +1,24 @@
+Logging started: 27.12.2023 23:15
+
+The darkness marks the end of another day.
+The rally cry fades.
+
+600H 132V 1X 74.02% 1725C T:60 Exits:NESW> 
+browse greaves
+
+You browse through the merchandise and notice:
+The greaves's metallic surface is shiny and new. (95%)
+You feel informed:
+ Object 'greaves pair ergothian battle armor armour'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 120
+
+ Affects  : STR           by 1
+ Item is  : MAGIC
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 6
+A pair of ergothian battle armor greaves is wearable: legs.
+
+600H 132V 1X 74.02% 1725C T:60 Exits:NESW> 
+

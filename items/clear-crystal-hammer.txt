@@ -1,0 +1,21 @@
+Logging started: 28.12.2023 14:31
+browse crystal.hammer
+You browse through the merchandise and notice:
+The hammer is quite beautiful and pristine. (100%)
+A clear crystal hammer is of fair quality.
+You feel informed:
+ Object 'hammer crystal clear'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 15           Value   : 600
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : HUM
+ Class    : hammer
+ Damage   : 4D3
+ This object is part of a larger set.
+A clear crystal hammer requires knowledge of the skill 'bludgeons'.
+
+592H 23V 1X 2.56% 491C T:14 Exits:NESW> 
+

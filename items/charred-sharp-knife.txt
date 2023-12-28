@@ -1,0 +1,26 @@
+Logging started: 27.12.2023 14:27
+
+A street cleaner arrives from the north.
+
+592H 132V 1X 0.00% 526C T:57 Exits:NESW> 
+
+browse charred
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A charred sharp knife is of fair quality.
+You feel informed:
+ Object 'knife charred sharp'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 9            Value   : 200
+
+ Affects  : MEM_FACTOR    by 4
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 4D3
+A charred sharp knife requires knowledge of the skill 'short blades'.
+
+592H 132V 1X 0.00% 526C T:54 Exits:NESW> 
+

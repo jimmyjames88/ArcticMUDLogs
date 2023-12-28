@@ -1,0 +1,18 @@
+Logging started: 28.12.2023 14:33
+browse dancing
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+The sword of dancing is of poor quality.
+You feel informed:
+ Object 'sword dancing steel scimitar'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 17           Value   : 692
+
+ Item is  : HUM MAGIC
+ Class    : scimitar
+ Damage   : 4D4
+The sword of dancing requires knowledge of the skill 'long blades'.
+
+600H 77V 1X 2.56% 233C T:50 Exits:NESW> 
+

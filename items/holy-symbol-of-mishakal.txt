@@ -1,0 +1,17 @@
+Logging started: 28.12.2023 14:31
+rec lore holy.symbol
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'symbol holy mishakal chain'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 40
+
+ Affects  : spell slots   by +1 at level 1
+ Item is  : GLOW MAGIC BLESS ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+600H 38V 1X 2.56% 197C T:23 Exits:NESW> 
+

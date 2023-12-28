@@ -1,0 +1,24 @@
+Logging started: 28.12.2023 14:33
+browse slumber
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+The sword of slumber is of poor quality.
+You feel informed:
+ Object 'sword slumber helical'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 400
+
+ Affects  : HITROLL       by 2
+ Item is  : GLOW MAGIC
+ Class    : long_sword
+ Damage   : 3D6
+The sword of slumber requires knowledge of the skill 'long blades'.
+
+600H 53V 1X 2.56% 233C T:1 Exits:NESW> 
+
+
+The radiance surrounding you fades away.
+
+600H 77V 1X 2.56% 233C T:60 Exits:NESW> 
+

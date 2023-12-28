@@ -1,0 +1,16 @@
+Logging started: 27.12.2023 23:13
+browse bone.bracelet
+You browse through the merchandise and notice:
+The bracelet appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'bracelet bone'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 120
+
+ Affects  : HIT           by 5
+ Item is  : MAGIC
+A bone bracelet is wearable: wrist.
+
+600H 124V 1X 74.02% 1725C T:7 Exits:NESW> 
+

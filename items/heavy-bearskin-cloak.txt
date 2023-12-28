@@ -1,0 +1,23 @@
+Logging started: 27.12.2023 15:42
+
+A Knight of Solamnia arrives from the west.
+
+592H 130V 1X 42.61% 196C T:38 Exits:W> 
+
+rec lore bearskin
+
+A sailor arrives from the west.
+
+592H 130V 1X 42.61% 196C T:36 Exits:W> 
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cloak skin bearskin heavy'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 8            Value   : 50
+
+ Affects  : RESIST_COLD   by 8
+
+592H 130V 1X 42.61% 196C T:36 Exits:W> 
+

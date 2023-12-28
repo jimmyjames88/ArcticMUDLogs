@@ -1,0 +1,17 @@
+Logging started: 27.12.2023 18:37
+rec lore white.gauntlets
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets solamnic white'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 200
+
+ Affects  : STR           by 1
+ Affects  : HITROLL       by 1
+ Apply    : 7
+
+600H 132V 1X 57.01% 630C T:51 Exits:NESW> 
+
