@@ -1,0 +1,23 @@
+Logging started: 29.12.2023 14:44
+
+A watchman of Port Balifor arrives from the south.
+
+605H 124V 1X 74.84% 498C T:29 Exits:NESW> 
+
+rec lore medallion.paladine
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'medallion paladine platinum'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 2            Value   : 300
+
+ Effects  : DETECT_INVISIBLE
+ Item is  : GLOW HUM MAGIC ANTI_EVIL
+
+The medallion seems to help those requiring the guidance of Paladine.
+
+605H 124V 1X 74.84% 498C T:26 Exits:NESW> 
+

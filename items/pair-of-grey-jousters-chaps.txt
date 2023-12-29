@@ -1,0 +1,16 @@
+Logging started: 28.12.2023 17:46
+rec lore grey.chaps
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'chaps jousters jouster's gray grey'
+ Item Type: WORN        
+ Mat Class: leather      Material: rigid_leather
+ Weight   : 5            Value   : 75
+
+ Affects  : MOVE          by 10
+ Affects  : MOVE_REGEN    by 2
+ Affects  : chance of finding a boyfriend by 100%
+
+600H 133V 1X 11.92% 2076C T:27 Exits:NESW> 
+

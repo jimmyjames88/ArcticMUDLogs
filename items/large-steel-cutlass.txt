@@ -1,0 +1,18 @@
+Logging started: 29.12.2023 11:50
+rec lore steel.cutlass
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'cutlass sword steel large'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 15           Value   : 140
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Class    : main_gauche
+ Damage   : 2D6
+
+605H 61V 1X 74.52% 1126C T:52 Exits:NESW> 
+

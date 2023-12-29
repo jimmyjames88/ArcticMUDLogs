@@ -1,0 +1,18 @@
+Logging started: 28.12.2023 17:46
+rec lore charred.legplates
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'legplates black charred platemail'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 125
+
+ Affects  : STR           by 1
+ Affects  : HIT           by 5
+ Affects  : ARMOR         by -5
+ Restricts: NOMAGE NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+
+600H 142V 1X 11.92% 2076C T:59 Exits:NESW> 
+

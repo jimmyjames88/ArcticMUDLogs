@@ -1,0 +1,15 @@
+Logging started: 28.12.2023 23:26
+rec lore worn.boots
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'boots worn leather pair'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 45
+
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+
+186H 134V 1X 57.08% 915C T:17 Exits:NESW> 
+

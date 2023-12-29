@@ -1,0 +1,21 @@
+Logging started: 28.12.2023 17:43
+rec lore axe
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'axe hurling battle'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 28           Value   : 800
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : HUM
+ Class    : battle_axe
+ Damage   : 5D5
+  An image of the axe spinning in the air comes to your mind. Suddenly, the
+axe jarringly strikes a wooden wall, the head of the axe stuck deeply into
+the woodwork.
+
+600H 113V 1X 11.92% 2375C Mem:1 T:45 Exits:NESW> 
+

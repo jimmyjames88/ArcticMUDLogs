@@ -1,0 +1,18 @@
+Logging started: 28.12.2023 16:08
+browse slippers
+You browse through the merchandise and notice:
+The something is in perfect condition. (99%)
+You feel informed:
+ Object 'slippers translucent'
+ Item Type: WORN        
+ Mat Class: other        Material: not_there
+ Weight   : 6            Value   : 400
+
+ Affects  : casting level by 1
+ Affects  : MOVE          by 10
+ Effects  : INVISIBLE
+ Item is  : INVISIBLE
+Something is wearable: feet.
+
+600H 132V 1X 2.56% 450C T:29 Exits:NESW> 
+
