@@ -1,0 +1,19 @@
+Logging started: 30.12.2023 16:08
+rec lore gauntlets.might
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gauntlets might'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 500
+
+ Affects  : STR           by 1
+ Affects  : ARMOR         by -8
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+
+605H 95V 1X 1.23% 1736C T:21 Exits:ESW> 
+

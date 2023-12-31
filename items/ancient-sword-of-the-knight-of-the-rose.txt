@@ -1,0 +1,21 @@
+Logging started: 29.12.2023 22:11
+browse ancient.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+An ancient sword of the knight of the rose is of superb quality.
+You feel informed:
+ Object 'sword ancient rose'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 48           Value   : 1000
+
+ Affects  : DAMROLL       by 4
+ Affects  : HITROLL       by 4
+ Item is  : NORENT
+ Immune   : IMMUNE_MAGIC
+ Class    : two_handed_sword
+ Damage   : 6D6
+An ancient sword of the knight of the rose requires knowledge of the skill 'two-handed'.
+
+623H 142V 1X 83.56% 345C T:46 Exits:NESW> 
+

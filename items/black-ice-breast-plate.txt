@@ -1,0 +1,18 @@
+Logging started: 29.12.2023 22:10
+browse ice
+You browse through the merchandise and notice:
+The breastplate appears to be in perfect condition. (99%)
+You feel informed:
+ Object 'breastplate black ice breast plate'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: ice
+ Weight   : 10           Value   : 300
+
+ Affects  : RESIST_COLD   by 12
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 7
+A black ice breast plate is wearable: body.
+
+592H 129V 1X 83.56% 345C T:1 Exits:NESW> 
+

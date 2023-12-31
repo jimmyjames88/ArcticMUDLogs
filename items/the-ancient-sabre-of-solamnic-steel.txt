@@ -20,3 +20,23 @@ The ancient sabre of solamnic steel requires knowledge of the skill 'long blades
 
 600H 132V 34630847X 96.57% 746C T:60 Exits:NESW> 
 
+Logging started: 30.12.2023 11:53
+brow sabre
+You browse through the merchandise and notice:
+The sabre's metallic surface shines brilliantly. (98%)
+The ancient sabre of solamnic steel is of good quality.
+You feel informed:
+ Object 'sabre ancient solamnic steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 10           Value   : 400
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 3
+ Item is  : MAGIC
+ Class    : sabre
+ Damage   : 3D4
+The ancient sabre of solamnic steel requires knowledge of the skill 'long blades'.
+
+599H 133V 1X 87.56% 748C Mem:2 T:14 Exits:NESW> 
+

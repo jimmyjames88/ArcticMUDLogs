@@ -1,0 +1,16 @@
+Logging started: 30.12.2023 15:55
+browse tourmaline
+You browse through the merchandise and notice:
+The surface of the pendant gleams brightly. (96%)
+You feel informed:
+ Object 'pendant tourmaline black'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 3            Value   : 250
+
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+A dark tourmaline pendant is wearable: neck.
+
+573H 126V 1X 93.16% 556C Mem:1 T:5 Exits:NEW> 
+

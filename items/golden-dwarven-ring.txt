@@ -1,0 +1,18 @@
+Logging started: 30.12.2023 15:55
+Logging started: 30.12.2023 15:56
+brow golden.ring
+You browse through the merchandise and notice:
+The surface of the ring is shiny and glitters golden. (99%)
+You feel informed:
+ Object 'ring dwarven golden'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 120
+
+ Affects  : CON           by 1
+ Affects  : DEX           by -1
+ Item is  : MAGIC BLESS
+A golden dwarven ring is wearable: finger.
+
+605H 142V 1X 93.16% 556C T:15 Exits:NEW> 
+

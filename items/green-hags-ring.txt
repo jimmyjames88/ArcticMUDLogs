@@ -1,0 +1,18 @@
+Logging started: 30.12.2023 15:56
+browse green.ring
+You browse through the merchandise and notice:
+The wooden surface of the ring is in perfect condition. (100%)
+You feel informed:
+ Object 'ring green hag's dark'
+ Item Type: WORN        
+ Mat Class: wood         Material: oak
+ Weight   : 2            Value   : 200
+
+ Affects  : STR           by 1
+ Affects  : HIT           by -5
+ Affects  : casting level by 2
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A green hag's ring is wearable: finger.
+
+605H 142V 1X 93.16% 556C T:50 Exits:NEW> 
+
