@@ -1,0 +1,23 @@
+Logging started: 01.01.2024 14:52
+
+A Palanthian guard arrives from the east.
+
+580H 97V 1X 13.54% 840C T:18 Exits:NEW> 
+
+brow rusty.warhammer
+You browse through the merchandise and notice:
+The warhammer's metallic surface is shiny and new. (100%)
+An enormous rusty warhammer is of superb quality.
+You feel informed:
+ Object 'warhammer enormous rusty hammer'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 20           Value   : 450
+
+ Item is  : MAGIC
+ Class    : warhammer
+ Damage   : 2D9
+An enormous rusty warhammer requires knowledge of the skill 'bludgeons'.
+
+580H 97V 1X 13.54% 840C T:17 Exits:NEW> 
+

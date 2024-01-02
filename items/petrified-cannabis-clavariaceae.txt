@@ -1,0 +1,19 @@
+Logging started: 30.12.2023 23:49
+rec lore cannabis
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'clavariaceae cannabis petrified club'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: stone
+ Weight   : 22           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS
+ Immune   : IMMUNE_DISINTEGRATION IMMUNE_HEAT
+ Class    : club
+ Damage   : 3D6
+
+605H 140V 1X 9.52% 910C T:13 Exits:NEW> 
+

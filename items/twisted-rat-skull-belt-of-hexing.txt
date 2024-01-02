@@ -1,0 +1,17 @@
+Logging started: 01.01.2024 14:50
+brow rat.belt
+You browse through the merchandise and notice:
+The belt is delicate and brand new. (100%)
+You feel informed:
+ Object 'belt twisted rat skull hexing'
+ Item Type: WORN        
+ Mat Class: cloth        Material: gossamer
+ Weight   : 3            Value   : 110
+
+ Affects  : HEALTH        by 2
+ Effects  : DETECT_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A twisted rat skull belt of hexing is wearable: waist.
+
+586H 121V 1X 13.54% 0C T:9 Exits:NEW> 
+

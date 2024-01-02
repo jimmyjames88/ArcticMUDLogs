@@ -1,0 +1,17 @@
+Logging started: 01.01.2024 14:48
+brow elk.bone.wristband
+You browse through the merchandise and notice:
+The surface of the wristband gleams brightly. (100%)
+You feel informed:
+ Object 'wristband glistening elk bone inlaid band'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 275
+
+ Affects  : HP_REGEN      by 1
+ Effects  : PROTECT_GOOD
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A glistening elk bone inlaid wristband is wearable: wrist.
+
+592H 115V 1X 13.54% 0C T:32 Exits:NEW> 
+

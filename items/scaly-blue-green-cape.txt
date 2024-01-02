@@ -1,0 +1,19 @@
+Logging started: 30.12.2023 22:52
+browse scaly
+You browse through the merchandise and notice:
+The cape looks healthy. (100%)
+You feel informed:
+ Object 'cape scaly blue-green shimmering'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 7            Value   : 315
+
+ Affects  : RESIST_ACID   by 9
+ Affects  : SAVING_BREATH by -1
+ Effects  : DETECT_INVISIBLE DETECT_MAGIC
+ Item is  : MAGIC
+ Immune   : IMMUNE_ACID
+A scaly blue-green cape is wearable: neck.
+
+563H 107V 1X 9.02% 462C T:40 Exits:NEW> 
+

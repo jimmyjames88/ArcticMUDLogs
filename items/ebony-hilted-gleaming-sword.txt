@@ -1,0 +1,19 @@
+Logging started: 01.01.2024 10:47
+browse ebony.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (96%)
+An ebony hilted gleaming sword is of very good quality.
+You feel informed:
+ Object 'sword carved ebony'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 300
+
+ Item is  : HUM MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : long_sword
+ Damage   : 4D4
+An ebony hilted gleaming sword requires knowledge of the skill 'long blades'.
+
+605H 116V 1X 13.54% 0C T:27 Exits:NEW> 
+

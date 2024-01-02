@@ -1,0 +1,17 @@
+Logging started: 01.01.2024 14:46
+browse sapphire.circlet
+You browse through the merchandise and notice:
+The surface of the circlet is shiny and glitters golden. (98%)
+You feel informed:
+ Object 'circlet sapphire blue'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 4            Value   : 500
+
+ Affects  : WIS           by 1
+ Affects  : CON           by 1
+ Restricts: NOMAGE NOTHIEF NODRUID NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A sapphire circlet is wearable: head.
+
+599H 108V 1X 13.54% 0C T:40 Exits:NEW> 
+

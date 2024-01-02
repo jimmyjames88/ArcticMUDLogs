@@ -1,0 +1,32 @@
+Logging started: 01.01.2024 14:46
+
+The darkness marks the end of another day.
+The sky is getting cloudy.
+Your hands tingle as a feeling of goodness fills you.
+You are hungry.
+You are thirsty.
+
+592H 112V 1X 13.54% 0C T:60 Exits:NEW> 
+
+bro cardinals.signet
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+592H 112V 1X 13.54% 0C T:56 Exits:NEW> 
+
+bro cardinal.signet
+You browse through the merchandise and notice:
+The surface of the signet gleams brightly. (100%)
+You feel informed:
+ Object 'signet cardinal's moonstone engraved'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 2            Value   : 450
+
+ Affects  : resist criticals by 1.4%
+ Affects  : MOVE_REGEN    by 1
+ Effects  : NOCHARM
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A cardinal's moonstone engraved signet is wearable: finger.
+
+592H 112V 1X 13.54% 0C T:54 Exits:NEW> 
+

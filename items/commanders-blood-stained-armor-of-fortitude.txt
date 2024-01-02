@@ -1,0 +1,24 @@
+Logging started: 01.01.2024 14:48
+brow fortitude/armor
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+592H 118V 1X 13.54% 0C T:52 Exits:NEW> 
+
+brow fortitude.armor
+You browse through the merchandise and notice:
+The armor's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'armor commander's blood stained fortitude'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 500
+
+ Affects  : SAVING_PARA   by -2
+ Affects  : HIT           by 5
+ Effects  : NOSUMMON
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 20
+A commander's blood stained armor of fortitude is wearable: body.
+
+592H 118V 1X 13.54% 0C T:49 Exits:NEW> 
+

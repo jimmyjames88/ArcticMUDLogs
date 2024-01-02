@@ -1,0 +1,22 @@
+Logging started: 01.01.2024 14:49
+
+A streetsweeper leaves east.
+
+592H 118V 1X 13.54% 0C T:17 Exits:NEW> 
+
+brow gilt.plate
+You browse through the merchandise and notice:
+The surface of the plate gleams brightly. (95%)
+You feel informed:
+ Object 'plate breast platinum gilt'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: platinum
+ Weight   : 30           Value   : 250
+
+ Item is  : BLESS
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 8
+A platinum gilt breast plate is wearable: body.
+
+592H 118V 1X 13.54% 0C T:14 Exits:NEW> 
+

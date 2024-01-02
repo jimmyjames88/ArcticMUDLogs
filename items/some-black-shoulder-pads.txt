@@ -1,0 +1,15 @@
+Logging started: 30.12.2023 23:52
+rec lore shoulder.pads
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pads pad shoulder black'
+ Item Type: WORN        
+ Mat Class: cloth        Material: cotton
+ Weight   : 6            Value   : 50
+
+ Affects  : HP_REGEN      by 10
+ Affects  : ARMOR         by -5
+
+598H 127V 1X 9.52% 1492C T:48 Exits:ESW> 
+

@@ -1,0 +1,21 @@
+Logging started: 31.12.2023 10:17
+browse ruby.knife
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (99%)
+A ruby-hilted knife is of good quality.
+You feel informed:
+ Object 'knife ruby hilted ruby-hilted blade'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : skill envenom       by +5
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : knife
+ Damage   : 3D5
+A ruby-hilted knife requires knowledge of the skill 'short blades'.
+
+605H 74V 1X 11.64% 2288C T:16 Exits:NEW> 
+

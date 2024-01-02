@@ -17,3 +17,21 @@ The Aurinite king's bracer is wearable: wrist.
 
 583H 140V 37210397X 89.83% 5633C T:27 Exits:NESW> 
 
+Logging started: 31.12.2023 10:15
+rec lore king.bracer
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'bracer crystal aurinite king'
+ Item Type: WORN        
+ Mat Class: crystal      Material: crystal
+ Weight   : 1            Value   : 1500
+
+ Affects  : spell slots   by +1 at level 6
+ Affects  : RESIST_HEAT   by -4
+ Affects  : SAVING_PARA   by 1
+ Item is  : GLOW HUM MAGIC ANTI_EVIL NORENT
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+
+605H 70V 1X 11.64% 938C Mem:1 T:37 Exits:W> 
+

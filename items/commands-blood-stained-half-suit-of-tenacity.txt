@@ -1,0 +1,29 @@
+Logging started: 01.01.2024 14:47
+
+A streetsweeper leaves west.
+
+592H 112V 1X 13.54% 0C T:15 Exits:NEW> 
+
+brwo blood.stained.suit
+Huh?!
+
+592H 112V 1X 13.54% 0C T:14 Exits:NEW> 
+
+brow blood.stained.suit
+You browse through the merchandise and notice:
+The suit's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'suit commander's blood stained half tenacity'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 11           Value   : 215
+
+ Affects  : MOVE_REGEN    by 5
+ Affects  : MOVE          by 12
+ Effects  : SENSE_LIFE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A commander's blood stained half suit of tenacity is wearable: body.
+
+592H 112V 1X 13.54% 0C T:9 Exits:NEW> 
+
