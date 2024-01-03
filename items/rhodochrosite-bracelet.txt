@@ -1,0 +1,16 @@
+Logging started: 01.01.2024 17:51
+brow rhodochrosite
+You browse through the merchandise and notice:
+The stone surface of the bracelet is flawless. (98%)
+You feel informed:
+ Object 'bracelet rhodochrosite'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 6            Value   : 400
+
+ Affects  : SAVING_POISON by -2
+ Item is  : GLOW MAGIC
+A rhodochrosite bracelet is wearable: wrist.
+
+605H 119V 1X 24.80% 1577C T:31 Exits:NESW> 
+

@@ -1,0 +1,26 @@
+Logging started: 01.01.2024 21:42
+
+A street cleaner picks up some trash.
+
+578H 142V 1X 25.74% 284C T:50 Exits:NESW> 
+
+brow snake.tooth
+You browse through the merchandise and notice:
+The tooth appears to be in perfect condition. (100%)
+A bloody snake tooth is of poor quality.
+You feel informed:
+ Object 'tooth snake bloody'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: tooth
+ Weight   : 15           Value   : 150
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : EVIL MAGIC ANTI_GOOD
+ Restricts: NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOSHAMAN
+ Class    : pick
+ Damage   : 3D5
+A bloody snake tooth requires knowledge of the skill 'piercers'.
+
+578H 142V 1X 25.74% 284C T:48 Exits:NESW> 
+

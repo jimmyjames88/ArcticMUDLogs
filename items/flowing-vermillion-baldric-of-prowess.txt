@@ -1,0 +1,18 @@
+Logging started: 01.01.2024 17:50
+brow vermillion
+You browse through the merchandise and notice:
+The baldric's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'baldric flowing vermillion prowess'
+ Item Type: WORN        
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 8            Value   : 380
+
+ Affects  : MOVE_REGEN    by 9
+ Affects  : HEALTH        by 7
+ Effects  : IS_FLYING
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A flowing vermillion baldric of prowess is wearable: about.
+
+605H 95V 1X 24.80% 1577C T:54 Exits:NESW> 
+

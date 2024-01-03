@@ -1,0 +1,31 @@
+Logging started: 01.01.2024 17:52
+brow enchanted.knife
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+An enchanted sharp knife is of very good quality.
+You feel informed:
+ Object 'knife enchanted sharp'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 10           Value   : 360
+
+ Affects  : casting level by 2
+ Affects  : target resist by  5%
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 2D8
+An enchanted sharp knife requires knowledge of the skill 'short blades'.
+
+605H 142V 1X 24.80% 1577C T:56 Exits:NESW> 
+
+
+Purgen flies in from the east.
+
+605H 142V 1X 24.80% 1577C T:55 Exits:NESW> 
+
+
+Purgen flies west.
+
+605H 142V 1X 24.80% 1577C T:54 Exits:NESW> 
+
