@@ -1,0 +1,24 @@
+Logging started: 02.01.2024 17:26
+
+A loud voice is heard booming throughout the town, 'The caravan has
+arrived, we will be leaving in about four hours.'
+
+605H 142V 1X 31.66% 0C T:37 Exits:NESW> 
+
+brow spiked.black
+You browse through the merchandise and notice:
+The gauntlets's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'gauntlets black wicked spiked lily'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 800
+
+ Affects  : STR           by 2
+ Item is  : MAGIC ANTI_GOOD
+ Restricts: NOBARBARIAN NOSHAMAN
+ Apply    : 8
+Some spiked black gauntlets of the Lily is wearable: hands.
+
+605H 142V 1X 31.66% 0C T:36 Exits:NESW> 
+

@@ -1,0 +1,17 @@
+Logging started: 04.01.2024 11:56
+browse burnished
+You browse through the merchandise and notice:
+The surface of the gorget is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'gorget burnished scalemail'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 3            Value   : 360
+
+ Affects  : RESIST_ACID   by 8
+ Affects  : HP_REGEN      by 2
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A burnished scalemail gorget is wearable: neck.
+
+536H 139V 1X 64.53% 619C T:35 Exits:NESW> 
+

@@ -1,0 +1,21 @@
+Logging started: 04.01.2024 11:57
+brow dragon.knife
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A dragon spine knife is of poor quality.
+You feel informed:
+ Object 'knife dragon spine'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: tin
+ Weight   : 9            Value   : 140
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : knife
+ Damage   : 2D5
+A dragon spine knife requires knowledge of the skill 'short blades'.
+
+536H 139V 1X 64.53% 619C T:13 Exits:NESW> 
+

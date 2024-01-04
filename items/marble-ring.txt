@@ -1,0 +1,20 @@
+Logging started: 03.01.2024 18:22
+
+A Kalaman cityguard leaves north.
+
+227H 124V 1X 46.12% 1205C Mem:1 T:9 Exits:NESW> 
+
+rec lore marble.ring
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring marble'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 1            Value   : 300
+
+ Affects  : CON           by 1
+ Item is  : INVISIBLE
+
+227H 124V 1X 46.12% 1205C Mem:1 T:8 Exits:NESW> 
+

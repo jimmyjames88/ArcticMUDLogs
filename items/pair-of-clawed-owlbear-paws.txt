@@ -1,0 +1,15 @@
+Logging started: 03.01.2024 21:24
+rec lore paws
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'paws owlbear clawed bloody'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 450
+
+ Affects  : WIS           by 1
+ Affects  : skill commune with  by +5
+
+614H 131V 1X 52.63% 341C T:10 Exits:NESW> 
+

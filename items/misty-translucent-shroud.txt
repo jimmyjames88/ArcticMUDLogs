@@ -1,0 +1,18 @@
+Logging started: 02.01.2024 17:25
+browse misty
+You browse through the merchandise and notice:
+The shroud is made up of gaseous vapor. You cannot discern its condition. (100%)
+You feel informed:
+ Object 'shroud misty translucent'
+ Item Type: WORN        
+ Mat Class: other        Material: gas_vapour
+ Weight   : 1            Value   : 400
+
+ Effects  : IMMUNE_ACID IMMUNE_NEGATIVE_ENERGY
+ Item is  : NORENT
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Immune   : IMMUNE_ACID IMMUNE_HEAT
+A misty, translucent shroud is wearable: about.
+
+605H 142V 1X 31.66% 0C T:56 Exits:NESW> 
+

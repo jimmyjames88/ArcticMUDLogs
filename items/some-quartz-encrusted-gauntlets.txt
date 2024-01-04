@@ -1,0 +1,22 @@
+Logging started: 04.01.2024 12:00
+brow quarts.gauntlets
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+614H 142V 1X 64.53% 619C T:33 Exits:NESW> 
+
+brow quartz.gauntlets
+You browse through the merchandise and notice:
+The gauntlets is quite beautiful and pristine. (96%)
+You feel informed:
+ Object 'gauntlets quartz dwarven'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 10           Value   : 100
+
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Apply    : 2
+Some quartz-encrusted gauntlets is wearable: hands.
+
+614H 142V 1X 64.53% 619C T:28 Exits:NESW> 
+

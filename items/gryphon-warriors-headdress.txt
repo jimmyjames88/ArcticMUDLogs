@@ -1,0 +1,17 @@
+Logging started: 02.01.2024 17:24
+browse gryphon
+You browse through the merchandise and notice:
+The headdress appears rough and in perfect condition. (98%)
+You feel informed:
+ Object 'headdress gryphon'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 3            Value   : 260
+
+ Affects  : DEX           by 1
+ Affects  : skill sneak         by +5
+ Restricts: NOTHIEF
+A gryphon warrior's headdress is wearable: head.
+
+605H 142V 1X 31.66% 0C T:22 Exits:NESW> 
+
