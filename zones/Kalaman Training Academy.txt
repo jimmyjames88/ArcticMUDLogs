@@ -1,0 +1,2573 @@
+Logging started: 04.01.2024 20:12
+e
+A little girl arrives from the west.
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is just to the west and the bazaars are to the north and
+south. It really is very busy here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large pigeon is here pecking at some bread crumbs.
+
+614H 141V 1X 64.53% 438C Mem:3 T:28 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 64.53% 438C Mem:3 T:28 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Hamilton Way is to the north; it will take you to the cityguard
+headquarters and the Academy of Fighting Arts. To the south is the
+beautiful boutique of Celeste, reknown all over Ansalon.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 139V 1X 64.53% 438C Mem:3 T:28 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 138V 1X 64.53% 438C Mem:3 T:27 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large pigeon is here pecking at some bread crumbs.
+
+614H 137V 1X 64.53% 438C Mem:3 T:27 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Intersection of Market Street and Wall Road
+    You are at the intersection of Market Street and Wall Road. Market
+Street runs east-west through Kalaman, while Wall Road runs along the
+inside of the city wall. Market Street is the busiest street in Kalaman;
+many of the shops and stands are located here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A tired traveller is looking around for the town's inn.
+A knight of Solamnia stands here keeping watch over the surrounding area.
+
+614H 136V 1X 64.53% 438C Mem:3 T:27 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Eastern City Gates
+    You are inside the eastern city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cityguard of Kalaman looks about for signs of trouble.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+
+614H 135V 1X 64.53% 438C Mem:3 T:26 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Outside the Eastern Gates of Kalaman
+    You are outside the gates of the city of Kalaman. The large stone walls
+rise high above you. From this vantage point you are able to see a few
+Solamnic Knights walking about along the battlements overhead. The huge
+city gates are directly west of you, and a small path leads off to the
+east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 64.53% 438C Mem:3 T:26 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Beyond the Gates of Kalaman
+    You are just outside the eastern city gates of Kalaman. The path you
+are traveling on turns south away from the city and cuts through the plains
+east of Kalaman. A large building made of old wood stands just off the path
+to your east, and you can hear loud noises of what you think is people
+fighting within the building.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 132V 1X 64.53% 438C Mem:3 T:26 Exits:ESW> 
+e
+
+Kor the bronze dragon arrives from the west.
+A Large Building
+     You see a large bulding made of old wood, yet it looks very sturdy. A
+lot of noise can be heard coming from inside and shadows can be seen
+through the windows of the upstairs rooms. Many people are roaming freely
+in and out of the front doors wearing different colored sashes.  It is a
+school of some sort.  There is a sign on the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 131V 1X 64.53% 438C Mem:3 T:26 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Gathering Room
+     This is a large room used for the students to recuperate and to tend
+to their wounds, study their spells, and consort with other adventurers.
+Many people are seen wandering up and down the stairs stopping occasionally
+to look at a notice on the north wall.  A doorway east leads outside to a
+porch and you can smell food cooking.
+Kor the bronze dragon is standing here, awaiting a rider.
+A paladin with a green sash tied to his waist is standing here.
+
+614H 130V 1X 64.53% 438C Mem:3 T:25 Exits:EWUD> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Banquet Porch
+     A fresh pig is being roasted over a metal pit.  It looks as if you
+serve yourself to food and drink.  It is a very festive atmosphere.  All
+the students who are not in training at the moment appear to be here if not
+to eat just to socialize and drink an ale.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 129V 1X 64.53% 438C Mem:3 T:25 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Grassy Field
+     A field extends behind the building starting just off the porch.
+There is path through the middle of the field where grass has been trampled
+down to the dirt.
+Kor the bronze dragon is standing here, awaiting a rider.
+A warrior with a green sash tied to his waist is standing here.
+A druid with a red sash tied to his waist is standing here.
+
+614H 127V 1X 64.53% 438C Mem:3 T:25 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Maze Entrance
+     The path leads to a formation of rocks with an entrance carved on
+the face.  There is a gate closing the entrance.  This is the entrance to
+the maze. Students come to here in groups to take on the challenges below.
+Kor the bronze dragon is standing here, awaiting a rider.
+A scout with a red sash tied to his waist is standing here.
+
+614H 125V 1X 64.53% 438C Mem:3 T:24 Exits:W(D)> 
+
+e
+Alas, you cannot go that way...
+
+614H 125V 1X 64.53% 438C Mem:3 T:24 Exits:W(D)> 
+
+op gate
+Ok.
+
+614H 125V 1X 64.53% 438C Mem:3 T:22 Exits:WD> 
+
+d
+Kor the bronze dragon arrives from above.
+Maze Entryway
+     Here is the entrance to the maze.  There is writing engraved on the
+wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 124V 1X 64.53% 438C Mem:3 T:21 Exits:NU> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Maze
+     The maze is a man made tunnel that was built a long time ago.  It
+looks as if it has been maintained fairly well.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 123V 1X 64.53% 438C Mem:3 T:20 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Maze
+     The maze continues.  It is becoming damp the deeper you go into the
+maze. You hear footsteps down the tunnel and the smell is becoming
+unbearable.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 122V 1X 64.53% 438C Mem:3 T:19 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     You realize that horrid smell is coming from the half eaten corpses of
+adventurers and kobolds that line the walls.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 121V 1X 64.53% 438C Mem:3 T:19 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Maze
+     You look around the room to see that the maze is split.  The corpse of
+a warrior is lying on the ground being eaten by some small rats.  To the
+east the maze continues but to the west it is too dark to see but you can
+hear shuffle of many limbs in motion.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 120V 1X 64.53% 438C Mem:3 T:18 Exits:ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Dark Cavern
+     Thick webs crisscross the small cavern, filled with the bodies of
+unwary adventurers who travelled here before you. A small clicking sound
+can be heard echoing throughout the cave.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cave spider flits about on its web.
+A cave spider flits about on its web.
+A cave spider flits about on its web.
+A cave spider flits about on its web.
+A cave spider hits Kor the bronze dragon.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Perfect] Mem:3 T:15 Exits:E> 
+
+order kor ass
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Perfect] Mem:3 T:14 Exits:E> 
+
+
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+You stab a cave spider hard.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+Kor the bronze dragon hits a cave spider.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Good] Mem:3 T:12 Exits:E> 
+
+
+A cave spider is hit by Kor the bronze dragon's lightning breath.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Good] Mem:3 T:12 Exits:E> 
+
+str
+You attempt to strike at a cave spider with your pike.
+You stab a cave spider very hard.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Fair] Mem:3 T:11 Exits:E> 
+
+
+A cave spider misses you with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+You stab a cave spider very hard.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+Kor the bronze dragon barely hits a cave spider.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Fair] Mem:3 T:8 Exits:E> 
+
+str
+You attempt to strike at a cave spider with your pike.
+You stab a cave spider very hard.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:V.Bad] Mem:3 T:7 Exits:E> 
+
+
+A cave spider misses you with its hit.
+A cave spider barely hits Kor the bronze dragon.
+A cave spider misses you with its hit.
+A cave spider misses you with its hit.
+You stab a cave spider very hard.
+A cave spider misses you with its hit.
+Kor the bronze dragon hits a cave spider hard.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Awful] Mem:3 T:4 Exits:E> 
+
+str
+You strike at a cave spider, but miss it completely.
+
+614H 118V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Awful] Mem:3 T:3 Exits:E> 
+
+
+A cave spider misses you with its hit.
+A cave spider misses you with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+You stab a cave spider very hard.
+A cave spider is incapacitated and will slowly die, if not aided.
+Kor the bronze dragon hits a cave spider hard.
+A cave spider is stunned, but will likely regain consciousness again.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider lies immobile on the ground, suffering...
+A cave spider is incapacitated and will slowly die, if not aided.
+
+614H 142V 1X 64.53% 438C [a cave spider:Dying] Mem:3 T:60 Exits:E> 
+
+str
+You attempt to strike at a cave spider with your pike.
+You annihilate a cave spider with your stab.
+You receive 0 experience.
+A cave spider is dead! R.I.P.
+
+614H 142V 1X 64.53% 438C [a cave spider:Dying] Mem:3 T:58 Exits:E> 
+
+
+The death cry of a cave spider echoes from somewhere nearby...
+You direct your attention to a cave spider.
+
+614H 142V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Perfect] Mem:3 T:58 Exits:E> 
+
+take all corpse
+
+You stab a cave spider hard.
+A cave spider misses Kor the bronze dragon with its hit.
+A cave spider misses you with its hit.
+A cave spider misses you with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+Kor the bronze dragon hits a cave spider hard.
+A cave spider is incapacitated and will slowly die, if not aided.
+
+614H 142V 1X 64.53% 438C [Zargothrax:Perfect] [a cave spider:Good] Mem:3 T:56 Exits:E> 
+
+You get a pile of coins from the corpse of a cave spider.
+There were 38 coins.
+You get a black key from the corpse of a cave spider.
+
+614H 142V 1X 64.53% 476C [Zargothrax:Perfect] [a cave spider:Good] Mem:3 T:54 Exits:E> 
+
+fl
+PANIC! You couldn't escape!
+
+614H 142V 1X 64.53% 476C [Zargothrax:Perfect] [a cave spider:Good] Mem:3 T:53 Exits:E> 
+
+
+You stab a cave spider hard.
+A cave spider misses you with its hit.
+A cave spider misses Kor the bronze dragon with its hit.
+Kor the bronze dragon massacres a cave spider with his hit.
+You receive 0 experience.
+A cave spider is dead! R.I.P.
+The death cry of a cave spider echoes from somewhere nearby...
+
+614H 142V 1X 64.53% 476C [Zargothrax:Perfect] [a cave spider:Fair] Mem:3 T:52 Exits:E> 
+
+fl
+You flee head over heels.
+The Maze
+     You look around the room to see that the maze is split.  The corpse of
+a warrior is lying on the ground being eaten by some small rats.  To the
+east the maze continues but to the west it is too dark to see but you can
+hear shuffle of many limbs in motion.
+
+614H 140V 1X 64.53% 476C Mem:3 T:52 Exits:ESW> 
+
+
+Kor the bronze dragon arrives from the west.
+
+614H 140V 1X 64.53% 476C Mem:3 T:48 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The tunnel begins to slope slightly downward now.  You see students of
+the school wandering around in these tunnels probably lost.
+Kor the bronze dragon is standing here, awaiting a rider.
+A paladin with a red sash tied to his waist is standing here.
+
+614H 139V 1X 64.53% 476C Mem:3 T:45 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The tunnel continues downward.  You wonder how much deeper it could
+go.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 138V 1X 64.53% 476C Mem:3 T:45 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     To the north a dim light can be seen.  To the south the maze
+continues. The floor of the tunnel is becoming moist and you notice it is
+getting colder and colder.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 137V 1X 64.53% 476C Mem:3 T:44 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Maze
+     You are now walking in slushy mud in the tunnel.  If it gets any
+deeper you will not be able to continue onward.  You can see a light down
+the tunnel however, and the slush doesn't look too deep.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 136V 1X 64.53% 476C Mem:3 T:43 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The maze continues further to the east.  The light at the end of the
+tunnel is getting brighter.  You can hear a pair of muffled voices arguing
+but you are unable to make out any of the words.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 135V 1X 64.53% 476C Mem:3 T:43 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The two voices are getting louder as you approach.  The mud is still
+slightly slushy but is causing no inconvenience in walking.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 64.53% 476C Mem:3 T:42 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The light from the room to the east lights up this one enough to look
+at the walls.  The thick pieces of wood that brace the tunnel are decaying.
+But they still look sturdy enough to last a few more years.  The muffled
+voices can be heard clearly.  Two men are arguing about whether or not to
+go deeper into the maze.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 133V 1X 64.53% 476C Mem:3 T:42 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Split in the Maze
+     You enter the room and the two men appear to ignore you, still arguing
+about whether or not to go on.  The knight acts as if he is afraid to face
+the dark paladin who runs this maze but is still willing to go on, while
+his mage friend wishes to head back now.  The room is illuminated by a few
+torches hanging on the walls.  The muddy floor has dried out a bit and is
+more stable for walking.
+Kor the bronze dragon is standing here, awaiting a rider.
+A warrior with a green sash tied to his waist is standing here.
+A mage with a green sash tied to his waist is standing here.
+
+614H 132V 1X 64.53% 476C Mem:3 T:41 Exits:(E)SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Maze
+     The tunnel is now lit very well now with many torches along the walls.
+The ground has dried out and is now dry dirt.  This path obviously leads
+somewhere important since it is well built.  The blocks of wood in the
+tunnels have all been replaced and repaired as necessary.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 131V 1X 64.53% 476C Mem:3 T:41 Exits:NW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Maze
+     The tunnel narrows here.  A door can be seen to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 64.53% 476C Mem:3 T:40 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Maze
+     You hear voices behind the closed door and the sound of moving bodies.
+The bronze door is not built that sturdy and looks like it could be
+completely destroyed with a big collision.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 129V 1X 64.53% 476C Mem:3 T:40 Exits:E(W)> 
+
+unl door
+*click* as you use a black key.
+The key turns to dust as its usefulness ends.
+
+614H 129V 1X 64.53% 476C Mem:3 T:38 Exits:E(W)> 
+
+op door
+Ok.
+
+614H 129V 1X 64.53% 476C Mem:3 T:37 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Apprentices Room
+     This room is protected by the sorcerer's apprentices.  It is dingy and
+dirty but each of the apprentices has their own place to sleep and to study.
+To the north lies the sorcerer's sleeping chambers.  He does not like to be
+disturbed.
+Kor the bronze dragon is standing here, awaiting a rider.
+A young mage wearing a long black robe is standing here. (black aura)
+A young mage wearing a long black robe is standing here. (black aura)
+An apprentice mage misses you with his hit.
+An apprentice mage focuses harshly on Kor the bronze dragon and utters some strange words.
+An apprentice mage shoots webs at Kor the bronze dragon but narrowly misses him!
+An apprentice mage misses Kor the bronze dragon with his hit.
+
+614H 128V 1X 64.53% 476C [Zargothrax:Perfect] [an apprentice mage:Perfect] Mem:3 T:36 Exits:NE> 
+
+ass
+You can't do that while fighting.
+
+614H 128V 1X 64.53% 476C [Zargothrax:Perfect] [an apprentice mage:Perfect] Mem:3 T:35 Exits:NE> 
+
+order kor ass
+
+614H 128V 1X 64.53% 476C [Zargothrax:Perfect] [an apprentice mage:Perfect] Mem:3 T:33 Exits:NE> 
+
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits an apprentice mage.
+An apprentice mage misses you with his hit.
+An apprentice mage dodges your attack!
+
+614H 128V 1X 64.53% 476C [Zargothrax:Perfect] [an apprentice mage:Perfect] Mem:3 T:32 Exits:NE> 
+
+
+An apprentice mage focuses harshly on you and utters some strange words.
+You are caught in some of an apprentice mage's acid!
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Perfect] Mem:3 T:32 Exits:NE> 
+
+av l
+You focus your purity on an apprentice mage's leg!
+You force an apprentice mage to the ground.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Perfect] Mem:3 T:31 Exits:NE> 
+
+str
+
+An apprentice mage is hit by Kor the bronze dragon's lightning breath.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Perfect] Mem:3 T:30 Exits:NE> 
+
+str
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits an apprentice mage hard.
+An apprentice mage misses you with his hit.
+You massacre an apprentice mage with your stab.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Fair] Mem:3 T:28 Exits:NE> 
+
+cancel
+Cancelled 2 queued commands.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Fair] Mem:3 T:28 Exits:NE> 
+
+reck
+A godly anger burns within you, let the heretics feel your wrath!
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Fair] Mem:3 T:27 Exits:NE> 
+
+ral
+You yell and inspire your companions to fight harder!
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Fair] Mem:3 T:26 Exits:NE> 
+
+
+An apprentice mage focuses harshly on you and utters some strange words.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Fair] Mem:3 T:26 Exits:NE> 
+
+str
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits an apprentice mage hard.
+An apprentice mage misses you with his hit.
+You annihilate an apprentice mage with your stab.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:V.Bad] Mem:3 T:24 Exits:NE> 
+
+str
+You attempt to strike at an apprentice mage with your pike.
+You massacre an apprentice mage with your stab.
+
+594H 128V 1X 64.53% 476C [Zargothrax:V.Good] [an apprentice mage:Awful] Mem:3 T:22 Exits:NE> 
+
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits an apprentice mage hard.
+An apprentice mage misses you with his hit.
+You annihilate an apprentice mage with your stab.
+You receive 0 experience.
+An apprentice mage is dead! R.I.P.
+The death cry of an apprentice mage echoes from somewhere nearby...
+
+594H 128V 1X 64.53% 476C Mem:3 T:20 Exits:NE> 
+
+An apprentice mage focuses harshly on you and utters some strange words.
+
+594H 128V 1X 64.53% 476C Mem:3 T:20 Exits:NE> 
+You couldn't find what you were looking for.
+
+594H 128V 1X 64.53% 476C Mem:3 T:18 Exits:NE> 
+
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon barely hits an apprentice mage.
+
+594H 128V 1X 64.53% 476C Mem:3 T:16 Exits:NE> 
+
+
+An apprentice mage misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits an apprentice mage.
+
+594H 128V 1X 64.53% 476C Mem:3 T:12 Exits:NE> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre an apprentice mage with your stab.
+
+594H 128V 1X 64.53% 476C [Kor the bronze dragon:Perfect] [an apprentice mage:Awful] Mem:3 T:10 Exits:NE> 
+
+str
+
+You massacre an apprentice mage with your stab.
+An apprentice mage is mortally wounded, and will die soon, if not aided.
+Kor the bronze dragon massacres an apprentice mage with his hit.
+You receive 0 experience.
+An apprentice mage is dead! R.I.P.
+The death cry of an apprentice mage echoes from somewhere nearby...
+
+594H 128V 1X 64.53% 476C Mem:3 T:8 Exits:NE> 
+
+take all corpse
+tak all 2.corpse
+You couldn't find what you were looking for.
+
+594H 128V 1X 64.53% 476C Mem:3 T:6 Exits:NE> 
+
+You get a purple shirt from the corpse of an apprentice mage.
+You get a pile of coins from the corpse of an apprentice mage.
+There were 18 coins.
+You get a butterfly wing from the corpse of an apprentice mage.
+
+594H 128V 1X 64.53% 494C Mem:3 T:6 Exits:NE> 
+
+You get a pile of coins from the corpse of an apprentice mage.
+There were 18 coins.
+
+594H 128V 1X 64.53% 512C Mem:3 T:5 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+Sorcerer's Chambers
+     This room is built with care and it does not look like all the other
+dirty maze rooms.  Its walls are all white and the floor is made from hard
+rock.  The sorcerer's work table is well organized and his cabinet is
+neatly filled with potions and scrolls.  The bed however is covered in
+black satin sheets.
+Kor the bronze dragon is standing here, awaiting a rider.
+You sense a life form.
+
+594H 127V 1X 64.53% 512C Mem:3 T:4 Exits:S> 
+
+tak milky bag
+You get a milky potion of see invisible from a bag of shadows.
+
+614H 142V 1X 64.53% 512C Mem:2 T:60 Exits:S> 
+
+quaf milky
+You quaff a milky potion of see invisible.
+Your mind races and after rubbing your eyes a bit, things look sharper.
+Your eyes tingle.
+
+614H 142V 1X 64.53% 512C Mem:2 T:57 Exits:S> 
+
+order kor ki wyne
+ass
+
+614H 142V 1X 64.53% 512C Mem:2 T:54 Exits:S> 
+
+Assist whom?
+
+614H 142V 1X 64.53% 512C Mem:2 T:53 Exits:S> 
+
+l
+Sorcerer's Chambers
+     This room is built with care and it does not look like all the other
+dirty maze rooms.  Its walls are all white and the floor is made from hard
+rock.  The sorcerer's work table is well organized and his cabinet is
+neatly filled with potions and scrolls.  The bed however is covered in
+black satin sheets.
+Kor the bronze dragon is standing here, awaiting a rider.
+Wyne, the master sorcerer working within his study is standing here. (invisible)
+
+614H 142V 1X 64.53% 512C Mem:2 T:52 Exits:S> 
+
+ki wyne
+You massacre Wyne with your stab.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Good] Mem:2 T:50 Exits:S> 
+
+
+You stab Wyne very hard.
+Wyne slowly fades into existence.
+Wyne misses you with his hit.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Fair] Mem:2 T:48 Exits:S> 
+
+order kor ass
+av l
+Kor the bronze dragon hits Wyne.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Fair] Mem:2 T:45 Exits:S> 
+
+You focus your purity on Wyne's leg!
+You focus on Wyne's legs, but are thwarted.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Fair] Mem:2 T:45 Exits:S> 
+
+str
+
+Sweat dripping, your anger subsides, your blood cools.
+Kor the bronze dragon hits Wyne.
+You stab Wyne hard.
+Wyne misses you with his hit.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Bad] Mem:2 T:44 Exits:S> 
+
+
+Wyne focuses harshly on you and utters some strange words.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Bad] Mem:2 T:44 Exits:S> 
+
+str
+You attempt to strike at Wyne with your pike.
+You stab Wyne extremely hard.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:V.Bad] Mem:2 T:41 Exits:S> 
+
+Kor the bronze dragon hits Wyne hard.
+You massacre Wyne with your stab.
+Wyne misses you with his hit.
+
+614H 142V 1X 64.53% 512C [Zargothrax:Perfect] [Wyne:Awful] Mem:2 T:40 Exits:S> 
+
+
+Wyne focuses harshly on you and utters some strange words.
+YOU'RE HIT. A lightning bolt from Wyne has reached its goal.
+
+570H 142V 1X 64.53% 512C [Zargothrax:V.Good] [Wyne:Awful] Mem:2 T:38 Exits:S> 
+
+str
+Kor the bronze dragon hits Wyne.
+You stab Wyne hard.
+Wyne is incapacitated and will slowly die, if not aided.
+You attempt to strike at Wyne with your pike.
+You annihilate Wyne with your stab.
+You receive 0 experience.
+Wyne is dead! R.I.P.
+
+570H 142V 1X 64.87% 512C [Wyne:Dying] Mem:2 T:36 Exits:S> 
+
+
+The death cry of Wyne echoes from somewhere nearby...
+
+570H 142V 1X 64.87% 512C Mem:2 T:36 Exits:S> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+570H 142V 1X 64.87% 512C Mem:2 T:32 Exits:S> 
+
+You get a small pile of coins from the corpse of Wyne.
+There were 2 coins.
+You get a black key from the corpse of Wyne.
+
+570H 142V 1X 64.87% 514C Mem:2 T:32 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+Apprentices Room
+     This room is protected by the sorcerer's apprentices.  It is dingy and
+dirty but each of the apprentices has their own place to sleep and to study.
+To the north lies the sorcerer's sleeping chambers.  He does not like to be
+disturbed.
+The corpse of an apprentice mage is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+570H 141V 1X 64.87% 514C Mem:2 T:31 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     You hear voices behind the closed door and the sound of moving bodies.
+The bronze door is not built that sturdy and looks like it could be
+completely destroyed with a big collision.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+570H 140V 1X 64.87% 514C Mem:2 T:30 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The tunnel narrows here.  A door can be seen to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+570H 139V 1X 64.87% 514C Mem:2 T:30 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Maze
+     The tunnel is now lit very well now with many torches along the walls.
+The ground has dried out and is now dry dirt.  This path obviously leads
+somewhere important since it is well built.  The blocks of wood in the
+tunnels have all been replaced and repaired as necessary.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+570H 138V 1X 64.87% 514C Mem:2 T:30 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Split in the Maze
+     You enter the room and the two men appear to ignore you, still arguing
+about whether or not to go on.  The knight acts as if he is afraid to face
+the dark paladin who runs this maze but is still willing to go on, while
+his mage friend wishes to head back now.  The room is illuminated by a few
+torches hanging on the walls.  The muddy floor has dried out a bit and is
+more stable for walking.
+Kor the bronze dragon is standing here, awaiting a rider.
+A warrior with a green sash tied to his waist is standing here.
+A mage with a green sash tied to his waist is standing here.
+
+570H 137V 1X 64.87% 514C Mem:2 T:29 Exits:(E)SW> 
+
+unl door e
+*click* as you use a black key.
+The key turns to dust as its usefulness ends.
+
+570H 137V 1X 64.87% 514C Mem:2 T:27 Exits:(E)SW> 
+
+e
+The door seems to be closed.
+
+570H 137V 1X 64.87% 514C Mem:2 T:27 Exits:(E)SW> 
+
+op door e
+Ok.
+
+570H 137V 1X 64.87% 514C Mem:2 T:23 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Kobold Lair
+     This room contains the bodies of the fallen adventurers who have
+travelled this deep into the maze.  The kobolds hunt them and bring the
+corpses here to loot.  To the north the tunnel opens up into a large
+treasure room.  All the kobolds gather in there.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kobold guarding his lair is standing here.
+A kobold guarding his lair is standing here.
+A kobold guarding his lair is standing here.
+A kobold tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+A kobold misses Kor the bronze dragon with his hit.
+A kobold tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+570H 136V 1X 64.87% 514C Mem:2 T:23 Exits:NW> 
+
+n
+Treasure Room
+    The room is littered with bones of enemies, broken suits of armor,
+weapons, and scattered coins. The kobolds here do not like intruders into
+their part of the maze. Not many people get this far so the equipment is
+very slim pickings.
+A strong leader of the kobold clan looking over his treasure is standing here. (black aura)
+A kobold guarding his lair is standing here.
+
+570H 135V 1X 64.87% 514C Mem:2 T:22 Exits:S> 
+
+ki leader
+You massacre a kobold leader with your stab.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Good] Mem:2 T:21 Exits:S> 
+
+You stab a kobold leader extremely hard.
+A kobold leader misses you with his hit.
+Kor the bronze dragon arrives from the south.
+A kobold spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Fair] Mem:2 T:20 Exits:S> 
+
+av l
+
+A kobold misses Kor the bronze dragon with his hit.
+Kor the bronze dragon barely hits a kobold.
+You stab a kobold leader extremely hard.
+A kobold leader misses you with his hit.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Fair] Mem:2 T:16 Exits:S> 
+
+You focus your purity on a kobold leader's leg!
+You focus on a kobold leader's legs, but are thwarted.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Fair] Mem:2 T:16 Exits:S> 
+
+str
+
+A kobold gives Kor the bronze dragon a solid punch in the face.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Fair] Mem:2 T:13 Exits:S> 
+
+
+A kobold barely hits Kor the bronze dragon.
+Kor the bronze dragon barely hits a kobold.
+You stab a kobold leader extremely hard.
+A kobold leader misses you with his hit.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:V.Bad] Mem:2 T:12 Exits:S> 
+
+A kobold is hit by Kor the bronze dragon's lightning breath.
+You attempt to strike at a kobold leader with your pike.
+You stab a kobold leader very hard.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:V.Bad] Mem:2 T:12 Exits:S> 
+
+str
+
+A kobold misses you with his hit.
+Kor the bronze dragon hits a kobold hard.
+You massacre a kobold leader with your stab.
+A kobold leader misses you with his hit.
+
+570H 135V 1X 64.87% 514C [Zargothrax:V.Good] [a kobold leader:Awful] Mem:2 T:8 Exits:S> 
+
+You attempt to strike at a kobold leader with your pike.
+You stab a kobold leader hard.
+A kobold leader is mortally wounded, and will die soon, if not aided.
+
+570H 135V 1X 64.87% 514C [a kobold leader:Dying] Mem:2 T:7 Exits:S> 
+
+
+The rally cry fades.
+A kobold misses you with his hit.
+Kor the bronze dragon hits a kobold.
+You obliterate a kobold leader with your stab.
+You receive 0 experience.
+A kobold leader is dead! R.I.P.
+The death cry of a kobold leader echoes from somewhere nearby...
+You direct your attention to a kobold.
+
+570H 135V 1X 65.21% 514C [Zargothrax:V.Good] [a kobold:V.Bad] Mem:2 T:4 Exits:S> 
+
+take all corpse
+You massacre a kobold with your stab.
+A kobold misses you with his hit.
+Kor the bronze dragon hits a kobold.
+A kobold is incapacitated and will slowly die, if not aided.
+A kobold lies immobile on the ground, suffering...
+A kobold is mortally wounded, and will die soon, if not aided.
+The elixir flashes a silvery glint and twinkles out.
+You get some deer skin sleeves of blending from the corpse of a kobold leader.
+You get a jagged bracer from the corpse of a kobold leader.
+You get a pile of coins from the corpse of a kobold leader.
+There were 30 coins.
+You get a black key from the corpse of a kobold leader.
+
+602H 142V 1X 65.21% 544C [a kobold:Dying] Mem:2 T:60 Exits:S> 
+
+l
+Treasure Room
+    The room is littered with bones of enemies, broken suits of armor,
+weapons, and scattered coins. The kobolds here do not like intruders into
+their part of the maze. Not many people get this far so the equipment is
+very slim pickings.
+The corpse of a kobold leader is lying here.
+Kor the bronze dragon is standing here, fighting a kobold.
+A kobold is lying here, about to die.
+
+602H 142V 1X 65.21% 544C [Kor the bronze dragon:V.Good] [a kobold:Dying] Mem:2 T:59 Exits:S> 
+
+
+You obliterate a kobold with your stab.
+You receive 0 experience.
+A kobold is dead! R.I.P.
+The death cry of a kobold echoes from somewhere nearby...
+
+602H 142V 1X 65.21% 544C Mem:2 T:56 Exits:S> 
+
+take all corpse
+You get a dirty pair of pants from the corpse of a kobold.
+You get a pile of coins from the corpse of a kobold.
+There were 24 coins.
+You get a dirty pair of pants from the corpse of a kobold.
+You get a jagged bracer from the corpse of a kobold.
+
+602H 142V 1X 65.21% 568C Mem:2 T:56 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Kobold Lair
+     This room contains the bodies of the fallen adventurers who have
+travelled this deep into the maze.  The kobolds hunt them and bring the
+corpses here to loot.  To the north the tunnel opens up into a large
+treasure room.  All the kobolds gather in there.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kobold guarding his lair is standing here.
+A kobold guarding his lair is standing here.
+A kobold guarding his lair is standing here.
+A kobold spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+A kobold gives Kor the bronze dragon a solid punch in the face.
+A kobold delivers a quick snap kick to Kor the bronze dragon. Kor the bronze dragon staggers and tries to recover.
+
+602H 141V 1X 65.21% 568C Mem:2 T:55 Exits:NW> 
+
+A kobold stumbles and falls while trying to bash Kor the bronze dragon.
+
+602H 141V 1X 65.21% 568C Mem:2 T:54 Exits:NW> 
+
+w
+A Split in the Maze
+     You enter the room and the two men appear to ignore you, still arguing
+about whether or not to go on.  The knight acts as if he is afraid to face
+the dark paladin who runs this maze but is still willing to go on, while
+his mage friend wishes to head back now.  The room is illuminated by a few
+torches hanging on the walls.  The muddy floor has dried out a bit and is
+more stable for walking.
+A warrior with a green sash tied to his waist is standing here.
+A mage with a green sash tied to his waist is standing here.
+
+602H 140V 1X 65.21% 568C Mem:2 T:54 Exits:ESW> 
+
+w
+The Maze
+     The light from the room to the east lights up this one enough to look
+at the walls.  The thick pieces of wood that brace the tunnel are decaying.
+But they still look sturdy enough to last a few more years.  The muffled
+voices can be heard clearly.  Two men are arguing about whether or not to
+go deeper into the maze.
+
+602H 139V 1X 65.21% 568C Mem:2 T:46 Exits:EW> 
+
+w
+The Maze
+     The two voices are getting louder as you approach.  The mud is still
+slightly slushy but is causing no inconvenience in walking.
+
+602H 138V 1X 65.21% 568C Mem:2 T:46 Exits:EW> 
+
+w
+The Maze
+     The maze continues further to the east.  The light at the end of the
+tunnel is getting brighter.  You can hear a pair of muffled voices arguing
+but you are unable to make out any of the words.
+
+602H 137V 1X 65.21% 568C Mem:2 T:45 Exits:EW> 
+
+w
+The Maze
+     You are now walking in slushy mud in the tunnel.  If it gets any
+deeper you will not be able to continue onward.  You can see a light down
+the tunnel however, and the slush doesn't look too deep.
+
+602H 136V 1X 65.21% 568C Mem:2 T:45 Exits:NE> 
+
+n
+The Maze
+     To the north a dim light can be seen.  To the south the maze
+continues. The floor of the tunnel is becoming moist and you notice it is
+getting colder and colder.
+
+602H 135V 1X 65.21% 568C Mem:2 T:41 Exits:NSW> 
+
+n
+Dead End
+     This room is very odd.  There are a lot of tracks that lead here and a
+few broken weapons and shields yet no exit but the one which you arrived
+from. The north wall has some strange stones embedded in it which give off
+a very low source of illumination.
+
+602H 134V 1X 65.21% 568C Mem:2 T:41 Exits:S> 
+
+roll stone
+You roll the middle stone and it spins in place for a moment.
+A brief flash of light fills the room and the northern wall vanishes.
+
+602H 134V 1X 65.21% 568C Mem:2 T:39 Exits:NS> 
+
+n
+Dark Hallway
+     The secret pasageway continues to the north.  The room ahead looks
+like another dead end.  You begin to wonder if anyone has come this way in
+a long while.  Perhaps others know something about this place you don't.
+
+602H 133V 1X 65.21% 568C Mem:2 T:36 Exits:NS> 
+
+n
+Dark Hallway
+     The secret passage is empty but there is a door on the floor.
+
+602H 132V 1X 65.21% 568C Mem:2 T:35 Exits:S(D)> 
+
+op door
+It seems to be locked.
+
+602H 132V 1X 65.21% 568C Mem:2 T:34 Exits:S(D)> 
+
+unl door
+*click* as you use a black key.
+The key turns to dust as its usefulness ends.
+
+602H 132V 1X 65.21% 568C Mem:2 T:32 Exits:S(D)> 
+
+op door
+Ok.
+
+602H 132V 1X 65.21% 568C Mem:2 T:31 Exits:SD> 
+
+d
+Deep in the Maze
+     You have entered the second level of the maze.  There is a sign on the
+ground.
+
+602H 131V 1X 65.21% 568C Mem:2 T:31 Exits:SU> 
+
+s
+Entrance to Maze of the Dead
+     This is the entrance to the maze of the dead.  You must be sure you
+wish to go forward before you enter.  Some have entered and never been able
+to find the exit.  Kod, The dark paladin's domain is well hidden.  Only the
+best adventurers will endure the maze.
+
+602H 130V 1X 65.21% 568C Mem:2 T:30 Exits:NS> 
+
+s
+Lost in the Maze
+     The passageway which you came through is no longer open.  Every exit
+looks like every other exit.  The room is very dark and you can hear the
+echoes of creatures throughout the room.
+
+602H 129V 1X 65.21% 568C Mem:2 T:28 Exits:ESW> 
+
+s
+Lost in the Maze
+     You have moved deeper into the maze.  Again all exits seem to lead to
+nowhere, however, with the sounds of creatures moving close you should
+probably move onward.
+
+602H 128V 1X 65.21% 568C Mem:2 T:28 Exits:NESW> 
+
+e
+Lost in the Maze
+     The room is very dark and cold.  There are exits in all directions and
+one can hear random noises echoing throughout the halls.  You hope you can
+find your way out soon.
+An evil looking demon with glowing eyes is standing here. (black aura)
+A demon misses you with his hit.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:Perfect] Mem:2 T:27 Exits:NESW> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 65.21% of your next rank.
+You are 19 years old.
+You have 602(614) hit and 127(142) movement points.
+Your behaviour has been Good.
+Your fervent faith is confident and strong.
+You have scored 179,999,999 exp, and have 568(208967) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 17 minute(s).
+You have been playing for 4 day(s), 20 hour(s) and 56 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting a demon.
+You are affected by the following:
+    detect invisibility
+    sanctuary            [4 hrs]
+    aura of glory        [17 hrs]
+    holy arms            [7 hrs]
+    bless                [12 hrs]
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:Perfect] Mem:2 T:26 Exits:NESW> 
+
+
+A demon misses you with his hit.
+You stab a demon very hard.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:Good] Mem:2 T:24 Exits:NESW> 
+
+c 'sum mou'
+
+A demon misses you with his hit.
+A demon misses you with his hit.
+You massacre a demon with your stab.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:Fair] Mem:2 T:20 Exits:NESW> 
+You utter the words, 'summon mount'
+Kor the bronze dragon suddenly appears!
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:Fair] Mem:2 T:20 Exits:NESW> 
+
+order kor ass
+str
+
+A demon misses you with his hit.
+You stab a demon extremely hard.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:V.Bad] Mem:2 T:16 Exits:NESW> 
+
+Kor the bronze dragon misses a demon with his hit.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:V.Bad] Mem:2 T:16 Exits:NESW> 
+
+You attempt to strike at a demon with your pike.
+You stab a demon hard.
+
+602H 127V 1X 65.21% 568C [Zargothrax:V.Good] [a demon:V.Bad] Mem:2 T:16 Exits:NESW> 
+
+
+Kor the bronze dragon hits a demon hard.
+A demon misses you with his hit.
+A demon misses you with his hit.
+You stab a demon extremely hard.
+A demon is mortally wounded, and will die soon, if not aided.
+
+602H 127V 1X 65.21% 568C [a demon:Dying] Mem:2 T:12 Exits:NESW> 
+
+
+A demon is hit by Kor the bronze dragon's lightning breath.
+A demon is mortally wounded, and will die soon, if not aided.
+
+602H 127V 1X 65.21% 568C [a demon:Dying] Mem:2 T:12 Exits:NESW> 
+
+
+Kor the bronze dragon massacres a demon with his hit.
+You receive 0 experience.
+A demon is dead! R.I.P.
+The death cry of a demon echoes from somewhere nearby...
+
+602H 127V 1X 65.21% 568C Mem:2 T:8 Exits:NESW> 
+
+take all corpse
+You get a pile of coins from the corpse of a demon.
+There were 20 coins.
+
+602H 127V 1X 65.21% 588C Mem:2 T:8 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Lost in the Maze
+     You are deep in a maze with exits in all directions.  You are
+beginning to wonder if there even is a way out.  The maze just could be a
+giant dead end.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 126V 1X 65.21% 588C Mem:2 T:7 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Lost in the Maze
+     There are exits in all directions and noises coming in from all sides.
+These passageways cant go on forever although they seem to.  There must be
+a way out.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 125V 1X 65.21% 588C Mem:2 T:6 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Lost in the Maze
+     You are completely lost in the maze.  There are exits in all
+directions. This maze is making you dizzy and you appear to end up in a
+room that is the same as the one you just left although that doesnt seem
+possible.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 124V 1X 65.21% 588C Mem:2 T:5 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Lost in the Maze
+     There are exits in all directions and noises coming in from all sides.
+These passageways cant go on forever although they seem to.  There must be
+a way out.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 123V 1X 65.21% 588C Mem:2 T:5 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Lost in the Maze
+     You are completely lost in the maze.  Having directions in every
+direction makes it even harder to get a feel of which way to go.  You can
+hear movement coming from adjoining rooms.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 122V 1X 65.21% 588C Mem:2 T:4 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Lost in the Maze
+     You are completely lost in the maze.  Two glowing eyes are scouting
+you from all sides as if waiting to attack at the right time.  Just as you
+think you have got a fix on the eyes they vanish into the darkness.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 121V 1X 65.21% 588C Mem:2 T:4 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Lost in the Maze
+     You are lost in the maze.  Beastly moans and groans now accompany the
+eyes in the dark.  Kod has sent his minions to make sure you don't find his
+lair.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 120V 1X 65.21% 588C Mem:2 T:3 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Exit
+    You have reached the end of the maze. But choose your direction wisely
+or you may end up back where you started. The noises have now gone silent,
+the maze creatures waiting for you to select wrong so they may feast on you
+again.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+602H 119V 1X 65.21% 588C Mem:2 T:3 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dark Path
+     You have made it out of the maze.  The dim hallway draws you in and
+beckons you to continue down the hallway.  This is the domain of the evil
+paladin Kod.
+Kor the bronze dragon is standing here, awaiting a rider.
+An evil looking demon with glowing eyes is standing here. (black aura)
+A demon misses you with his hit.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:Perfect] Mem:1 T:59 Exits:NS> 
+
+order kor ass
+Kor the bronze dragon barely hits a demon.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:V.Good] Mem:1 T:57 Exits:NS> 
+
+
+Kor the bronze dragon hits a demon hard.
+A demon misses you with his hit.
+A demon misses you with his hit.
+You massacre a demon with your stab.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:Fair] Mem:1 T:56 Exits:NS> 
+
+av l
+You focus your purity on a demon's leg!
+You focus on a demon's legs, but are thwarted.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:Fair] Mem:1 T:56 Exits:NS> 
+
+str
+str
+str
+
+Kor the bronze dragon hits a demon.
+A demon misses you with his hit.
+You stab a demon extremely hard.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:V.Bad] Mem:1 T:52 Exits:NS> 
+
+You attempt to strike at a demon with your pike.
+You stab a demon extremely hard.
+
+614H 141V 1X 65.21% 588C [Zargothrax:Perfect] [a demon:Awful] Mem:1 T:51 Exits:NS> 
+
+
+Kor the bronze dragon misses a demon with his hit.
+A demon misses you with his hit.
+You massacre a demon with your stab.
+You receive 0 experience.
+A demon is dead! R.I.P.
+The death cry of a demon echoes from somewhere nearby...
+
+614H 141V 1X 65.21% 588C Mem:1 T:48 Exits:NS> 
+
+You couldn't find what you were looking for.
+
+614H 141V 1X 65.21% 588C Mem:1 T:47 Exits:NS> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+614H 141V 1X 65.21% 588C Mem:1 T:47 Exits:NS> 
+
+You get a pile of coins from the corpse of a demon.
+There were 24 coins.
+
+614H 141V 1X 65.21% 612C Mem:1 T:47 Exits:NS> 
+s
+Kor the bronze dragon arrives from the north.
+Tunnel to the Pool
+     The dark path leads you to a fork.  Off to the west a cave opens and
+you are able to hear the sounds of dripping water and a large splash now
+and then.  There is nothing to see but darkness to the east as the dark
+path continues.
+Kor the bronze dragon is standing here, awaiting a rider.
+An evil looking demon with glowing eyes is standing here. (black aura)
+A demon misses Kor the bronze dragon with his hit.
+
+614H 139V 1X 65.21% 612C Mem:1 T:46 Exits:NEW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You find an opening in a demon's armor and drive your pike there.
+You massacre a demon with your stab.
+
+614H 139V 1X 65.21% 612C [Kor the bronze dragon:V.Good] [a demon:Fair] Mem:1 T:45 Exits:NEW> 
+
+
+You stab a demon very hard.
+A demon misses Kor the bronze dragon with his hit.
+A demon misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a demon.
+
+614H 139V 1X 65.21% 612C [Kor the bronze dragon:V.Good] [a demon:Bad] Mem:1 T:44 Exits:NEW> 
+
+ski
+
+You stab a demon very hard.
+A demon misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a demon.
+
+614H 139V 1X 65.21% 612C [Kor the bronze dragon:V.Good] [a demon:V.Bad] Mem:1 T:40 Exits:NEW> 
+
+Your skills:
+
+Note: ** means the skill is ready for training with a guildmaster.
+
+ 1:  bludgeons     (fair)              long blades   (superb)          
+     miscellaneous (awful)             piercers      (excellent)       
+     pole arms     (superb)            short blades  (average)         
+     two-handed    (poor)            
+
+     lay           (excellent)         rescue        (excellent)       
+     bandage       (superb)            shield block  (superb)          
+     strike        (superb)          
+     march         (awful)             reckoning     (superb)          
+     turn          (good)            
+     beseech       (poor)              rally         (superb)          
+     avenging faith (superb)            guard         (awful)           
+
+614H 139V 1X 65.21% 612C [Kor the bronze dragon:V.Good] [a demon:V.Bad] Mem:1 T:40 Exits:NEW> 
+
+resc
+What a self-sacrificing act! You're such a hero!
+
+614H 139V 1X 65.21% 612C [Zargothrax:Perfect] [a demon:V.Bad] Mem:1 T:38 Exits:NEW> 
+
+order kor ass
+
+A demon misses you with his hit.
+A demon misses you with his hit.
+You massacre a demon with your stab.
+
+614H 139V 1X 65.21% 612C [Zargothrax:Perfect] [a demon:Awful] Mem:1 T:36 Exits:NEW> 
+
+Kor the bronze dragon barely hits a demon.
+A demon is stunned, but will likely regain consciousness again.
+
+614H 139V 1X 65.21% 612C [a demon:Dying] Mem:1 T:34 Exits:NEW> 
+
+
+Kor the bronze dragon hits a demon very hard.
+You receive 0 experience.
+A demon is dead! R.I.P.
+The death cry of a demon echoes from somewhere nearby...
+
+614H 139V 1X 65.21% 612C Mem:1 T:32 Exits:NEW> 
+
+take all corpse
+You get a pile of coins from the corpse of a demon.
+There were 16 coins.
+
+614H 139V 1X 65.21% 628C Mem:1 T:32 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Stalactite Cave
+     This room is one big water formation.  The floor of the cave is eroded
+and curved by running water while stalactites cover the ceiling from the
+dripping water.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 137V 1X 65.21% 628C Mem:1 T:31 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Further into the Cave
+     The water formations are now forming stalagmites on the ground due to
+the incesase of the dripping water.  The cave is very cold and it is
+becoming more difficult to breathe.  Smaller caves open up to the north and
+south but your lights are unable to penetrate the darkness from here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 135V 1X 65.21% 628C Mem:1 T:31 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Deep in A Cave
+     The cavern widens here, allowing your light to play across the rocky
+surfaces of the floor and tall ceiling above you. To the north and south,
+smaller caverns extend away from you. A more narrow path runs to the east
+and west.
+Kor the bronze dragon is standing here, awaiting a rider.
+An evil looking demon with glowing eyes is standing here. (black aura)
+A demon misses you with his hit.
+
+614H 133V 1X 65.21% 628C [Zargothrax:Perfect] [a demon:Perfect] Mem:1 T:29 Exits:NESW> 
+
+
+A demon misses you with his hit.
+You stab a demon hard.
+
+614H 133V 1X 65.21% 628C [Zargothrax:Perfect] [a demon:Good] Mem:1 T:28 Exits:NESW> 
+
+order kor ass
+Kor the bronze dragon barely hits a demon.
+
+614H 133V 1X 65.21% 628C [Zargothrax:Perfect] [a demon:Good] Mem:1 T:28 Exits:NESW> 
+
+A demon burns you with his fiery breath!
+
+592H 133V 1X 65.21% 628C [Zargothrax:V.Good] [a demon:Good] Mem:1 T:28 Exits:NESW> 
+
+str
+You attempt to strike at a demon with your pike.
+You stab a demon very hard.
+
+592H 133V 1X 65.21% 628C [Zargothrax:V.Good] [a demon:Fair] Mem:1 T:27 Exits:NESW> 
+
+str
+
+Kor the bronze dragon misses a demon with his hit.
+A demon misses you with his hit.
+You massacre a demon with your stab.
+
+592H 133V 1X 65.21% 628C [Zargothrax:V.Good] [a demon:Bad] Mem:1 T:24 Exits:NESW> 
+
+
+A demon is hit by Kor the bronze dragon's lightning breath.
+
+592H 133V 1X 65.21% 628C [Zargothrax:V.Good] [a demon:V.Bad] Mem:1 T:24 Exits:NESW> 
+
+You attempt to strike at a demon with your pike.
+You massacre a demon with your stab.
+A demon is incapacitated and will slowly die, if not aided.
+
+592H 133V 1X 65.21% 628C [a demon:Dying] Mem:1 T:23 Exits:NESW> 
+
+
+Kor the bronze dragon massacres a demon with his hit.
+You receive 0 experience.
+A demon is dead! R.I.P.
+The death cry of a demon echoes from somewhere nearby...
+
+592H 133V 1X 65.21% 628C Mem:1 T:20 Exits:NESW> 
+
+take all corpse
+You get a pile of coins from the corpse of a demon.
+There were 20 coins.
+
+592H 133V 1X 65.21% 648C Mem:1 T:19 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Before a Dark Tunnel
+     You are at the edge of a dark tunnel that proceeds down into the
+earth, the path narrowing from the wide cavern here as it delves into the
+darkness. Light here comes from torches along the wall, which seem to be
+totally absent from the tunnel below you. The cavern extends to the east,
+into a wider passageway.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+592H 131V 1X 65.21% 648C Mem:1 T:18 Exits:ED> 
+
+d
+Kor the bronze dragon arrives from above.
+A Dark Tunnel
+     You are standing in the center of a large black tunnel. The walls are
+of crude rock, chipped away many years ago. A foul smell flows forth from
+the southern edge of the tunnel, while above you the path lightens as it
+moves into a larger cave.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large troll stomps above the cave. (black aura)
+A large troll tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+592H 129V 1X 65.21% 648C Mem:1 T:17 Exits:SU> 
+
+
+A large troll misses you with his claw.
+Kor the bronze dragon hits a large troll.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:V.Good] Mem:1 T:16 Exits:SU> 
+
+ass
+You can't do that while fighting.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:V.Good] Mem:1 T:16 Exits:SU> 
+
+
+A large troll tries to sweep your legs, but you avoid the attack.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:V.Good] Mem:1 T:15 Exits:SU> 
+
+av l
+You focus your purity on a large troll's leg!
+You focus on a large troll's legs, but are thwarted.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:V.Good] Mem:1 T:13 Exits:SU> 
+
+
+A large troll misses you with his claw.
+A large troll misses you with his claw.
+You massacre a large troll with your stab.
+Kor the bronze dragon hits a large troll.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Good] Mem:1 T:12 Exits:SU> 
+
+str
+str
+
+A large troll sunders your shield!
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Good] Mem:1 T:9 Exits:SU> 
+
+You attempt to strike at a large troll with your pike.
+You stab a large troll extremely hard.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Fair] Mem:1 T:9 Exits:SU> 
+
+
+A large troll misses you with his claw.
+You stab a large troll extremely hard.
+Kor the bronze dragon hits a large troll hard.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Bad] Mem:1 T:8 Exits:SU> 
+
+You attempt to strike at a large troll with your pike.
+You stab a large troll extremely hard.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:V.Bad] Mem:1 T:5 Exits:SU> 
+
+
+A large troll misses you with his claw.
+A large troll misses you with his claw.
+You massacre a large troll with your stab.
+Kor the bronze dragon hits a large troll.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Awful] Mem:1 T:4 Exits:SU> 
+
+
+A large troll tries to punch you, but you deftly avoid his blow.
+
+592H 129V 1X 65.21% 648C [Zargothrax:V.Good] [a large troll:Awful] Mem:1 T:3 Exits:SU> 
+
+
+A large troll misses you with his claw.
+You stab a large troll extremely hard.
+Kor the bronze dragon hits a large troll.
+Once again the time has come for righteous anger.
+
+614H 142V 1X 65.21% 648C [Zargothrax:Perfect] [a large troll:V.Bad] Mem:1 T:60 Exits:SU> 
+
+
+A large troll sunders your shield!
+
+614H 142V 1X 65.21% 648C [Zargothrax:Perfect] [a large troll:V.Bad] Mem:1 T:57 Exits:SU> 
+
+
+A large troll misses you with his claw.
+A large troll misses you with his claw.
+You massacre a large troll with your stab.
+Kor the bronze dragon barely hits a large troll.
+
+614H 142V 1X 65.21% 648C [Zargothrax:Perfect] [a large troll:Awful] Mem:1 T:56 Exits:SU> 
+
+
+A large troll misses you with his claw.
+A large troll misses you with his claw.
+You massacre a large troll with your stab.
+You receive 0 experience.
+A large troll is dead! R.I.P.
+The death cry of a large troll echoes from somewhere nearby...
+
+614H 142V 1X 65.54% 648C Mem:1 T:52 Exits:SU> 
+
+take all corpse
+You get a withered black claw from the corpse of a large troll.
+You get a large pile of coins from the corpse of a large troll.
+There were 114 coins.
+
+614H 142V 1X 65.54% 762C Mem:1 T:51 Exits:SU> 
+
+l
+A Dark Tunnel
+     You are standing in the center of a large black tunnel. The walls are
+of crude rock, chipped away many years ago. A foul smell flows forth from
+the southern edge of the tunnel, while above you the path lightens as it
+moves into a larger cave.
+The corpse of a large troll is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 142V 1X 65.54% 762C Mem:1 T:50 Exits:SU> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Dark Tunnel
+     The dark tunnel is much bigger than you would expect.  You see a few
+scattered skeletons still in their suits of armor missing a few body parts.
+Some large tracks on the ground lead in both directions.  From the room to
+the south you hear loud breathing and rumbling.  The creature who lives in
+the next room apparently does not treat visitors as anything but lunch.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 65.54% 762C Mem:1 T:47 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Dank Den
+     You have stepped into an almost dark room lit only by the balls of
+light and lanterns left near the bodies of fallen adventurers. Broken bones
+and disgusting refuse lay scattered about the dank cave, no doubt left by
+the previous occupants.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large troll stomps above the cave. (black aura)
+You are sent sprawling as a large troll crashes into you.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Perfect] Mem:1 T:47 Exits:N> 
+
+
+A large troll misses you with his hit.
+You massacre a large troll with your stab.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Good] Mem:1 T:44 Exits:N> 
+
+order kor ass
+st
+av l
+str
+
+A large troll misses you with his hit.
+A large troll misses you with his hit.
+You stab a large troll extremely hard.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Good] Mem:1 T:40 Exits:N> 
+
+Kor the bronze dragon hits a large troll hard.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Fair] Mem:1 T:38 Exits:N> 
+
+You stand up.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Fair] Mem:1 T:38 Exits:N> 
+
+You focus your purity on a large troll's leg!
+You focus on a large troll's legs, but are thwarted.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Fair] Mem:1 T:38 Exits:N> 
+
+
+Kor the bronze dragon hits a large troll hard.
+A large troll misses you with his hit.
+A large troll misses you with his hit.
+You massacre a large troll with your stab.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Fair] Mem:1 T:36 Exits:N> 
+
+You attempt to strike at a large troll with your pike.
+You stab a large troll extremely hard.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Bad] Mem:1 T:34 Exits:N> 
+
+str
+
+Kor the bronze dragon hits a large troll hard.
+A large troll misses you with his hit.
+You stab a large troll extremely hard.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:V.Bad] Mem:1 T:32 Exits:N> 
+
+You strike at a large troll, but miss him completely.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:V.Bad] Mem:1 T:29 Exits:N> 
+
+
+Kor the bronze dragon hits a large troll.
+A large troll misses you with his hit.
+A large troll misses you with his hit.
+You stab a large troll very hard.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Awful] Mem:1 T:28 Exits:N> 
+
+str
+
+A large troll tries to punch you, but you deftly avoid his blow.
+
+589H 138V 1X 65.54% 762C [Zargothrax:V.Good] [a large troll:Awful] Mem:1 T:27 Exits:N> 
+
+You attempt to strike at a large troll with your pike.
+You stab a large troll very hard.
+A large troll is stunned, but will likely regain consciousness again.
+
+589H 138V 1X 65.54% 762C [a large troll:Dying] Mem:1 T:25 Exits:N> 
+
+
+Kor the bronze dragon massacres a large troll with his hit.
+You receive 0 experience.
+A large troll is dead! R.I.P.
+The death cry of a large troll echoes from somewhere nearby...
+
+589H 138V 1X 65.88% 762C Mem:1 T:24 Exits:N> 
+
+take all corpse
+You get a black pearl from the corpse of a large troll.
+You get a large pile of coins from the corpse of a large troll.
+There were 200 coins.
+You get a black metal key from the corpse of a large troll.
+
+589H 138V 1X 65.88% 962C Mem:1 T:21 Exits:N> 
+
+bes pala
+You kneel in humility and beseech Paladine, but your prayers go unanswered.
+A pale, withered look twists your face.
+
+589H 138V 1X 65.88% 962C Mem:1 T:17 Exits:N> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Dark Tunnel
+     The dark tunnel is much bigger than you would expect.  You see a few
+scattered skeletons still in their suits of armor missing a few body parts.
+Some large tracks on the ground lead in both directions.  From the room to
+the south you hear loud breathing and rumbling.  The creature who lives in
+the next room apparently does not treat visitors as anything but lunch.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 136V 1X 65.88% 962C Mem:1 T:16 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Dark Tunnel
+     You are standing in the center of a large black tunnel. The walls are
+of crude rock, chipped away many years ago. A foul smell flows forth from
+the southern edge of the tunnel, while above you the path lightens as it
+moves into a larger cave.
+The corpse of a large troll is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 134V 1X 65.88% 962C Mem:1 T:15 Exits:SU> 
+
+u
+Kor the bronze dragon arrives from below.
+Before a Dark Tunnel
+     You are at the edge of a dark tunnel that proceeds down into the
+earth, the path narrowing from the wide cavern here as it delves into the
+darkness. Light here comes from torches along the wall, which seem to be
+totally absent from the tunnel below you. The cavern extends to the east,
+into a wider passageway.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 132V 1X 65.88% 962C Mem:1 T:15 Exits:ED> 
+
+e
+Kor the bronze dragon arrives from the west.
+Deep in A Cave
+     The cavern widens here, allowing your light to play across the rocky
+surfaces of the floor and tall ceiling above you. To the north and south,
+smaller caverns extend away from you. A more narrow path runs to the east
+and west.
+The corpse of a demon is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 130V 1X 65.88% 962C Mem:1 T:14 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Further into the Cave
+     The water formations are now forming stalagmites on the ground due to
+the incesase of the dripping water.  The cave is very cold and it is
+becoming more difficult to breathe.  Smaller caves open up to the north and
+south but your lights are unable to penetrate the darkness from here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 128V 1X 65.88% 962C Mem:1 T:13 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Stalactite Cave
+     This room is one big water formation.  The floor of the cave is eroded
+and curved by running water while stalactites cover the ceiling from the
+dripping water.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 126V 1X 65.88% 962C Mem:1 T:13 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Tunnel to the Pool
+     The dark path leads you to a fork.  Off to the west a cave opens and
+you are able to hear the sounds of dripping water and a large splash now
+and then.  There is nothing to see but darkness to the east as the dark
+path continues.
+The corpse of a demon is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 124V 1X 65.88% 962C Mem:1 T:12 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Dark Path Continues
+     The path through the tunnel continues.  You can now barely hear the
+dripping water from this distance.  To the south you can see a door.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 122V 1X 65.88% 962C Mem:1 T:12 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Entrance to Kod's Domain
+     The door is decorately carved and made of wood that has petrified over
+the years.  A name can been seen carved on the door.  Kod, the dark paladin
+resides somewhere behind this door.  Be forewarned he controls the maze and
+considers all visitors a threat to his domain.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 121V 1X 65.88% 962C Mem:1 T:11 Exits:N(S)> 
+
+unl door
+*click* as you use a black metal key.
+The key turns to dust as its usefulness ends.
+
+589H 121V 1X 65.88% 962C Mem:1 T:10 Exits:N(S)> 
+
+op door
+Ok.
+
+589H 121V 1X 65.88% 962C Mem:1 T:9 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Dim Hallway
+     The hallway is lit only by candles sitting against the walls on the
+ground.  Most of them are almost all used up.  Further to the south the
+tunnel continues but you can see nothing but darkness.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+589H 120V 1X 65.88% 962C Mem:1 T:8 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Kod's Domain
+     This room is also lit by candles but also by a large collection of
+mounted balls of light on long poles.  You can hear voices down the tunnel.
+To the south you see a large room.
+Kor the bronze dragon is standing here, awaiting a rider.
+One of Kod's personal guards protecting the domain is standing here. (black aura)
+Kod's personal guard delivers a vicious kick to Kor the bronze dragon's face. Blood flies as his head snaps back.
+
+589H 119V 1X 65.88% 962C Mem:1 T:8 Exits:NS> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab Kod's personal guard extremely hard.
+
+589H 119V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:Good] Mem:1 T:7 Exits:NS> 
+
+reck
+
+You stab Kod's personal guard extremely hard.
+Kod's personal guard misses Kor the bronze dragon with his crush.
+Kor the bronze dragon barely hits Kod's personal guard.
+
+589H 119V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:Fair] Mem:1 T:4 Exits:NS> 
+
+ral
+str
+A godly anger burns within you, let the heretics feel your wrath!
+
+589H 119V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:Fair] Mem:1 T:2 Exits:NS> 
+
+You yell and inspire your companions to fight harder!
+
+589H 119V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:Fair] Mem:1 T:2 Exits:NS> 
+
+
+You massacre Kod's personal guard with your stab.
+Kod's personal guard misses Kor the bronze dragon with his crush.
+Kor the bronze dragon hits Kod's personal guard hard.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:Perfect] [Kod's personal guard:Fair] Mem:1 T:60 Exits:NS> 
+
+
+Kod's personal guard tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:Perfect] [Kod's personal guard:Fair] Mem:1 T:58 Exits:NS> 
+
+You strike at Kod's personal guard, but miss him completely.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:Perfect] [Kod's personal guard:Fair] Mem:1 T:57 Exits:NS> 
+
+str
+
+You annihilate Kod's personal guard with your stab.
+Kod's personal guard crushes Kor the bronze dragon hard.
+Kor the bronze dragon hits Kod's personal guard hard.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:56 Exits:NS> 
+
+
+Kod's personal guard is hit by Kor the bronze dragon's lightning breath.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:54 Exits:NS> 
+
+You attempt to strike at Kod's personal guard with your pike.
+You massacre Kod's personal guard with your stab.
+
+614H 142V 1X 65.88% 962C [Kor the bronze dragon:V.Good] [Kod's personal guard:Awful] Mem:1 T:53 Exits:NS> 
+
+
+You massacre Kod's personal guard with your stab.
+You receive 0 experience.
+Kod's personal guard is dead! R.I.P.
+The death cry of Kod's personal guard echoes from somewhere nearby...
+
+614H 142V 1X 65.88% 962C Mem:1 T:52 Exits:NS> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 65.88% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 142(142) movement points.
+Your behaviour has been Good.
+Your fervent faith is confident and strong.
+You have scored 179,999,999 exp, and have 962(208967) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 19 minute(s).
+You have been playing for 4 day(s), 20 hour(s) and 58 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    sanctuary            [1 hour]
+    aura of glory        [14 hrs]
+    holy arms            [4 hrs]
+    bless                [9 hrs]
+
+614H 142V 1X 65.88% 962C Mem:1 T:49 Exits:NS> 
+
+take all corpse
+You get a dark hammer from the corpse of Kod's personal guard.
+
+614H 142V 1X 65.88% 962C Mem:1 T:47 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Huge Room
+     This room is gigantic.  It is a multipurpose room that is used for
+everything it appears.  Torture devices line the walls, a large table for
+eating is on the west wall, bookshelves and reading tables are on the east
+wall, a small arena type structure is built in the center, a few cots are
+set up on the south wall for the guards, and just about anything else you
+can think of in daily use is here somewhere.  Guards use weapons from a
+rack in the southwest corner.  You have entered upon Kod's minions who will
+give their life for their master.
+Kor the bronze dragon is standing here, awaiting a rider.
+One of Kod's personal guards protecting the domain is standing here. (black aura)
+One of Kod's personal guards protecting the domain is standing here. (black aura)
+Kod's personal guard tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+Kod's personal guard misses you with his hit.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Perfect] Mem:1 T:46 Exits:NE(W)> 
+
+
+Kod's personal guard delivers a vicious kick to Kor the bronze dragon's face. Blood flies as his head snaps back.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Perfect] Mem:1 T:45 Exits:NE(W)> 
+
+order kor ass
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Perfect] Mem:1 T:45 Exits:NE(W)> 
+
+
+Kod's personal guard misses you with his hit.
+You massacre Kod's personal guard with your stab.
+Kod's personal guard misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits Kod's personal guard hard.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Good] Mem:1 T:44 Exits:NE(W)> 
+
+av l
+You focus your purity on Kod's personal guard's leg!
+You force Kod's personal guard to the ground.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Good] Mem:1 T:42 Exits:NE(W)> 
+
+str
+
+Kod's personal guard misses you with his hit.
+You annihilate Kod's personal guard with your stab.
+Kod's personal guard misses Kor the bronze dragon with his hit.
+Kod's personal guard misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits Kod's personal guard.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Fair] Mem:1 T:40 Exits:NE(W)> 
+
+
+Kod's personal guard spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Fair] Mem:1 T:39 Exits:NE(W)> 
+
+You strike at Kod's personal guard, but miss him completely.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Fair] Mem:1 T:37 Exits:NE(W)> 
+
+
+Kod's personal guard misses you with his hit.
+You massacre Kod's personal guard with your stab.
+Kod's personal guard misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits Kod's personal guard hard.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Bad] Mem:1 T:36 Exits:NE(W)> 
+
+
+Kod's personal guard stands up.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Bad] Mem:1 T:34 Exits:NE(W)> 
+str
+
+You attempt to strike at Kod's personal guard with your pike.
+You massacre Kod's personal guard with your stab.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:V.Bad] Mem:1 T:33 Exits:NE(W)> 
+
+
+Kod's personal guard misses you with his hit.
+You massacre Kod's personal guard with your stab.
+Kod's personal guard misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits Kod's personal guard.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Awful] Mem:1 T:32 Exits:NE(W)> 
+
+
+Kod's personal guard misses you with his hit.
+You annihilate Kod's personal guard with your stab.
+You receive 0 experience.
+Kod's personal guard is dead! R.I.P.
+Kod's personal guard misses you with his hit.
+Kor the bronze dragon hits Kod's personal guard.
+The death cry of Kod's personal guard echoes from somewhere nearby...
+You direct your attention to Kod's personal guard.
+
+614H 141V 1X 65.88% 962C [Zargothrax:Perfect] [Kod's personal guard:Fair] Mem:1 T:28 Exits:NE(W)> 
+
+
+You are sent sprawling as Kod's personal guard crashes into you.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:Fair] Mem:1 T:27 Exits:NE(W)> 
+
+order kor ass
+
+You stab Kod's personal guard extremely hard.
+Kod's personal guard misses you with his hit.
+Kor the bronze dragon hits Kod's personal guard hard.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:Bad] Mem:1 T:24 Exits:NE(W)> 
+
+take all corpse
+
+Sweat dripping, your anger subsides, your blood cools.
+You stab Kod's personal guard extremely hard.
+Kod's personal guard misses you with his hit.
+Kor the bronze dragon hits Kod's personal guard.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:20 Exits:NE(W)> 
+
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:19 Exits:NE(W)> 
+
+The corpse doesn't seem to have what you are looking for.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:19 Exits:NE(W)> 
+
+st
+You stand up.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:18 Exits:NE(W)> 
+
+str
+You strike at Kod's personal guard, but miss him completely.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:V.Bad] Mem:1 T:18 Exits:NE(W)> 
+
+
+You stab Kod's personal guard extremely hard.
+Kod's personal guard misses you with his hit.
+Kor the bronze dragon hits Kod's personal guard.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:Awful] Mem:1 T:16 Exits:NE(W)> 
+
+
+Kod's personal guard tries to punch you, but you deftly avoid his blow.
+
+590H 141V 1X 65.88% 962C [Zargothrax:V.Good] [Kod's personal guard:Awful] Mem:1 T:15 Exits:NE(W)> 
+
+
+The rally cry fades.
+You stab Kod's personal guard extremely hard.
+You receive 0 experience.
+Kod's personal guard is dead! R.I.P.
+The death cry of Kod's personal guard echoes from somewhere nearby...
+
+590H 141V 1X 65.88% 962C Mem:1 T:12 Exits:NE(W)> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+590H 141V 1X 65.88% 962C Mem:1 T:11 Exits:NE(W)> 
+
+e
+Kor the bronze dragon arrives from the west.
+Dark Mage's Bedroom
+    This room is a standard mage's room with all the necessities. The mage
+who uses this room must run the maze alongside the evil paladin, Kod. Both
+use the students as a way to fund an army to overthrow the masters of the
+school. They kill the students for their cash and sell off their equipment,
+or try to coerce the best students they encounter to join them. This
+instance however, the mage doesn't intend on asking you to join them.
+Kor the bronze dragon is standing here, awaiting a rider.
+Asha, the dark mage, evil compatriot of the dark knight is standing here. (black aura)
+Asha, the dark mage focuses harshly on you and utters some strange words.
+You have a hard time concentrating!
+Asha, the dark mage misses you with his hit.
+
+590H 140V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Perfect] Mem:1 T:8 Exits:(E)W> 
+
+order kor ass
+Kor the bronze dragon barely hits Asha, the dark mage.
+
+590H 140V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:V.Good] Mem:1 T:6 Exits:(E)W> 
+
+av l
+You can't focus at all.
+
+590H 140V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:V.Good] Mem:1 T:5 Exits:(E)W> 
+
+
+You stagger about confused!
+You direct your attention to Asha, the dark mage.
+You massacre Asha, the dark mage with your stab.
+Kor the bronze dragon hits Asha, the dark mage.
+Asha, the dark mage misses you with his hit.
+
+590H 140V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Good] Mem:1 T:4 Exits:(E)W> 
+
+str
+You attempt to strike at Asha, the dark mage with your pike.
+You stab Asha, the dark mage extremely hard.
+
+590H 140V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Fair] Mem:1 T:3 Exits:(E)W> 
+
+
+You stagger about confused!
+You direct your attention to Asha, the dark mage.
+You stab Asha, the dark mage extremely hard.
+Kor the bronze dragon hits Asha, the dark mage.
+Asha, the dark mage misses you with his hit.
+Your mind clears up.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:Fair] Mem:1 T:60 Exits:(E)W> 
+
+str
+You attempt to strike at Asha, the dark mage with your pike.
+You stab Asha, the dark mage extremely hard.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:Fair] Mem:1 T:58 Exits:(E)W> 
+
+
+Asha, the dark mage focuses harshly on you and utters some strange words.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:Fair] Mem:1 T:58 Exits:(E)W> 
+
+
+You stab Asha, the dark mage extremely hard.
+Kor the bronze dragon hits Asha, the dark mage hard.
+Asha, the dark mage misses you with his hit.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:V.Bad] Mem:1 T:56 Exits:(E)W> 
+
+str
+You attempt to strike at Asha, the dark mage with your pike.
+You stab Asha, the dark mage extremely hard.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:V.Bad] Mem:1 T:54 Exits:(E)W> 
+
+
+You massacre Asha, the dark mage with your stab.
+Kor the bronze dragon hits Asha, the dark mage.
+Asha, the dark mage misses you with his hit.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:Awful] Mem:1 T:52 Exits:(E)W> 
+
+
+Asha, the dark mage focuses harshly on you and utters some strange words.
+You freeze in place, unable to move.
+
+614H 142V 1X 65.88% 962C [Zargothrax:Perfect] [Asha, the dark mage:Awful] Mem:1 T:52 Exits:(E)W> 
+
+
+Kor the bronze dragon barely hits Asha, the dark mage.
+Asha, the dark mage hits YOU.
+
+607H 142V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Awful] Mem:1 T:48 Exits:(E)W> 
+
+
+Asha, the dark mage is hit by Kor the bronze dragon's lightning breath.
+
+607H 142V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Awful] Mem:1 T:48 Exits:(E)W> 
+
+
+Asha, the dark mage focuses harshly on you and utters some strange words.
+YOU'RE HIT. A lightning bolt from Asha, the dark mage has reached its goal.
+
+583H 142V 1X 65.88% 962C [Zargothrax:V.Good] [Asha, the dark mage:Awful] Mem:1 T:46 Exits:(E)W> 
+
+
+You feel the magic bond holding you shatter!
+You stab Asha, the dark mage extremely hard.
+You receive 0 experience.
+Asha, the dark mage is dead! R.I.P.
+The death cry of Asha, the dark mage echoes from somewhere nearby...
+
+583H 142V 1X 66.22% 962C Mem:1 T:44 Exits:(E)W> 
+
+take all corpse
+You get a pile of coins from the corpse of Asha, the dark mage.
+There were 58 coins.
+You get a bit of phosphorus from the corpse of Asha, the dark mage.
+You get a black metal key from the corpse of Asha, the dark mage.
+
+583H 142V 1X 66.22% 1020C Mem:1 T:42 Exits:(E)W> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Huge Room
+     This room is gigantic.  It is a multipurpose room that is used for
+everything it appears.  Torture devices line the walls, a large table for
+eating is on the west wall, bookshelves and reading tables are on the east
+wall, a small arena type structure is built in the center, a few cots are
+set up on the south wall for the guards, and just about anything else you
+can think of in daily use is here somewhere.  Guards use weapons from a
+rack in the southwest corner.  You have entered upon Kod's minions who will
+give their life for their master.
+The corpse of Kod's personal guard is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+583H 141V 1X 66.22% 1020C Mem:1 T:41 Exits:NE(W)> 
+
+unl door
+*click* as you use a black metal key.
+The key turns to dust as its usefulness ends.
+
+583H 141V 1X 66.22% 1020C Mem:1 T:38 Exits:NE(W)> 
+
+op door
+Ok.
+
+583H 141V 1X 66.22% 1020C Mem:1 T:37 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Kod's Quarters
+     This elaborate room is richly decorated with gold, silver and jeweled
+furniture.  It looks like the best equipment his minions have gathered he
+has kept for himself.  The dark knight is well dressed, he almost looks like
+royalty.
+Kor the bronze dragon is standing here, awaiting a rider.
+Kod, the dark knight is standing here leaning on his blood covered mace. (black aura)
+Kod bludgeons Kor the bronze dragon hard.
+
+583H 140V 1X 66.22% 1020C Mem:1 T:37 Exits:E> 
+
+
+Kod misses Kor the bronze dragon with his bludgeon.
+Kod misses you with his bludgeon.
+Kor the bronze dragon hits Kod.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:V.Good] Mem:1 T:36 Exits:E> 
+
+ass
+You can't do that while fighting.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:V.Good] Mem:1 T:36 Exits:E> 
+
+av l
+You attempt to focus on Kod and fail horribly.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:V.Good] Mem:1 T:35 Exits:E> 
+
+av l
+
+Kod misses you with his bludgeon.
+You massacre Kod with your stab.
+Kor the bronze dragon hits Kod hard.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:Good] Mem:1 T:32 Exits:E> 
+
+You focus your purity on Kod's leg!
+You focus on Kod's legs, but are thwarted.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:Good] Mem:1 T:31 Exits:E> 
+
+str
+
+Kod misses you with his bludgeon.
+You stab Kod extremely hard.
+Kor the bronze dragon hits Kod.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:Fair] Mem:1 T:28 Exits:E> 
+
+str
+You attempt to strike at Kod with your pike.
+You stab Kod very hard.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:Fair] Mem:1 T:26 Exits:E> 
+
+
+Kod misses you with his bludgeon.
+Kod misses you with his bludgeon.
+You stab Kod extremely hard.
+Kor the bronze dragon hits Kod hard.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:V.Bad] Mem:1 T:24 Exits:E> 
+
+You attempt to strike at Kod with your pike.
+You stab Kod extremely hard.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:V.Bad] Mem:1 T:22 Exits:E> 
+
+
+Kod misses you with his bludgeon.
+You massacre Kod with your stab.
+Kor the bronze dragon hits Kod.
+
+583H 140V 1X 66.22% 1020C [Zargothrax:V.Good] [Kod:Awful] Mem:1 T:20 Exits:E> 
+
+str
+You attempt to strike at Kod with your pike.
+You stab Kod extremely hard.
+Kod is incapacitated and will slowly die, if not aided.
+
+583H 140V 1X 66.22% 1020C [Kod:Dying] Mem:1 T:18 Exits:E> 
+
+
+You obliterate Kod with your stab.
+You receive 0 experience.
+Kod is dead! R.I.P.
+The death cry of Kod echoes from somewhere nearby...
+
+583H 140V 1X 66.56% 1020C Mem:1 T:16 Exits:E> 
+
+take all corpse
+You get a large pile of coins from the corpse of Kod.
+There were 134 coins.
+You are zapped by a large black mace and instantly drop it.
+You get a black metal key from the corpse of Kod.
+
+583H 140V 1X 66.56% 1154C Mem:1 T:14 Exits:E> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Huge Room
+     This room is gigantic.  It is a multipurpose room that is used for
+everything it appears.  Torture devices line the walls, a large table for
+eating is on the west wall, bookshelves and reading tables are on the east
+wall, a small arena type structure is built in the center, a few cots are
+set up on the south wall for the guards, and just about anything else you
+can think of in daily use is here somewhere.  Guards use weapons from a
+rack in the southwest corner.  You have entered upon Kod's minions who will
+give their life for their master.
+The corpse of Kod's personal guard is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+583H 139V 1X 66.56% 1154C Mem:1 T:11 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Dark Mage's Bedroom
+    This room is a standard mage's room with all the necessities. The mage
+who uses this room must run the maze alongside the evil paladin, Kod. Both
+use the students as a way to fund an army to overthrow the masters of the
+school. They kill the students for their cash and sell off their equipment,
+or try to coerce the best students they encounter to join them. This
+instance however, the mage doesn't intend on asking you to join them.
+The corpse of Asha, the dark mage is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+583H 138V 1X 66.56% 1154C Mem:1 T:10 Exits:(E)W> 
+
+unl portal
+*click* as you use a black metal key.
+The key turns to dust as its usefulness ends.
+
+583H 138V 1X 66.56% 1154C Mem:1 T:8 Exits:(E)W> 
+
+op portal
+Ok.
+
+583H 138V 1X 66.56% 1154C Mem:1 T:7 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Gathering Room
+     This is a large room used for the students to recuperate and to tend
+to their wounds, study their spells, and consort with other adventurers.
+Many people are seen wandering up and down the stairs stopping occasionally
+to look at a notice on the north wall.  A doorway east leads outside to a
+porch and you can smell food cooking.
+Kor the bronze dragon is standing here, awaiting a rider.
+A paladin with a green sash tied to his waist is standing here.
+
+583H 137V 1X 66.56% 1154C Mem:1 T:3 Exits:EWUD> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+The spirit of the heavens fades slowly.
+The white aura around your body fades.
+
+614H 142V 1X 66.56% 1154C T:60 Exits:EWUD> 
+
