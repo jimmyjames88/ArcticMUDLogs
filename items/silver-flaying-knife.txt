@@ -1,0 +1,16 @@
+Logging started: 05.01.2024 12:21
+rec lore silver.knife
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'knife flaying silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 10           Value   : 24
+
+ Item is  : MAGIC
+ Class    : knife
+ Damage   : 1D11
+
+614H 124V 1X 79.26% 1466C T:19 Exits:NESW> 
+

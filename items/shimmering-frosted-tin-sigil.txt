@@ -1,0 +1,18 @@
+Logging started: 05.01.2024 11:40
+brow frosted.tin
+You browse through the merchandise and notice:
+The surface of the sigil is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'sigil shimmering frosted tin'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 400
+
+ Affects  : SAVING_PETRI  by -1
+ Affects  : ARMOR         by -2
+ Effects  : NOSUMMON
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A shimmering frosted tin sigil is wearable: hold.
+
+614H 142V 1X 71.30% 0C T:9 Exits:NESW> 
+

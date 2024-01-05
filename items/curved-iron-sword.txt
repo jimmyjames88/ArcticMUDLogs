@@ -1,0 +1,16 @@
+Logging started: 05.01.2024 11:59
+rec lore curved.iron.sword
+Once again the time has come for righteous anger.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword curved iron draconian'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 9            Value   : 15
+
+ Class    : sabre
+ Damage   : 3D3
+
+632H 142V 1X 77.99% 373C T:60 Exits:NESW> 
+

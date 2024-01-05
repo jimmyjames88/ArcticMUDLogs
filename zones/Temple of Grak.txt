@@ -1,0 +1,3799 @@
+Logging started: 05.01.2024 11:46
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 71.30% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 142(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 0(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 9 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 10 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    aura of glory        [20 hrs]
+    sanctuary            [7 hrs]
+    holy arms            [10 hrs]
+    bless                [15 hrs]
+
+614H 142V 1X 71.30% 0C Mem:3 T:2 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Market Street West
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is just to the east and the bazaars are to the north and
+south. It really is very busy here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 141V 1X 71.30% 0C Mem:2 T:60 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Market Street West
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the east through the crowd. Some other
+notable sites are the Temple of Kalaman, which is just to the north of
+Market Street, and Lord Calof's mansion to the south. Directly to the
+south, you see a magic shop of strange and interesting artifacts.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 71.30% 0C Mem:2 T:59 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Market Street West
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the east through the crowd. A small path
+to the north will take you to the Temple of Kalaman, while to the south you
+see a small building with a sign above the door.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large pigeon is here pecking at some bread crumbs.
+
+614H 139V 1X 71.30% 0C Mem:2 T:59 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Market Street West
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the east through the crowd. Some other
+notable sites are the Temple of Kalaman, which is just to the north of
+Market Street, and Lord Calof's mansion to the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 138V 1X 71.30% 0C Mem:2 T:59 Exits:E(S)W> 
+
+w
+Kor the bronze dragon arrives from the east.
+Market Street West
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the east through the crowd. Some other
+notable sites are the Temple of Kalaman, which is just to the north of
+Market Street, and Lord Calof's mansion to the southeast.
+Kor the bronze dragon is standing here, awaiting a rider.
+A rooster walks about while pecking at the ground.
+
+614H 137V 1X 71.30% 0C Mem:2 T:59 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Intersection of Market Street and Wall Road
+    You are at the intersection of Market Street and Wall Road. Market
+Street runs east-west through Kalaman, while Wall Road runs along the
+inside of the city wall. Market Street is the busiest street in Kalaman;
+many of the shops and stands are located here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 136V 1X 71.30% 0C Mem:2 T:58 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Western City Gates
+    You are inside the western city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+A cityguard of Kalaman stands here, guarding the western gates.
+
+614H 135V 1X 71.30% 0C Mem:2 T:58 Exits:E(W)> 
+
+op gate
+Ok.
+
+614H 135V 1X 71.30% 0C Mem:2 T:57 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Outside the Western Gates of Kalaman
+    To the east stand thick wooden gates reinforced with iron bars. Large
+wooden walls rise up beside either side of the gate and block your view of
+Kalaman. Above the gate you can see Solamnic Knights on patrol on the
+battlements. Off to the west you can see a trail leading through the
+fields.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 71.30% 0C Mem:2 T:56 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Beyond the City of Kalaman
+    Just beyond the western gates of Kalaman, the trail splits into two
+paths, one leading to the south around Kalaman, the other leading off to
+the west. The fields in this area are bountiful in the summer and lie
+fallow during the winter, but all year long life abounds here. The grasses
+rustle from the wind softly blowing in from the bay. To the north there is
+a old rickety fence surrounding what appears to be a graveyard.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 132V 1X 71.30% 0C Mem:2 T:56 Exits:ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Before an Old Cemetery
+    To the north stands a rusty bronze gate, hanging slightly off its
+hinges. Stretching to either side of it stands an old rickety fence
+surrounding what appears to be a graveyard. To the east the trail leads to
+the western city gates of Kalaman, to the west it leads deeper into the
+fields, and toward the river.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 71.30% 0C Mem:2 T:56 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Near a Vast City
+    To the east, across some fields you see the city of Kalaman. You can
+smell a farm to your north, easily recognizable by the sweet smell of
+manure. Around you grass is blown in the wind, growing thicker as it leads
+into a lush forest to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 128V 1X 71.30% 0C Mem:2 T:55 Exits:NEW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Beside a Thick Forest
+    To the east farms spread out across the fields. The air here smells
+heavily of manure. Along the eastern side of the trail a wooden fence has
+been set up to protect the fields, while to the west a thick forest,
+strangely lush and thick in an area where fields are more common. The wide
+path cuts north, further into the widening fields, and south towards a
+large city.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 126V 1X 71.30% 0C Mem:2 T:54 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Traveling the Plains
+    The trail leads through the plains to the north. To the south you can
+see farms to the east further down the path, which explains the horrible
+smell in this area. The tall grasses sway gently in the wind, and the
+sounds of wildlife are audible.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small grasshopper sits in the grass.
+
+614H 124V 1X 71.30% 0C Mem:2 T:54 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Walking the Plains of Estwilde
+    The trail here continues to the north and to the south. To the far
+north the Vingaard estuary is just barely visible. All around grass sways
+in the wind gently blowing off the water. The ground at your feet is
+slightly barren, as if it has been grazed upon.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small grasshopper sits in the grass.
+
+614H 122V 1X 71.30% 0C Mem:2 T:54 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Crossing the Plains
+    Around plains to the north and the south the trail leads. Across the
+plains to the north you can just barely see the Vingaard River. The grass
+here is blowing gently in the wind coming off the water. The ground here is
+slightly uncovered as some of the grass appears to have been razed.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small grasshopper sits in the grass.
+
+614H 120V 1X 71.30% 0C Mem:2 T:53 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Curving Away from the Shore
+    The trail here heads towards the shoreline of the river, and into the
+plains south of here. The river stretches out a little ways north of you as
+it makes its way to the sea. The grasses here are sparse and mixed in with
+sandy dunes. Scattered among the dunes are pieces of driftwood that have
+been washed up over the years from storms off the ocean.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 118V 1X 71.30% 0C Mem:2 T:53 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Beside the Vingaard
+    North of you the river flows past toward the sea in the east. The
+shoreline here is sandy with the occasional clump of grass clinging onto
+it. Rocks and small sticks are strewn about, having been deposited here
+during the last flood. The trail here is very sandy.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 116V 1X 71.30% 0C Mem:2 T:53 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Banks of the Vingaard River
+    The road runs to the very edge of the mighty river, before curving away
+to the south and east. A small pier has been built along the bank, used by
+passengers boarding the ferry that will carry them to the other side of the
+river. A small signpost has been hammered into the ground beside the pier.
+The road leads south through the Plains of Estwilde and east towards the
+Lord City of Kalaman.
+A small wooden signpost stands upright at the edge of the road.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 114V 1X 71.30% 0C Mem:2 T:52 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Near the Mighty Vingaard
+    Here the road leads north to the Vingaard river and Kalaman, and south
+to the Dargaard mountains. The fields around here have slightly ragged
+looking grass, as if the soil in this area is not optimal for plant life.
+The sounds of wildlife present everywhere else in the plains are missing
+here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 112V 1X 71.30% 0C Mem:2 T:52 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Crossing the Plains
+    The road here leads across the plains to the north and to the east. Far
+to the south you can see the Dargaard Mountains and to the north lies the
+Vingaard river. The road here is made of flat stones carefully placed in
+rows. Closer to the south lie the legendary Nightlund plains.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 71.30% 0C Mem:2 T:51 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Small Path Through the Plains
+    Around you grass sways in the gentle breezes off the ocean far to the
+north. The lands are covered with small bushes and slight rolling hills.
+Around here you are in a small flat spot. The path continues east and west
+and there is more open ground north of you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 108V 1X 71.30% 0C Mem:2 T:51 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+In the Plains
+     You are on a small dirt path winding its way through this portion
+of the plains. East of here a larger path winds its way through the
+Estwilde Plains. The grass on either side of the path seems to have been
+trampled, but by what you are unsure.
+Kor the bronze dragon is standing here, awaiting a rider.
+A scorpion scampers away from your presence.
+A small field mouse runs around looking for small insects to eat.
+
+614H 106V 1X 71.30% 0C Mem:2 T:47 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Small Path in the Plains
+     You are a small dirt path winding its way through this portion of the
+plains. The path leads east and west, to the distant east lies the city of
+Kalaman. To the west, the Estwilde Plains stretch out of sight, its long
+grasses blowing slightly in the wind.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 104V 1X 71.30% 0C Mem:2 T:45 Exits:ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+In the Plains
+     You find yourself in the vast Estwilde Plains. Tall, flowing grasses
+sway in the gentle wind flowing in from the distant Vingaard Estuary. A sense
+of peace comes from the land, undisturbed by civilization and the war that
+plagues the land.
+Kor the bronze dragon is standing here, awaiting a rider.
+A scorpion scampers away from your presence.
+A scorpion scampers away from your presence.
+
+614H 102V 1X 71.30% 0C Mem:2 T:44 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+In the Plains
+     You find yourself in the vast Plains of Estwilde far west of the port
+city of Kalaman. Far to the north lies the Vingaard river while the rest of
+the plains lie to the south and to the west. Looking east you see the main
+road leading northeast to the city of Kalaman and south into the realms of
+Nightlund and Throtyl.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 100V 1X 71.30% 0C Mem:2 T:43 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Path in The Plains
+    You find yourself in the plains far west of the city of Kalaman. A
+small path winds its way through the scruffy underbrush of the Plains of
+Estwilde. Far away bird songs can be heard in the distance. The path fades
+into thick grass to the west, and winds narrowly to the south and east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 99V 1X 71.30% 0C Mem:2 T:41 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Rock Strewn Path
+     The path continues to wind through the plains.  A fresh breeze makes
+the underbrush murmur in the wind.  The path takes a turn to the west here.
+Far to the southwest a forest can be seen.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 97V 1X 71.30% 0C Mem:2 T:41 Exits:NW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Rock Strewn Path
+     The path continues to wind through the plains.  Small rodents can be
+seen darting in and out of the underbrush.  Directly south of here you can
+more clearly see a thicket.  The path leads to the north from here and
+directly towards the thicket.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 95V 1X 71.30% 0C Mem:2 T:39 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Rock Strewn Path
+     You appear to be walking along an old stream bed at this point in the
+path.  The thicket now looms largely to the south.  They are a nice break
+from the desolate Solamnic Plains through which you have been walking.  The
+thicket lies to the south while the path continues on to the north.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large and slow moving lizard crawls along looking for something to eat.
+
+614H 93V 1X 71.30% 0C Mem:2 T:39 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+By The Woods of Morgoth
+     You stand at the entrance of the Woods of Morgoth.  The forest rises
+from the plains.  It seems to be full of life and the air is alive with the
+sounds of birdsong.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large and slow moving lizard crawls along looking for something to eat.
+
+614H 91V 1X 71.30% 0C Mem:2 T:37 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Woods of Morgoth
+     You have entered the infamous woods of Morgoth.  The tall trees sway
+and list in the breeze.  A small path can be seen leading deeper south into
+the forest.  Off in the distance, along a path to your north the sounds of
+city life faintly reach your ears.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 89V 1X 71.30% 0C Mem:2 T:36 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Split in the Path
+     You have reached a junction in the path.  A well maintained path leads
+to the west and to the north.  To the east, a small weed covered path can
+be seen disappearing into the woods.  Tall trees formed into an impregnable
+wall mar the way to the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 87V 1X 71.30% 0C Mem:2 T:35 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Weed Covered Path
+     You find yourself deep within the woods of Morgoth.  The trees close
+in around the path.  Small branches tear at your clothes as you walk by.
+The forest is very beautiful and seems unspoiled and undisturbed.  As you
+look around you see that the path continues on to the south, while a
+clearing can be seen to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 85V 1X 71.30% 0C Mem:2 T:34 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Weed Covered Path
+     You see the forest path meander through weeds along the forest floor.
+A fallen tree can be seen to the south lying across the path.  The tree is
+passable, however.  The path continues on to the north and off to the south
+as well.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+614H 83V 1X 71.30% 0C Mem:2 T:33 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Widening Path
+     The trees seem to fall away from the path as it widens into a road.
+The trees and forest are strangely quiet here.  No wildlife can be seen in
+the branches and there is no pleasant birdsong to greet your ears. A
+clearing can be seen to the west and an overgrown path meanders off to the
+north.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 81V 1X 71.30% 0C Mem:2 T:32 Exits:NW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Junction of Paths
+     You are in a large clearing.  Two paths lead off to the west and east,
+back into the forest.  To the south a large mountain rises out from the
+forest floor.  It seems to be made from granite, and it is devoid of trees.
+At the base of mountain you can see a small space in between two large
+boulders. A winding path approaches this space to the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 79V 1X 71.30% 0C Mem:2 T:32 Exits:ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Morgoth's Trail
+     As you approach the corner, small animals scurry from you in fear,
+then shyly approach you to investigate.  You can hardly help but smile as
+they frolic around you on the path.  The path turns here towards a large
+clearing off to the east.  Morgoth's path continues off to the north and
+towards the clearing, barely visible through the trees to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+A majestic elk with soft brown fur feeds here.
+
+614H 77V 1X 71.30% 0C Mem:2 T:31 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+Morgoth's Path
+     The pleasant path continues on to the south and north.  Birdsong
+resonates through out the woods and lifts your spirits high.  The woods
+have a calming effect upon you as you move through them.  Morgoth's path
+continues to the south and north.
+Kor the bronze dragon is standing here, awaiting a rider.
+A tiny winged pixie hovers here tending to injured trees.
+
+614H 75V 1X 71.30% 0C Mem:2 T:30 Exits:NS> 
+
+order kor ki pixie
+Kor the bronze dragon barely hits a tiny winged pixie.
+
+614H 75V 1X 71.30% 0C Mem:2 T:27 Exits:NS> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a tiny winged pixie extremely hard.
+
+614H 75V 1X 71.30% 0C [Kor the bronze dragon:Perfect] [a tiny winged pixie:Fair] Mem:2 T:27 Exits:NS> 
+
+str
+
+You stab a tiny winged pixie very hard.
+Kor the bronze dragon hits a tiny winged pixie hard.
+A tiny winged pixie misses Kor the bronze dragon with his pierce.
+
+614H 75V 1X 71.30% 0C [Kor the bronze dragon:Perfect] [a tiny winged pixie:Awful] Mem:2 T:24 Exits:NS> 
+
+
+A tiny winged pixie arrives from the north.
+
+614H 75V 1X 71.30% 0C [Kor the bronze dragon:Perfect] [a tiny winged pixie:Awful] Mem:2 T:24 Exits:NS> 
+
+
+A tiny winged pixie misses you with his pierce.
+
+614H 75V 1X 71.30% 0C [Zargothrax:Perfect] [a tiny winged pixie:Awful] Mem:2 T:23 Exits:NS> 
+
+You attempt to strike at a tiny winged pixie with your pike.
+You stab a tiny winged pixie hard.
+A tiny winged pixie is incapacitated and will slowly die, if not aided.
+
+614H 75V 1X 71.30% 0C [a tiny winged pixie:Dying] Mem:2 T:22 Exits:NS> 
+
+
+You obliterate a tiny winged pixie with your stab.
+You receive 0 experience.
+A tiny winged pixie is dead! R.I.P.
+The death cry of a tiny winged pixie echoes from somewhere nearby...
+
+614H 75V 1X 71.30% 0C Mem:2 T:20 Exits:NS> 
+
+take all corpse
+You get a small bone knife from the corpse of a tiny winged pixie.
+You get a pile of coins from the corpse of a tiny winged pixie.
+There were 22 coins.
+You get a snakestone key from the corpse of a tiny winged pixie.
+
+614H 75V 1X 71.30% 22C Mem:2 T:18 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Morgoth's Trail
+     As you approach the corner, small animals scurry from you in fear,
+then shyly approach you to investigate.  You can hardly help but smile as
+they frolic around you on the path.  The path turns here towards a large
+clearing off to the east.  Morgoth's path continues off to the north and
+towards the clearing, barely visible through the trees to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+A majestic elk with soft brown fur feeds here.
+
+614H 73V 1X 71.30% 22C Mem:2 T:17 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+Junction of Paths
+     You are in a large clearing.  Two paths lead off to the west and east,
+back into the forest.  To the south a large mountain rises out from the
+forest floor.  It seems to be made from granite, and it is devoid of trees.
+At the base of mountain you can see a small space in between two large
+boulders. A winding path approaches this space to the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 71V 1X 71.30% 22C Mem:2 T:16 Exits:ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Dark Cave Entrance
+     You squeeze in between two large boulders.  Small stones dig into your
+flesh but cause no harm.  There appears to be a large cavern to the south.
+Many sets of footprints make their way from north to south along the thin
+path.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 69V 1X 71.30% 22C Mem:2 T:15 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Abandoned Snake Pit
+     You enter what appears to be an abandoned snake pit.  Small bones and
+eggshells are scattered about the room.  On the south wall lies a dusty,
+tarnished bronze door.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 68V 1X 71.30% 22C Mem:2 T:15 Exits:N(S)> 
+
+unl door
+*click* as you use a snakestone key.
+The key turns to dust as its usefulness ends.
+
+614H 68V 1X 71.30% 22C Mem:2 T:13 Exits:N(S)> 
+
+op door
+Ok.
+
+614H 68V 1X 71.30% 22C Mem:2 T:12 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Stony Corridor
+     Rocks seem to have been cleared away from a small path in the middle
+of a dusty cavern.  The sound of water dropping steadily and ominously from
+the roof above greets your ears. In between the rocks, tiny rodents make
+their burrows and a big mouse can be seen scurrying to its hole. The path
+continues to the south and a bronze door can be seen to the north.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 67V 1X 71.30% 22C Mem:2 T:12 Exits:NES> 
+
+turn
+You raise your holy symbol and utter some words...
+You failed to turn anything.
+
+614H 67V 1X 71.30% 22C Mem:2 T:10 Exits:NES> 
+
+ass
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 67V 1X 71.30% 22C Mem:2 T:8 Exits:NES> 
+
+reck
+ral
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 67V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:2 T:6 Exits:NES> 
+str
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 67V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:2 T:4 Exits:NES> 
+
+A godly anger burns within you, let the heretics feel your wrath!
+
+614H 67V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:2 T:1 Exits:NES> 
+
+You yell and inspire your companions to fight harder!
+
+614H 67V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:2 T:1 Exits:NES> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses you with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 91V 1X 71.30% 22C [Zargothrax:Perfect] [a decrepit zombie:Awful] Mem:2 T:60 Exits:NES> 
+
+str
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+
+614H 91V 1X 71.30% 22C [a decrepit zombie:Dying] Mem:2 T:57 Exits:NES> 
+
+
+You obliterate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 91V 1X 71.30% 22C Mem:2 T:56 Exits:NES> 
+
+ass
+Kor the bronze dragon barely hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+You couldn't find what you were looking for.
+
+614H 91V 1X 71.30% 22C Mem:2 T:52 Exits:NES> 
+
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 91V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:2 T:52 Exits:NES> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+Kor the bronze dragon hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 91V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:2 T:48 Exits:NES> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You massacre a decrepit zombie with your stab.
+
+614H 91V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:2 T:47 Exits:NES> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+Kor the bronze dragon hits a decrepit zombie extremely hard.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 91V 1X 71.30% 22C Mem:2 T:44 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Stony Corridor
+     Rocks have been cleared away from the central path along the middle of
+the musty cavern.  The faint sound of water dripping continues to echo
+throughout the tunnel.  Looking down you can see mere traces of ancient
+cobblestones beneath your feet, leading to the south.  The path moves
+towards a faint crack of light to the north.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+An insane cityguard, weakened by merciless torture is standing here. (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+An insane cityguard tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+614H 90V 1X 71.30% 22C Mem:2 T:42 Exits:NS> 
+
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+
+614H 90V 1X 71.30% 22C Mem:2 T:41 Exits:NS> 
+
+turn
+You raise your holy symbol and utter some words...
+You failed to turn anything.
+
+614H 90V 1X 71.30% 22C Mem:2 T:41 Exits:NS> 
+
+
+An insane cityguard spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+An insane cityguard staggers about confused!
+An insane cityguard misses Kor the bronze dragon with his hit.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+
+614H 90V 1X 71.30% 22C Mem:2 T:40 Exits:NS> 
+
+ass
+An insane cityguard staggers about confused!
+An insane cityguard misses Kor the bronze dragon with his hit.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 90V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] Mem:2 T:36 Exits:NS> 
+
+str
+
+An insane cityguard misses you with his hit.
+
+614H 90V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] Mem:2 T:34 Exits:NS> 
+
+
+An insane cityguard staggers about confused!
+An insane cityguard misses you with his hit.
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 90V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:2 T:32 Exits:NS> 
+
+You strike at a decrepit zombie, but miss it completely.
+
+614H 90V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:2 T:32 Exits:NS> 
+
+
+An insane cityguard tries to sweep your legs, but you avoid the attack.
+An insane cityguard staggers about confused!
+An insane cityguard misses you with his hit.
+You annihilate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+You direct your attention to an insane cityguard.
+
+614H 90V 1X 71.30% 22C [Zargothrax:Perfect] [an insane cityguard:Perfect] Mem:2 T:28 Exits:NS> 
+
+ass
+You can't do that while fighting.
+
+614H 90V 1X 71.30% 22C [Zargothrax:Perfect] [an insane cityguard:Perfect] Mem:2 T:27 Exits:NS> 
+
+str
+You attempt to strike at an insane cityguard with your pike.
+You massacre an insane cityguard with your stab.
+
+614H 90V 1X 71.30% 22C [Zargothrax:Perfect] [an insane cityguard:Fair] Mem:2 T:26 Exits:NS> 
+
+
+An insane cityguard staggers about confused!
+An insane cityguard misses you with his hit.
+You massacre an insane cityguard with your stab.
+
+614H 90V 1X 71.30% 22C [Zargothrax:Perfect] [an insane cityguard:Awful] Mem:2 T:24 Exits:NS> 
+
+str
+
+An insane cityguard tries to sweep your legs, but you avoid the attack.
+
+614H 90V 1X 71.30% 22C [Zargothrax:Perfect] [an insane cityguard:Awful] Mem:2 T:22 Exits:NS> 
+
+You attempt to strike at an insane cityguard with your pike.
+You stab an insane cityguard extremely hard.
+An insane cityguard is mortally wounded, and will die soon, if not aided.
+
+614H 90V 1X 71.30% 22C [an insane cityguard:Dying] Mem:2 T:22 Exits:NS> 
+
+
+Sweat dripping, your anger subsides, your blood cools.
+You obliterate an insane cityguard with your stab.
+You receive 0 experience.
+An insane cityguard is dead! R.I.P.
+The death cry of an insane cityguard echoes from somewhere nearby...
+
+614H 90V 1X 71.30% 22C Mem:2 T:20 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Bend in the Path
+     The path takes a turn to the east here.  A large faceless mask has
+been etched into the south wall here.  A non-descript pile of gravel can be
+seen piled to the west, while the main path runs north and east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 89V 1X 71.30% 22C Mem:2 T:18 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+Sloping Corridor
+     Upon entering the room you see that the corridor continues on to the
+east, sloping down deeper into the tunnel.  The cobblestones beneath your
+feet are covered with a fine layer of blood-caked dust.
+Kor the bronze dragon is standing here, awaiting a rider.
+An insane cityguard, weakened by merciless torture is standing here. (black aura)
+A gaunt pitiful man cowers in the corner.
+An insane cityguard tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+614H 88V 1X 71.30% 22C Mem:2 T:17 Exits:EW> 
+
+
+An insane cityguard staggers about confused!
+An insane cityguard misses Kor the bronze dragon with his crush.
+Kor the bronze dragon hits an insane cityguard.
+
+614H 88V 1X 71.30% 22C Mem:2 T:16 Exits:EW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab an insane cityguard very hard.
+
+614H 88V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [an insane cityguard:Fair] Mem:2 T:14 Exits:EW> 
+
+str
+
+An insane cityguard staggers about confused!
+An insane cityguard misses Kor the bronze dragon with his crush.
+You stab an insane cityguard extremely hard.
+Kor the bronze dragon barely hits an insane cityguard.
+
+614H 88V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [an insane cityguard:V.Bad] Mem:2 T:12 Exits:EW> 
+
+
+An insane cityguard stumbles and falls while trying to bash Kor the bronze dragon.
+
+614H 88V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [an insane cityguard:V.Bad] Mem:2 T:12 Exits:EW> 
+
+You attempt to strike at an insane cityguard with your pike.
+You massacre an insane cityguard with your stab.
+An insane cityguard is mortally wounded, and will die soon, if not aided.
+
+614H 88V 1X 71.30% 22C [an insane cityguard:Dying] Mem:2 T:10 Exits:EW> 
+
+
+You obliterate an insane cityguard with your stab.
+You receive 0 experience.
+An insane cityguard is dead! R.I.P.
+The death cry of an insane cityguard echoes from somewhere nearby...
+
+614H 88V 1X 71.30% 22C Mem:2 T:8 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Sloping Corridor
+     Upon entering the room you see that the corridor continues on sloping
+down to the south and up westwards.  The cobblestones here are covered with
+small splotches of blood.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 87V 1X 71.30% 22C Mem:2 T:5 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Wide Cavern
+     The corridor gives way to a large cavern.  The smell of rotting flesh
+nauseates you as you enter the room.  Bones, stripped of their flesh, lie
+scattered around the room.  The cavern continues to the west and towards
+the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+A gaunt pitiful man cowers in the corner.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 86V 1X 71.30% 22C Mem:2 T:4 Exits:NSW> 
+
+turn
+You raise your holy symbol and utter some words...
+You failed to turn anything.
+
+614H 86V 1X 71.30% 22C Mem:2 T:3 Exits:NSW> 
+
+ass
+str
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 110V 1X 71.30% 22C Mem:1 T:60 Exits:NSW> 
+
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+
+614H 110V 1X 71.30% 22C Mem:1 T:59 Exits:NSW> 
+
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+614H 110V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:58 Exits:NSW> 
+
+
+The rally cry fades.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 110V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:1 T:56 Exits:NSW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+Your pike leaves a golden trail in the air as you strike a decrepit zombie.
+You find an opening in a decrepit zombie's armor and drive your pike there.
+A decrepit zombie is dissolved by your goodness.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie is dead! R.I.P.
+
+614H 110V 1X 71.30% 22C [a decrepit zombie:Dying] Mem:1 T:54 Exits:NSW> 
+
+str
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 110V 1X 71.30% 22C Mem:1 T:53 Exits:NSW> 
+
+
+Kor the bronze dragon hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 110V 1X 71.30% 22C Mem:1 T:52 Exits:NSW> 
+
+ass
+sc
+You couldn't find what you were looking for.
+
+614H 110V 1X 71.30% 22C Mem:1 T:49 Exits:NSW> 
+
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+614H 110V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:49 Exits:NSW> 
+
+
+You massacre a decrepit zombie with your stab.
+Kor the bronze dragon hits a decrepit zombie.
+A decrepit zombie misses you with its bite.
+
+614H 110V 1X 71.30% 22C [Zargothrax:Perfect] [a decrepit zombie:Bad] Mem:1 T:48 Exits:NSW> 
+
+A decrepit zombie misses you with its bite.
+You massacre a decrepit zombie with your stab.
+Kor the bronze dragon hits a decrepit zombie.
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 71.30% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 110(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 22(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 11 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 12 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting a decrepit zombie.
+You are affected by the following:
+    aura of glory        [17 hrs]
+    sanctuary            [4 hrs]
+    holy arms            [7 hrs]
+    bless                [12 hrs]
+
+614H 110V 1X 71.30% 22C [Zargothrax:Perfect] [a decrepit zombie:Awful] Mem:1 T:44 Exits:NSW> 
+
+
+A decrepit zombie misses you with its bite.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie is incapacitated and will slowly die, if not aided.
+Kor the bronze dragon massacres a decrepit zombie with his hit.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 110V 1X 71.30% 22C Mem:1 T:40 Exits:NSW> 
+
+l
+A Wide Cavern
+     The corridor gives way to a large cavern.  The smell of rotting flesh
+nauseates you as you enter the room.  Bones, stripped of their flesh, lie
+scattered around the room.  The cavern continues to the west and towards
+the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+A gaunt pitiful man cowers in the corner.
+
+614H 110V 1X 71.30% 22C Mem:1 T:38 Exits:NSW> 
+
+take all corpse
+What are you trying to get from?
+
+614H 110V 1X 71.30% 22C Mem:1 T:38 Exits:NSW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Wide Cavern
+     The large cavern is littered with bones and charred remains of some
+dark ritual.  A muffled scream can be heard in the distance, though you can
+not detect what direction it is from. Strong brick walls bar your path
+north and west.  The cavern continues in the other directions.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 109V 1X 71.30% 22C Mem:1 T:35 Exits:ES> 
+
+turn
+You raise your holy symbol and utter some words...
+You failed to turn anything.
+
+614H 109V 1X 71.30% 22C Mem:1 T:34 Exits:ES> 
+
+ass
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+
+614H 109V 1X 71.30% 22C Mem:1 T:32 Exits:ES> 
+
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+614H 109V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:29 Exits:ES> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 109V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] Mem:1 T:28 Exits:ES> 
+
+str
+You attempt to strike at a decrepit zombie with your pike.
+Your pike leaves a golden trail in the air as you strike a decrepit zombie.
+You find an opening in a decrepit zombie's armor and drive your pike there.
+You stab a decrepit zombie very hard.
+
+614H 109V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:1 T:25 Exits:ES> 
+
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie very hard.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 109V 1X 71.30% 22C Mem:1 T:24 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Wide Cavern
+     You nearly trip over piles of bones that are strewn haphazardly around
+the room.  The smell is almost unbearable as flesh rots on the grim piles.
+This is some kind of dumping ground you surmise, for what you dare not ask.
+The cavern stretches out to the north, south and east. To the west you see
+a small room that glows with a strange light.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A gaunt pitiful man cowers in the corner.
+A gaunt pitiful man cowers in the corner.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 108V 1X 71.30% 22C Mem:1 T:20 Exits:NESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+614H 108V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:19 Exits:NESW> 
+
+sc
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 108V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:1 T:16 Exits:NESW> 
+
+str
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 71.30% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 108(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 22(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 12 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 12 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are fighting a decrepit zombie.
+You are affected by the following:
+    aura of glory        [17 hrs]
+    sanctuary            [4 hrs]
+    holy arms            [7 hrs]
+    bless                [12 hrs]
+
+614H 108V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:1 T:14 Exits:NESW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+614H 108V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:1 T:14 Exits:NESW> 
+
+str
+
+You find an opening in a decrepit zombie's armor and drive your pike there.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 108V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:1 T:12 Exits:NESW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+
+614H 108V 1X 71.30% 22C [a decrepit zombie:Dying] Mem:1 T:9 Exits:NESW> 
+
+
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 108V 1X 71.30% 22C Mem:1 T:8 Exits:NESW> 
+
+l
+A Wide Cavern
+     You nearly trip over piles of bones that are strewn haphazardly around
+the room.  The smell is almost unbearable as flesh rots on the grim piles.
+This is some kind of dumping ground you surmise, for what you dare not ask.
+The cavern stretches out to the north, south and east. To the west you see
+a small room that glows with a strange light.
+Kor the bronze dragon is standing here, awaiting a rider.
+A gaunt pitiful man cowers in the corner.
+A gaunt pitiful man cowers in the corner.
+
+614H 108V 1X 71.30% 22C Mem:1 T:5 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Desolate Antechamber
+     The room appears empty and surprisingly free of all clutter including
+bones.  Black bricks form all of the walls.  On the wall a beautiful black
+curtain with a picture of a lonely tower on a hill in front of a black moon
+rests.  There is also a black rug on the ground.  The cavern can be seen
+back to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+
+614H 107V 1X 71.30% 22C Mem:1 T:3 Exits:E(W)> 
+
+pull rug
+As you move the rug the sound of gears at work can be heard.
+A spiral staircase formed in the floor as a circular section of the
+floor sinks into the darkness.
+
+614H 107V 1X 71.30% 22C Mem:1 T:1 Exits:E(W)D> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+
+614H 131V 1X 71.30% 22C T:60 Exits:E(W)D> 
+d
+Kor the bronze dragon arrives from above.
+On The Spiral Staircase
+     The stone spiral staircase twists down towards the center of the
+earth. The sound of your footfalls echos throughout the chamber and your
+breath seems to be impossibly loud.  A high pitched wheeze can be heard
+from the room to the east.  Small doors lead both to the east and to the
+north, the staircase continues on both up and down from here.
+A polished femur lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 71.30% 22C T:60 Exits:(NE)UD> 
+
+d
+Kor the bronze dragon arrives from above.
+Base of the Spiral Staircase
+     Small blocks of granite rise abruptly from the ground to form a spiral
+staircase.  Their smooth, slippery surface appears to have been worn down
+with use.  You can see a small antechamber to the north and a red brick
+path leading off to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 129V 1X 71.30% 22C T:58 Exits:NEU> 
+
+e
+Kor the bronze dragon arrives from the west.
+Red Brick Path
+     Echos of chanting resonate through this somber hallway.  The wail of
+suffering accompanies these chants.  This cult evidently prides itself on
+the pain and suffering it inflicts upon its victims.  As you walk down the
+path you are able to see small pictures upon the wall depicting Morgion and
+the evil pantheon upon Krynn once more as well as murals of entire villages
+living in fear of the cults nefarious eradications of their populations.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 128V 1X 71.30% 22C T:55 Exits:EW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] T:54 Exits:EW> 
+
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:53 Exits:EW> 
+
+ral
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] T:52 Exits:EW> 
+
+str
+You yell and inspire your companions to fight harder!
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] T:49 Exits:EW> 
+
+
+You find an opening in a decrepit zombie's armor and drive your pike there.
+You massacre a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 128V 1X 71.30% 22C T:48 Exits:EW> 
+
+ass
+str
+You couldn't find what you were looking for.
+
+614H 128V 1X 71.30% 22C T:45 Exits:EW> 
+
+Kor the bronze dragon barely hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] T:44 Exits:EW> 
+
+
+You massacre a decrepit zombie with your stab.
+Kor the bronze dragon hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:40 Exits:EW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:40 Exits:EW> 
+
+str
+
+You stab a decrepit zombie extremely hard.
+Kor the bronze dragon barely hits a decrepit zombie.
+A decrepit zombie is incapacitated and will slowly die, if not aided.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 128V 1X 71.30% 22C [a decrepit zombie:Dying] T:36 Exits:EW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You annihilate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+
+614H 128V 1X 71.30% 22C [a decrepit zombie:Dying] T:35 Exits:EW> 
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 128V 1X 71.30% 22C T:35 Exits:EW> 
+
+ass
+
+Kor the bronze dragon barely hits a decrepit zombie.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 128V 1X 71.30% 22C T:32 Exits:EW> 
+
+str
+You attempt to assist Kor the bronze dragon.
+You find an opening in a decrepit zombie's armor and drive your pike there.
+You stab a decrepit zombie extremely hard.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] T:31 Exits:EW> 
+
+
+You massacre a decrepit zombie with your stab.
+Kor the bronze dragon hits a decrepit zombie hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] T:28 Exits:EW> 
+
+str
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+
+614H 128V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:26 Exits:EW> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie is stunned, but will likely regain consciousness again.
+Kor the bronze dragon hits a decrepit zombie hard.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 128V 1X 71.30% 22C T:24 Exits:EW> 
+
+You couldn't find what you were looking for.
+
+614H 128V 1X 71.30% 22C T:22 Exits:EW> 
+l
+
+Red Brick Path
+     Echos of chanting resonate through this somber hallway.  The wail of
+suffering accompanies these chants.  This cult evidently prides itself on
+the pain and suffering it inflicts upon its victims.  As you walk down the
+path you are able to see small pictures upon the wall depicting Morgion and
+the evil pantheon upon Krynn once more as well as murals of entire villages
+living in fear of the cults nefarious eradications of their populations.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 128V 1X 71.30% 22C T:22 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Red Brick Path
+     Looking south you can see a picture adorning the wall, depicting the
+atrocities that the cult commits.  The path continues off to the east and
+leads back up to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 127V 1X 71.30% 22C T:21 Exits:EW> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 127V 1X 71.30% 22C T:20 Exits:EW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 127V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] T:20 Exits:EW> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+614H 127V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:16 Exits:EW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+
+614H 127V 1X 71.30% 22C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] T:15 Exits:EW> 
+
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie is stunned, but will likely regain consciousness again.
+Kor the bronze dragon massacres a decrepit zombie with his hit.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 127V 1X 71.30% 22C T:12 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+T Junction
+     You find yourself at a T Junction.  Paths lead off to the north and
+south, as well as to the west.  Screams of anguish seem to emanate from the
+south, while chanting can be heard from the north.  A small sign lies on
+the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+614H 126V 1X 71.30% 22C T:11 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Dark Tunnel
+     You are on the path leading to the temple torture chambers.  The
+remnants of ancient manacles and whipping canes litter the hallway. You can
+see the T junction to the north while the small, dank corridor leads
+further south towards the torture chambers.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 125V 1X 71.30% 22C T:9 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Torture Chamber Foyer
+     You find yourself within the torture chamber.  In the corner of the
+room lies a torture rack. Traces of fresh blood also grace an oaken table
+that lies in the middle of the room.  Upon a shelf in the corner of the
+room there lies a small safe. The chamber branches off into dark corridors
+to the south and east, while to the north the dark path to the stairs can
+be seen.
+A polished femur lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 124V 1X 71.30% 22C T:8 Exits:NES> 
+
+l e
+You see nothing special.
+
+614H 124V 1X 71.30% 22C T:1 Exits:NES> 
+
+e
+Once again the time has come for righteous anger.
+Kor the bronze dragon arrives from the west.
+Dark Tunnel
+     This seems to be a connecting hallway within the torture chamber. It
+is nondescript save the paintings upon the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 141V 1X 71.30% 22C T:60 Exits:ESW> 
+
+l e
+You see nothing special.
+
+614H 141V 1X 71.30% 22C T:59 Exits:ESW> 
+
+l s
+You see nothing special.
+
+614H 141V 1X 71.30% 22C T:58 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Turn in the Dark Tunnel
+     You are in a well taken care of tunnel.  It lacks the clutter of the
+torture chamber that lies down the dark tunnel.  Further down the tunnel
+you can see the living quarters of the temple's torture master.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 71.30% 22C T:57 Exits:SW> 
+
+l s
+You see nothing special.
+
+614H 140V 1X 71.30% 22C T:55 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Torturer's Bedroom and Kitchen
+     This appears to be the living quarters of the temple's head torturer.
+It is quite luxurious.  Silken sheets adorn the bed and the table appears
+to be made of silver.  The torturer seems to have interest in the finer
+things in life.  You can see two small rooms leading off to the south and
+east. These are continuations of his quarters.  A broken, empty bottle of
+wine upon the floor appears to be from Silvanesti, testament to the long
+reach that the cult has upon Krynn.
+Kor the bronze dragon is standing here, awaiting a rider.
+You see a sadistic looking gnoll leap up and attack you! (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+Grul lunges at you with a shard of bone, but you easily avoid his attempt to backstab you.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Perfect] T:55 Exits:NESW> 
+
+
+Grul misses you with his pierce.
+You stab Grul extremely hard.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:V.Good] T:52 Exits:NESW> 
+
+order kor ass
+Kor the bronze dragon hits Grul very hard.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Good] T:52 Exits:NESW> 
+
+av l
+You focus your purity on Grul's leg!
+You force Grul to the ground.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Good] T:50 Exits:NESW> 
+
+str
+
+Kor the bronze dragon barely hits Grul.
+Grul misses you with his pierce.
+You massacre Grul with your stab.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Good] T:48 Exits:NESW> 
+
+
+Grul is hit by Kor the bronze dragon's lightning breath.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Fair] T:47 Exits:NESW> 
+
+You attempt to strike at Grul with your pike.
+You massacre Grul with your stab.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Fair] T:46 Exits:NESW> 
+str
+
+
+Kor the bronze dragon hits Grul hard.
+Grul misses you with his pierce.
+You massacre Grul with your stab.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:Bad] T:44 Exits:NESW> 
+
+str
+You attempt to strike at Grul with your pike.
+You massacre Grul with your stab.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:V.Bad] T:42 Exits:NESW> 
+
+
+Grul stands up.
+
+614H 139V 1X 71.30% 22C [Zargothrax:Perfect] [Grul:V.Bad] T:41 Exits:NESW> 
+
+Kor the bronze dragon hits Grul hard.
+Grul misses you with his pierce.
+You stab Grul extremely hard.
+Grul panics, and attempts to flee.
+The rally cry fades.
+Grul leaves east.
+
+614H 139V 1X 71.30% 22C T:40 Exits:NESW> 
+
+You couldn't find what you were looking for.
+
+614H 139V 1X 71.30% 22C T:38 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Torturer's Table
+     The table appears not to be used for eating.  It appears to be where
+the torturer learns his craft.  Rotting animal bones can be seen in the
+corner of the room, most are broken and devoid of flesh. There is only one
+exit from the room, a hallway to the west that leads back to the bedroom.
+Kor the bronze dragon is standing here, awaiting a rider.
+You see a sadistic looking gnoll leap up and attack you! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+Suddenly Grul stabs you in the back.
+You feel a sharp pain in your chest, as Grul's shard breaks skin, creating a small flesh wound.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+554H 138V 1X 71.30% 22C [Zargothrax:V.Good] [Grul:V.Bad] T:36 Exits:W> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+You deflect part of Grul's blow with your shield.
+Grul pierces YOU.
+You stab Grul extremely hard.
+
+545H 138V 1X 71.30% 22C [Zargothrax:Good] [Grul:Awful] T:32 Exits:W> 
+
+order kor ass
+
+545H 138V 1X 71.30% 22C [Zargothrax:Good] [Grul:Awful] T:32 Exits:W> 
+
+str
+You attempt to strike at Grul with your pike.
+You stab Grul extremely hard.
+
+545H 138V 1X 71.30% 22C [Zargothrax:Good] [Grul:Awful] T:32 Exits:W> 
+
+
+Grul tries to throat punch you, but misses horribly.
+
+545H 138V 1X 71.30% 22C [Zargothrax:Good] [Grul:Awful] T:29 Exits:W> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+Grul misses you with his pierce.
+You massacre Grul with your stab.
+Grul is mortally wounded, and will die soon, if not aided.
+
+545H 138V 1X 71.30% 22C [Grul:Dying] T:28 Exits:W> 
+
+str
+You attempt to strike at Grul with your pike.
+You annihilate Grul with your stab.
+You receive 0 experience.
+Grul is dead! R.I.P.
+
+545H 138V 1X 71.39% 22C [Grul:Dying] T:27 Exits:W> 
+
+
+The death cry of Grul echoes from somewhere nearby...
+
+545H 138V 1X 71.39% 22C T:27 Exits:W> 
+
+take all corpse
+ass
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+545H 138V 1X 71.39% 22C T:24 Exits:W> 
+
+You get a shard of bone from the corpse of Grul.
+You get a tiny platinum key from the corpse of Grul.
+You get a small pile of coins from the corpse of Grul.
+There were 4 coins.
+
+545H 138V 1X 71.39% 26C T:23 Exits:W> 
+
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+545H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] T:23 Exits:W> 
+
+str
+
+You stab a decrepit zombie very hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+545H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:20 Exits:W> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie hard.
+
+545H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] T:18 Exits:W> 
+
+
+You stab a decrepit zombie extremely hard.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+545H 138V 1X 71.39% 26C T:16 Exits:W> 
+
+l
+Torturer's Table
+     The table appears not to be used for eating.  It appears to be where
+the torturer learns his craft.  Rotting animal bones can be seen in the
+corner of the room, most are broken and devoid of flesh. There is only one
+exit from the room, a hallway to the west that leads back to the bedroom.
+The corpse of Grul is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+545H 138V 1X 71.39% 26C T:14 Exits:W> 
+
+w
+Kor the bronze dragon arrives from the east.
+Torturer's Bedroom and Kitchen
+     This appears to be the living quarters of the temple's head torturer.
+It is quite luxurious.  Silken sheets adorn the bed and the table appears
+to be made of silver.  The torturer seems to have interest in the finer
+things in life.  You can see two small rooms leading off to the south and
+east. These are continuations of his quarters.  A broken, empty bottle of
+wine upon the floor appears to be from Silvanesti, testament to the long
+reach that the cult has upon Krynn.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+545H 137V 1X 71.39% 26C T:13 Exits:NESW> 
+
+l s
+You see a nondescript room.
+
+545H 137V 1X 71.39% 26C T:11 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Torturer's Study
+     This room is very quiet and seems to be where the torturer comes to
+learn how to implement new tortures upon people.  There is no one feature
+that sets this rooms apart from the others, save the eerie quiet.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+545H 136V 1X 71.39% 26C T:10 Exits:N> 
+
+sca
+Looking north:
+You see the bedroom.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+545H 136V 1X 71.39% 26C T:6 Exits:N> 
+
+n
+Kor the bronze dragon arrives from the south.
+Torturer's Bedroom and Kitchen
+     This appears to be the living quarters of the temple's head torturer.
+It is quite luxurious.  Silken sheets adorn the bed and the table appears
+to be made of silver.  The torturer seems to have interest in the finer
+things in life.  You can see two small rooms leading off to the south and
+east. These are continuations of his quarters.  A broken, empty bottle of
+wine upon the floor appears to be from Silvanesti, testament to the long
+reach that the cult has upon Krynn.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+545H 135V 1X 71.39% 26C T:5 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Turn in the Dark Tunnel
+     You are in a well taken care of tunnel.  It lacks the clutter of the
+torture chamber that lies down the dark tunnel.  Further down the tunnel
+you can see the living quarters of the temple's torture master.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+545H 134V 1X 71.39% 26C T:5 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+Dark Tunnel
+     This seems to be a connecting hallway within the torture chamber. It
+is nondescript save the paintings upon the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+545H 133V 1X 71.39% 26C T:3 Exits:ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Torture Chamber Foyer
+     You find yourself within the torture chamber.  In the corner of the
+room lies a torture rack. Traces of fresh blood also grace an oaken table
+that lies in the middle of the room.  Upon a shelf in the corner of the
+room there lies a small safe. The chamber branches off into dark corridors
+to the south and east, while to the north the dark path to the stairs can
+be seen.
+A polished femur lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 141V 1X 71.39% 26C T:60 Exits:NES> 
+
+unl safe
+You unlock a small iron safe.
+
+578H 141V 1X 71.39% 26C T:55 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+Dark Tunnel
+     You are on the path leading to the temple torture chambers.  The
+remnants of ancient manacles and whipping canes litter the hallway. You can
+see the T junction to the north while the small, dank corridor leads
+further south towards the torture chambers.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 140V 1X 71.39% 26C T:54 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+T Junction
+     You find yourself at a T Junction.  Paths lead off to the north and
+south, as well as to the west.  Screams of anguish seem to emanate from the
+south, while chanting can be heard from the north.  A small sign lies on
+the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+578H 139V 1X 71.39% 26C T:53 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+Prayers, chanted further on up the path reverberate throughout the halls. A
+grisly picture of a small child with the Scarlet Plague adorns the western
+wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+578H 138V 1X 71.39% 26C T:51 Exits:NS> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+578H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] T:49 Exits:NS> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+578H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:48 Exits:NS> 
+
+str
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+578H 138V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:45 Exits:NS> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+Kor the bronze dragon massacres a decrepit zombie with his hit.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+578H 138V 1X 71.39% 26C T:44 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+You can see yet another picture on the wall.  It is of a lonely tower in a
+strange desert.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 137V 1X 71.39% 26C T:40 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Gates of Grak
+     The grey path ends abruptly when it arrives at a large pair of grey
+steel gates.  There are piles of bones at either side of the gate,
+testimony to the danger that lies behind them.  A skull which appears to be
+elven forms the knocker upon the gates.  There are no key holes evident nor
+is there a handle upon the door.  There is a small sign upon the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 136V 1X 71.39% 26C T:39 Exits:S> 
+
+rotate skull
+Huh?!
+
+578H 136V 1X 71.39% 26C T:36 Exits:S> 
+
+rotate 2.skull
+   As you move the skull there is a hiss of steam from some unknown
+source and the Grey Gates to the east slowly swing open on their own
+accord.  The skull seems to fix its eyes upon you and it says,
+"Many enter, few survive, the important thing is to get out alive."
+
+578H 136V 1X 71.39% 26C T:31 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Dark Entryway
+     The ground beneath your feet reminds you of the hard packed dirt of a
+cemetery.  Tall pillars flank a large gate to your west that leads out of
+the worshiping quarter of the temple.  There is a small exit leading off to
+the north and another larger exit to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 135V 1X 71.39% 26C T:30 Exits:NEW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Entryway to Barracks
+     Through a door to the south you see a dark grey gate.  Beds are
+arranged in military fashion towards the north.  Few personal belongings
+lie around the room.  The beds are all in good repair, though most are now
+empty.  The barracks stretch far to the north and well as to the west.
+Through the doors to the south, a grey gate can be seen.
+Kor the bronze dragon is standing here, awaiting a rider.
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+578H 134V 1X 71.39% 26C T:29 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Barracks
+     The monks barracks are a spartan and boring sequence of beds, orderly
+lined up.  The room continues in all main directions besides east. There is
+faint light from the torches visible high above the ground near the ceiling
+Kor the bronze dragon is standing here, awaiting a rider.
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+
+578H 133V 1X 71.39% 26C T:28 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Northeast Corner of Barracks
+     The barracks come to a conclusion here.  All the beds except for a
+black one are neatly lined up.  Torchlight lights the barracks from high up
+in the cavern.  The barracks stretch off to the south and to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 132V 1X 71.39% 26C T:27 Exits:SW> 
+
+rotate 2.skull
+   The grin on the skulls face dissappears as you move it.  It hisses at
+you then stops.  A large slab of rock to the east slowly slides to the
+side revealing a small secret door.
+
+578H 132V 1X 71.39% 26C T:25 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Secret Tunnel of Grak
+     You are in a bright tunnel.  Light pours into the white walled tunnel
+from small holes in the ceiling.  Murals of dragons in the dragon wars
+adorn the walls of the hallway.  The path leads to the east and back to the
+barracks to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 131V 1X 71.39% 26C T:24 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Secret Tunnel of Grak
+     The tunnel appears to be a well kept secret, as there are no signs of
+the bones that litter the rest of the temple.  The clean white walls of the
+corridor contrast heavily with the darkness of the temple and barracks.
+Murals on the walls depict a dark mage, with a hellhound at his side and a
+crooked staff in his hand.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+578H 130V 1X 71.39% 26C T:23 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Before The Thorny Door
+     A thorny door dominates the room.  The white tunnel blends into thorns
+and there is no discernible difference between the two.  As you inspect the
+thorns you see that there is a doorknob which would seem to turn easily.
+The thorns seem to be similar to rose thorns as they intertwine to form a
+barrier blocking the passage.
+Kor the bronze dragon is standing here, awaiting a rider.
+A thorn golem stands here at attention.
+
+578H 129V 1X 71.39% 26C T:22 Exits:N(E)> 
+
+order kor ki golem
+Kor the bronze dragon hits a thorn golem.
+
+578H 129V 1X 71.39% 26C T:19 Exits:N(E)> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a thorn golem very hard.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a thorn golem:Good] T:19 Exits:N(E)> 
+
+
+A thorn golem tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a thorn golem:Good] T:17 Exits:N(E)> 
+
+
+You massacre a thorn golem with your stab.
+Kor the bronze dragon hits a thorn golem.
+A thorn golem misses Kor the bronze dragon with its whip.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a thorn golem:Bad] T:16 Exits:N(E)> 
+
+order kor ki golem
+str
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a thorn golem:Bad] T:14 Exits:N(E)> 
+
+You attempt to strike at a thorn golem with your pike.
+You stab a thorn golem hard.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:Perfect] [a thorn golem:V.Bad] T:14 Exits:N(E)> 
+
+
+You stab a thorn golem very hard.
+Kor the bronze dragon barely hits a thorn golem.
+A thorn golem whips Kor the bronze dragon.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:V.Good] [a thorn golem:Awful] T:12 Exits:N(E)> 
+
+
+A thorn golem spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+
+578H 129V 1X 71.39% 26C [Kor the bronze dragon:V.Good] [a thorn golem:Awful] T:11 Exits:N(E)> 
+
+str
+You attempt to strike at a thorn golem with your pike.
+You stab a thorn golem extremely hard.
+A thorn golem is mortally wounded, and will die soon, if not aided.
+
+578H 129V 1X 71.39% 26C [a thorn golem:Dying] T:10 Exits:N(E)> 
+
+
+You annihilate a thorn golem with your stab.
+You receive 0 experience.
+A thorn golem is dead! R.I.P.
+The death cry of a thorn golem echoes from somewhere nearby...
+
+578H 129V 1X 71.43% 26C T:8 Exits:N(E)> 
+
+take all corpse
+unl door
+You get a thorn key from the corpse of a thorn golem.
+You get a thorny green staff from the corpse of a thorn golem.
+
+578H 129V 1X 71.43% 26C T:5 Exits:N(E)> 
+
+op door
+*click* as you use a thorn key.
+The key turns to dust as its usefulness ends.
+
+578H 129V 1X 71.43% 26C T:5 Exits:N(E)> 
+
+Ok.
+
+578H 129V 1X 71.43% 26C T:5 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+Grak's Bedroom
+     You enter a room that is both large and opulent.  There is a floor of
+polished marble inlaid with gold.  It stretches from wall to wall. The roof
+of the room is a large dome depicting the night sky.  The three major
+constellations of Takhisis, Gilean and Paladine can be seen, encrusted with
+diamonds in the roof high above.  The walls are clean and white,
+interrupted only with the faceless mask that is Morgion's symbol. In the
+corner lies a huge bed with a solid steel frame.  A small door can be seen
+to the north, and the entrance is visible back to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+An undead guard stands here in silent vigil over the high priest. (black aura)
+A man in flowing grey robes leaps towards you and attacks! (black aura)
+An undead guard stumbles and falls while trying to bash Kor the bronze dragon.
+Grak, the high priest focuses harshly on Kor the bronze dragon and utters some strange words.
+Grak, the high priest misses Kor the bronze dragon with his hit.
+
+578H 128V 1X 71.43% 26C T:4 Exits:NW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You annihilate an undead guard with your stab.
+
+578H 128V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:Fair] T:3 Exits:NW> 
+
+ac l
+av l
+
+You massacre an undead guard with your stab.
+Grak, the high priest misses Kor the bronze dragon with his hit.
+An undead guard drains Kor the bronze dragon hard.
+Kor the bronze dragon misses an undead guard with his hit.
+
+611H 142V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:Fair] T:60 Exits:NW> 
+
+Achievements
+------------
+Level 10
+Achieve level 10.
+
+Winged Rat
+A seagull took off with your food!
+
+Level 20
+Achieve level 20.
+
+No Pain, No Gain
+If at first you don't succeed, throw another corpse at it.
+
+You died in a DT!
+You died in a DT. Poor you.
+
+Level 30
+Achieve level 30.
+
+Maximum Experience
+Reach the maximum experience at level 30.
+
+ [return for more, q to stop]
+
+
+611H 142V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:Fair] T:58 Exits:NW> 
+
+av l
+You focus your purity on an undead guard's leg!
+You focus on an undead guard's legs, but are thwarted.
+
+611H 142V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:Fair] T:57 Exits:NW> 
+
+
+You annihilate an undead guard with your stab.
+Grak, the high priest hits Kor the bronze dragon.
+An undead guard misses Kor the bronze dragon with his drain.
+Kor the bronze dragon hits an undead guard very hard.
+
+611H 142V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:V.Bad] T:56 Exits:NW> 
+
+str
+You attempt to strike at an undead guard with your pike.
+You massacre an undead guard with your stab.
+
+611H 142V 1X 71.43% 26C [Kor the bronze dragon:V.Good] [an undead guard:Awful] T:53 Exits:NW> 
+
+
+An undead guard stands up.
+You massacre an undead guard with your stab.
+You receive 0 experience.
+An undead guard is dead! R.I.P.
+Grak, the high priest misses Kor the bronze dragon with his hit.
+The death cry of an undead guard echoes from somewhere nearby...
+An undead guard's corpse disintegrates instantly!
+An undead guard stops following Grak, the high priest.
+
+611H 142V 1X 72.83% 26C T:52 Exits:NW> 
+
+ass
+Kor the bronze dragon barely hits Grak, the high priest.
+Grak, the high priest barely hits YOU.
+You can't do that while fighting.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Good] T:48 Exits:NW> 
+
+str
+You attempt to strike at Grak, the high priest with your pike.
+You stab Grak, the high priest extremely hard.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Good] T:48 Exits:NW> 
+
+
+Grak, the high priest focuses harshly on you and utters some strange words.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Good] T:47 Exits:NW> 
+
+str
+
+Grak, the high priest misses you with his hit.
+You massacre Grak, the high priest with your stab.
+Kor the bronze dragon barely hits Grak, the high priest.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:44 Exits:NW> 
+
+You attempt to strike at Grak, the high priest with your pike.
+You stab Grak, the high priest very hard.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:43 Exits:NW> 
+
+str
+
+Grak, the high priest misses you with his hit.
+You stab Grak, the high priest extremely hard.
+Kor the bronze dragon hits Grak, the high priest.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:40 Exits:NW> 
+
+You strike at Grak, the high priest, but miss him completely.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:39 Exits:NW> 
+
+str
+
+Grak, the high priest misses you with his hit.
+You stab Grak, the high priest very hard.
+Kor the bronze dragon hits Grak, the high priest.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Bad] T:36 Exits:NW> 
+
+You attempt to strike at Grak, the high priest with your pike.
+You stab Grak, the high priest extremely hard.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Bad] T:35 Exits:NW> 
+
+Grak, the high priest utters some strange words.
+Large open gashes on Grak, the high priest's body quickly heal.
+
+605H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Good] T:35 Exits:NW> 
+
+str
+
+You deflect part of Grak, the high priest's blow with your shield.
+Grak, the high priest barely hits YOU.
+You massacre Grak, the high priest with your stab.
+Kor the bronze dragon hits Grak, the high priest very hard.
+
+601H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:32 Exits:NW> 
+
+You strike at Grak, the high priest, but miss him completely.
+
+601H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:31 Exits:NW> 
+
+str
+
+Grak, the high priest focuses harshly on you and utters some strange words.
+You feel very uncomfortable.
+Grak, the high priest makes your soul hurt and suffer!
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:29 Exits:NW> 
+
+
+Grak, the high priest misses you with his hit.
+You massacre Grak, the high priest with your stab.
+Kor the bronze dragon hits Grak, the high priest hard.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Fair] T:28 Exits:NW> 
+
+av l
+You attempt to strike at Grak, the high priest with your pike.
+You massacre Grak, the high priest with your stab.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Bad] T:26 Exits:NW> 
+
+
+Grak, the high priest misses you with his hit.
+You massacre Grak, the high priest with your stab.
+Kor the bronze dragon barely hits Grak, the high priest.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Bad] T:24 Exits:NW> 
+
+
+Grak, the high priest is hit by Kor the bronze dragon's lightning breath.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Awful] T:23 Exits:NW> 
+
+
+Grak, the high priest utters the words, 'cure serious'.
+A few of Grak, the high priest's nastier scrapes disappear.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Bad] T:23 Exits:NW> 
+
+You focus your purity on Grak, the high priest's leg!
+You focus on Grak, the high priest's legs, but are thwarted.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Bad] T:22 Exits:NW> 
+
+str
+
+Grak, the high priest misses you with his hit.
+You massacre Grak, the high priest with your stab.
+Kor the bronze dragon hits Grak, the high priest very hard.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Awful] T:20 Exits:NW> 
+
+You attempt to strike at Grak, the high priest with your pike.
+Grak, the high priest dodges your attack!
+You trip and attack Kor the bronze dragon!
+You stab Kor the bronze dragon.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Awful] T:18 Exits:NW> 
+
+str
+
+Grak, the high priest utters the words, 'cure serious'.
+A few of Grak, the high priest's nastier scrapes disappear.
+
+567H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:V.Bad] T:17 Exits:NW> 
+
+
+You stab Grak, the high priest extremely hard.
+You deflect part of Grak, the high priest's blow with your shield.
+Grak, the high priest barely hits YOU.
+Kor the bronze dragon hits Grak, the high priest hard.
+
+561H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Awful] T:16 Exits:NW> 
+
+You attempt to strike at Grak, the high priest with your pike.
+You stab Grak, the high priest extremely hard.
+
+561H 142V 1X 72.83% 26C [Zargothrax:V.Good] [Grak, the high priest:Awful] T:14 Exits:NW> 
+
+str
+
+You massacre Grak, the high priest with your stab.
+You receive 0 experience.
+Grak, the high priest is dead! R.I.P.
+The death cry of Grak, the high priest echoes from somewhere nearby...
+
+561H 142V 1X 74.22% 26C T:12 Exits:NW> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+561H 142V 1X 74.22% 26C T:9 Exits:NW> 
+
+You are zapped by a runed bracelet and instantly drop it.
+You get a small, bat-winged medallion from the corpse of Grak, the high priest.
+You get a pile of coins from the corpse of Grak, the high priest.
+There were 94 coins.
+
+561H 142V 1X 74.22% 120C T:9 Exits:NW> 
+l
+
+Grak's Bedroom
+     You enter a room that is both large and opulent.  There is a floor of
+polished marble inlaid with gold.  It stretches from wall to wall. The roof
+of the room is a large dome depicting the night sky.  The three major
+constellations of Takhisis, Gilean and Paladine can be seen, encrusted with
+diamonds in the roof high above.  The walls are clean and white,
+interrupted only with the faceless mask that is Morgion's symbol. In the
+corner lies a huge bed with a solid steel frame.  A small door can be seen
+to the north, and the entrance is visible back to the west.
+A small bracelet with intricate runes lies here.
+The corpse of Grak, the high priest is lying here.
+A pile of steel coins.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 142V 1X 74.22% 120C T:9 Exits:NW> 
+
+tak all
+You are zapped by a runed bracelet and instantly drop it.
+You get the corpse of Grak, the high priest.
+You get a small pile of coins.
+There were 2 coins.
+
+561H 142V 1X 74.22% 122C T:8 Exits:NW> 
+
+dro corpse
+You drop the corpse of Grak, the high priest.
+
+561H 142V 1X 74.22% 122C T:6 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grak's Treasure Room
+     You are in a small nondescript room.  The walls are blank and are made
+of the same vibrant material that the white hallway had been made. There is
+a small door to the south that leads back to Grak's bedroom.
+A large pile of steel coins is lying on the ground. [4]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 141V 1X 74.22% 122C T:5 Exits:S> 
+
+tak all
+You get a pile of steel coins.
+There were 35 coins.
+You get a pile of steel coins.
+There were 35 coins.
+You get a pile of steel coins.
+There were 35 coins.
+You get a pile of steel coins.
+There were 35 coins.
+
+561H 141V 1X 74.22% 262C T:5 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+Grak's Bedroom
+     You enter a room that is both large and opulent.  There is a floor of
+polished marble inlaid with gold.  It stretches from wall to wall. The roof
+of the room is a large dome depicting the night sky.  The three major
+constellations of Takhisis, Gilean and Paladine can be seen, encrusted with
+diamonds in the roof high above.  The walls are clean and white,
+interrupted only with the faceless mask that is Morgion's symbol. In the
+corner lies a huge bed with a solid steel frame.  A small door can be seen
+to the north, and the entrance is visible back to the west.
+The corpse of Grak, the high priest is lying here.
+A small bracelet with intricate runes lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 140V 1X 74.22% 262C T:4 Exits:NW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Before The Thorny Door
+     A thorny door dominates the room.  The white tunnel blends into thorns
+and there is no discernible difference between the two.  As you inspect the
+thorns you see that there is a doorknob which would seem to turn easily.
+The thorns seem to be similar to rose thorns as they intertwine to form a
+barrier blocking the passage.
+The corpse of a thorn golem is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 139V 1X 74.22% 262C T:4 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+Secret Tunnel of Grak
+     The tunnel appears to be a well kept secret, as there are no signs of
+the bones that litter the rest of the temple.  The clean white walls of the
+corridor contrast heavily with the darkness of the temple and barracks.
+Murals on the walls depict a dark mage, with a hellhound at his side and a
+crooked staff in his hand.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 138V 1X 74.22% 262C T:3 Exits:SW> 
+
+n
+Alas, you cannot go that way...
+
+561H 138V 1X 74.22% 262C T:3 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Secret Tunnel of Grak
+     You are in a bright tunnel.  Light pours into the white walled tunnel
+from small holes in the ceiling.  Murals of dragons in the dragon wars
+adorn the walls of the hallway.  The path leads to the east and back to the
+barracks to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 137V 1X 74.22% 262C T:2 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Northeast Corner of Barracks
+     The barracks come to a conclusion here.  All the beds except for a
+black one are neatly lined up.  Torchlight lights the barracks from high up
+in the cavern.  The barracks stretch off to the south and to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+561H 136V 1X 74.22% 262C T:2 Exits:ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Barracks
+     The monks barracks are a spartan and boring sequence of beds, orderly
+lined up.  The room continues in all main directions besides east. There is
+faint light from the torches visible high above the ground near the ceiling
+Kor the bronze dragon is standing here, awaiting a rider.
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+
+561H 135V 1X 74.22% 262C T:1 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Entryway to Barracks
+     Through a door to the south you see a dark grey gate.  Beds are
+arranged in military fashion towards the north.  Few personal belongings
+lie around the room.  The beds are all in good repair, though most are now
+empty.  The barracks stretch far to the north and well as to the west.
+Through the doors to the south, a grey gate can be seen.
+Kor the bronze dragon is standing here, awaiting a rider.
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+A dark grey clad monk lies sound asleep upon the bed. (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+561H 134V 1X 74.22% 262C T:1 Exits:NSW> 
+
+s
+The white aura around your body fades.
+A tiny platinum key decays in your hands.
+Kor the bronze dragon arrives from the north.
+A Dark Entryway
+     The ground beneath your feet reminds you of the hard packed dirt of a
+cemetery.  Tall pillars flank a large gate to your west that leads out of
+the worshiping quarter of the temple.  There is a small exit leading off to
+the north and another larger exit to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 141V 1X 74.22% 262C T:60 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Grey Gates of Grak
+     The grey path ends abruptly when it arrives at a large pair of grey
+steel gates.  There are piles of bones at either side of the gate,
+testimony to the danger that lies behind them.  A skull which appears to be
+elven forms the knocker upon the gates.  There are no key holes evident nor
+is there a handle upon the door.  There is a small sign upon the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 140V 1X 74.22% 262C T:59 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+You can see yet another picture on the wall.  It is of a lonely tower in a
+strange desert.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 139V 1X 74.22% 262C T:58 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+Prayers, chanted further on up the path reverberate throughout the halls. A
+grisly picture of a small child with the Scarlet Plague adorns the western
+wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 138V 1X 74.22% 262C T:58 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+T Junction
+     You find yourself at a T Junction.  Paths lead off to the north and
+south, as well as to the west.  Screams of anguish seem to emanate from the
+south, while chanting can be heard from the north.  A small sign lies on
+the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+594H 137V 1X 74.22% 262C T:57 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Dark Tunnel
+     You are on the path leading to the temple torture chambers.  The
+remnants of ancient manacles and whipping canes litter the hallway. You can
+see the T junction to the north while the small, dank corridor leads
+further south towards the torture chambers.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 136V 1X 74.22% 262C T:56 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Torture Chamber Foyer
+     You find yourself within the torture chamber.  In the corner of the
+room lies a torture rack. Traces of fresh blood also grace an oaken table
+that lies in the middle of the room.  Upon a shelf in the corner of the
+room there lies a small safe. The chamber branches off into dark corridors
+to the south and east, while to the north the dark path to the stairs can
+be seen.
+A polished femur lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 135V 1X 74.22% 262C T:55 Exits:NES> 
+
+op safe
+Ok.
+
+594H 135V 1X 74.22% 262C T:52 Exits:NES> 
+
+tak all safe
+The safe doesn't seem to have what you are looking for.
+
+594H 135V 1X 74.22% 262C T:50 Exits:NES> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 74.22% of your next rank.
+You are 19 years old.
+You have 594(614) hit and 135(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 262(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 16 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 17 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    aura of glory        [12 hrs]
+    holy arms            [2 hrs]
+    bless                [7 hrs]
+
+594H 135V 1X 74.22% 262C T:48 Exits:NES> 
+
+take milky bag
+You get a milky potion of see invisible from a bag of shadows.
+
+594H 135V 1X 74.22% 262C T:45 Exits:NES> 
+
+quaf milky
+You quaff a milky potion of see invisible.
+Your mind races and after rubbing your eyes a bit, things look sharper.
+Your eyes tingle.
+
+594H 135V 1X 74.22% 262C T:44 Exits:NES> 
+
+exam safe
+The safe's metallic surface is shiny and new. (100%)
+safe (here) : 
+
+594H 135V 1X 74.22% 262C T:43 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+Dark Tunnel
+     You are on the path leading to the temple torture chambers.  The
+remnants of ancient manacles and whipping canes litter the hallway. You can
+see the T junction to the north while the small, dank corridor leads
+further south towards the torture chambers.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 134V 1X 74.22% 262C T:42 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+T Junction
+     You find yourself at a T Junction.  Paths lead off to the north and
+south, as well as to the west.  Screams of anguish seem to emanate from the
+south, while chanting can be heard from the north.  A small sign lies on
+the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+
+594H 133V 1X 74.22% 262C T:41 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+Prayers, chanted further on up the path reverberate throughout the halls. A
+grisly picture of a small child with the Scarlet Plague adorns the western
+wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 132V 1X 74.22% 262C T:41 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Path
+     Grey cobblestone beneath your feet lead off north into the distance.
+You can see yet another picture on the wall.  It is of a lonely tower in a
+strange desert.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 131V 1X 74.22% 262C T:40 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Grey Gates of Grak
+     The grey path ends abruptly when it arrives at a large pair of grey
+steel gates.  There are piles of bones at either side of the gate,
+testimony to the danger that lies behind them.  A skull which appears to be
+elven forms the knocker upon the gates.  There are no key holes evident nor
+is there a handle upon the door.  There is a small sign upon the wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 130V 1X 74.22% 262C T:39 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Dark Entryway
+     The ground beneath your feet reminds you of the hard packed dirt of a
+cemetery.  Tall pillars flank a large gate to your west that leads out of
+the worshiping quarter of the temple.  There is a small exit leading off to
+the north and another larger exit to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 129V 1X 74.22% 262C T:38 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Twisted Corridor
+     This corridor is very nondescript save the paintings that adorn the
+walls.  The hallway slopes down towards the temple.  Chanting can be heard
+from down the tunnel.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+594H 128V 1X 74.22% 262C T:37 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Twisted Corridor
+     The corridor is very nondescript save the painting that adorns the
+walls.  The hallway turns to the north and slopes down towards the temple.
+Chanting can be heard from down the tunnel.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+594H 127V 1X 74.22% 262C T:37 Exits:NW> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+594H 127V 1X 74.22% 262C T:36 Exits:NW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+594H 127V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:Fair] T:35 Exits:NW> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses you with its bite.
+Kor the bronze dragon gracefully steps aside as a decrepit zombie attacks!
+Kor the bronze dragon hits a decrepit zombie.
+
+594H 127V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:V.Bad] T:32 Exits:NW> 
+
+str
+You strike at a decrepit zombie, but miss it completely.
+
+594H 127V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:V.Bad] T:31 Exits:NW> 
+
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+
+594H 127V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:Awful] T:29 Exits:NW> 
+
+
+A decrepit zombie misses you with its bite.
+You massacre a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+You direct your attention to a decrepit zombie.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Perfect] T:28 Exits:NW> 
+
+order kor ass
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Good] T:26 Exits:NW> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses you with its bite.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Fair] T:24 Exits:NW> 
+
+str
+Kor the bronze dragon misses a decrepit zombie with his hit.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Fair] T:22 Exits:NW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You massacre a decrepit zombie with your stab.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Bad] T:22 Exits:NW> 
+
+
+Kor the bronze dragon hits a decrepit zombie hard.
+You stab a decrepit zombie very hard.
+A decrepit zombie misses you with its bite.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Awful] T:20 Exits:NW> 
+
+str
+You strike at a decrepit zombie, but miss it completely.
+
+594H 127V 1X 74.22% 262C [Zargothrax:V.Good] [a decrepit zombie:Awful] T:18 Exits:NW> 
+
+
+Kor the bronze dragon barely hits a decrepit zombie.
+You massacre a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+594H 127V 1X 74.22% 262C T:16 Exits:NW> 
+
+n
+You couldn't find what you were looking for.
+
+594H 127V 1X 74.22% 262C T:13 Exits:NW> 
+
+Kor the bronze dragon arrives from the south.
+Twisted Corridor
+     This corridor is very nondescript save the paintings that adorn the
+walls.  The hallway slopes down towards the temple.  Chanting can be heard
+from down the tunnel.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+594H 126V 1X 74.22% 262C T:13 Exits:ES> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+
+594H 126V 1X 74.22% 262C T:12 Exits:ES> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+594H 126V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:Fair] T:12 Exits:ES> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+594H 126V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:V.Bad] T:8 Exits:ES> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+
+594H 126V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a decrepit zombie:V.Bad] T:7 Exits:ES> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+
+594H 126V 1X 74.22% 262C [a decrepit zombie:Dying] T:4 Exits:ES> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You obliterate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+
+594H 126V 1X 74.22% 262C [a decrepit zombie:Dying] T:3 Exits:ES> 
+
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+594H 126V 1X 74.22% 262C T:3 Exits:ES> 
+
+take all corpse
+sc
+What are you trying to get from?
+
+614H 142V 1X 74.22% 262C T:59 Exits:ES> 
+
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 74.22% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 142(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 262(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 17 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 18 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    aura of glory        [11 hrs]
+    holy arms            [1 hour]
+    bless                [6 hrs]
+
+614H 142V 1X 74.22% 262C T:59 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+Twisted Corridor
+     This corridor is very nondescript save the crude painting that adorn
+the walls.  The hallway slopes down towards the south, where the tunnel
+widens up considerably.  Chanting becomes noticeably louder as you move
+towards the south.  The path returns back towards the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 141V 1X 74.22% 262C T:56 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Temple of Grak
+     The ancient temple opens up in front of you.  Tall pillars of granite
+rise up to the cavern roof.  The chanting of monks echoes throughout the
+chamber.  You can smell the stench of rotten flesh once more in the temple.
+The temple lies to your west and south, while a dark twisting path leads
+off to the north.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 74.22% 262C T:55 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Temple of Grak
+     You see the ancient temple in all its glory before you.  Tall pillars
+of granite rise like giant trees to the cavern roof.  The black stone used
+to make the room makes it seem dark and foreboding.  The smell of rotten
+flesh doesn't help much either.  You can hear chanting resonating from
+somewhere in the temple.  It seems to both attract you and revolt you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 139V 1X 74.22% 262C T:51 Exits:NSW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Temple Stairs
+     You find yourself on the steps that lead up to the temple altar.
+Ancient runes of protection on the floor glow as you approach, then die
+down at once.  The chanting bores into your mind here, and it is very
+difficult for you to concentrate.  As you are in the middle of the temple,
+you can go any direction from here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 138V 1X 74.22% 262C T:50 Exits:NESW> 
+
+ass
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+614H 138V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] T:48 Exits:NESW> 
+
+str
+str
+
+You stab a decrepit zombie very hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon misses a decrepit zombie with his hit.
+
+614H 138V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] T:44 Exits:NESW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+614H 138V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] T:44 Exits:NESW> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+
+614H 138V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] T:40 Exits:NESW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie hard.
+A decrepit zombie is stunned, but will likely regain consciousness again.
+
+614H 138V 1X 74.22% 262C [a decrepit zombie:Awful] T:39 Exits:NESW> 
+
+
+You obliterate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 138V 1X 74.22% 262C T:36 Exits:NESW> 
+
+bes pal
+You kneel in humility and beseech Paladine.
+You feel more resolute.
+You feel enlightened.
+
+614H 138V 1X 74.22% 262C T:35 Exits:NESW> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 74.22% of your next rank.
+You are 19 years old.
+You have 614(632) hit and 138(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 262(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 17 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 18 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Paladine's glory shines in your mind through the power of your prayer.
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    aura of glory        [11 hrs]
+    holy arms            [1 hour]
+    bless                [6 hrs]
+
+614H 138V 1X 74.22% 262C T:33 Exits:NESW> 
+
+c 'h a' me
+You utter the words, 'holy arms'
+A surge of power fills your body.
+
+614H 138V 1X 74.22% 262C Mem:1 T:31 Exits:NESW> 
+
+c 'sanc' me
+w
+You utter the words, 'sanctuary'
+You start glowing.
+
+614H 138V 1X 74.22% 262C Mem:2 T:27 Exits:NESW> 
+
+Kor the bronze dragon arrives from the east.
+Temple Stairs
+     You find yourself on the steps that lead up to the temple altar.
+Ancient runes of protection on the floor glow as you approach, then die
+down at once.  The chanting can not be heard from here.  A large seal can
+be seen painted upon the floor.  The temple continues in every major
+direction except west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+
+614H 137V 1X 74.22% 262C Mem:2 T:22 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Temple of Grak
+     You find yourself to the west of the temple altar.  You see a tall
+obsidian altar to the east.  Above it, hanging from the rafters is a large
+faceless mask.  It sways gently as if watching for intruders. This part of
+the temple, however seems to be used less than the other parts of the
+temple which you have seen.  You think it might have something to do with
+the deep red runes on the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 136V 1X 74.22% 262C Mem:2 T:20 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+Temple Stairs
+     You find yourself on the steps that lead up to the temple altar.
+Ancient runes of protection on the floor glow as you approach, then die
+down at once.  The chanting can not be heard from here.  A large seal can
+be seen painted upon the floor.  The temple continues in every major
+direction except west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+
+614H 135V 1X 74.22% 262C Mem:2 T:19 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+Shady Corner
+     You find yourself in a dark corner within the temple.  The chant of
+the monks to the south, sounds eerily within the cavern.  You can see the
+temple extend off to the east and to the south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 133V 1X 74.22% 262C Mem:2 T:19 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Temple Stairs
+     You find yourself on the steps that lead up to the temple altar.
+Ancient runes of protection on the floor glow as you approach, then die
+down at once.  The chanting can not be heard from here.  A large seal can
+be seen painted upon the floor.  The temple continues in every major
+direction except west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+
+614H 131V 1X 74.22% 262C Mem:2 T:16 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Temple of Grak
+     You find yourself to the west of the temple altar.  You see a tall
+obsidian altar to the east.  Above it, hanging from the rafters is a large
+faceless mask.  It sways gently as if watching for intruders. This part of
+the temple, however seems to be used less than the other parts of the
+temple which you have seen.  You think it might have something to do with
+the deep red runes on the west wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 74.22% 262C Mem:2 T:15 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+Temple of Grak
+     You find yourself in the corner of the temple.  The temple altar
+dominates the scene off to the east.  To the west there is a small room
+that glows with an eerie light.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 129V 1X 74.22% 262C Mem:2 T:15 Exits:NEW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie hard.
+
+614H 129V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:2 T:14 Exits:NEW> 
+
+str
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+614H 129V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:2 T:12 Exits:NEW> 
+
+str
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie extremely hard.
+
+614H 129V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Bad] Mem:2 T:9 Exits:NEW> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a decrepit zombie.
+
+614H 129V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:2 T:8 Exits:NEW> 
+
+
+A decrepit zombie arrives from the east.
+
+614H 129V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:2 T:8 Exits:NEW> 
+
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+
+614H 129V 1X 74.22% 262C [a decrepit zombie:Dying] Mem:2 T:5 Exits:NEW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You obliterate a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+
+614H 129V 1X 74.22% 262C [a decrepit zombie:Dying] Mem:2 T:5 Exits:NEW> 
+
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+614H 129V 1X 74.22% 262C Mem:2 T:4 Exits:NEW> 
+
+order kor ki zombie
+ass
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+614H 129V 1X 74.22% 262C Mem:2 T:2 Exits:NEW> 
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+632H 142V 1X 74.22% 262C Mem:1 T:60 Exits:NEW> 
+You attempt to assist Kor the bronze dragon.
+You stab a decrepit zombie extremely hard.
+
+632H 142V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:60 Exits:NEW> 
+
+str
+str
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+632H 142V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:1 T:56 Exits:NEW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+632H 142V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:1 T:55 Exits:NEW> 
+
+
+You massacre a decrepit zombie with your stab.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+632H 142V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:1 T:52 Exits:NEW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You massacre a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+
+632H 142V 1X 74.22% 262C [a decrepit zombie:Dying] Mem:1 T:51 Exits:NEW> 
+
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+632H 142V 1X 74.22% 262C Mem:1 T:51 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Ambassadors Quarters
+     You find yourself in a guest room.  It is merely an alcove within the
+temple used to house dignitaries by the cult.  A bed lies in the corner and
+a small adamantine chest lies upon the ground.  The temple can be seen
+through the door to the east.  A strange light from an indiscernible source
+lights the room.
+A sturdy draconian chest forged of adamantine metal lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A winged draconian stands here regarding you with contempt. (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+632H 141V 1X 74.22% 262C Mem:1 T:47 Exits:E> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Good] Mem:1 T:45 Exits:E> 
+
+str
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Fair] Mem:1 T:44 Exits:E> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You stab a decrepit zombie very hard.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:V.Bad] Mem:1 T:41 Exits:E> 
+str
+
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a decrepit zombie:Awful] Mem:1 T:40 Exits:E> 
+
+You stab a decrepit zombie very hard.
+A decrepit zombie is mortally wounded, and will die soon, if not aided.
+Kor the bronze dragon hits a decrepit zombie extremely hard.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+You couldn't find what you were looking for.
+
+632H 141V 1X 74.22% 262C Mem:1 T:36 Exits:E> 
+
+order kor ki winged
+ass
+Kor the bronze dragon barely hits a dragonarmy ambassador.
+
+632H 141V 1X 74.22% 262C Mem:1 T:36 Exits:E> 
+You attempt to assist Kor the bronze dragon.
+You massacre a dragonarmy ambassador with your stab.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:Perfect] [a dragonarmy ambassador:Good] Mem:1 T:36 Exits:E> 
+
+reck
+ral
+av l
+
+You stab a dragonarmy ambassador extremely hard.
+Kor the bronze dragon hits a dragonarmy ambassador.
+A dragonarmy ambassador slashes Kor the bronze dragon very hard.
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a dragonarmy ambassador:Good] Mem:1 T:32 Exits:E> 
+
+A godly anger burns within you, let the heretics feel your wrath!
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a dragonarmy ambassador:Good] Mem:1 T:31 Exits:E> 
+
+You yell and inspire your companions to fight harder!
+
+632H 141V 1X 74.22% 262C [Kor the bronze dragon:V.Good] [a dragonarmy ambassador:Good] Mem:1 T:31 Exits:E> 
+
+
+A dragonarmy ambassador sunders Kor the bronze dragon's armour!
+A dragonarmy ambassador misses you with his slash.
+
+632H 141V 1X 74.22% 262C [Zargothrax:Perfect] [a dragonarmy ambassador:Good] Mem:1 T:30 Exits:E> 
+
+
+A dragonarmy ambassador is hit by Kor the bronze dragon's lightning breath.
+
+632H 141V 1X 74.22% 262C [Zargothrax:Perfect] [a dragonarmy ambassador:Fair] Mem:1 T:29 Exits:E> 
+
+
+A dragonarmy ambassador misses you with his slash.
+You massacre a dragonarmy ambassador with your stab.
+Kor the bronze dragon hits a dragonarmy ambassador hard.
+
+632H 141V 1X 74.22% 262C [Zargothrax:Perfect] [a dragonarmy ambassador:Fair] Mem:1 T:28 Exits:E> 
+
+You focus your purity on a dragonarmy ambassador's leg!
+You force a dragonarmy ambassador to the ground.
+
+632H 141V 1X 74.22% 262C [Zargothrax:Perfect] [a dragonarmy ambassador:Fair] Mem:1 T:26 Exits:E> 
+
+str
+
+You deflect a good chunk of a dragonarmy ambassador's blow with your shield.
+A dragonarmy ambassador bruises YOU with his slash.
+You annihilate a dragonarmy ambassador with your stab.
+Kor the bronze dragon hits a dragonarmy ambassador hard.
+
+630H 141V 1X 74.22% 262C [Zargothrax:V.Good] [a dragonarmy ambassador:V.Bad] Mem:1 T:24 Exits:E> 
+
+You attempt to strike at a dragonarmy ambassador with your pike.
+You massacre a dragonarmy ambassador with your stab.
+
+630H 141V 1X 74.22% 262C [Zargothrax:V.Good] [a dragonarmy ambassador:V.Bad] Mem:1 T:22 Exits:E> 
+
+
+A dragonarmy ambassador slashes YOU very hard.
+You massacre a dragonarmy ambassador with your stab.
+Kor the bronze dragon misses a dragonarmy ambassador with his hit.
+
+613H 141V 1X 74.22% 262C [Zargothrax:V.Good] [a dragonarmy ambassador:Awful] Mem:1 T:20 Exits:E> 
+
+str
+
+A dragonarmy ambassador stands up.
+
+613H 141V 1X 74.22% 262C [Zargothrax:V.Good] [a dragonarmy ambassador:Awful] Mem:1 T:18 Exits:E> 
+
+You attempt to strike at a dragonarmy ambassador with your pike.
+You massacre a dragonarmy ambassador with your stab.
+A dragonarmy ambassador is stunned, but will likely regain consciousness again.
+
+613H 141V 1X 74.22% 262C [a dragonarmy ambassador:Awful] Mem:1 T:18 Exits:E> 
+
+
+You obliterate a dragonarmy ambassador with your stab.
+You receive 0 experience.
+A dragonarmy ambassador is dead! R.I.P.
+A dragonarmy ambassador's body dissolves into a blob of acid,
+which splashes as it hits the ground!
+The death cry of a dragonarmy ambassador echoes from somewhere nearby...
+A small shower of acid rains down near Kor the bronze dragon.
+You are covered in a small shower of acid, causing you extreme agony.
+
+607H 141V 1X 76.08% 262C Mem:1 T:16 Exits:E> 
+
+take all corpse
+What are you trying to get from?
+
+607H 141V 1X 76.08% 262C Mem:1 T:14 Exits:E> 
+
+l
+Ambassadors Quarters
+     You find yourself in a guest room.  It is merely an alcove within the
+temple used to house dignitaries by the cult.  A bed lies in the corner and
+a small adamantine chest lies upon the ground.  The temple can be seen
+through the door to the east.  A strange light from an indiscernible source
+lights the room.
+A plain, standard issue draconian sword lies here.
+A helm made from discarded dragonscales lies here.
+A key with draconian design lies here.
+A sturdy draconian chest forged of adamantine metal lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+607H 141V 1X 76.08% 262C Mem:1 T:12 Exits:E> 
+
+tak all
+You get a curved iron sword.
+You get a dragonscale helm.
+You get a draconian key.
+You can't seem to get a silver adamantine chest.
+
+607H 141V 1X 76.08% 262C Mem:1 T:11 Exits:E> 
+
+unl chest
+You unlock a silver adamantine chest.
+
+607H 141V 1X 76.08% 262C Mem:1 T:8 Exits:E> 
+
+op chest
+Ok.
+
+607H 141V 1X 76.08% 262C Mem:1 T:6 Exits:E> 
+
+tak all chest
+You get a misty potion from a silver adamantine chest.
+You get a pile of steel coins from a silver adamantine chest.
+There were 35 coins.
+
+607H 141V 1X 76.08% 297C Mem:1 T:5 Exits:E> 
+
+l
+Ambassadors Quarters
+     You find yourself in a guest room.  It is merely an alcove within the
+temple used to house dignitaries by the cult.  A bed lies in the corner and
+a small adamantine chest lies upon the ground.  The temple can be seen
+through the door to the east.  A strange light from an indiscernible source
+lights the room.
+A sturdy draconian chest forged of adamantine metal lies here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+607H 141V 1X 76.08% 297C Mem:1 T:2 Exits:E> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+
+632H 142V 1X 76.08% 297C T:60 Exits:E> 
+
+e
+Kor the bronze dragon arrives from the west.
+Temple of Grak
+     You find yourself in the corner of the temple.  The temple altar
+dominates the scene off to the east.  To the west there is a small room
+that glows with an eerie light.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 141V 1X 76.08% 297C T:58 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Temple Altar
+     You are standing upon the altar of Grak's temple.  There is a large
+mask suspended in between the pillars.  It is the mask and symbol of
+Morgion, Lord of Death and Decay.  This is the altar upon which innocent
+people are placed and infected with the plague to please the dark god. You
+see dark patches of blood lying upon all sides of the altar.
+You can feel the presence of the dark lord in this room.
+Kor the bronze dragon is standing here, awaiting a rider.
+A decrepit zombie ambles towards you and attacks! (black aura)
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+A gaunt pitiful man cowers in the corner.
+A monk in dark grey robes stands here praying to his dark god. (black aura)
+A monk clad in a grey outfit humbly offers prayer to his god here. (black aura)
+A decrepit zombie misses Kor the bronze dragon with its bite.
+
+632H 140V 1X 76.08% 297C T:57 Exits:NSW> 
+
+
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie hard.
+
+632H 140V 1X 76.08% 297C T:56 Exits:NSW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a decrepit zombie with your stab.
+
+632H 140V 1X 76.08% 297C [Kor the bronze dragon:V.Good] [a decrepit zombie:Fair] T:56 Exits:NSW> 
+
+str
+str
+
+A decrepit zombie is hit by Kor the bronze dragon's lightning breath.
+
+632H 140V 1X 76.08% 297C [Kor the bronze dragon:V.Good] [a decrepit zombie:Bad] T:53 Exits:NSW> 
+
+
+You stab a decrepit zombie extremely hard.
+A decrepit zombie misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a decrepit zombie very hard.
+
+632H 140V 1X 76.08% 297C [Kor the bronze dragon:V.Good] [a decrepit zombie:Awful] T:52 Exits:NSW> 
+
+You attempt to strike at a decrepit zombie with your pike.
+You massacre a decrepit zombie with your stab.
+You receive 0 experience.
+A decrepit zombie is dead! R.I.P.
+
+632H 140V 1X 76.08% 297C [a decrepit zombie:Dying] T:51 Exits:NSW> 
+
+
+The death cry of a decrepit zombie echoes from somewhere nearby...
+A decrepit zombie's corpse disintegrates instantly!
+
+632H 140V 1X 76.08% 297C T:51 Exits:NSW> 
+
+
+Sweat dripping, your anger subsides, your blood cools.
+
+632H 140V 1X 76.08% 297C T:48 Exits:NSW> 
+
+You couldn't find what you were looking for.
+
+632H 140V 1X 76.08% 297C T:47 Exits:NSW> 
+
+place medallion altar
+You place the medallion in a circular indention in the middle of the
+altar. You hear an audible click.
+You receive 0 experience.
+
+632H 140V 1X 76.08% 297C T:41 Exits:NSW> 
+
+push altar
+You push the altar out of the way, revealing a hole leading down.
+
+632H 140V 1X 76.08% 297C T:37 Exits:NSWD> 
+
+d
+Kor the bronze dragon arrives from above.
+A Dark Stairwell
+     A short flight of stairs go down from the hole overhead towards a pair
+of stone doors mounted in the doorway to the south.  The stairway looks
+like it hasn't been used for years, decades, maybe even centuries with all
+the cobwebs and dust that cover it.  Moving along slowly to make sure the
+crumbling stairs are still safe, you manage to navigate the stairs safely.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 139V 1X 76.08% 297C T:36 Exits:(S)U> 
+
+unl doors
+It's already unlocked, it seems.
+
+632H 139V 1X 76.08% 297C T:34 Exits:(S)U> 
+
+op doors
+Ok.
+
+632H 139V 1X 76.08% 297C T:33 Exits:SU> 
+
+l s
+You see nothing special.
+The doors is open.
+A huge bat-winged demon crouches here. (black aura)
+
+632H 139V 1X 76.08% 297C T:32 Exits:SU> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 76.08% of your next rank.
+You are 19 years old.
+You have 632(632) hit and 139(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 297(212275) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 19 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 20 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Paladine's glory shines in your mind through the power of your prayer.
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    sanctuary            [5 hrs]
+    holy arms            [8 hrs]
+    detect invisibility
+    aura of glory        [9 hrs]
+    bless                [4 hrs]
+
+632H 139V 1X 76.08% 297C T:31 Exits:SU> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hidden Temple
+     A small, dimly-lit temple opens up here.  The walls are decorated with
+black tapestries with a faceless mask on it.  Above and beneath them, a
+mural runs around the room, depicting scenes of suffering, pain and death.
+A sense of extreme malevolence hangs over this place and you begin to feel
+sick to your stomach.  The temple continues to the south, where it looks
+like a small dais with an altar upon it stands.  To the north, a pair of
+stone doors lead out of the temple.
+Kor the bronze dragon is standing here, awaiting a rider.
+A huge bat-winged demon crouches here. (black aura)
+A pit fiend focuses harshly on Kor the bronze dragon and utters some strange words.
+A pit fiend claws Kor the bronze dragon very hard.
+
+632H 137V 1X 76.08% 297C T:29 Exits:NS> 
+
+
+A pit fiend claws YOU hard.
+Kor the bronze dragon hits a pit fiend hard.
+
+620H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:V.Good] T:28 Exits:NS> 
+
+ass
+You can't do that while fighting.
+
+620H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:V.Good] T:28 Exits:NS> 
+
+
+A pit fiend misses you with its claw.
+You massacre a pit fiend with your stab.
+Kor the bronze dragon hits a pit fiend.
+
+620H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Good] T:24 Exits:NS> 
+
+av t
+A pit fiend tries to look fierce.
+You focus your purity on a pit fiend's body!
+
+620H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Good] T:24 Exits:NS> 
+
+str
+
+You deflect a good chunk of a pit fiend's blow with your shield.
+A pit fiend claws YOU.
+You massacre a pit fiend with your stab.
+Kor the bronze dragon hits a pit fiend.
+
+612H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Fair] T:20 Exits:NS> 
+
+You attempt to strike at a pit fiend with your pike.
+You stab a pit fiend extremely hard.
+
+612H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Fair] T:19 Exits:NS> 
+
+str
+
+A pit fiend barks at you!
+A pit fiend focuses harshly on you and utters some strange words.
+You freeze in place, unable to move.
+
+612H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Fair] T:17 Exits:NS> 
+
+
+A pit fiend claws YOU hard.
+Kor the bronze dragon barely hits a pit fiend.
+
+599H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Fair] T:16 Exits:NS> 
+
+You are unable to use your physical form.
+
+599H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Fair] T:15 Exits:NS> 
+
+
+You feel the magic bond holding you shatter!
+A pit fiend misses you with its claw.
+You find an opening in a pit fiend's armor and drive your pike there.
+You massacre a pit fiend with your stab.
+Kor the bronze dragon hits a pit fiend.
+
+599H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:Bad] T:12 Exits:NS> 
+
+str
+You attempt to strike at a pit fiend with your pike.
+You stab a pit fiend extremely hard.
+
+599H 137V 1X 76.08% 297C [Zargothrax:V.Good] [a pit fiend:V.Bad] T:12 Exits:NS> 
+
+
+A pit fiend tries to look fierce.
+A pit fiend focuses harshly on you and utters some strange words.
+You are caught in some of a pit fiend's acid!
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:V.Bad] T:11 Exits:NS> 
+
+str
+
+A pit fiend misses you with its claw.
+You massacre a pit fiend with your stab.
+Kor the bronze dragon hits a pit fiend.
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:V.Bad] T:8 Exits:NS> 
+
+You attempt to strike at a pit fiend with your pike.
+You stab a pit fiend very hard.
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:Awful] T:8 Exits:NS> 
+
+str
+
+A pit fiend is hit by Kor the bronze dragon's lightning breath.
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:Awful] T:5 Exits:NS> 
+
+
+A pit fiend tries to look fierce.
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:Awful] T:5 Exits:NS> 
+
+
+A pit fiend misses you with its claw.
+You massacre a pit fiend with your stab.
+Kor the bronze dragon barely hits a pit fiend.
+
+566H 137V 1X 76.08% 297C [Zargothrax:Good] [a pit fiend:Awful] T:4 Exits:NS> 
+
+You attempt to strike at a pit fiend with your pike.
+You massacre a pit fiend with your stab.
+You receive 0 experience.
+A pit fiend is dead! R.I.P.
+
+566H 137V 1X 77.99% 297C [a pit fiend:Dying] T:3 Exits:NS> 
+
+
+The death cry of a pit fiend echoes from somewhere nearby...
+
+566H 137V 1X 77.99% 297C T:3 Exits:NS> 
+
+take all corpse
+
+The rally cry fades.
+A draconian key decays in your hands.
+
+599H 142V 1X 77.99% 297C T:60 Exits:NS> 
+
+The corpse doesn't seem to have what you are looking for.
+
+599H 142V 1X 77.99% 297C T:59 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hidden Altar
+     A pair of steps carved into the ground lead up onto a small dais, upon
+which a small altar made of some black stone rises.  The altar is decorated
+with elaborated runes inlaid with some glowing red material. Above the
+altar is a huge, faceless mask which, even without eyes, seems to stare
+deep into your soul.  The temple continues to the north.
+A stone altar, dark as night, dominates the room here...it emits a sinister glow
+Kor the bronze dragon is standing here, awaiting a rider.
+
+599H 141V 1X 77.99% 297C T:55 Exits:N> 
+
+rec recall
+You recite a glowing scroll of recall which dissolves.
+The Reception
+    This is the reception of the lodge, where you would sign in for a room.
+This is also a very popular place where adventurers sit around and share
+tales of their journeys. Some stairs in the back lead up to the quarters.
+A pile of worn maps sits in the corner, free to adventurers.
+A piece of a broken key lies here.
+The manager of Traveler's Lodge stands here ready to sign you in.
+A tall and strong bouncer, hired to protect the lodge's customers, stands here.
+
+599H 141V 1X 77.99% 297C T:37 Exits:N> 
+

@@ -1,0 +1,18 @@
+Logging started: 05.01.2024 13:26
+brow dark.sleeves
+You browse through the merchandise and notice:
+The sleeves's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'sleeves dark metallic'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: adamantite
+ Weight   : 7            Value   : 300
+
+ Affects  : STR           by 1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 10
+Some dark metallic sleeves is wearable: arms.
+
+614H 142V 1X 79.26% 1949C T:23 Exits:NESW> 
+

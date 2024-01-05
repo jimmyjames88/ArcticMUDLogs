@@ -1,0 +1,17 @@
+Logging started: 04.01.2024 21:17
+brow mithril.bracer
+You browse through the merchandise and notice:
+The surface of the bracer is shiny and glitters golden. (100%)
+You feel informed:
+ Object 'bracer pronged mithril etched'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 2            Value   : 340
+
+ Affects  : DEX           by 1
+ Affects  : HEALTH        by 6
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A pronged mithril etched bracer is wearable: wrist.
+
+609H 122V 1X 71.30% 608C T:48 Exits:NESW> 
+

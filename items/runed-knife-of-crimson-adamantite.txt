@@ -1,0 +1,21 @@
+Logging started: 05.01.2024 11:40
+brow runed.knife
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+A runed knife of crimson adamantite is of good quality.
+You feel informed:
+ Object 'knife crimson adamantite runed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 6            Value   : 1200
+
+ Affects  : HITROLL       by 1
+ Affects  : skill envenom       by +4
+ Item is  : MAGIC BLESS ANTI_GOOD HOT
+ Restricts: NOPALADIN NORANGER NOBARBARIAN NOSHAMAN
+ Class    : knife
+ Damage   : 3D6
+A runed knife of crimson adamantite requires knowledge of the skill 'short blades'.
+
+614H 142V 1X 71.30% 0C T:35 Exits:NESW> 
+

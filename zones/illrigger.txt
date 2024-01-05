@@ -1,0 +1,3898 @@
+Logging started: 05.01.2024 12:04
+w
+Kor the bronze dragon flies in from the east.
+Main Street
+   This is the only stone cobbled street in Hylo.  It runs to the
+east and west, under the tall and majestic trees of the forest that
+Hylo is built in.  The faint bubbling of water can be heard from the
+east, which must be the famed fountain of Hylo at the city center.
+A breeze blowing from the east brings the tangy scent of the sea,
+which lies beyond the fountain.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 92V 1X 77.99% 550C Mem:3 T:29 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+Main Street
+   This is the only stone cobbled street in Hylo.  It runs to the
+east and west, under the tall and majestic trees of the forest that
+Hylo is built in.  Pine and oak trees provide a canopy of limbs,
+resulting in a deep shade.  They also obscure most of the city from
+direct sight, so that one would have to know it quite well in order
+to be able to get where one was going.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 91V 1X 77.99% 550C Mem:3 T:29 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+Main Street
+   This is the only stone cobbled street in Hylo.  It runs to the
+east and south, under the tall and majestic trees of the forest that
+Hylo is built in.  To the north is Taunt Street.  The way to the west
+is quite blocked by a briar of blackberry bushes.  Unfortunately,
+some kender children recently passed this way, and there are no
+ripe blackberries left on the bushes.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 90V 1X 77.99% 550C Mem:3 T:28 Exits:NES> 
+
+s
+Kor the bronze dragon flies in from the north.
+Main Street
+   This is the only stone cobbled street in Hylo.  It runs to the
+north and west, under the tall and majestic trees of the forest that
+Hylo is built in.  The trees provide excellent shade, and many take
+advantage of it to either side of the street.  A cool breeze from the
+east brings the faint scent of the sea.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kender citizen walks along, looking with curiousity at everything.
+A kender child looks around with eyes wide with wonder.
+
+632H 89V 1X 77.99% 550C Mem:3 T:26 Exits:NW> 
+
+w
+Kor the bronze dragon flies in from the east.
+Main Street
+   This is the only stone cobbled street in Hylo.  It runs to the
+east and west, under the tall and majestic trees of the forest that
+Hylo is built in.  To the south is Handler Street.  Most people who are
+not kender seem to take great pains to avoid travelling on Handler Street.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 88V 1X 77.99% 550C Mem:3 T:26 Exits:ESW> 
+
+w
+Kor the bronze dragon flies in from the east.
+Gates Of Hylo
+   A gate of wood, closed only in emergencies, is pushed up against the
+trees to the north.  A small guard post is to the south, where the
+kender guards can get the first look at travellers shiny posessions.
+To the east the main street of Hylo starts, while to the west a
+muddy path winds through the forest.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kender female walks about looking for her husband.
+
+632H 87V 1X 77.99% 550C Mem:3 T:25 Exits:ESW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Muddy Forest Path
+   To the east one can see the gates to the kender forest city of Hylo.
+The leaves rustle faintly as a muted breeze travels through the treetops,
+but the cool, breezeless comfort of the forest floor is unbroken.  To the
+west the path continues through the forest.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small scavenging rodent scurries about.
+
+632H 86V 1X 77.99% 550C Mem:3 T:24 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Muddy Forest Path
+   The leaves rustle faintly as a muted breeze travels through the treetops,
+but the cool, breezeless comfort of the forest floor is unbroken.  The path
+travels to the east through the forest, leading to the kender city of
+Hylo, and to the west, where it meets the mountains.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kender citizen walks along, looking with curiousity at everything.
+
+632H 85V 1X 77.99% 550C Mem:3 T:23 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Muddy Forest Path
+   The leaves rustle faintly as a muted breeze travels through the treetops,
+but the cool, breezeless comfort of the forest floor is unbroken.  The
+path travels over the soft loam of the forest floor, heading east through
+the forest towards the sea.  A rarely travelled path leads north.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 84V 1X 77.99% 550C Mem:3 T:22 Exits:NES> 
+
+s
+Kor the bronze dragon flies in from the north.
+A Muddy Forest Path
+   The leaves rustle faintly as a muted breeze travels through the treetops,
+but the cool, breezeless comfort of the forest floor is unbroken.  The
+path travels over the soft loam of the forest floor, heading west through
+the forest towards the mountains.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 83V 1X 77.99% 550C Mem:3 T:20 Exits:NW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Muddy Forest Path
+   The leaves rustle faintly as a muted breeze travels through the treetops,
+but the cool, breezeless comfort of the forest floor is unbroken.  The
+path travels over the soft loam of the forest floor, heading west through
+the forest towards the mountains.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 82V 1X 77.99% 550C Mem:3 T:19 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+Outside the Forest
+   Immediately to the west the mountains loom up, towering towards the
+sky.  To the east, a thick and verdant forest grows.  To pass beyond
+the first trees is to enter a world of shade and pastoral beauty.  A
+small path leads west into the mountains, and into the forest to the
+east as well.  Another path, rarely used, leads northwards, along
+the mountainside.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 81V 1X 77.99% 550C Mem:3 T:19 Exits:NEW> 
+
+n
+Kor the bronze dragon flies in from the south.
+On the Mountainside
+   The mountains rise up to the west, and look to be impassable from here.
+A path leads from here into a small cave opening leading into the heart
+of the mountain, and to the south, where it seems to join a more travelled
+path.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 80V 1X 77.99% 550C Mem:3 T:18 Exits:NSW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Dark Cave Entrance
+   To the east daylight peeks through a small opening, leading to the
+outside world.  To the west, the cave leads further into the gloom, where
+it looks like something has been living.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 79V 1X 77.99% 550C Mem:3 T:17 Exits:EW> 
+
+w
+Kor the bronze dragon flies in from the east.
+A Dark Cave
+   This part of the cave must lie far under the mountain.  Large claw marks
+can be found on the natural limestone formations, and whatever made them
+was fairly large.  Water drips somewhere in the distance, echoing with an
+eerie resonance.
+Kor the bronze dragon is standing here, awaiting a rider.
+A signifantly sized cave spider dangles from a rope sized strand of web.  (black aura)
+A sizeable brown cave spider misses Kor the bronze dragon with his claw.
+
+632H 78V 1X 77.99% 550C Mem:3 T:16 Exits:NESW> 
+
+order kor ass
+
+632H 78V 1X 77.99% 550C Mem:3 T:15 Exits:NESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a sizeable brown cave spider with your stab.
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:Good] Mem:3 T:14 Exits:NESW> 
+
+
+You stab a sizeable brown cave spider extremely hard.
+A sizeable brown cave spider misses Kor the bronze dragon with his claw.
+Kor the bronze dragon hits a sizeable brown cave spider.
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:Fair] Mem:3 T:12 Exits:NESW> 
+
+ral
+str
+You yell and inspire your companions to fight harder!
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:Fair] Mem:3 T:9 Exits:NESW> 
+
+
+You stab a sizeable brown cave spider extremely hard.
+A sizeable brown cave spider misses Kor the bronze dragon with his claw.
+Kor the bronze dragon hits a sizeable brown cave spider.
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:V.Bad] Mem:3 T:8 Exits:NESW> 
+
+
+A sizeable brown cave spider is hit by Kor the bronze dragon's lightning breath.
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:V.Bad] Mem:3 T:5 Exits:NESW> 
+
+You attempt to strike at a sizeable brown cave spider with your pike.
+You stab a sizeable brown cave spider extremely hard.
+
+632H 78V 1X 77.99% 550C [Kor the bronze dragon:Perfect] [a sizeable brown cave spider:Awful] Mem:3 T:5 Exits:NESW> 
+
+
+You stab a sizeable brown cave spider very hard.
+A sizeable brown cave spider is mortally wounded, and will die soon, if not aided.
+Kor the bronze dragon hits a sizeable brown cave spider very hard.
+You receive 0 experience.
+A sizeable brown cave spider is dead! R.I.P.
+The death cry of a sizeable brown cave spider echoes from somewhere nearby...
+
+632H 78V 1X 78.07% 550C Mem:3 T:4 Exits:NESW> 
+
+take all corpse
+You get an ancient silver key from the corpse of a sizeable brown cave spider.
+
+632H 102V 1X 78.07% 550C Mem:2 T:60 Exits:NESW> 
+
+n
+Kor the bronze dragon flies in from the south.
+A Dark Tunnel
+   A surprisingly large tunnel leads down from here, deeper into the heart
+of the mountain.  To the south it enters a darkened cave.  Water glistens
+off the wall, slowly trickling down and creating interesting rock formations
+over the centuries.
+Kor the bronze dragon is standing here, awaiting a rider.
+A wandering kender adventurer walks along in search of excitement.
+
+632H 101V 1X 78.07% 550C Mem:2 T:60 Exits:SD> 
+
+d
+Kor the bronze dragon flies in from above.
+A Dark Beast's Lair
+    This natural cavern has been enlarged by the beast that has made it
+home. Large scratches in the wall show where the beast has repeatedly
+sharpened its tools, without regard for the natural splendor of the rock
+formations that once adorned this cavern. A large tunnel leading up appears
+to be the only exit.
+An ancient silver chest rests at the back of the cavern.
+Kor the bronze dragon is standing here, awaiting a rider.
+A seething half-ogre stalks the area, protecting what's left of his treasure. (black aura)
+A seething half-ogre claws Kor the bronze dragon hard.
+
+632H 100V 1X 78.07% 550C Mem:2 T:59 Exits:U> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a seething half-ogre very hard.
+
+632H 100V 1X 78.07% 550C [Kor the bronze dragon:V.Good] [a seething half-ogre:V.Good] Mem:2 T:58 Exits:U> 
+
+
+You massacre a seething half-ogre with your stab.
+A seething half-ogre claws Kor the bronze dragon hard.
+Kor the bronze dragon hits a seething half-ogre very hard.
+
+632H 100V 1X 78.07% 550C [Kor the bronze dragon:V.Good] [a seething half-ogre:Fair] Mem:2 T:56 Exits:U> 
+
+resc
+What a self-sacrificing act! You're such a hero!
+
+632H 100V 1X 78.07% 550C [Zargothrax:Perfect] [a seething half-ogre:Fair] Mem:2 T:53 Exits:U> 
+
+
+A seething half-ogre misses you with her claw.
+You massacre a seething half-ogre with your stab.
+
+632H 100V 1X 78.07% 550C [Zargothrax:Perfect] [a seething half-ogre:Fair] Mem:2 T:52 Exits:U> 
+order kor ass
+
+str
+Kor the bronze dragon barely hits a seething half-ogre.
+
+632H 100V 1X 78.07% 550C [Zargothrax:Perfect] [a seething half-ogre:Fair] Mem:2 T:49 Exits:U> 
+You attempt to strike at a seething half-ogre with your pike.
+You stab a seething half-ogre hard.
+
+632H 100V 1X 78.07% 550C [Zargothrax:Perfect] [a seething half-ogre:Fair] Mem:2 T:49 Exits:U> 
+
+
+Kor the bronze dragon hits a seething half-ogre.
+You deflect part of a seething half-ogre's blow with your shield.
+A seething half-ogre claws YOU hard.
+You massacre a seething half-ogre with your stab.
+
+622H 100V 1X 78.07% 550C [Zargothrax:V.Good] [a seething half-ogre:Bad] Mem:2 T:48 Exits:U> 
+
+str
+You attempt to strike at a seething half-ogre with your pike.
+You massacre a seething half-ogre with your stab.
+
+622H 100V 1X 78.07% 550C [Zargothrax:V.Good] [a seething half-ogre:V.Bad] Mem:2 T:45 Exits:U> 
+
+
+Kor the bronze dragon hits a seething half-ogre.
+A seething half-ogre misses you with her claw.
+You stab a seething half-ogre very hard.
+
+622H 100V 1X 78.07% 550C [Zargothrax:V.Good] [a seething half-ogre:Awful] Mem:2 T:44 Exits:U> 
+
+str
+Kor the bronze dragon hits a seething half-ogre.
+A seething half-ogre misses you with her claw.
+A seething half-ogre misses you with her claw.
+You massacre a seething half-ogre with your stab.
+You attempt to strike at a seething half-ogre with your pike.
+You massacre a seething half-ogre with your stab.
+You receive 0 experience.
+A seething half-ogre is dead! R.I.P.
+
+622H 100V 1X 78.16% 550C [a seething half-ogre:Dying] Mem:2 T:40 Exits:U> 
+
+
+The death cry of a seething half-ogre echoes from somewhere nearby...
+
+622H 100V 1X 78.16% 550C Mem:2 T:40 Exits:U> 
+
+take all corpse
+unl chest
+You get a pile of coins from the corpse of a seething half-ogre.
+There were 76 coins.
+
+622H 100V 1X 78.16% 626C Mem:2 T:36 Exits:U> 
+
+You unlock an ancient silver chest.
+
+622H 100V 1X 78.16% 626C Mem:2 T:36 Exits:U> 
+
+op chest
+Ok.
+
+622H 100V 1X 78.16% 626C Mem:2 T:35 Exits:U> 
+
+tak all chest
+You get a large pile of coins from an ancient silver chest.
+There were 150 coins.
+
+622H 100V 1X 78.16% 776C Mem:2 T:34 Exits:U> 
+
+push chest
+As you push the chest aside, the hole it covered in the northern wall
+is revealed.
+
+622H 100V 1X 78.16% 776C Mem:2 T:32 Exits:NU> 
+
+n
+Kor the bronze dragon flies in from the south.
+A Hidden Tunnel
+   A hidden tunnel leads to the north into a large cavern and up south
+into the dragon's lair.  The tunnel looks as if it were carved long ago
+from the rock by skilled stonemasons.
+Kor the bronze dragon is standing here, awaiting a rider.
+A pile of steel coins.
+
+622H 99V 1X 78.16% 776C Mem:2 T:31 Exits:NS> 
+
+n
+Kor the bronze dragon flies in from the south.
+A Large Cavern
+   The natural cavern is quite large.  It looks as if this cavern was
+created by the passage of water long ago.  Indeed, there is still a small
+stream which enters the cavern from the east and exits to the west
+through a small hole.  It looks as if a small path runs along the stream
+to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime misses Kor the bronze dragon with its hit.
+A black slime misses Kor the bronze dragon with its hit.
+A black slime misses Kor the bronze dragon with its hit.
+A black slime misses Kor the bronze dragon with its hit.
+A black slime misses Kor the bronze dragon with its hit.
+A black slime misses Kor the bronze dragon with its hit.
+
+622H 98V 1X 78.16% 776C Mem:2 T:31 Exits:ES> 
+
+e
+A Smelly Chamber
+   A small stream enters from a hole in the rock to the east and flows
+west into a large cavern.  This room looks as if it were carved from
+the rock long ago.  The chamber extends up about thirty feet to where
+it ends at a small hole, barely big enough for a person to fit through.
+Smelly slime is splattered all over the rock on the floor of the cavern,
+apparently having come from the hole in the ceiling.  The hole is placed
+in such a way as most of the slime lands in the stream, and that which
+doesn't slowly slides into the stream, as the floor is beveled towards
+the stream.  An ancient ladder runs up one of the walls to the ceiling,
+and it looks sturdy enough that one could still climb it safely.
+
+622H 97V 1X 78.16% 776C Mem:2 T:30 Exits:W> 
+
+
+Kor the bronze dragon flies in from the west.
+
+622H 97V 1X 78.16% 776C Mem:2 T:28 Exits:W> 
+
+mem
+Spells currently memorized:
+1: [ 3]know alignment       [ 1]summon elixir        [ 1]summon mount        
+2: [ 3]cure malefaction     [ 1]restore strength    
+3: [ 3]cure serious         [ 1]mental haze         
+4: [ 2]crusade              [ 1]exorcism             [ 1]righteous indignatio
+
+Spells being memorized:
+1: [ 1]bless                [ 1]summon mount        
+2: [ 1]aura of glory        [ 1]holy arms            [ 1]sanctuary           
+
+You estimate your studies will complete in 2 (game) hours.
+
+Spells left (level-number): 1-0 2-0 3-0 4-0
+
+622H 97V 1X 78.16% 776C Mem:2 T:24 Exits:W> 
+
+climb ladder
+You climb up the ladder, and squeeze through the hole at the top
+of the room.
+The Lavatory
+   This is a small lavatory used by the humanoid inhabitants of the keep.
+A small bench with a hole in it is about all that is in here.
+The black clad commander of the guard sits here. (black aura)
+
+622H 97V 1X 78.16% 776C Mem:2 T:22 Exits:(N)> 
+
+c 'sum mou'
+You utter the words, 'summon mount'
+The black clad commander misses Kor the bronze dragon with his slash.
+Kor the bronze dragon suddenly appears!
+
+622H 97V 1X 78.16% 776C Mem:2 T:21 Exits:(N)> 
+
+
+The black clad commander misses Kor the bronze dragon with his slash.
+The black clad commander slashes Kor the bronze dragon.
+Kor the bronze dragon hits the black clad commander hard.
+
+622H 97V 1X 78.16% 776C Mem:2 T:20 Exits:(N)> 
+
+ass
+resc
+You attempt to assist Kor the bronze dragon.
+You annihilate the black clad commander with your stab.
+
+622H 97V 1X 78.16% 776C [Kor the bronze dragon:Good] [the black clad commander:Good] Mem:2 T:17 Exits:(N)> 
+
+
+You massacre the black clad commander with your stab.
+The black clad commander misses Kor the bronze dragon with his slash.
+The black clad commander slashes Kor the bronze dragon.
+Kor the bronze dragon hits the black clad commander.
+
+622H 97V 1X 78.16% 776C [Kor the bronze dragon:Good] [the black clad commander:Fair] Mem:2 T:16 Exits:(N)> 
+
+
+The black clad commander stands up.
+
+622H 97V 1X 78.16% 776C [Kor the bronze dragon:Good] [the black clad commander:Fair] Mem:2 T:16 Exits:(N)> 
+
+
+You massacre the black clad commander with your stab.
+The black clad commander slashes Kor the bronze dragon.
+Kor the bronze dragon barely hits the black clad commander.
+
+622H 97V 1X 78.16% 776C [Kor the bronze dragon:Good] [the black clad commander:Fair] Mem:2 T:12 Exits:(N)> 
+
+What a self-sacrificing act! You're such a hero!
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Fair] Mem:2 T:12 Exits:(N)> 
+
+order kor ass
+av l
+
+The black clad commander tries to punch you, but you deftly avoid his blow.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Fair] Mem:2 T:10 Exits:(N)> 
+
+str
+
+The black clad commander misses you with his slash.
+The black clad commander misses you with his slash.
+You massacre the black clad commander with your stab.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Fair] Mem:2 T:8 Exits:(N)> 
+
+Kor the bronze dragon hits the black clad commander hard.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Fair] Mem:2 T:8 Exits:(N)> 
+
+You focus your purity on the black clad commander's leg!
+You focus on the black clad commander's legs, but are thwarted.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Fair] Mem:2 T:8 Exits:(N)> 
+
+
+Kor the bronze dragon barely hits the black clad commander.
+The black clad commander misses you with his slash.
+You stab the black clad commander extremely hard.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Bad] Mem:2 T:4 Exits:(N)> 
+
+
+You dodge out of the way of the black clad commander's mistargeted kick.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Bad] Mem:2 T:4 Exits:(N)> 
+
+You attempt to strike at the black clad commander with your pike.
+You stab the black clad commander extremely hard.
+
+622H 97V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:V.Bad] Mem:2 T:3 Exits:(N)> 
+
+str
+
+The rally cry fades.
+Kor the bronze dragon hits the black clad commander.
+The black clad commander misses you with his slash.
+You deflect a good chunk of the black clad commander's blow with your shield.
+The black clad commander bruises YOU with his slash.
+You massacre the black clad commander with your stab.
+The elixir flashes a silvery glint and twinkles out.
+
+632H 121V 1X 78.16% 776C [Zargothrax:Perfect] [the black clad commander:Fair] Mem:2 T:60 Exits:(N)> 
+
+
+The black clad commander is hit by Kor the bronze dragon's lightning breath.
+
+632H 121V 1X 78.16% 776C [Zargothrax:Perfect] [the black clad commander:Bad] Mem:2 T:59 Exits:(N)> 
+
+You attempt to strike at the black clad commander with your pike.
+You stab the black clad commander extremely hard.
+
+632H 121V 1X 78.16% 776C [Zargothrax:Perfect] [the black clad commander:Bad] Mem:2 T:59 Exits:(N)> 
+
+
+The black clad commander tries to punch you, but you deftly avoid his blow.
+
+632H 121V 1X 78.16% 776C [Zargothrax:Perfect] [the black clad commander:Bad] Mem:2 T:58 Exits:(N)> 
+str
+
+
+Kor the bronze dragon hits the black clad commander.
+You deflect a good chunk of the black clad commander's blow with your shield.
+The black clad commander bruises YOU with his slash.
+The black clad commander misses you with his slash.
+You massacre the black clad commander with your stab.
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:V.Bad] Mem:2 T:56 Exits:(N)> 
+
+You attempt to strike at the black clad commander with your pike.
+You stab the black clad commander very hard.
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:V.Bad] Mem:2 T:55 Exits:(N)> 
+
+ral
+
+Kor the bronze dragon's powerful hit makes the black clad commander double over in pain.
+Kor the bronze dragon hits the black clad commander hard.
+The black clad commander misses you with his slash.
+The black clad commander misses you with his slash.
+You massacre the black clad commander with your stab.
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Awful] Mem:2 T:52 Exits:(N)> 
+
+
+The black clad commander stumbles and falls while trying to bash you.
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Awful] Mem:2 T:52 Exits:(N)> 
+
+You yell and inspire your companions to fight harder!
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Awful] Mem:2 T:51 Exits:(N)> 
+
+
+Kor the bronze dragon hits the black clad commander hard.
+Kor the bronze dragon hits the black clad commander.
+The black clad commander misses you with his slash.
+The black clad commander misses you with his slash.
+You stab the black clad commander extremely hard.
+
+629H 121V 1X 78.16% 776C [Zargothrax:V.Good] [the black clad commander:Awful] Mem:2 T:48 Exits:(N)> 
+
+str
+You attempt to strike at the black clad commander with your pike.
+You stab the black clad commander extremely hard.
+You receive 0 experience.
+The black clad commander is dead! R.I.P.
+
+629H 121V 1X 78.24% 776C [the black clad commander:Dying] Mem:2 T:46 Exits:(N)> 
+
+
+The death cry of the black clad commander echoes from somewhere nearby...
+
+629H 121V 1X 78.24% 776C Mem:2 T:46 Exits:(N)> 
+
+take all corpse
+op door
+You get a large pile of coins from the corpse of the black clad commander.
+There were 238 coins.
+
+629H 121V 1X 78.24% 1014C Mem:2 T:42 Exits:(N)> 
+
+Ok.
+
+629H 121V 1X 78.24% 1014C Mem:2 T:42 Exits:N> 
+
+l n
+You see nothing special.
+The door is open.
+A hell hound prowls about, nostrils flared and breathing fire. (black aura)
+
+629H 121V 1X 78.24% 1014C Mem:2 T:41 Exits:N> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Great Hall
+   A large hall extends to the east and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  A small door is set into the southern wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A hell hound prowls about, nostrils flared and breathing fire. (black aura)
+A hell hound misses Kor the bronze dragon with its bite.
+
+629H 120V 1X 78.24% 1014C Mem:2 T:40 Exits:NES> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a hell hound extremely hard.
+
+629H 120V 1X 78.24% 1014C [Kor the bronze dragon:Good] [a hell hound:V.Good] Mem:2 T:39 Exits:NES> 
+
+resc
+
+You massacre a hell hound with your stab.
+A hell hound misses Kor the bronze dragon with its bite.
+Kor the bronze dragon hits a hell hound.
+Kor the bronze dragon hits a hell hound.
+
+629H 120V 1X 78.24% 1014C [Kor the bronze dragon:Good] [a hell hound:Fair] Mem:2 T:36 Exits:NES> 
+
+What a self-sacrificing act! You're such a hero!
+
+629H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Fair] Mem:2 T:34 Exits:NES> 
+
+order kor ass
+str
+
+You deflect part of a hell hound's blow with your shield.
+A hell hound bites YOU.
+You massacre a hell hound with your stab.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Fair] Mem:2 T:32 Exits:NES> 
+
+Kor the bronze dragon hits a hell hound.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Fair] Mem:2 T:30 Exits:NES> 
+
+A black clad servant arrives from the north.
+You attempt to strike at a hell hound with your pike.
+You massacre a hell hound with your stab.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Bad] Mem:2 T:30 Exits:NES> 
+
+str
+
+Kor the bronze dragon hits a hell hound very hard.
+A hell hound misses you with its bite.
+You stab a hell hound extremely hard.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:V.Bad] Mem:2 T:28 Exits:NES> 
+
+You strike at a hell hound, but miss it completely.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:V.Bad] Mem:2 T:25 Exits:NES> 
+
+str
+
+Kor the bronze dragon hits a hell hound hard.
+Kor the bronze dragon barely hits a hell hound.
+A hell hound misses you with its bite.
+You stab a hell hound extremely hard.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:24 Exits:NES> 
+
+
+A black clad warrior arrives from the north.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:24 Exits:NES> 
+
+
+A black clad servant misses you with his pierce.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:24 Exits:NES> 
+
+You attempt to strike at a hell hound with your pike.
+You stab a hell hound very hard.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:21 Exits:NES> 
+
+
+A black clad servant misses you with his pierce.
+Kor the bronze dragon hits a hell hound.
+Kor the bronze dragon hits a hell hound.
+A hell hound is mortally wounded, and will die soon, if not aided.
+You obliterate a hell hound with your stab.
+You receive 0 experience.
+A hell hound is dead! R.I.P.
+The death cry of a hell hound echoes from somewhere nearby...
+You direct your attention to a black clad servant.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Perfect] Mem:2 T:20 Exits:NES> 
+
+order kor ass
+
+A black clad warrior misses Kor the bronze dragon with his slash.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Perfect] Mem:2 T:18 Exits:NES> 
+
+av l
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Perfect] Mem:2 T:17 Exits:NES> 
+
+You focus your purity on a black clad servant's leg!
+You focus on a black clad servant's legs, but are thwarted.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Perfect] Mem:2 T:17 Exits:NES> 
+
+
+A black clad warrior misses Kor the bronze dragon with his slash.
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a black clad warrior.
+Kor the bronze dragon hits a black clad warrior hard.
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Good] Mem:2 T:16 Exits:NES> 
+
+str
+A black clad warrior slashes Kor the bronze dragon hard.
+A black clad warrior slashes Kor the bronze dragon very hard.
+Kor the bronze dragon hits a black clad warrior.
+Kor the bronze dragon hits a black clad warrior hard.
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Fair] Mem:2 T:12 Exits:NES> 
+
+
+A black clad warrior stumbles and falls while trying to bash Kor the bronze dragon.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Fair] Mem:2 T:12 Exits:NES> 
+
+str
+
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a black clad warrior very hard.
+Kor the bronze dragon's powerful hit makes a black clad warrior double over in pain.
+Kor the bronze dragon hits a black clad warrior hard.
+You stab a black clad servant very hard.
+A black clad servant misses you with his pierce.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Fair] Mem:2 T:8 Exits:NES> 
+
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:8 Exits:NES> 
+
+str
+
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a black clad warrior very hard.
+A black clad servant dodges your attack!
+A black clad servant misses you with his pierce.
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:4 Exits:NES> 
+
+You attempt to strike at a black clad servant with your pike.
+A black clad servant dodges your attack!
+
+622H 120V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:4 Exits:NES> 
+
+str
+
+A black clad warrior slashes Kor the bronze dragon hard.
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a black clad warrior very hard.
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+
+632H 142V 1X 78.24% 1014C [Zargothrax:Perfect] [a black clad servant:Bad] Mem:2 T:60 Exits:NES> 
+
+A black clad warrior stands up.
+
+632H 142V 1X 78.24% 1014C [Zargothrax:Perfect] [a black clad servant:Bad] Mem:2 T:60 Exits:NES> 
+
+A black clad servant's rapid, unexpected knuckle thrust to your throat does some damage.
+Your larynx collapses, speaking will be difficult.
+You attempt to strike at a black clad servant with your pike.
+A black clad servant dodges your attack!
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:60 Exits:NES> 
+
+str
+
+The rally cry fades.
+A black clad warrior misses Kor the bronze dragon with his slash.
+A black clad warrior slashes Kor the bronze dragon very hard.
+Kor the bronze dragon hits a black clad warrior hard.
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:V.Bad] Mem:2 T:56 Exits:NES> 
+
+str
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:V.Bad] Mem:2 T:55 Exits:NES> 
+
+
+A black clad warrior tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:V.Bad] Mem:2 T:54 Exits:NES> 
+
+
+A black clad warrior is hit by Kor the bronze dragon's lightning breath.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:V.Bad] Mem:2 T:53 Exits:NES> 
+
+
+A black clad warrior slashes Kor the bronze dragon.
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon barely hits a black clad warrior.
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:52 Exits:NES> 
+
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:51 Exits:NES> 
+
+str
+
+Your crushed throat expands and you can speak once again.
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a black clad warrior hard.
+A black clad servant dodges your attack!
+A black clad servant misses you with his pierce.
+
+622H 142V 1X 78.24% 1014C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:48 Exits:NES> 
+
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+You receive 0 experience.
+A black clad servant is dead! R.I.P.
+
+622H 142V 1X 78.24% 1014C [a black clad servant:Dying] Mem:2 T:47 Exits:NES> 
+
+
+The death cry of a black clad servant echoes from somewhere nearby...
+
+622H 142V 1X 78.24% 1014C Mem:2 T:47 Exits:NES> 
+
+take all corpse
+
+A black clad warrior slashes Kor the bronze dragon very hard.
+Kor the bronze dragon hits a black clad warrior.
+
+622H 142V 1X 78.24% 1014C Mem:2 T:44 Exits:NES> 
+
+
+A fire giant arrives from the north.
+A black clad warrior tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+622H 142V 1X 78.24% 1014C Mem:2 T:43 Exits:NES> 
+ass
+
+You get a pile of coins from the corpse of a black clad servant.
+There were 24 coins.
+You get a glaive-guisarme from the corpse of a black clad servant.
+You get a glaive-guisarme from the corpse of a black clad servant.
+
+622H 142V 1X 78.24% 1038C Mem:2 T:43 Exits:NES> 
+
+You attempt to assist Kor the bronze dragon.
+You stab a black clad warrior extremely hard.
+
+622H 142V 1X 78.24% 1038C [Kor the bronze dragon:Fair] [a black clad warrior:V.Bad] Mem:2 T:42 Exits:NES> 
+
+resc
+
+You stab a black clad warrior extremely hard.
+A black clad warrior misses Kor the bronze dragon with his slash.
+Kor the bronze dragon barely hits a black clad warrior.
+
+622H 142V 1X 78.24% 1038C [Kor the bronze dragon:Fair] [a black clad warrior:V.Bad] Mem:2 T:40 Exits:NES> 
+
+What a self-sacrificing act! You're such a hero!
+
+622H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:V.Bad] Mem:2 T:38 Exits:NES> 
+
+
+A fire giant leaves north.
+
+622H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:V.Bad] Mem:2 T:37 Exits:NES> 
+
+
+A black clad warrior misses you with his slash.
+You deflect a good chunk of a black clad warrior's blow with your shield.
+A black clad warrior barely slashes YOU.
+You stab a black clad warrior very hard.
+
+616H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:36 Exits:NES> 
+
+
+A black clad warrior strikes your weapon, but you maintain your grip on it.
+
+616H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:36 Exits:NES> 
+
+order kor ass
+str
+Kor the bronze dragon hits a black clad warrior hard.
+
+616H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:33 Exits:NES> 
+
+You attempt to strike at a black clad warrior with your pike.
+You stab a black clad warrior extremely hard.
+
+616H 142V 1X 78.24% 1038C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:33 Exits:NES> 
+
+
+Kor the bronze dragon hits a black clad warrior.
+You deflect a good chunk of a black clad warrior's blow with your shield.
+A black clad warrior's blow is absorbed by your armor.
+A black clad warrior misses you with his slash.
+You massacre a black clad warrior with your stab.
+You receive 0 experience.
+A black clad warrior is dead! R.I.P.
+The death cry of a black clad warrior echoes from somewhere nearby...
+
+616H 142V 1X 78.24% 1038C Mem:2 T:32 Exits:NES> 
+
+take all corpse
+You get a pile of coins from the corpse of a black clad warrior.
+There were 36 coins.
+
+616H 142V 1X 78.24% 1074C Mem:2 T:29 Exits:NES> 
+
+l
+The Great Hall
+   A large hall extends to the east and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  A small door is set into the southern wall.
+The corpse of a black clad warrior is lying here.
+The corpse of a black clad servant is lying here.
+The corpse of a hell hound is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+616H 142V 1X 78.24% 1074C Mem:2 T:28 Exits:NES> 
+
+l n
+You see nothing special.
+A fire giant patrols the area, looking for intruders. (black aura)
+A black clad servant goes about his duties. (black aura)
+
+616H 142V 1X 78.24% 1074C Mem:2 T:26 Exits:NES> 
+
+l e
+You see nothing special.
+
+616H 142V 1X 78.24% 1074C Mem:2 T:25 Exits:NES> 
+
+e
+Kor the bronze dragon flies in from the west.
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+616H 141V 1X 78.24% 1074C Mem:2 T:24 Exits:N(S)W> 
+
+op door
+Ok.
+
+616H 141V 1X 78.24% 1074C Mem:2 T:21 Exits:NSW> 
+
+s
+Kor the bronze dragon flies in from the north.
+Top of the Dungeon Stairs
+   A small door leads north into the great hall.  Some stairs lead
+down into the darkness of the dungeon.  Incessant low moans and a few
+screams issue from below.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+616H 140V 1X 78.24% 1074C Mem:2 T:20 Exits:ND> 
+
+d
+Kor the bronze dragon flies in from above.
+The Dungeon
+   The room is filled mostly with instruments of torture.  Many common
+and uncommon machines designed to kill victims slowly with the maximum
+amount of pain show signs of frequent use.  The air is filled with the
+metallic scent of blood.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+616H 139V 1X 78.24% 1074C Mem:2 T:20 Exits:SU> 
+
+s
+Kor the bronze dragon flies in from the north.
+The Dungeon
+   The room is filled mostly with instruments of torture.  Many common
+and uncommon machines designed to kill victims slowly with the maximum
+amount of pain show signs of frequent use.  The air is filled with the
+metallic scent of blood.  A cell is to the east.
+Kor the bronze dragon is standing here, awaiting a rider.
+Lady Asvika the master torturer stands here grinning evilly. (black aura)
+Lady Asvika pierces Kor the bronze dragon very hard.
+
+616H 138V 1X 78.24% 1074C Mem:2 T:19 Exits:N(E)> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre Lady Asvika with your stab.
+
+616H 138V 1X 78.24% 1074C [Kor the bronze dragon:Fair] [Lady Asvika:V.Good] Mem:2 T:18 Exits:N(E)> 
+
+resc
+
+You massacre Lady Asvika with your stab.
+Lady Asvika misses Kor the bronze dragon with her pierce.
+Kor the bronze dragon hits Lady Asvika hard.
+
+616H 138V 1X 78.24% 1074C [Kor the bronze dragon:Fair] [Lady Asvika:Good] Mem:2 T:16 Exits:N(E)> 
+
+What a self-sacrificing act! You're such a hero!
+
+616H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Good] Mem:2 T:13 Exits:N(E)> 
+
+
+You raise your shield and block Lady Asvika's blow.
+You deflect part of Lady Asvika's blow with your shield.
+Lady Asvika pierces YOU.
+Lady Asvika dodges your attack!
+
+609H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Good] Mem:2 T:12 Exits:N(E)> 
+
+order kor ass
+av l
+str
+Kor the bronze dragon barely hits Lady Asvika.
+
+609H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Good] Mem:2 T:9 Exits:N(E)> 
+
+You focus your purity on Lady Asvika's leg!
+You focus on Lady Asvika's legs, but are thwarted.
+
+609H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Good] Mem:2 T:9 Exits:N(E)> 
+
+
+Kor the bronze dragon hits Lady Asvika.
+Lady Asvika misses you with her pierce.
+Lady Asvika misses you with her pierce.
+You massacre Lady Asvika with your stab.
+
+609H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Fair] Mem:2 T:8 Exits:N(E)> 
+
+Kor the bronze dragon hits Lady Asvika.
+Lady Asvika misses you with her pierce.
+Lady Asvika misses you with her pierce.
+You massacre Lady Asvika with your stab.
+You attempt to strike at Lady Asvika with your pike.
+You stab Lady Asvika extremely hard.
+
+609H 138V 1X 78.24% 1074C [Zargothrax:V.Good] [Lady Asvika:Fair] Mem:2 T:4 Exits:N(E)> 
+
+str
+
+Kor the bronze dragon barely hits Lady Asvika.
+You deflect part of Lady Asvika's blow with your shield.
+Lady Asvika pierces YOU hard.
+You stab Lady Asvika extremely hard.
+
+632H 142V 1X 78.24% 1074C [Zargothrax:Perfect] [Lady Asvika:Bad] Mem:2 T:60 Exits:N(E)> 
+You attempt to strike at Lady Asvika with your pike.
+Your pike leaves a golden trail in the air as you strike Lady Asvika.
+You find an opening in Lady Asvika's armor and drive your pike there.
+You stab Lady Asvika extremely hard.
+
+632H 142V 1X 78.24% 1074C [Zargothrax:Perfect] [Lady Asvika:Bad] Mem:2 T:60 Exits:N(E)> 
+
+str
+
+Kor the bronze dragon hits Lady Asvika hard.
+Lady Asvika misses you with her pierce.
+Lady Asvika misses you with her pierce.
+You stab Lady Asvika very hard.
+
+632H 142V 1X 78.24% 1074C [Zargothrax:Perfect] [Lady Asvika:V.Bad] Mem:2 T:56 Exits:N(E)> 
+
+You attempt to strike at Lady Asvika with your pike.
+Your pike leaves a golden trail in the air as you strike Lady Asvika.
+You find an opening in Lady Asvika's armor and drive your pike there.
+Lady Asvika shivers, and suffers from her evilness!
+You stab Lady Asvika hard.
+
+632H 142V 1X 78.24% 1074C [Zargothrax:Perfect] [Lady Asvika:Awful] Mem:2 T:56 Exits:N(E)> 
+
+str
+
+Lady Asvika is hit by Kor the bronze dragon's lightning breath.
+
+632H 142V 1X 78.24% 1074C [Zargothrax:Perfect] [Lady Asvika:Awful] Mem:2 T:53 Exits:N(E)> 
+
+
+Kor the bronze dragon hits Lady Asvika.
+Lady Asvika is stunned, but will likely regain consciousness again.
+You obliterate Lady Asvika with your stab.
+You receive 0 experience.
+Lady Asvika is dead! R.I.P.
+The death cry of Lady Asvika echoes from somewhere nearby...
+
+632H 142V 1X 78.75% 1074C Mem:2 T:52 Exits:N(E)> 
+
+You couldn't find what you were looking for.
+
+632H 142V 1X 78.75% 1074C Mem:2 T:52 Exits:N(E)> 
+
+take all corpse
+You get a blue steel key from the corpse of Lady Asvika.
+You get a silver flaying knife from the corpse of Lady Asvika.
+You get a large pile of coins from the corpse of Lady Asvika.
+There were 192 coins.
+
+632H 142V 1X 78.75% 1266C Mem:2 T:51 Exits:N(E)> 
+
+unl door
+*click* as you use a blue steel key.
+The key turns to dust as its usefulness ends.
+
+632H 142V 1X 78.75% 1266C Mem:2 T:48 Exits:N(E)> 
+
+op door
+Ok.
+
+632H 142V 1X 78.75% 1266C Mem:2 T:47 Exits:NE> 
+e
+
+Kor the bronze dragon flies in from the west.
+A Dark Cell
+   Shackles which contain the bones of long dead captives line the walls.
+A small straw pallet and a chamber pot are the only other furnishings in
+the room.  Solid stone walls prevent exit in any direction except through
+the solid steel door to the west.  An old message is scrawled on the
+wall in charcoal.
+Kor the bronze dragon is standing here, awaiting a rider.
+A knight of Solamnia is chained to the wall.
+
+632H 141V 1X 78.75% 1266C Mem:2 T:46 Exits:W> 
+
+listen knight
+Although I was vanquished quite easily, I have learned several things
+in my captivity.  The only one whom the illrigger allows access to his
+tower that is normally in this part of the keep is the priest.  He is
+an evil sort, but he carries something which allows him access to
+the main tower.
+Also, beware the illrigger!  He is such as I, a holy warrior!  Yet
+he follows the lawful evil gods, unlike myself.  His gods have granted
+him great powers.  I have seen him cast spells like a mage, indeed,
+he captured me alive by using the spell known as hold person.  He also
+is a great warrior, and it is also rumored that he has certain skills
+of the assassin as well.  Beware!
+
+632H 141V 1X 78.75% 1266C Mem:2 T:44 Exits:W> 
+
+free knight
+You heroically break the knights chains setting him free!
+The knight thanks you for saving him, then explains that
+he must report to his superiors at once.
+The knight of Solamnia grabs a scroll of recall.
+The knight of Solamnia recites a scroll of recall.
+The knight of Solamnia disappears.
+You receive 0 experience.
+
+632H 141V 1X 78.75% 1266C Mem:2 T:42 Exits:W> 
+
+w
+Kor the bronze dragon flies in from the east.
+The Dungeon
+   The room is filled mostly with instruments of torture.  Many common
+and uncommon machines designed to kill victims slowly with the maximum
+amount of pain show signs of frequent use.  The air is filled with the
+metallic scent of blood.  A cell is to the east.
+The corpse of Lady Asvika is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 140V 1X 78.75% 1266C Mem:2 T:40 Exits:NE> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Dungeon
+   The room is filled mostly with instruments of torture.  Many common
+and uncommon machines designed to kill victims slowly with the maximum
+amount of pain show signs of frequent use.  The air is filled with the
+metallic scent of blood.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 139V 1X 78.75% 1266C Mem:2 T:39 Exits:SU> 
+
+u
+Kor the bronze dragon flies in from below.
+Top of the Dungeon Stairs
+   A small door leads north into the great hall.  Some stairs lead
+down into the darkness of the dungeon.  Incessant low moans and a few
+screams issue from below.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 138V 1X 78.75% 1266C Mem:2 T:38 Exits:ND> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A black clad servant goes about his duties. (black aura)
+A black clad servant goes about his duties. (black aura)
+A black clad servant tries to throat punch Kor the bronze dragon, but misses horribly.
+A black clad servant misses Kor the bronze dragon with his pierce.
+
+632H 137V 1X 78.75% 1266C Mem:2 T:37 Exits:NSW> 
+
+A black clad servant misses Kor the bronze dragon with his pierce.
+A black clad servant misses Kor the bronze dragon with his pierce.
+Kor the bronze dragon hits a black clad servant hard.
+
+632H 137V 1X 78.75% 1266C Mem:2 T:36 Exits:NSW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a black clad servant with your stab.
+
+632H 137V 1X 78.75% 1266C [Kor the bronze dragon:Fair] [a black clad servant:Good] Mem:2 T:35 Exits:NSW> 
+
+resc kor
+
+You stab a black clad servant hard.
+A black clad servant barely pierces Kor the bronze dragon.
+A black clad servant pierces Kor the bronze dragon hard.
+A black clad servant gracefully steps aside as Kor the bronze dragon attacks!
+Kor the bronze dragon stumbles and attacks you!
+Kor the bronze dragon misses you with his hit.
+
+632H 137V 1X 78.75% 1266C [Kor the bronze dragon:Fair] [a black clad servant:Fair] Mem:2 T:32 Exits:NSW> 
+
+What a self-sacrificing act! You're such a hero!
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Fair] Mem:2 T:30 Exits:NSW> 
+
+resc kor
+
+A black clad servant gracefully steps aside as Kor the bronze dragon attacks!
+A black clad servant misses you with his pierce.
+You massacre a black clad servant with your stab.
+A black clad servant misses Kor the bronze dragon with his pierce.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Fair] Mem:2 T:28 Exits:NSW> 
+
+What a self-sacrificing act! You're such a hero!
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Perfect] Mem:2 T:26 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Good] Mem:2 T:24 Exits:NSW> 
+
+order kor ass
+
+A black clad servant attempts to unbalance you, but you quickly avoid him.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Good] Mem:2 T:23 Exits:NSW> 
+
+reck
+Kor the bronze dragon barely hits a black clad servant.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Good] Mem:2 T:22 Exits:NSW> 
+
+A godly anger burns within you, let the heretics feel your wrath!
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Good] Mem:2 T:21 Exits:NSW> 
+
+ral
+You yell and inspire your companions to fight harder!
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Good] Mem:2 T:21 Exits:NSW> 
+
+str
+
+Kor the bronze dragon hits a black clad servant hard.
+A black clad servant misses you with his pierce.
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Fair] Mem:2 T:20 Exits:NSW> 
+
+
+A black clad servant tries to throat punch you, but misses horribly.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Fair] Mem:2 T:17 Exits:NSW> 
+
+You attempt to strike at a black clad servant with your pike.
+You massacre a black clad servant with your stab.
+
+632H 137V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Fair] Mem:2 T:17 Exits:NSW> 
+
+
+A black clad servant's rapid, unexpected knuckle thrust to your throat does some damage.
+
+623H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Fair] Mem:2 T:17 Exits:NSW> 
+
+
+Kor the bronze dragon hits a black clad servant hard.
+A black clad servant misses you with his pierce.
+You massacre a black clad servant with your stab.
+A black clad servant barely pierces YOU.
+A black clad servant misses you with his pierce.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:V.Bad] Mem:2 T:16 Exits:NSW> 
+
+str
+You attempt to strike at a black clad servant with your pike.
+You massacre a black clad servant with your stab.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:13 Exits:NSW> 
+
+
+Kor the bronze dragon hits a black clad servant hard.
+A black clad servant misses you with his pierce.
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:12 Exits:NSW> 
+
+str
+
+A black clad servant attempts to unbalance you, but you quickly avoid him.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Awful] Mem:2 T:11 Exits:NSW> 
+
+Kor the bronze dragon hits a black clad servant hard.
+A black clad servant is mortally wounded, and will die soon, if not aided.
+You obliterate a black clad servant with your stab.
+You receive 0 experience.
+A black clad servant is dead! R.I.P.
+A black clad servant misses you with his pierce.
+The death cry of a black clad servant echoes from somewhere nearby...
+You direct your attention to a black clad servant.
+You attempt to strike at a black clad servant with your pike.
+A black clad servant dodges your attack!
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Fair] Mem:2 T:8 Exits:NSW> 
+
+order kor ass
+av l
+str
+
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:4 Exits:NSW> 
+
+Kor the bronze dragon hits a black clad servant hard.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:4 Exits:NSW> 
+str
+
+You focus your purity on a black clad servant's leg!
+You focus on a black clad servant's legs, but are thwarted.
+
+617H 137V 1X 78.75% 1266C [Zargothrax:V.Good] [a black clad servant:Bad] Mem:2 T:4 Exits:NSW> 
+
+
+Kor the bronze dragon hits a black clad servant.
+Kor the bronze dragon hits a black clad servant hard.
+You annihilate a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+
+632H 142V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:V.Bad] Mem:2 T:60 Exits:NSW> 
+
+You attempt to strike at a black clad servant with your pike.
+You massacre a black clad servant with your stab.
+
+632H 142V 1X 78.75% 1266C [Zargothrax:Perfect] [a black clad servant:Awful] Mem:2 T:60 Exits:NSW> 
+take all corpse
+
+
+Kor the bronze dragon hits a black clad servant.
+Kor the bronze dragon hits a black clad servant.
+You massacre a black clad servant with your stab.
+You receive 0 experience.
+A black clad servant is dead! R.I.P.
+The death cry of a black clad servant echoes from somewhere nearby...
+
+632H 142V 1X 78.75% 1266C Mem:2 T:56 Exits:NSW> 
+
+You couldn't find what you were looking for.
+
+632H 142V 1X 78.75% 1266C Mem:2 T:55 Exits:NSW> 
+
+You get a pile of coins from the corpse of a black clad servant.
+There were 20 coins.
+
+632H 142V 1X 78.75% 1286C Mem:2 T:55 Exits:NSW> 
+
+tak all 2.corpse
+You get a pile of coins from the corpse of a black clad servant.
+There were 22 coins.
+You get a glaive-guisarme from the corpse of a black clad servant.
+
+632H 142V 1X 78.75% 1308C Mem:2 T:53 Exits:NSW> 
+
+l
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+The corpse of a black clad servant is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 142V 1X 78.75% 1308C Mem:2 T:52 Exits:NSW> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Great Hall
+   A large hall extends in all direction.  The high vaulted ceiling is
+far above, hidden in shadows.  It appears that this large hall is used
+both as a mess hall and as quarters for whatever lives here.  Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  To the east there is a dais with a throne on it.
+Kor the bronze dragon is standing here, awaiting a rider.
+A hell hound prowls about, nostrils flared and breathing fire. (black aura)
+A black clad warrior looks for intruders. (black aura)
+A hell hound misses Kor the bronze dragon with its bite.
+A black clad warrior gives Kor the bronze dragon a solid punch in the face.
+
+632H 141V 1X 78.75% 1308C Mem:2 T:51 Exits:NESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a hell hound with your stab.
+
+632H 141V 1X 78.75% 1308C [Kor the bronze dragon:Fair] [a hell hound:Good] Mem:2 T:50 Exits:NESW> 
+
+
+You massacre a hell hound with your stab.
+A black clad warrior misses Kor the bronze dragon with his slash.
+A black clad warrior misses Kor the bronze dragon with his slash.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound.
+
+632H 141V 1X 78.75% 1308C [Zargothrax:Perfect] [a hell hound:Fair] Mem:2 T:48 Exits:NESW> 
+resc kor
+
+
+A hell hound is hit by Kor the bronze dragon's lightning breath.
+
+632H 141V 1X 78.75% 1308C [Zargothrax:Perfect] [a hell hound:Fair] Mem:2 T:47 Exits:NESW> 
+
+What a self-sacrificing act! You're such a hero!
+You feel enlightened.
+
+632H 141V 1X 78.75% 1308C [Zargothrax:Perfect] [a black clad warrior:Perfect] Mem:2 T:45 Exits:NESW> 
+
+resc kor
+
+A black clad warrior misses you with his slash.
+You deflect part of a black clad warrior's blow with your shield.
+A black clad warrior barely slashes YOU.
+You annihilate a black clad warrior with your stab.
+A hell hound misses you with its bite.
+Kor the bronze dragon barely hits a hell hound.
+
+627H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:2 T:44 Exits:NESW> 
+
+order kor ass
+You dodge out of the way of a black clad warrior's mistargeted kick.
+But nobody is fighting him.
+
+627H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:2 T:41 Exits:NESW> 
+
+
+Sweat dripping, your anger subsides, your blood cools.
+A black clad warrior misses you with his slash.
+You massacre a black clad warrior with your stab.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound hard.
+
+627H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:2 T:40 Exits:NESW> 
+
+av l
+str
+
+627H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:2 T:39 Exits:NESW> 
+
+You focus your purity on a black clad warrior's leg!
+You force a black clad warrior to the ground.
+
+627H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:2 T:38 Exits:NESW> 
+
+
+You deflect part of a black clad warrior's blow with your shield.
+A black clad warrior barely slashes YOU.
+You annihilate a black clad warrior with your stab.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound.
+
+623H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:2 T:36 Exits:NESW> 
+
+str
+You attempt to strike at a black clad warrior with your pike.
+You stab a black clad warrior extremely hard.
+
+623H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:2 T:34 Exits:NESW> 
+
+
+The rally cry fades.
+A black clad warrior misses you with his slash.
+A black clad warrior misses you with his slash.
+You stab a black clad warrior extremely hard.
+A hell hound barely bites YOU.
+Kor the bronze dragon barely hits a hell hound.
+
+617H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Bad] Mem:2 T:32 Exits:NESW> 
+
+str
+You strike at a black clad warrior, but miss him completely.
+
+617H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Bad] Mem:2 T:30 Exits:NESW> 
+
+
+A black clad warrior stands up.
+
+617H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Bad] Mem:2 T:29 Exits:NESW> 
+
+
+A black clad warrior misses you with his slash.
+You stab a black clad warrior extremely hard.
+A hell hound misses you with its bite.
+Kor the bronze dragon barely hits a hell hound.
+
+617H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:V.Bad] Mem:2 T:28 Exits:NESW> 
+
+You attempt to strike at a black clad warrior with your pike.
+You stab a black clad warrior very hard.
+
+617H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:V.Bad] Mem:2 T:26 Exits:NESW> 
+
+ral
+
+You deflect part of a black clad warrior's blow with your shield.
+A black clad warrior slashes YOU.
+You massacre a black clad warrior with your stab.
+A hell hound's blow is absorbed by your armor.
+Kor the bronze dragon hits a hell hound hard.
+
+610H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:24 Exits:NESW> 
+
+str
+
+A black clad warrior gives you a solid punch in the face.
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:23 Exits:NESW> 
+
+You yell and inspire your companions to fight harder!
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:21 Exits:NESW> 
+
+
+A black clad warrior misses you with his slash.
+A black clad warrior misses you with his slash.
+You stab a black clad warrior extremely hard.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound hard.
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:2 T:20 Exits:NESW> 
+
+You attempt to strike at a black clad warrior with your pike.
+You stab a black clad warrior extremely hard.
+A black clad warrior is mortally wounded, and will die soon, if not aided.
+
+597H 141V 1X 78.75% 1308C [a black clad warrior:Dying] Mem:2 T:17 Exits:NESW> 
+
+
+You obliterate a black clad warrior with your stab.
+You receive 0 experience.
+A black clad warrior is dead! R.I.P.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound very hard.
+The death cry of a black clad warrior echoes from somewhere nearby...
+You direct your attention to a hell hound.
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a hell hound:V.Bad] Mem:2 T:16 Exits:NESW> 
+
+order kor ass
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a hell hound:V.Bad] Mem:2 T:13 Exits:NESW> 
+
+
+You stab a hell hound extremely hard.
+A hell hound misses you with its bite.
+Kor the bronze dragon hits a hell hound hard.
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:12 Exits:NESW> 
+
+str
+You attempt to strike at a hell hound with your pike.
+You stab a hell hound extremely hard.
+
+597H 141V 1X 78.75% 1308C [Zargothrax:V.Good] [a hell hound:Awful] Mem:2 T:12 Exits:NESW> 
+
+take all corpse
+
+You massacre a hell hound with your stab.
+A hell hound is incapacitated and will slowly die, if not aided.
+Kor the bronze dragon annihilates a hell hound with his hit.
+You receive 0 experience.
+A hell hound is dead! R.I.P.
+The death cry of a hell hound echoes from somewhere nearby...
+
+597H 141V 1X 78.75% 1308C Mem:2 T:8 Exits:NESW> 
+
+You get a small pile of coins from the corpse of a hell hound.
+There were 2 coins.
+
+597H 141V 1X 78.75% 1310C Mem:2 T:8 Exits:NESW> 
+
+tak all 2.corpse
+You get a pile of coins from the corpse of a black clad warrior.
+There were 38 coins.
+
+597H 141V 1X 78.75% 1348C Mem:2 T:6 Exits:NESW> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Great Hall
+   A large hall extends to the west and south.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered among the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+597H 140V 1X 78.75% 1348C Mem:2 T:5 Exits:SW> 
+
+op tapestry
+Ok.
+
+597H 140V 1X 78.75% 1348C Mem:2 T:1 Exits:NSW> 
+
+n
+Kor the bronze dragon flies in from the south.
+A Hidden Temple
+   This is a small temple devoted to the evil gods.  It is hidden away
+so that the priest who tends it is not interrupted.  Blood stains on
+the floor indicate that the worship here includes sacrifice, as they
+cover much of the floor.
+Kor the bronze dragon is standing here, awaiting a rider.
+A priest chants prayers to his dark god. (black aura)
+A black cowled priest focuses harshly on Kor the bronze dragon and utters some strange words.
+Kor the bronze dragon cries out in pain as a black cowled priest grabs him.
+
+630H 141V 1X 78.75% 1348C Mem:1 T:60 Exits:S> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a black cowled priest extremely hard.
+
+630H 141V 1X 78.75% 1348C [Kor the bronze dragon:Bad] [a black cowled priest:V.Good] Mem:1 T:59 Exits:S> 
+
+resc
+
+You stab a black cowled priest very hard.
+A black cowled priest hits Kor the bronze dragon very hard.
+Kor the bronze dragon hits a black cowled priest hard.
+
+630H 141V 1X 78.75% 1348C [Kor the bronze dragon:V.Bad] [a black cowled priest:Good] Mem:1 T:56 Exits:S> 
+
+What a self-sacrificing act! You're such a hero!
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Good] Mem:1 T:54 Exits:S> 
+
+order kor ass
+
+A black cowled priest utters some strange words.
+A bright light flashes and a black cowled priest begins to shine from within.
+A black cowled priest misses you with its hit.
+You find an opening in a black cowled priest's armor and drive your pike there.
+You stab a black cowled priest very hard.
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Good] Mem:1 T:52 Exits:S> 
+
+reck
+ral
+Kor the bronze dragon hits a black cowled priest hard.
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Fair] Mem:1 T:50 Exits:S> 
+
+Alas, you are not ready yet.
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Fair] Mem:1 T:50 Exits:S> 
+
+A rally cry has already been heard.
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Fair] Mem:1 T:50 Exits:S> 
+
+av l
+You focus your purity on a black cowled priest's leg!
+You force a black cowled priest to the ground.
+
+630H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Fair] Mem:1 T:49 Exits:S> 
+
+
+Kor the bronze dragon hits a black cowled priest extremely hard.
+You deflect part of a black cowled priest's blow with your shield.
+A black cowled priest bruises YOU with its hit.
+You massacre a black cowled priest with your stab.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Fair] Mem:1 T:48 Exits:S> 
+
+str
+You attempt to strike at a black cowled priest with your pike.
+You massacre a black cowled priest with your stab.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Bad] Mem:1 T:45 Exits:S> 
+
+str
+
+Kor the bronze dragon hits a black cowled priest extremely hard.
+A black cowled priest misses you with its hit.
+You massacre a black cowled priest with your stab.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:V.Bad] Mem:1 T:44 Exits:S> 
+
+str
+str
+
+A black cowled priest is hit by Kor the bronze dragon's lightning breath.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:V.Bad] Mem:1 T:41 Exits:S> 
+
+You attempt to strike at a black cowled priest with your pike.
+You massacre a black cowled priest with your stab.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Awful] Mem:1 T:41 Exits:S> 
+
+
+A black cowled priest stands up.
+Kor the bronze dragon hits a black cowled priest hard.
+A black cowled priest misses you with its hit.
+You stab a black cowled priest extremely hard.
+
+627H 141V 1X 78.75% 1348C [Zargothrax:V.Good] [a black cowled priest:Awful] Mem:1 T:40 Exits:S> 
+
+You attempt to strike at a black cowled priest with your pike.
+You massacre a black cowled priest with your stab.
+You receive 0 experience.
+A black cowled priest is dead! R.I.P.
+
+627H 141V 1X 78.84% 1348C [a black cowled priest:Dying] Mem:1 T:37 Exits:S> 
+
+
+The death cry of a black cowled priest echoes from somewhere nearby...
+
+627H 141V 1X 78.84% 1348C Mem:1 T:36 Exits:S> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+627H 141V 1X 78.84% 1348C Mem:1 T:32 Exits:S> 
+
+You get a small sparkling jewel from the corpse of a black cowled priest.
+You get a large pile of coins from the corpse of a black cowled priest.
+There were 134 coins.
+You get a flower of Queen Christine's lace from the corpse of a black cowled priest.
+You get a bit of phosphorus from the corpse of a black cowled priest.
+You get a sprinkle of saffron from the corpse of a black cowled priest.
+You get an emerald vial from the corpse of a black cowled priest.
+You get a golden book of prayer from the corpse of a black cowled priest.
+
+627H 141V 1X 78.84% 1482C Mem:1 T:32 Exits:S> 
+
+s
+Kor the bronze dragon flies in from the north.
+The Great Hall
+   A large hall extends to the west and south.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered among the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+627H 140V 1X 78.84% 1482C Mem:1 T:29 Exits:NSW> 
+
+s
+Kor the bronze dragon flies in from the north.
+The Great Hall
+   A large hall extends in all direction.  The high vaulted ceiling is
+far above, hidden in shadows.  It appears that this large hall is used
+both as a mess hall and as quarters for whatever lives here.  Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  To the east there is a dais with a throne on it.
+The corpse of a hell hound is lying here.
+The corpse of a black clad warrior is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+627H 139V 1X 78.84% 1482C Mem:1 T:28 Exits:NESW> 
+
+e
+Kor the bronze dragon flies in from the west.
+The Raised Dais
+   Upon the dais is a jeweled throne.  It faces out towards the hall.
+Behind the throne is a smooth stone wall, on which two magical lights
+have been affixed.  The hall extends to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A black clad warrior looks for intruders. (black aura)
+A black clad warrior misses Kor the bronze dragon with his slash.
+
+627H 138V 1X 78.84% 1482C Mem:1 T:27 Exits:W> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a black clad warrior extremely hard.
+
+627H 138V 1X 78.84% 1482C [Kor the bronze dragon:V.Bad] [a black clad warrior:V.Good] Mem:1 T:26 Exits:W> 
+
+resc
+
+You massacre a black clad warrior with your stab.
+You deflect part of a black clad warrior's blow with your shield.
+A black clad warrior bruises YOU with his slash.
+Kor the bronze dragon hits a black clad warrior.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:1 T:24 Exits:W> 
+
+
+A black clad warrior tries to punch you, but you deftly avoid his blow.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:1 T:23 Exits:W> 
+
+av l
+str
+str
+You rescue yourself from certain death.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:1 T:21 Exits:W> 
+
+You focus your purity on a black clad warrior's leg!
+You force a black clad warrior to the ground.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Good] Mem:1 T:21 Exits:W> 
+
+
+The rally cry fades.
+A black clad warrior misses you with his slash.
+A black clad warrior misses you with his slash.
+You massacre a black clad warrior with your stab.
+Kor the bronze dragon hits a black clad warrior hard.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:1 T:20 Exits:W> 
+
+str
+You strike at a black clad warrior, but miss him completely.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Fair] Mem:1 T:17 Exits:W> 
+
+
+A black clad warrior misses you with his slash.
+You annihilate a black clad warrior with your stab.
+Kor the bronze dragon hits a black clad warrior.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Bad] Mem:1 T:16 Exits:W> 
+
+You attempt to strike at a black clad warrior with your pike.
+You annihilate a black clad warrior with your stab.
+
+624H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:V.Bad] Mem:1 T:13 Exits:W> 
+
+
+A black clad warrior misses you with his slash.
+You deflect part of a black clad warrior's blow with your shield.
+A black clad warrior barely slashes YOU.
+You massacre a black clad warrior with your stab.
+Kor the bronze dragon hits a black clad warrior hard.
+
+618H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:1 T:12 Exits:W> 
+
+
+A black clad warrior stands up.
+
+618H 138V 1X 78.84% 1482C [Zargothrax:V.Good] [a black clad warrior:Awful] Mem:1 T:11 Exits:W> 
+
+A black clad warrior misses you with his slash.
+A black clad warrior misses you with his slash.
+You massacre a black clad warrior with your stab.
+Kor the bronze dragon hits a black clad warrior.
+A black clad warrior is incapacitated and will slowly die, if not aided.
+You attempt to strike at a black clad warrior with your pike.
+You obliterate a black clad warrior with your stab.
+You receive 0 experience.
+A black clad warrior is dead! R.I.P.
+
+618H 138V 1X 78.84% 1482C [a black clad warrior:Dying] Mem:1 T:8 Exits:W> 
+
+
+The death cry of a black clad warrior echoes from somewhere nearby...
+
+618H 138V 1X 78.84% 1482C Mem:1 T:8 Exits:W> 
+
+take all corpse
+You get a pile of coins from the corpse of a black clad warrior.
+There were 28 coins.
+
+618H 138V 1X 78.84% 1510C Mem:1 T:4 Exits:W> 
+
+break jewel
+You crush the jewel to tiny fragments, releasing its magic. The throne
+glows softly for a few seconds, then the glow fades away.
+
+618H 138V 1X 78.84% 1510C Mem:1 T:4 Exits:W> 
+
+salute throne
+As you salute the throne, the wall behind the throne slides into the
+floor.
+
+618H 138V 1X 78.84% 1510C Mem:1 T:1 Exits:EW> 
+
+e
+Your studies complete, you close your prayerbook with a smile.
+Kor the bronze dragon flies in from the west.
+Behind the Throne
+   A small chamber with a few furnishings is all that appears to be
+behind the throne at first glance.  A small table with a lush
+chair and an old clock by the wall is all that is here.  The
+placement of this room would indicate that the main tower of the
+keep would be directly overhead.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large insectoid creature standing on twelve legs stands before you. (black aura)
+A blue-hued horax misses Kor the bronze dragon with her claw.
+
+632H 141V 1X 78.84% 1510C T:60 Exits:W> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a blue-hued horax with your stab.
+
+632H 141V 1X 78.84% 1510C [Kor the bronze dragon:Bad] [a blue-hued horax:V.Good] T:59 Exits:W> 
+
+ral
+resc
+
+You massacre a blue-hued horax with your stab.
+A blue-hued horax misses you with her claw.
+Kor the bronze dragon hits a blue-hued horax hard.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Good] T:56 Exits:W> 
+
+You yell and inspire your companions to fight harder!
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Good] T:55 Exits:W> 
+
+av l
+
+A blue-hued horax avoids Kor the bronze dragon's lightning breath.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Good] T:53 Exits:W> 
+
+
+A blue-hued horax misses you with her claw.
+You stab a blue-hued horax extremely hard.
+Kor the bronze dragon hits a blue-hued horax very hard.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Fair] T:52 Exits:W> 
+
+You rescue yourself from certain death.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Fair] T:50 Exits:W> 
+
+You mess up the targetting and focus on the torso instead.
+You focus your purity on a blue-hued horax's body!
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Fair] T:50 Exits:W> 
+
+str
+str
+
+A blue-hued horax misses you with her claw.
+You massacre a blue-hued horax with your stab.
+Kor the bronze dragon hits a blue-hued horax very hard.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Bad] T:48 Exits:W> 
+str
+
+You attempt to strike at a blue-hued horax with your pike.
+You stab a blue-hued horax very hard.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Bad] T:46 Exits:W> 
+
+
+A blue-hued horax misses you with her claw.
+You stab a blue-hued horax extremely hard.
+Kor the bronze dragon hits a blue-hued horax.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:V.Bad] T:44 Exits:W> 
+
+You attempt to strike at a blue-hued horax with your pike.
+You stab a blue-hued horax extremely hard.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:V.Bad] T:42 Exits:W> 
+
+
+A blue-hued horax misses you with her claw.
+You massacre a blue-hued horax with your stab.
+Kor the bronze dragon hits a blue-hued horax.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Awful] T:40 Exits:W> 
+
+You attempt to strike at a blue-hued horax with your pike.
+You massacre a blue-hued horax with your stab.
+
+632H 141V 1X 78.84% 1510C [Zargothrax:Perfect] [a blue-hued horax:Awful] T:37 Exits:W> 
+
+
+A blue-hued horax misses you with her claw.
+You stab a blue-hued horax extremely hard.
+You receive 0 experience.
+A blue-hued horax is dead! R.I.P.
+The death cry of a blue-hued horax echoes from somewhere nearby...
+
+632H 141V 1X 78.92% 1510C T:36 Exits:W> 
+
+take all corpse
+You get a small pile of coins from the corpse of a blue-hued horax.
+There were 2 coins.
+
+632H 141V 1X 78.92% 1512C T:33 Exits:W> 
+
+rotate clock
+As you rotate the hands of the clock, resetting the time to midnight,
+a wall moves aside revealing a passageway up into the tower!
+
+632H 141V 1X 78.92% 1512C T:31 Exits:WU> 
+
+e
+Alas, you cannot go that way...
+
+632H 141V 1X 78.92% 1512C T:30 Exits:WU> 
+
+u
+Kor the bronze dragon flies in from below.
+The Tower Staircase
+   Ancient steps worn with use lead up into the tower.  Every twenty
+paces is a small slit for archers to use.  The stairway circles up
+and down.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 140V 1X 78.92% 1512C T:29 Exits:UD> 
+
+u
+Kor the bronze dragon flies in from below.
+The Tower Staircase
+   Ancient steps worn with use lead up into the tower.  Every twenty
+paces is a small slit for archers to use.  The stairway circles up
+and down.
+Kor the bronze dragon is standing here, awaiting a rider.
+A horned devil stalks the stairway, looking for intruders. (black aura)
+A horned devil misses Kor the bronze dragon with its claw.
+
+632H 139V 1X 78.92% 1512C T:29 Exits:UD> 
+
+A horned devil massacres Kor the bronze dragon with its claw.
+Kor the bronze dragon hits a horned devil hard.
+
+632H 139V 1X 78.92% 1512C T:28 Exits:UD> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a horned devil with your stab.
+
+632H 139V 1X 78.92% 1512C [Kor the bronze dragon:V.Bad] [a horned devil:Good] T:28 Exits:UD> 
+
+resc
+
+You stab a horned devil extremely hard.
+A horned devil misses Kor the bronze dragon with its claw.
+Kor the bronze dragon hits a horned devil hard.
+
+632H 139V 1X 78.92% 1512C [Kor the bronze dragon:V.Bad] [a horned devil:Good] T:24 Exits:UD> 
+
+What a self-sacrificing act! You're such a hero!
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Good] T:23 Exits:UD> 
+
+order kor ass
+av l
+
+A horned devil misses you with its claw.
+You stab a horned devil extremely hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Fair] T:20 Exits:UD> 
+
+str
+Kor the bronze dragon hits a horned devil hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Fair] T:19 Exits:UD> 
+
+You focus your purity on a horned devil's leg!
+You focus on a horned devil's legs, but are thwarted.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Fair] T:18 Exits:UD> 
+
+
+Kor the bronze dragon hits a horned devil hard.
+A horned devil misses you with its claw.
+You massacre a horned devil with your stab.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Fair] T:16 Exits:UD> 
+
+str
+str
+You attempt to strike at a horned devil with your pike.
+You stab a horned devil extremely hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Fair] T:14 Exits:UD> 
+
+
+Kor the bronze dragon barely hits a horned devil.
+A horned devil misses you with its claw.
+You massacre a horned devil with your stab.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Bad] T:12 Exits:UD> 
+
+You attempt to strike at a horned devil with your pike.
+You stab a horned devil extremely hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:V.Bad] T:10 Exits:UD> 
+
+str
+
+Kor the bronze dragon hits a horned devil.
+A horned devil misses you with its claw.
+You find an opening in a horned devil's armor and drive your pike there.
+You stab a horned devil extremely hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:V.Bad] T:8 Exits:UD> 
+
+You attempt to strike at a horned devil with your pike.
+You stab a horned devil extremely hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:V.Bad] T:6 Exits:UD> 
+
+
+Kor the bronze dragon hits a horned devil.
+A horned devil misses you with its claw.
+You massacre a horned devil with your stab.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Awful] T:4 Exits:UD> 
+
+You attempt to strike at a horned devil with your pike.
+You stab a horned devil very hard.
+
+632H 139V 1X 78.92% 1512C [Zargothrax:Perfect] [a horned devil:Awful] T:1 Exits:UD> 
+
+
+Kor the bronze dragon barely hits a horned devil.
+A horned devil misses you with its claw.
+You massacre a horned devil with your stab.
+You receive 0 experience.
+A horned devil is dead! R.I.P.
+The death cry of a horned devil echoes from somewhere nearby...
+The rally cry fades.
+Once again the time has come for righteous anger.
+The white aura around your body fades.
+
+632H 142V 1X 79.01% 1512C T:60 Exits:UD> 
+
+take all corpse
+You get a small pile of coins from the corpse of a horned devil.
+There were 2 coins.
+
+632H 142V 1X 79.01% 1514C T:57 Exits:UD> 
+c 'sanc' me
+
+You utter the words, 'sanctuary'
+You start glowing.
+
+632H 142V 1X 79.01% 1514C Mem:1 T:57 Exits:UD> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 79.01% of your next rank.
+You are 19 years old.
+You have 632(632) hit and 142(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 1514(211075) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 34 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 35 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Paladine's glory shines in your mind through the power of your prayer.
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    sanctuary            [7 hrs]
+    holy arms            [2 hrs]
+    aura of glory        [12 hrs]
+    bless                [7 hrs]
+    march
+    detect invisibility
+
+632H 142V 1X 79.01% 1514C Mem:1 T:53 Exits:UD> 
+
+u
+Kor the bronze dragon flies in from below.
+A Small Anteroom
+   There are no furnishings at all here.  This small room was built
+to house the guards of who or whatever was behind the door to the north.
+The stairway leads down into darkness.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+632H 141V 1X 79.01% 1514C Mem:1 T:50 Exits:(N)D> 
+
+op door
+n
+Ok.
+
+632H 141V 1X 79.01% 1514C Mem:1 T:48 Exits:ND> 
+
+Kor the bronze dragon flies in from the south.
+The Illrigger's Bedroom
+   A large canopy bed dominates the north wall.  Piled cushions and silk
+sheets of fine quality lie rumpled upon it.  Cabinets full of fine clothes
+line the south wall, and to the west a large window provides a view of
+the plains beyond the mountains.  To the east is merely a plain stone wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cat-like creature leans idly on an old cane. (black aura)
+The rakshasa focuses harshly on you and utters some strange words.
+You feel ribs shatter as the rakshasa's force bolt slams into you.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Perfect] Mem:1 T:47 Exits:S> 
+
+ass
+You can't do that while fighting.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Perfect] Mem:1 T:46 Exits:S> 
+
+order kor ass
+Kor the bronze dragon hits the rakshasa.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:V.Good] Mem:1 T:45 Exits:S> 
+
+
+Kor the bronze dragon hits the rakshasa.
+The rakshasa misses you with his claw.
+You massacre the rakshasa with your stab.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:44 Exits:S> 
+
+reck
+A godly anger burns within you, let the heretics feel your wrath!
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:44 Exits:S> 
+
+ral
+You yell and inspire your companions to fight harder!
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:43 Exits:S> 
+
+av l
+
+Kor the bronze dragon hits the rakshasa hard.
+The rakshasa misses you with his claw.
+You massacre the rakshasa with your stab.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:40 Exits:S> 
+
+
+The rakshasa utters some strange words.
+The air shimmers and crackles around the rakshasa.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:39 Exits:S> 
+
+You focus your purity on the rakshasa's leg!
+You focus on the rakshasa's legs, but are thwarted.
+
+603H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Good] Mem:1 T:39 Exits:S> 
+
+str
+str
+str
+str
+
+Kor the bronze dragon hits the rakshasa hard.
+You deflect part of the rakshasa's blow with your shield.
+The rakshasa claws YOU.
+You massacre the rakshasa with your stab.
+
+595H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Fair] Mem:1 T:36 Exits:S> 
+
+You attempt to strike at the rakshasa with your pike.
+You massacre the rakshasa with your stab.
+
+595H 140V 1X 79.01% 1514C [Zargothrax:V.Good] [the rakshasa:Fair] Mem:1 T:35 Exits:S> 
+
+
+The rakshasa focuses harshly on you and utters some strange words.
+You are caught in some of the rakshasa's acid!
+
+565H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Fair] Mem:1 T:33 Exits:S> 
+
+
+Kor the bronze dragon hits the rakshasa.
+The rakshasa claws YOU hard.
+You annihilate the rakshasa with your stab.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Bad] Mem:1 T:32 Exits:S> 
+
+You attempt to strike at the rakshasa with your pike.
+You massacre the rakshasa with your stab.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Bad] Mem:1 T:31 Exits:S> 
+
+
+Kor the bronze dragon hits the rakshasa hard.
+The rakshasa misses you with his claw.
+You massacre the rakshasa with your stab.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:V.Bad] Mem:1 T:28 Exits:S> 
+
+
+The rakshasa focuses harshly on you and utters some strange words.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:V.Bad] Mem:1 T:27 Exits:S> 
+
+You attempt to strike at the rakshasa with your pike.
+You massacre the rakshasa with your stab.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:V.Bad] Mem:1 T:26 Exits:S> 
+
+
+Kor the bronze dragon barely hits the rakshasa.
+The rakshasa misses you with his claw.
+You stab the rakshasa extremely hard.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:24 Exits:S> 
+
+You attempt to strike at the rakshasa with your pike.
+You stab the rakshasa extremely hard.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:22 Exits:S> 
+
+
+The rakshasa utters some strange words.
+The rakshasa is surrounded by 3 duplicate images.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:21 Exits:S> 
+
+str
+
+Kor the bronze dragon misses the rakshasa and destroys an image instead.
+The rakshasa misses you with his claw.
+You miss the rakshasa and destroy an image instead.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:20 Exits:S> 
+
+You attempt to strike at the rakshasa with your pike.
+You miss the rakshasa and destroy an image instead.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:18 Exits:S> 
+
+
+The rakshasa is hit by Kor the bronze dragon's lightning breath.
+
+555H 140V 1X 79.01% 1514C [Zargothrax:Good] [the rakshasa:Awful] Mem:1 T:17 Exits:S> 
+
+str
+
+Kor the bronze dragon hits the rakshasa hard.
+The rakshasa misses you with his claw.
+You massacre the rakshasa with your stab.
+You receive 0 experience.
+The rakshasa is dead! R.I.P.
+The death cry of the rakshasa echoes from somewhere nearby...
+
+555H 140V 1X 79.09% 1514C Mem:1 T:16 Exits:S> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+555H 140V 1X 79.09% 1514C Mem:1 T:14 Exits:S> 
+You get a large pile of coins from the corpse of the rakshasa.
+There were 226 coins.
+
+555H 140V 1X 79.09% 1740C Mem:1 T:13 Exits:S> 
+
+e
+Kor the bronze dragon flies in from the west.
+A Small Landing Beyond the Illusion
+     To the west shimmers the illusion which hides this place. It is
+transparent from this side, giving a clear view of the bedroom. A small
+staircase leads up to the uppermost room in the tower.
+Kor the bronze dragon is standing here, awaiting a rider.
+A horrible creature summoned from the depths of hell waits here. (black aura)
+A lesser pit fiend bruises YOU with its claw.
+
+552H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Perfect] Mem:1 T:12 Exits:WU> 
+
+ass
+You can't do that while fighting.
+
+552H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Perfect] Mem:1 T:11 Exits:WU> 
+
+order kor ass
+Kor the bronze dragon hits a lesser pit fiend hard.
+
+552H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:V.Good] Mem:1 T:10 Exits:WU> 
+
+
+Kor the bronze dragon hits a lesser pit fiend.
+A lesser pit fiend misses you with its claw.
+You deflect a good chunk of a lesser pit fiend's blow with your shield.
+A lesser pit fiend claws YOU.
+You massacre a lesser pit fiend with your stab.
+
+544H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Good] Mem:1 T:8 Exits:WU> 
+
+ral
+A rally cry has already been heard.
+
+544H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Good] Mem:1 T:8 Exits:WU> 
+str
+
+You attempt to strike at a lesser pit fiend with your pike.
+You massacre a lesser pit fiend with your stab.
+
+544H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Good] Mem:1 T:7 Exits:WU> 
+
+str
+str
+str
+
+Kor the bronze dragon hits a lesser pit fiend.
+A lesser pit fiend misses you with its claw.
+You deflect a good chunk of a lesser pit fiend's blow with your shield.
+A lesser pit fiend bruises YOU with its claw.
+You massacre a lesser pit fiend with your stab.
+
+541H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Fair] Mem:1 T:4 Exits:WU> 
+
+You attempt to strike at a lesser pit fiend with your pike.
+You massacre a lesser pit fiend with your stab.
+
+541H 139V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Fair] Mem:1 T:3 Exits:WU> 
+
+
+Kor the bronze dragon hits a lesser pit fiend.
+You raise your shield and block a lesser pit fiend's blow.
+You massacre a lesser pit fiend with your stab.
+Sweat dripping, your anger subsides, your blood cools.
+
+574H 142V 1X 79.09% 1740C [Zargothrax:V.Good] [a lesser pit fiend:Fair] Mem:1 T:60 Exits:WU> 
+
+You attempt to strike at a lesser pit fiend with your pike.
+You stab a lesser pit fiend extremely hard.
+
+574H 142V 1X 79.09% 1740C [Zargothrax:V.Good] [a lesser pit fiend:Bad] Mem:1 T:58 Exits:WU> 
+
+
+Kor the bronze dragon's powerful hit makes a lesser pit fiend double over in pain.
+Kor the bronze dragon hits a lesser pit fiend.
+A lesser pit fiend misses you with its claw.
+A lesser pit fiend misses you with its claw.
+You stab a lesser pit fiend extremely hard.
+
+574H 142V 1X 79.09% 1740C [Zargothrax:V.Good] [a lesser pit fiend:Bad] Mem:1 T:56 Exits:WU> 
+
+You attempt to strike at a lesser pit fiend with your pike.
+You massacre a lesser pit fiend with your stab.
+
+574H 142V 1X 79.09% 1740C [Zargothrax:V.Good] [a lesser pit fiend:V.Bad] Mem:1 T:54 Exits:WU> 
+
+
+The rally cry fades.
+Kor the bronze dragon hits a lesser pit fiend hard.
+You deflect part of a lesser pit fiend's blow with your shield.
+A lesser pit fiend claws YOU.
+You find an opening in a lesser pit fiend's armor and drive your pike there.
+You massacre a lesser pit fiend with your stab.
+
+567H 142V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:V.Bad] Mem:1 T:52 Exits:WU> 
+
+str
+You attempt to strike at a lesser pit fiend with your pike.
+You stab a lesser pit fiend very hard.
+
+567H 142V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Awful] Mem:1 T:50 Exits:WU> 
+
+
+Kor the bronze dragon barely hits a lesser pit fiend.
+A lesser pit fiend misses you with its claw.
+You deflect part of a lesser pit fiend's blow with your shield.
+A lesser pit fiend bruises YOU with its claw.
+You stab a lesser pit fiend extremely hard.
+
+565H 142V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Awful] Mem:1 T:48 Exits:WU> 
+
+
+Kor the bronze dragon barely hits a lesser pit fiend.
+A lesser pit fiend misses you with its claw.
+You deflect part of a lesser pit fiend's blow with your shield.
+A lesser pit fiend barely claws YOU.
+You stab a lesser pit fiend extremely hard.
+
+560H 142V 1X 79.09% 1740C [Zargothrax:Good] [a lesser pit fiend:Awful] Mem:1 T:44 Exits:WU> 
+
+str
+You attempt to strike at a lesser pit fiend with your pike.
+You stab a lesser pit fiend extremely hard.
+You receive 0 experience.
+A lesser pit fiend is dead! R.I.P.
+
+560H 142V 1X 79.17% 1740C [a lesser pit fiend:Dying] Mem:1 T:44 Exits:WU> 
+
+The death cry of a lesser pit fiend echoes from somewhere nearby...
+
+560H 142V 1X 79.17% 1740C Mem:1 T:44 Exits:WU> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+560H 142V 1X 79.17% 1740C Mem:1 T:40 Exits:WU> 
+
+l
+A Small Landing Beyond the Illusion
+     To the west shimmers the illusion which hides this place. It is
+transparent from this side, giving a clear view of the bedroom. A small
+staircase leads up to the uppermost room in the tower.
+The corpse of a lesser pit fiend is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+560H 142V 1X 79.17% 1740C Mem:1 T:39 Exits:WU> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+560H 142V 1X 79.17% 1740C Mem:1 T:36 Exits:WU> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 79.17% of your next rank.
+You are 19 years old.
+You have 560(632) hit and 142(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 1740(211075) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 35 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 36 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Paladine's glory shines in your mind through the power of your prayer.
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    reinforced shield (excellent)
+    sanctuary            [6 hrs]
+    holy arms            [1 hour]
+    aura of glory        [11 hrs]
+    bless                [6 hrs]
+    march
+    detect invisibility
+
+560H 142V 1X 79.17% 1740C Mem:1 T:31 Exits:WU> 
+
+c 'cu s' me
+You utter the words, 'cure serious'
+Some of your nastier scrapes disappear.
+
+617H 142V 1X 79.17% 1740C Mem:2 T:30 Exits:WU> 
+
+u
+Kor the bronze dragon flies in from below.
+The Illrigger's Study
+   Magical runes of protection are carved into the stone in this room.
+It is obviously a chamber meant for the study of magic.  Arcane instruments
+of the art line tables, and a shelf full of books on magic line the walls.
+Shadows fill the corners of the room, as if because of the vast amount
+of dark art that has been delved into and invoked in this place that
+a little of that essense of darkness has become a part of this room.
+A chest carved with gargoyles sits here.
+Kor the bronze dragon is standing here, awaiting a rider.
+You sense a life form.
+Itharr the Illrigger arrives in a puff of smoke.
+Itharr the Illrigger focuses harshly on you and utters some strange words.
+You feel ribs shatter as Itharr the Illrigger's force bolt slams into you.
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Perfect] Mem:2 T:26 Exits:D> 
+
+order kor ass
+
+Itharr the Illrigger misses you with his pierce.
+Itharr the Illrigger misses you with his pierce.
+You massacre Itharr the Illrigger with your stab.
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:V.Good] Mem:2 T:24 Exits:D> 
+
+Kor the bronze dragon hits Itharr the Illrigger hard.
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:V.Good] Mem:2 T:24 Exits:D> 
+
+reck
+Alas, you are not ready yet.
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:V.Good] Mem:2 T:22 Exits:D> 
+
+ral
+You yell and inspire your companions to fight harder!
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:V.Good] Mem:2 T:22 Exits:D> 
+
+
+Itharr the Illrigger bites you!
+
+596H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:V.Good] Mem:2 T:21 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger.
+You deflect a good chunk of Itharr the Illrigger's blow with your shield.
+Itharr the Illrigger pierces YOU very hard.
+Itharr the Illrigger misses you with his pierce.
+You stab Itharr the Illrigger extremely hard.
+
+582H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Good] Mem:2 T:20 Exits:D> 
+
+str
+You attempt to strike at Itharr the Illrigger with your pike.
+You massacre Itharr the Illrigger with your stab.
+
+582H 141V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Good] Mem:2 T:18 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger.
+You deflect part of Itharr the Illrigger's blow with your shield.
+Itharr the Illrigger pierces YOU very hard.
+Itharr the Illrigger misses you with his pierce.
+You massacre Itharr the Illrigger with your stab.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:16 Exits:D> 
+
+
+Itharr the Illrigger bites you!
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:15 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger.
+Itharr the Illrigger misses you with his pierce.
+You deflect a good chunk of Itharr the Illrigger's blow with your shield.
+You move aside quickly as Itharr the Illrigger attacks!
+You stab Itharr the Illrigger extremely hard.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:12 Exits:D> 
+
+c 'm h'
+You utter the words, 'mental haze'
+With a dumb look on his face, Itharr the Illrigger tries to concentrate.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:12 Exits:D> 
+
+
+Itharr the Illrigger is hit by Kor the bronze dragon's lightning breath.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:11 Exits:D> 
+
+str
+
+Itharr the Illrigger bites you!
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:9 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger hard.
+Itharr the Illrigger misses you with his pierce.
+Itharr the Illrigger misses you with his pierce.
+You stab Itharr the Illrigger very hard.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:8 Exits:D> 
+
+You attempt to strike at Itharr the Illrigger with your pike.
+You stab Itharr the Illrigger very hard.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Fair] Mem:2 T:8 Exits:D> 
+
+av l
+
+Kor the bronze dragon hits Itharr the Illrigger.
+Itharr the Illrigger misses you with his pierce.
+Itharr the Illrigger misses you with his pierce.
+You stab Itharr the Illrigger extremely hard.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Bad] Mem:2 T:4 Exits:D> 
+
+You focus your purity on Itharr the Illrigger's leg!
+You focus on Itharr the Illrigger's legs, but are thwarted.
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Bad] Mem:2 T:4 Exits:D> 
+
+
+Itharr the Illrigger bites you!
+
+566H 141V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Bad] Mem:2 T:3 Exits:D> 
+
+str
+str
+str
+
+Kor the bronze dragon hits Itharr the Illrigger.
+You deflect part of Itharr the Illrigger's blow with your shield.
+Itharr the Illrigger pierces YOU extremely hard.
+Itharr the Illrigger misses you with his pierce.
+You massacre Itharr the Illrigger with your stab.
+You are hungry.
+You are thirsty.
+
+581H 142V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Bad] Mem:5 T:60 Exits:D> 
+
+You attempt to strike at Itharr the Illrigger with your pike.
+You stab Itharr the Illrigger extremely hard.
+
+581H 142V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Bad] Mem:5 T:59 Exits:D> 
+
+
+Itharr the Illrigger bites you!
+
+581H 142V 1X 79.17% 1740C [Zargothrax:V.Good] [Itharr the Illrigger:Bad] Mem:5 T:57 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger hard.
+Itharr the Illrigger pierces YOU very hard.
+You massacre Itharr the Illrigger with your stab.
+
+564H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:V.Bad] Mem:5 T:56 Exits:D> 
+
+You attempt to strike at Itharr the Illrigger with your pike.
+You stab Itharr the Illrigger extremely hard.
+
+564H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:V.Bad] Mem:5 T:55 Exits:D> 
+
+av h
+
+Kor the bronze dragon hits Itharr the Illrigger.
+You deflect a good chunk of Itharr the Illrigger's blow with your shield.
+Itharr the Illrigger pierces YOU hard.
+You massacre Itharr the Illrigger with your stab.
+
+553H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:V.Bad] Mem:5 T:52 Exits:D> 
+
+Itharr the Illrigger bites you!
+You attempt to strike at Itharr the Illrigger with your pike.
+You massacre Itharr the Illrigger with your stab.
+
+553H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Awful] Mem:5 T:51 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger hard.
+You deflect a good chunk of Itharr the Illrigger's blow with your shield.
+You swing your shield in an arc and smack Itharr the Illrigger right in the head.
+Itharr the Illrigger pierces YOU hard.
+You massacre Itharr the Illrigger with your stab.
+
+540H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Awful] Mem:5 T:48 Exits:D> 
+
+You focus your purity on Itharr the Illrigger's head!
+You focus on Itharr the Illrigger's head, but are thwarted.
+
+540H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Awful] Mem:5 T:47 Exits:D> 
+
+str
+
+Itharr the Illrigger bites you!
+
+540H 142V 1X 79.17% 1740C [Zargothrax:Good] [Itharr the Illrigger:Awful] Mem:5 T:45 Exits:D> 
+
+
+Kor the bronze dragon hits Itharr the Illrigger hard.
+You deflect part of Itharr the Illrigger's blow with your shield.
+Itharr the Illrigger pierces YOU hard.
+Itharr the Illrigger misses you with his pierce.
+You massacre Itharr the Illrigger with your stab.
+Itharr the Illrigger is mortally wounded, and will die soon, if not aided.
+
+527H 142V 1X 79.17% 1740C [Itharr the Illrigger:Dying] Mem:5 T:44 Exits:D> 
+
+You attempt to strike at Itharr the Illrigger with your pike.
+You obliterate Itharr the Illrigger with your stab.
+You receive 0 experience.
+Itharr the Illrigger is dead! R.I.P.
+
+527H 142V 1X 79.26% 1740C [Itharr the Illrigger:Dying] Mem:5 T:42 Exits:D> 
+
+
+The death cry of Itharr the Illrigger echoes from somewhere nearby...
+
+527H 142V 1X 79.26% 1740C Mem:5 T:42 Exits:D> 
+
+take all corpse
+You get a gargoyle key from the corpse of Itharr the Illrigger.
+You get a short sword from the corpse of Itharr the Illrigger.
+You get a large pile of coins from the corpse of Itharr the Illrigger.
+There were 120 coins.
+
+527H 142V 1X 79.26% 1860C Mem:5 T:38 Exits:D> 
+
+unl chest
+You unlock a gargoyle chest.
+The key turns to dust as you remove it from a gargoyle chest.
+
+527H 142V 1X 79.26% 1860C Mem:5 T:35 Exits:D> 
+
+op chest
+Ok.
+
+527H 142V 1X 79.26% 1860C Mem:5 T:34 Exits:D> 
+
+tak all chest
+You get an ancient mithril ring from a gargoyle chest.
+
+527H 142V 1X 79.26% 1860C Mem:5 T:32 Exits:D> 
+
+l
+The Illrigger's Study
+   Magical runes of protection are carved into the stone in this room.
+It is obviously a chamber meant for the study of magic.  Arcane instruments
+of the art line tables, and a shelf full of books on magic line the walls.
+Shadows fill the corners of the room, as if because of the vast amount
+of dark art that has been delved into and invoked in this place that
+a little of that essense of darkness has become a part of this room.
+The corpse of Itharr the Illrigger is lying here.
+A chest carved with gargoyles sits here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 142V 1X 79.26% 1860C Mem:5 T:31 Exits:D> 
+
+d
+Kor the bronze dragon flies in from above.
+A Small Landing Beyond the Illusion
+     To the west shimmers the illusion which hides this place. It is
+transparent from this side, giving a clear view of the bedroom. A small
+staircase leads up to the uppermost room in the tower.
+The corpse of a lesser pit fiend is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 141V 1X 79.26% 1860C Mem:5 T:26 Exits:WU> 
+
+w
+Kor the bronze dragon flies in from the east.
+The Illrigger's Bedroom
+   A large canopy bed dominates the north wall.  Piled cushions and silk
+sheets of fine quality lie rumpled upon it.  Cabinets full of fine clothes
+line the south wall, and to the west a large window provides a view of
+the plains beyond the mountains.  To the east is merely a plain stone wall.
+The corpse of the rakshasa is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 140V 1X 79.26% 1860C Mem:5 T:25 Exits:S> 
+
+s
+Kor the bronze dragon flies in from the north.
+A Small Anteroom
+   There are no furnishings at all here.  This small room was built
+to house the guards of who or whatever was behind the door to the north.
+The stairway leads down into darkness.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 139V 1X 79.26% 1860C Mem:5 T:24 Exits:ND> 
+
+d
+Kor the bronze dragon flies in from above.
+The Tower Staircase
+   Ancient steps worn with use lead up into the tower.  Every twenty
+paces is a small slit for archers to use.  The stairway circles up
+and down.
+The corpse of a horned devil is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 138V 1X 79.26% 1860C Mem:5 T:23 Exits:UD> 
+
+d
+Kor the bronze dragon flies in from above.
+The Tower Staircase
+   Ancient steps worn with use lead up into the tower.  Every twenty
+paces is a small slit for archers to use.  The stairway circles up
+and down.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 137V 1X 79.26% 1860C Mem:5 T:23 Exits:UD> 
+
+d
+Kor the bronze dragon flies in from above.
+Behind the Throne
+   A small chamber with a few furnishings is all that appears to be
+behind the throne at first glance.  A small table with a lush
+chair and an old clock by the wall is all that is here.  The
+placement of this room would indicate that the main tower of the
+keep would be directly overhead.
+The corpse of a blue-hued horax is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+527H 136V 1X 79.26% 1860C Mem:5 T:22 Exits:WU> 
+
+w
+Kor the bronze dragon flies in from the east.
+The Raised Dais
+   Upon the dais is a jeweled throne.  It faces out towards the hall.
+Behind the throne is a smooth stone wall, on which two magical lights
+have been affixed.  The hall extends to the west.
+The corpse of a black clad warrior is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A fire giant patrols the area, looking for intruders. (black aura)
+A fire giant gives you a solid punch in the face.
+
+517H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Perfect] Mem:5 T:21 Exits:EW> 
+
+
+You deflect part of a fire giant's blow with your shield.
+A fire giant hits YOU hard.
+You stab a fire giant very hard.
+
+507H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:V.Good] Mem:5 T:20 Exits:EW> 
+
+order kor ass
+Kor the bronze dragon hits a fire giant hard.
+
+507H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:5 T:20 Exits:EW> 
+
+
+You are sent sprawling as a fire giant crashes into you.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:5 T:19 Exits:EW> 
+
+st
+
+The rally cry fades.
+Kor the bronze dragon hits a fire giant.
+A fire giant misses you with his hit.
+A fire giant misses you with his hit.
+A fire giant dodges your attack!
+You trip and attack Kor the bronze dragon!
+You stab Kor the bronze dragon.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:5 T:16 Exits:EW> 
+
+c 's e'
+dri elixir
+dri elixir
+
+You stab a fire giant extremely hard.
+Kor the bronze dragon barely hits a fire giant.
+A fire giant misses you with his hit.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:5 T:12 Exits:EW> 
+
+You stand up.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:5 T:11 Exits:EW> 
+
+You utter the words, 'summon elixir'
+Your god grants you elixir for your loyal service.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Good] Mem:6 T:11 Exits:EW> 
+
+av l
+str
+
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a fire giant hard.
+A fire giant misses you with his hit.
+A fire giant misses you with his hit.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Fair] Mem:6 T:8 Exits:EW> 
+
+
+A fire giant tries to punch you, but you deftly avoid his blow.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Fair] Mem:6 T:7 Exits:EW> 
+
+The elixir warms your body as it flows through your veins.
+You do not feel thirsty.
+You are full.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:7 Exits:EW> 
+
+Your stomach can't contain anymore!
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:7 Exits:EW> 
+
+You focus your purity on a fire giant's leg!
+You focus on a fire giant's legs, but are thwarted.
+
+475H 135V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:6 Exits:EW> 
+
+str
+str
+
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a fire giant hard.
+You deflect part of a fire giant's blow with your shield.
+A fire giant hits YOU hard.
+A fire giant misses you with his hit.
+
+464H 135V 1X 79.26% 1860C [Zargothrax:Fair] [a fire giant:Bad] Mem:2 T:4 Exits:EW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant extremely hard.
+
+464H 135V 1X 79.26% 1860C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:2 Exits:EW> 
+
+
+A fire giant strikes your weapon, but you maintain your grip on it.
+
+464H 135V 1X 79.26% 1860C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:1 Exits:EW> 
+
+
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a fire giant.
+A fire giant misses you with his hit.
+You feel less powerful.
+The corpse of a black clad warrior decays into dust and blows away.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:V.Bad] Mem:2 T:60 Exits:EW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant extremely hard.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:V.Bad] Mem:2 T:58 Exits:EW> 
+
+str
+
+You stab a fire giant very hard.
+Kor the bronze dragon hits a fire giant hard.
+A fire giant misses you with his hit.
+A fire giant misses you with his hit.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Awful] Mem:2 T:56 Exits:EW> 
+
+str
+
+You dodge out of the way of a fire giant's mistargeted kick.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Awful] Mem:2 T:55 Exits:EW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant extremely hard.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Awful] Mem:2 T:54 Exits:EW> 
+
+
+A fire giant is hit by Kor the bronze dragon's lightning breath.
+
+497H 142V 1X 79.26% 1860C [Zargothrax:Good] [a fire giant:Awful] Mem:2 T:53 Exits:EW> 
+
+
+You massacre a fire giant with your stab.
+You receive 0 experience.
+A fire giant is dead! R.I.P.
+The death cry of a fire giant echoes from somewhere nearby...
+
+497H 142V 1X 79.26% 1860C Mem:2 T:52 Exits:EW> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+497H 142V 1X 79.26% 1860C Mem:2 T:49 Exits:EW> 
+
+You couldn't find what you were looking for.
+
+497H 142V 1X 79.26% 1860C Mem:2 T:49 Exits:EW> 
+
+You get a small pile of coins from the corpse of a fire giant.
+There were 6 coins.
+
+497H 142V 1X 79.26% 1866C Mem:2 T:49 Exits:EW> 
+w
+
+Kor the bronze dragon flies in from the east.
+The Great Hall
+   A large hall extends in all direction.  The high vaulted ceiling is
+far above, hidden in shadows.  It appears that this large hall is used
+both as a mess hall and as quarters for whatever lives here.  Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  To the east there is a dais with a throne on it.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+497H 141V 1X 79.26% 1866C Mem:2 T:49 Exits:NESW> 
+
+s
+Kor the bronze dragon flies in from the north.
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A black clad servant goes about his duties. (black aura)
+A fire giant patrols the area, looking for intruders. (black aura)
+A black clad servant pierces Kor the bronze dragon very hard.
+A fire giant tries to punch you, but you deftly avoid his blow.
+
+497H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Perfect] Mem:2 T:47 Exits:NSW> 
+
+order kor ass
+
+497H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Perfect] Mem:2 T:45 Exits:NSW> 
+
+
+A fire giant misses you with his hit.
+A fire giant misses you with his hit.
+You stab a fire giant very hard.
+A black clad servant pierces Kor the bronze dragon.
+Kor the bronze dragon barely hits a black clad servant.
+
+497H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:V.Good] Mem:2 T:44 Exits:NSW> 
+
+
+A black clad servant tries to throat punch Kor the bronze dragon, but misses horribly.
+A black clad servant misses you with his pierce.
+
+497H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:V.Good] Mem:2 T:41 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+A fire giant misses you with his hit.
+You deflect part of a fire giant's blow with your shield.
+A fire giant barely hits YOU.
+You stab a fire giant extremely hard.
+Kor the bronze dragon barely hits a black clad servant.
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Good] Mem:2 T:40 Exits:NSW> 
+
+reck
+Alas, you are not ready yet.
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Good] Mem:2 T:39 Exits:NSW> 
+
+ral
+You yell and inspire your companions to fight harder!
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Good] Mem:2 T:39 Exits:NSW> 
+
+av l
+str
+str
+
+A black clad servant misses you with his pierce.
+A fire giant misses you with his hit.
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a black clad servant hard.
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:36 Exits:NSW> 
+
+
+A fire giant tries to disarm your weapon, but you deftly avoid him.
+A black clad servant attempts to unbalance you, but you quickly avoid him.
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:35 Exits:NSW> 
+
+You focus your purity on a fire giant's leg!
+You focus on a fire giant's legs, but are thwarted.
+
+493H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:35 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+A fire giant hits YOU hard.
+A fire giant misses you with his hit.
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a black clad servant hard.
+
+483H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:32 Exits:NSW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant extremely hard.
+
+483H 140V 1X 79.26% 1866C [Zargothrax:Good] [a fire giant:Fair] Mem:2 T:30 Exits:NSW> 
+
+str
+
+A fire giant gives you a solid punch in the face.
+A black clad servant attempts to unbalance you, but you quickly avoid him.
+
+468H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:Fair] Mem:2 T:29 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+A fire giant misses you with his hit.
+You stab a fire giant extremely hard.
+You fumble and fail to even swing at your target.
+Kor the bronze dragon hits a black clad servant.
+
+468H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:Bad] Mem:2 T:28 Exits:NSW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant very hard.
+
+468H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:26 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+You deflect a good chunk of a fire giant's blow with your shield.
+A fire giant barely hits YOU.
+You stab a fire giant extremely hard.
+Kor the bronze dragon hits a black clad servant.
+
+464H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:24 Exits:NSW> 
+
+str
+
+You dodge out of the way of a fire giant's mistargeted kick.
+A black clad servant tries to throat punch you, but misses horribly.
+
+464H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:23 Exits:NSW> 
+
+You attempt to strike at a fire giant with your pike.
+You find an opening in a fire giant's armor and drive your pike there.
+You stab a fire giant very hard.
+
+464H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:V.Bad] Mem:2 T:22 Exits:NSW> 
+
+str
+
+A black clad servant misses you with his pierce.
+A fire giant misses you with his hit.
+You massacre a fire giant with your stab.
+Kor the bronze dragon hits a black clad servant.
+
+464H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:Awful] Mem:2 T:20 Exits:NSW> 
+
+You attempt to strike at a fire giant with your pike.
+You stab a fire giant extremely hard.
+
+464H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:Awful] Mem:2 T:18 Exits:NSW> 
+
+
+A fire giant kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+A black clad servant attempts to unbalance you, but you quickly avoid him.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a fire giant:Awful] Mem:2 T:17 Exits:NSW> 
+
+
+A black clad servant misses you with his pierce.
+A fire giant misses you with his hit.
+A fire giant misses you with his hit.
+You stab a fire giant extremely hard.
+You receive 0 experience.
+A fire giant is dead! R.I.P.
+You fumble and fail to even swing at your target.
+Kor the bronze dragon hits a black clad servant hard.
+The death cry of a fire giant echoes from somewhere nearby...
+You direct your attention to a black clad servant.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Fair] Mem:2 T:16 Exits:NSW> 
+
+sc
+order kor ass
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant hard.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Fair] Mem:2 T:13 Exits:NSW> 
+
+
+You stab a black clad servant extremely hard.
+A black clad servant misses you with his pierce.
+Kor the bronze dragon hits a black clad servant hard.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Bad] Mem:2 T:12 Exits:NSW> 
+
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 79.26% of your next rank.
+You are 19 years old.
+You have 456(632) hit and 140(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 1866(211075) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 38 minute(s).
+You have been playing for 4 day(s), 22 hour(s) and 39 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Paladine's glory shines in your mind through the power of your prayer.
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are fighting a black clad servant.
+You are affected by the following:
+    reinforced shield (average)
+    sanctuary            [4 hrs]
+    aura of glory        [9 hrs]
+    bless                [4 hrs]
+    march
+    detect invisibility
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Bad] Mem:2 T:9 Exits:NSW> 
+
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Bad] Mem:2 T:9 Exits:NSW> 
+
+
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+Kor the bronze dragon hits a black clad servant.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:V.Bad] Mem:2 T:8 Exits:NSW> 
+
+c 'h a' me
+You utter the words, 'holy arms'
+A surge of power fills your body.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:V.Bad] Mem:3 T:6 Exits:NSW> 
+
+A black clad servant is hit by Kor the bronze dragon's lightning breath.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:V.Bad] Mem:3 T:5 Exits:NSW> 
+
+str
+
+You massacre a black clad servant with your stab.
+A black clad servant misses you with his pierce.
+Kor the bronze dragon barely hits a black clad servant.
+
+456H 140V 1X 79.26% 1866C [Zargothrax:Fair] [a black clad servant:Awful] Mem:3 T:4 Exits:NSW> 
+
+You attempt to strike at a black clad servant with your pike.
+You stab a black clad servant extremely hard.
+A black clad servant is incapacitated and will slowly die, if not aided.
+
+456H 140V 1X 79.26% 1866C [a black clad servant:Dying] Mem:3 T:1 Exits:NSW> 
+
+
+You obliterate a black clad servant with your stab.
+You receive 0 experience.
+A black clad servant is dead! R.I.P.
+The death cry of a black clad servant echoes from somewhere nearby...
+Once again the time has come for righteous anger.
+
+489H 142V 1X 79.26% 1866C Mem:2 T:60 Exits:NSW> 
+
+l
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+The corpse of a black clad servant is lying here.
+The corpse of a fire giant is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+489H 142V 1X 79.26% 1866C Mem:2 T:57 Exits:NSW> 
+
+s
+Kor the bronze dragon flies in from the north.
+Top of the Dungeon Stairs
+   A small door leads north into the great hall.  Some stairs lead
+down into the darkness of the dungeon.  Incessant low moans and a few
+screams issue from below.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+489H 141V 1X 79.26% 1866C Mem:2 T:55 Exits:ND> 
+
+bash
+Huh?!
+
+489H 141V 1X 79.26% 1866C Mem:2 T:53 Exits:ND> 
+
+n
+Kor the bronze dragon flies in from the south.
+The Great Hall
+   A large hall extends to the west and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  There is a small door in the south wall.
+The corpse of a black clad servant is lying here.
+The corpse of a fire giant is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+489H 140V 1X 79.26% 1866C Mem:2 T:52 Exits:NSW> 
+
+w
+Kor the bronze dragon flies in from the east.
+The Great Hall
+   A large hall extends to the east and north.  The high vaulted ceiling
+is far above, hidden in shadows.  It appears that this large hall is
+used both as a mess hall and as quarters for whatever lives here. Fallen
+food is scattered amoung the old reeds that cover the floor.  Bones
+are scattered here and here, with a few half eaten carcasses near the
+center of the hall.  A small door is set into the southern wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+489H 139V 1X 79.26% 1866C Mem:2 T:52 Exits:NES> 
+
+s
+Kor the bronze dragon flies in from the north.
+The Lavatory
+   This is a small lavatory used by the humanoid inhabitants of the keep.
+A small bench with a hole in it is about all that is in here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+489H 138V 1X 79.26% 1866C Mem:2 T:51 Exits:N> 
+
+enter hole
+You enter the hole, and find a ladder leading down.  The stench is
+horrible.
+A Smelly Chamber
+   A small stream enters from a hole in the rock to the east and flows
+west into a large cavern.  This room looks as if it were carved from
+the rock long ago.  The chamber extends up about thirty feet to where
+it ends at a small hole, barely big enough for a person to fit through.
+Smelly slime is splattered all over the rock on the floor of the cavern,
+apparently having come from the hole in the ceiling.  The hole is placed
+in such a way as most of the slime lands in the stream, and that which
+doesn't slowly slides into the stream, as the floor is beveled towards
+the stream.  An ancient ladder runs up one of the walls to the ceiling,
+and it looks sturdy enough that one could still climb it safely.
+
+489H 138V 1X 79.26% 1866C Mem:2 T:49 Exits:W> 
+
+w
+A Large Cavern
+   The natural cavern is quite large.  It looks as if this cavern was
+created by the passage of water long ago.  Indeed, there is still a small
+stream which enters the cavern from the east and exits to the west
+through a small hole.  It looks as if a small path runs along the stream
+to the east.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+A black slime slowly glides along.
+
+489H 137V 1X 79.26% 1866C Mem:2 T:48 Exits:ES> 
+
+s
+A Hidden Tunnel
+   A hidden tunnel leads to the north into a large cavern and up south
+into the dragon's lair.  The tunnel looks as if it were carved long ago
+from the rock by skilled stonemasons.
+A pile of steel coins.
+
+489H 136V 1X 79.26% 1866C Mem:2 T:47 Exits:NS> 
+
+s
+A Dark Beast's Lair
+    This natural cavern has been enlarged by the beast that has made it
+home. Large scratches in the wall show where the beast has repeatedly
+sharpened its tools, without regard for the natural splendor of the rock
+formations that once adorned this cavern. A large tunnel leading up appears
+to be the only exit.
+An ancient silver chest rests at the back of the cavern.
+
+489H 135V 1X 79.26% 1866C Mem:2 T:46 Exits:NU> 
+
+u
+A Dark Tunnel
+   A surprisingly large tunnel leads down from here, deeper into the heart
+of the mountain.  To the south it enters a darkened cave.  Water glistens
+off the wall, slowly trickling down and creating interesting rock formations
+over the centuries.
+
+489H 134V 1X 79.26% 1866C Mem:2 T:45 Exits:SD> 
+
+s
+A Dark Cave
+   This part of the cave must lie far under the mountain.  Large claw marks
+can be found on the natural limestone formations, and whatever made them
+was fairly large.  Water drips somewhere in the distance, echoing with an
+eerie resonance.
+
+489H 133V 1X 79.26% 1866C Mem:2 T:44 Exits:NESW> 
+
+w
+Mouth of the Cave
+   The cave is dark and drafty.  It is surprisingly large and free of
+obstructions.  It looked as if once there were natural stone formations
+within the cave, but something has knocked them down.  Whatever did it had
+to have been quite large.  The cave continues to the east, heading deeper
+into the mountains.
+
+489H 132V 1X 79.26% 1866C Mem:2 T:44 Exits:EW> 
+
+s
+Alas, you cannot go that way...
+
+489H 132V 1X 79.26% 1866C Mem:2 T:43 Exits:EW> 
+
+w
+Entering the Mountains
+   The mountains rise up, towering overhead until they seem to reach the
+sky.  A quick look reveals that it would be suicidal to attempt to climb
+them here.  The path leads into a dark cave entrance to the east.
+
+489H 131V 1X 79.26% 1866C Mem:2 T:43 Exits:EW> 
+
+w
+Path Through the Plains
+   A small footpath of bare dirt, worn more by the passage of animals than
+humans, leads through the grass plains.  The path leads south, where it
+eventually joins the Emperor's Highway, and to the east, where it heads into
+the mountains.
+
+489H 130V 1X 79.26% 1866C Mem:2 T:41 Exits:ES> 
+
+s
+Path Through the Plains
+   A small footpath of bare dirt, worn more by the passage of animals than
+humans, leads through the grass plains.  To the south it joins the Emperor's
+Highway, and to the north it leads further into the plains.
+
+489H 129V 1X 79.26% 1866C Mem:2 T:41 Exits:NS> 
+
+s
+Emperor's Highway
+   All around, all that can be seen is the waving heads of various grasses,
+except for the stone Highway, which leads east and west.  The mountains
+to the east are getting quite close.  A small trail takes off to the
+north.
+A wooden signpost has been hammered into the ground here.
+
+489H 128V 1X 79.26% 1866C Mem:2 T:40 Exits:NEW> 
+
+w
+w
+Emperor's Highway
+   All around there is only grass, except for the tiny ribbon of stone,
+running east and west, that is the Highway.  To the east mountains loom
+above the grass plains.  A small trail takes off to the south.
+
+489H 127V 1X 79.26% 1866C Mem:2 T:39 Exits:NESW> 
+
+Emperor's Highway
+   All around there is only grass, except for the tiny ribbon of stone,
+running east and west, that is the Highway.  To the east mountains loom
+above the grass plains.  A gentle breeze blows from the north, setting the
+grass moving in a gentle swaying pattern.
+
+489H 126V 1X 79.26% 1866C Mem:2 T:39 Exits:NEW> 
+w
+
+Emperor's Highway
+   All around there is only grass, except for the tiny ribbon of stone,
+running east and west, that is the Highway.  To the east mountains loom
+above the grass plains.  In the distance, a thrush squacks at some rodent
+which has invaded her nest.
+
+489H 125V 1X 79.26% 1866C Mem:2 T:38 Exits:NEW> 
+
+w
+Emperor's Highway
+   All around there is only grass, except for the tiny ribbon of stone,
+running east and west, that is the Highway.  To the east mountains loom
+above the grass plains.  The grass sways slowly in the cool breeze blowing
+from the east.
+
+489H 124V 1X 79.26% 1866C Mem:2 T:38 Exits:NEW> 
+
+w
+Emperor's Highway
+   Far to the west the stone walls of Gulfport can be seen.  The highway
+continues towards Gulfport and to the east, where it is drowned in plains
+of waving grass.  To the east, mountains can barely be seen rising above
+the grass plains.
+
+489H 123V 1X 79.26% 1866C Mem:2 T:37 Exits:EW> 
+
+w
+Emperor's Highway
+   To the west the great stone walls of Gulfport provide a staunch defensive
+barrier for the city nestled within.  Further, beyond the walls, the
+glittering waters of the ocean can be seen.  To the east, the Highway
+continues into a vast plain, beyond which mountains can barely be seen.
+
+489H 122V 1X 79.26% 1866C Mem:2 T:36 Exits:ES(W)> 
+
+w
+The gate seems to be closed.
+
+489H 122V 1X 79.26% 1866C Mem:2 T:36 Exits:ES(W)> 
+
+op gate
+Ok.
+
+489H 122V 1X 79.26% 1866C Mem:2 T:34 Exits:ESW> 
+
+w
+Emperor's Way
+   The street is nicely paved, kept in perfect condition by the city's
+maintenence crews.  Passersby seem to be perfectly content, and enjoy
+walking through the city, which is quite clean and well kept up as a
+whole.  People look healthy, and there is a general sense of prosperity
+wherever one looks.  To the east, the gates of Gulfport lead out to
+the Emperor's Highway.
+An elite cityguard walks along, keeping the peace.
+
+489H 121V 1X 79.26% 1866C Mem:2 T:34 Exits:NESW> 
+
+w
+Emperor's Way
+   The street is nicely paved, kept in perfect condition by the city's
+maintenence crews.  Passersby seem to be perfectly content, and enjoy
+walking through the city, which is quite clean and well kept up as a
+whole.  People look healthy, and there is a general sense of prosperity
+wherever one looks.  Guards are greeted by name, and appear to be on
+good terms with the populace.
+
+489H 120V 1X 79.26% 1866C Mem:2 T:33 Exits:EW> 
+
+w
+Emperor's Way
+   The street is nicely paved, kept in perfect condition by the city's
+maintenence crews.  Passersby seem to be perfectly content, and enjoy
+walking through the city, which is quite clean and well kept up as a
+whole.  People look healthy, and there is a general sense of prosperity
+wherever one looks.  A short alley leads to the south.
+
+489H 119V 1X 79.26% 1866C Mem:2 T:33 Exits:ESW> 
+
+w
+w
+Emperor's Way
+   The street is nicely paved, kept in perfect condition by the city's
+maintenence crews.  Passersby seem to be perfectly content, and enjoy
+walking through the city, which is quite clean and well kept up as a
+whole.  People look healthy, and there is a general sense of prosperity
+wherever one looks.  Occasionally a kender will walk by, and the people
+will steer clear, clutching their valuables, but there appears to be
+few undesirables in the crowd.
+
+489H 118V 1X 79.26% 1866C Mem:2 T:32 Exits:EW> 
+
+Emperor's Way
+   The street is nicely paved, kept in perfect condition by the city's
+maintenence crews.  Passersby seem to be perfectly content, and enjoy
+walking through the city, which is quite clean and well kept up as a
+whole.  People look healthy, and there is a general sense of prosperity
+wherever one looks.  To the south is a large keep, its stone walls
+and towers stretching high above any other structure in the city,
+it looks quite imposing.
+An elite cityguard walks along, keeping the peace.
+
+489H 117V 1X 79.26% 1866C Mem:2 T:32 Exits:ESW> 
+
+s
+At the Gates of the Keep
+   The walled keep towers above everything, its gates enormous constructs
+of wood.  Tall towers are manned with staunch supporters of the Emperor,
+and his pennant flies on the highest.  Although somewhat elegant, the keep
+was quite obviously made primarily for defense, and it looks as if it
+would be nigh impossible to breech in the event of a siege.
+
+489H 116V 1X 79.26% 1866C Mem:2 T:30 Exits:N(S)> 
+
+op gates
+Ok.
+
+489H 116V 1X 79.26% 1866C Mem:2 T:28 Exits:NS> 
+
+s
+Inside the Keep
+   From the inside, you can see just how well suited the keep is to defense.
+High walls loom overhead, kept stocked with everthing from rocks to
+boiling oil.  Even though the realm has been at peace for many years,
+the Emperor has commanded that everything be kept in readiness.  A deep
+well is sunk here into the flagstones, reaching down deep into the earth
+to provide the keep with its own source of water.  Citizens and adventurers
+are of course welcome to a refreshing drink of its cool liquid.  A path
+around the inside of the walls extends to the east and west, and one
+can also go south, through wide doors into the keep itself.
+A deep well is sunk into the flagstones.
+An elite keep guard patrols the premises, on the lookout.
+
+489H 115V 1X 79.26% 1866C Mem:2 T:27 Exits:NESW> 
+
+s
+Within the Keep
+   This is the front entryway of the keep.  Archaic armor and weapons line
+the wall, emblazoned with crests and coats of arms of the noble families
+of the realm.  Many have not been worn for many a year by any man, but
+tradition maintains their importance.  To the south one can go further
+into the keep, and to the north one can go through wide double doors
+into a courtyard of sorts.
+
+489H 114V 1X 79.26% 1866C Mem:2 T:26 Exits:NS> 
+
+s
+An Intersection in the Keep
+   A high, vaulted ceiling far overhead gives the impression of space, of
+a grandeur fitting for the residence of a ruler.  This is a central
+intersection within the keep.  Great statues and rich tapestries line the
+walls, and the intricate carving on the ceiling is gilted in gold.  A lush
+carpet lines the floor, keeping out the chill.
+
+489H 113V 1X 79.26% 1866C Mem:2 T:26 Exits:NESW> 
+
+e
+An Antechamber
+   This is the antechamber to the throne room itself.  Comfortable benches
+padded with soft feathers are provided for those who have come to bring
+their cases to the Emperor.  A high ceiling, gilded with gold and silver,
+highly carved walls and a floor of the finest marble show the wealth of
+the ruler, as well as serve to awe those who have come to see him.
+
+489H 112V 1X 79.26% 1866C Mem:2 T:25 Exits:EW> 
+
+e
+The Throne Room
+   This is the throne room of the Emperor himself.  A large, high backed
+and many jeweled throne dominates the room.  Opulence is everywhere, yet
+it is subdued and tasteful.  On the walls are hung ceremonial armor and
+arms as well as the personal trophies of the Emperor.  In keeping with
+his martial upbringing and personality, the trophies are many, and come
+from many of the most dreaded beasts to be found on Krynn.
+A royal jeweled chest rests beside the throne.
+An elite keep guard patrols the premises, on the lookout.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elderly wizard stands here advising the Emperor.
+The Emperor Mercadior stands here looking quite imposing.
+
+489H 111V 1X 79.26% 1866C Mem:2 T:25 Exits:W> 
+
+dro ring
+You drop the ring at the feet of the Emperor Mercadior, who looks
+at it and picks it up reverently.  He explains that the first
+Emperor of Ergoth gave this ring to his wife when he asked her
+to marry him, many years past.  It was lost during the Cataclysm.
+He sends a page to the keep vault in search of a suitable reward,
+which he sets at your feet.
+
+489H 111V 1X 79.26% 1866C Mem:2 T:23 Exits:W> 
+
+l
+The Throne Room
+   This is the throne room of the Emperor himself.  A large, high backed
+and many jeweled throne dominates the room.  Opulence is everywhere, yet
+it is subdued and tasteful.  On the walls are hung ceremonial armor and
+arms as well as the personal trophies of the Emperor.  In keeping with
+his martial upbringing and personality, the trophies are many, and come
+from many of the most dreaded beasts to be found on Krynn.
+A large pile of coins lies here.
+A royal jeweled chest rests beside the throne.
+An elite keep guard patrols the premises, on the lookout.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elite bodyguard stands here, protecting his liege.
+An elderly wizard stands here advising the Emperor.
+The Emperor Mercadior stands here looking quite imposing.
+
+489H 111V 1X 79.26% 1866C Mem:2 T:22 Exits:W> 
+
+tak coins
+You get a large pile of coins.
+There were 130 coins.
+
+489H 111V 1X 79.26% 1996C Mem:2 T:20 Exits:W> 
+
+i
+You are carrying:
+a silver elixir
+a short sword
+a golden book of prayer
+an emerald vial
+a sprinkle of saffron
+a bit of phosphorus
+a flower of Queen Christine's lace
+a glaive-guisarme
+a silver flaying knife
+a glaive-guisarme [2]
+an ancient silver key
+a putrid potion [7]
+a glowing scroll of recall..it glows dimly
+a misty potion..it glows dimly
+a bag of shadows
+
+489H 111V 1X 79.26% 1996C Mem:2 T:20 Exits:W> 
+
+w
+An Antechamber
+   This is the antechamber to the throne room itself.  Comfortable benches
+padded with soft feathers are provided for those who have come to bring
+their cases to the Emperor.  A high ceiling, gilded with gold and silver,
+highly carved walls and a floor of the finest marble show the wealth of
+the ruler, as well as serve to awe those who have come to see him.
+
+489H 110V 1X 79.26% 1996C Mem:2 T:8 Exits:EW> 
+
+w
+An Intersection in the Keep
+   A high, vaulted ceiling far overhead gives the impression of space, of
+a grandeur fitting for the residence of a ruler.  This is a central
+intersection within the keep.  Great statues and rich tapestries line the
+walls, and the intricate carving on the ceiling is gilted in gold.  A lush
+carpet lines the floor, keeping out the chill.
+
+489H 109V 1X 79.26% 1996C Mem:2 T:8 Exits:NESW> 
+
+lay me
+You lay your hands on him and feel your hands tingle with energy.
+A few of your bruises disappear.
+
+632H 109V 1X 79.26% 1996C Mem:2 T:5 Exits:NESW> 
+
+n
+Within the Keep
+   This is the front entryway of the keep.  Archaic armor and weapons line
+the wall, emblazoned with crests and coats of arms of the noble families
+of the realm.  Many have not been worn for many a year by any man, but
+tradition maintains their importance.  To the south one can go further
+into the keep, and to the north one can go through wide double doors
+into a courtyard of sorts.
+
+632H 108V 1X 79.26% 1996C Mem:2 T:4 Exits:NS> 
+

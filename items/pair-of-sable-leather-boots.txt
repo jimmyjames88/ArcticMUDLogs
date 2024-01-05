@@ -1,0 +1,23 @@
+Logging started: 04.01.2024 23:06
+brow sable.boots
+You browse through the merchandise and notice:
+The boots appears oiled and in perfect condition. (98%)
+You feel informed:
+ Object 'boots sable leather pair'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: fine_leather
+ Weight   : 8            Value   : 300
+
+ Affects  : ARMOR         by -4
+ Affects  : DEX           by 1
+ Affects  : MOVE          by 12
+ Apply    : 4
+A pair of sable leather boots is wearable: feet.
+
+614H 142V 1X 71.30% 215C T:55 Exits:NESW> 
+
+
+A knight of the sword arrives from the west.
+
+614H 142V 1X 71.30% 215C T:55 Exits:NESW> 
+

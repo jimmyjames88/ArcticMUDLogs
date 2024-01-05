@@ -1,0 +1,17 @@
+Logging started: 05.01.2024 13:19
+brow blue.brassiere
+You browse through the merchandise and notice:
+The brassiere's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'brassiere steel blue'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 300
+
+ Affects  : STR           by 1
+ Affects  : ARMOR         by -8
+ Apply    : 8
+A blue steel brassiere is wearable: body.
+
+614H 136V 1X 79.26% 1949C T:22 Exits:NESW> 
+

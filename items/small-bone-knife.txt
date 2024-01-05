@@ -1,0 +1,53 @@
+Logging started: 05.01.2024 12:00
+rec lore small.bone.sknife
+You grab a scroll of legend lore.
+You couldn't find what you were looking for.
+
+632H 142V 1X 77.99% 373C T:23 Exits:NESW> 
+
+i
+You are carrying:
+a glowing scroll of recall..it glows dimly
+a misty potion..it glows dimly
+a dragonscale helm
+a curved iron sword
+a thorny green staff
+a shard of bone
+a small bone knife
+a bag of shadows
+
+632H 142V 1X 77.99% 373C T:22 Exits:NESW> 
+
+
+A Kalaman cityguard arrives from the west.
+
+632H 142V 1X 77.99% 373C T:21 Exits:NESW> 
+
+rec lore small.bone.knife
+You couldn't find what you were looking for.
+
+632H 142V 1X 77.99% 373C T:17 Exits:NESW> 
+
+
+A knight of the crown leaves north.
+
+632H 142V 1X 77.99% 373C T:16 Exits:NESW> 
+
+
+A Kalaman cityguard leaves east.
+
+632H 142V 1X 77.99% 373C T:9 Exits:NESW> 
+
+rec lore bone.knife
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'knife pruning bone'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 10
+
+ Class    : knife
+ Damage   : 2D4
+
+632H 142V 1X 77.99% 373C T:8 Exits:NESW> 
+

@@ -1,0 +1,20 @@
+Logging started: 04.01.2024 23:06
+brow sapphire.foil
+You browse through the merchandise and notice:
+The foil's metallic surface shines brilliantly. (99%)
+A sapphire hilted foil is of excellent quality.
+You feel informed:
+ Object 'foil sapphire hilted silvery seeker'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 10           Value   : 400
+
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : rapier
+ Damage   : 2D7
+A sapphire hilted foil requires knowledge of the skill 'long blades'.
+
+614H 142V 1X 71.30% 215C T:12 Exits:NESW> 
+

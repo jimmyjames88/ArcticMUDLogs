@@ -1,0 +1,28 @@
+Logging started: 05.01.2024 13:25
+
+A Kalaman cityguard arrives from the east.
+
+614H 142V 1X 79.26% 1949C T:2 Exits:NESW> 
+
+brow silver.mace
+The rain has stopped.
+You browse through the merchandise and notice:
+The hard wooden surface of the mace is in perfect condition. (100%)
+A silver mace with a rosewood handle is of good quality.
+You feel informed:
+ Object 'mace wooden rosewood handle silver'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: vallenwood
+ Weight   : 12           Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Effects  : DETECT_EVIL
+ Item is  : MAGIC ANTI_EVIL
+ Restricts: NOMAGE NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : mace
+ Damage   : 3D4
+A silver mace with a rosewood handle requires knowledge of the skill 'bludgeons'.
+
+614H 142V 1X 79.26% 1949C T:60 Exits:NESW> 
+
