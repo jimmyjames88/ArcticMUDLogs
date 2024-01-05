@@ -1,0 +1,20 @@
+Logging started: 04.01.2024 20:00
+brow adamantite.bardiche
+You browse through the merchandise and notice:
+The bardiche's metallic surface is shiny and new. (99%)
+A black adamantite bardiche is of good quality.
+You feel informed:
+ Object 'bardiche black adamantite'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 21           Value   : 100
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC BLESS
+ Class    : pole_axe
+ Damage   : 3D6
+A black adamantite bardiche requires knowledge of the skill 'axes'.
+
+614H 139V 1X 64.53% 438C Mem:1 T:16 Exits:NESW> 
+

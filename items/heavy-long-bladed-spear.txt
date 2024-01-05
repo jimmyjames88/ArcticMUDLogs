@@ -1,0 +1,19 @@
+Logging started: 04.01.2024 20:04
+brow heavy.spear
+You browse through the merchandise and notice:
+The surface of the spear gleams brightly. (100%)
+A heavy long-bladed spear is of very good quality.
+You feel informed:
+ Object 'spear heavy long bladed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 16           Value   : 340
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : spear
+ Damage   : 3D5
+A heavy long-bladed spear requires knowledge of the skill 'piercers'.
+
+614H 142V 1X 64.53% 438C T:37 Exits:NESW> 
+

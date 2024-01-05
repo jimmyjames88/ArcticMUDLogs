@@ -1,0 +1,17 @@
+Logging started: 04.01.2024 20:07
+browse diamond.pendant
+You browse through the merchandise and notice:
+The pendant is breathtaking as light refracts through it. (100%)
+You feel informed:
+ Object 'pendant diamond spherical'
+ Item Type: WORN        
+ Mat Class: crystal      Material: diamond
+ Weight   : 2            Value   : 800
+
+ Affects  : SAVING_SPELL  by -1
+ Affects  : SAVING_PARA   by -1
+ Item is  : MAGIC
+A spherical diamond pendant is wearable: neck.
+
+614H 142V 1X 64.53% 438C T:2 Exits:NESW> 
+

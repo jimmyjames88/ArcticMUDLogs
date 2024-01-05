@@ -1,0 +1,19 @@
+Logging started: 04.01.2024 20:10
+brow glistening.greatsword
+You browse through the merchandise and notice:
+The greatsword's metallic surface is shiny and new. (100%)
+An engraved glistening greatsword is of very good quality.
+You feel informed:
+ Object 'greatsword engraved glistening sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 38           Value   : 340
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 4D7
+An engraved glistening greatsword requires knowledge of the skill 'long blades'.
+
+614H 142V 1X 64.53% 438C T:30 Exits:NESW> 
+

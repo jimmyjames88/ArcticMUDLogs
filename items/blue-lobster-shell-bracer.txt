@@ -1,0 +1,19 @@
+Logging started: 04.01.2024 20:01
+browse lobster.bracer
+You browse through the merchandise and notice:
+The bracer appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'bracer blue lobster shell'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 2            Value   : 120
+
+ Affects  : HITROLL       by 1
+ Affects  : RANGED_HITROL by 1
+ Effects  : DETECT_INVISIBLE
+ Item is  : MAGIC
+ Immune   : IMMUNE_HEAT
+A blue lobster shell bracer is wearable: wrist.
+
+614H 142V 1X 64.53% 438C T:35 Exits:NESW> 
+

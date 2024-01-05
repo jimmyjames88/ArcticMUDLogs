@@ -1,0 +1,20 @@
+Logging started: 04.01.2024 20:11
+brow ancient.mace
+You browse through the merchandise and notice:
+The mace's metallic surface is shiny and new. (100%)
+An ancient iron mace is of poor quality.
+You feel informed:
+ Object 'mace iron ancient'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 16           Value   : 300
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Item is  : MAGIC BLESS
+ Class    : mace
+ Damage   : 3D5
+An ancient iron mace requires knowledge of the skill 'bludgeons'.
+
+614H 142V 1X 64.53% 438C T:59 Exits:NESW> 
+

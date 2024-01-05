@@ -1,0 +1,25 @@
+Logging started: 04.01.2024 20:06
+brow pearl.ring
+Your detect invisibility wears off.
+Lord Calof leaves east.
+A bodyguard leaves east.
+A bodyguard leaves east.
+A bodyguard leaves east.
+
+614H 142V 1X 64.53% 438C T:46 Exits:NESW> 
+
+brow pearl.ring
+You browse through the merchandise and notice:
+The stone surface of the ring is flawless. (99%)
+You feel informed:
+ Object 'ring pearl'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 1            Value   : 100
+
+ Affects  : INT           by 1
+ Item is  : HUM MAGIC ANTI_EVIL
+A pearl ring is wearable: finger.
+
+614H 142V 1X 64.53% 438C T:44 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 04.01.2024 20:05
+brow jeweled.bracer
+You browse through the merchandise and notice:
+The bracer's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'bracer jeweled skull'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 1            Value   : 800
+
+ Affects  : spell slots   by +1 at level 5
+ Affects  : healing done by  2%
+ Item is  : GLOW MAGIC ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 14
+A jeweled bracer of the Skull is wearable: wrist.
+
+614H 142V 1X 64.53% 438C T:44 Exits:NESW> 
+

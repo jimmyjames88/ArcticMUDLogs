@@ -1,0 +1,18 @@
+Logging started: 04.01.2024 20:04
+brow fierce.pike
+You browse through the merchandise and notice:
+The hard wooden surface of the pike is in perfect condition. (99%)
+A fierce lightweight pike is of fair quality.
+You feel informed:
+ Object 'pike fierce lightweight'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: blackenwood
+ Weight   : 14           Value   : 200
+
+ Item is  : MAGIC
+ Class    : pike
+ Damage   : 4D3
+A fierce lightweight pike requires knowledge of the skill 'pole arms'.
+
+614H 142V 1X 64.53% 438C T:16 Exits:NESW> 
+

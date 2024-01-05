@@ -1,0 +1,18 @@
+Logging started: 04.01.2024 20:02
+brow braided.waistband
+You browse through the merchandise and notice:
+The waistband looks healthy. (100%)
+You feel informed:
+ Object 'waistband braided black belt'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 1            Value   : 550
+
+ Affects  : spell slots   by +1 at level 4
+ Affects  : skill turn          by +5
+ Effects  : INVISIBLE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A braided black waistband is wearable: waist.
+
+614H 142V 1X 64.53% 438C T:45 Exits:NESW> 
+
