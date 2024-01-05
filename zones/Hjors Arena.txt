@@ -1,0 +1,3408 @@
+Logging started: 04.01.2024 20:23
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is just to the west and the bazaars are to the north and
+south. It really is very busy here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 141V 1X 66.56% 519C T:51 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 66.56% 519C T:50 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Hamilton Way is to the north; it will take you to the cityguard
+headquarters and the Academy of Fighting Arts. To the south is the
+beautiful boutique of Celeste, reknown all over Ansalon.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cityguard of Kalaman looks about for signs of trouble.
+
+614H 139V 1X 66.56% 519C T:49 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large pigeon is here pecking at some bread crumbs.
+A large pigeon is here pecking at some bread crumbs.
+
+614H 138V 1X 66.56% 519C T:49 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Market Street East
+    This is the busy market street, filled with people, shops and stands.
+People from all over Krynn come to this town for trade and other business.
+The town square is not too far to the west through the crowd. Some other
+notable sites are the Temple of Kalaman, which is to the northwest, and
+Lord Calof's mansion; both are on the other side of Vingaard Avenue.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cityguard of Kalaman looks about for signs of trouble.
+
+614H 137V 1X 66.56% 519C T:48 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Intersection of Market Street and Wall Road
+    You are at the intersection of Market Street and Wall Road. Market
+Street runs east-west through Kalaman, while Wall Road runs along the
+inside of the city wall. Market Street is the busiest street in Kalaman;
+many of the shops and stands are located here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A woman with a bag of groceries is making her way home.
+A rooster walks about while pecking at the ground.
+A tired traveller is looking around for the town's inn.
+
+614H 136V 1X 66.56% 519C T:48 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Eastern City Gates
+    You are inside the eastern city gates. The gates are made of thick
+wood, reinforced with iron bars, and are very tough to break. The gateway
+is arched, and above you you can see steel bars that can slide down in case
+of siege or attack.
+Kor the bronze dragon is standing here, awaiting a rider.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+A cityguard of Kalaman stands here, guarding the eastern gates.
+
+614H 135V 1X 66.56% 519C T:47 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Outside the Eastern Gates of Kalaman
+    You are outside the gates of the city of Kalaman. The large stone walls
+rise high above you. From this vantage point you are able to see a few
+Solamnic Knights walking about along the battlements overhead. The huge
+city gates are directly west of you, and a small path leads off to the
+east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 66.56% 519C T:46 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Beyond the Gates of Kalaman
+    You are just outside the eastern city gates of Kalaman. The path you
+are traveling on turns south away from the city and cuts through the plains
+east of Kalaman. A large building made of old wood stands just off the path
+to your east, and you can hear loud noises of what you think is people
+fighting within the building.
+Kor the bronze dragon is standing here, awaiting a rider.
+A fat groundhog sits here, looking at you curiously.
+
+614H 132V 1X 66.56% 519C T:46 Exits:ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Nearing the Eastern Gates of Kalaman
+    The large city walls of Kalaman stand directly to your west. Scanning
+the walls you notice the large city gates lie just to your northwest, and
+prove to be the only entrance into the city, past the formidable stone
+walls to your west. The path nears the city to your north, while it cuts
+through the vast plains that dominate this region to your south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 66.56% 519C T:45 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Nearing the City of Kalaman
+    You are traveling on a large path cutting through the vast plains of
+Estwilde, just to the southeast of the city of Kalaman. To your north you
+notice several large buildings, as well as the eastern city gates of
+Kalaman to your northwest. The path leads to the south into the plains, and
+also continues back to the city of Kalaman just to your north.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 128V 1X 66.56% 519C T:45 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Path Through the Plains of Estwilde
+    The path continues to wind its way through the plains of Estwilde, just
+to the southeast of Kalaman. The plains stretch out all around you, but you
+can make out the beginning of a forest rising quite some ways off to your
+east. The path winds to the south where it meets up with several other
+paths, and it continues to the north towards the city of Kalaman.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 126V 1X 66.56% 519C T:45 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+At a Small Crossroads
+    You stand at an intersection of paths in the grassy plains near
+Kalaman. A small path leads off to the north towards Kalaman, while another
+path skirts the southern city walls to the west. To your east another path
+leads off into the plains east of Kalaman, and south of you a trail leads
+through a plush, grassy part of the plains.
+A post with a sign attached to it has been staked into the ground here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A fat groundhog sits here, looking at you curiously.
+
+614H 124V 1X 66.56% 519C T:44 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Moving Through the Plains
+    This large path extends to the east of the city of Kalaman. The path
+cuts through the plains that surround you in all directions. Off to your
+east you can see the path wind past farms and then eventually lead to the
+forests in the distance. To your west the path joins up with several other
+paths at a small intersection.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 122V 1X 66.56% 519C T:44 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Crossing the Plains
+    You continue your course on the large path. The path is surrounded by
+plains to your west and leads through some hills to your east. A short ways
+off to your east you can see several farms scattered in the hills, and you
+also notice a forest rising beyond the farms.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 120V 1X 66.56% 519C T:43 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Before the Rolling Hills
+    You stand at the base of some rather large hills to your east. The path
+ascends the hills to your east, and returns to the plains to the west. Your
+vision is blocked by the large hills to the east, but to your west you can
+make out the large stone walls of a city in the distance.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 118V 1X 66.56% 519C T:43 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Ascending the Hills
+    The path you are traveling on ascends a large hill here. From your
+vantage point you can see over the walls of the city of Kalaman to your
+west. The city is busy with activity, regardless of the hour of day. The
+path continues up into the hills, or down into the plains to your west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 116V 1X 66.56% 519C T:42 Exits:WU> 
+
+u
+Kor the bronze dragon arrives from below.
+Climbing the Rolling Hills
+    The path continues to climb the large hills of the region. The path
+branches here, with a less traveled path leading north out of the hills and
+into a flatter part of the plains. The main path continues to the east
+across the large hills, while to your west the path descends down the
+hills.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 114V 1X 66.56% 519C T:41 Exits:NED> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Path Through the Hills
+    The small path curves around the side of the hill leading south to the
+main road of the Estwilde Hills and east, curving towards an odd shaped
+arena. Birds can be heard singing as they wing their way through the tree
+specked hills.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 112V 1X 66.56% 519C T:41 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+In Sight of an Odd Building
+    The path leads north towards a strangely shaped building and west,
+curving down the side of the hill towards the main road below. The building
+is shaped into a rough hexagonal shaped and oddly domed. Trees dot the
+sides of the hill, cascading down towards the plains and farms below.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 66.56% 519C T:40 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Path to the Building
+    You are on a small paved path leading to the strange looking building.
+Whomever erected this building, must have put forth a lot of effort, as you
+can see the craftsmanship and design of it is quite excellent and
+sophisticated. As you approach, you realize this a large arena of some
+sort.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 108V 1X 66.56% 519C T:39 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Path to the Arena
+    You are on a small paved path leading to the strange looking building.
+Whomever erected this building, must have put forth a lot of effort, as you
+can see the craftsmanship and design of it is quite excellent and
+sophisticated. As you approach, you realize this a large arena of some
+sort.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 106V 1X 66.56% 519C T:39 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Entrance to Hjor's Arena
+    Before you is a gigantic, hexagonal structure, topped with a clear
+dome. As you stare at it, it strikes you that you feel much smaller in
+stature, and almost impotent. The walls of this building are made of large
+blocks of jet black marble, with green veins running through them. There is
+a plaque on the outside wall, to the right of the arched entryway.
+Kor the bronze dragon is standing here, awaiting a rider.
+A minotaur guard stands here, guarding the entrance of Hjor's Arena.
+A minotaur guard stands here, guarding the entrance of Hjor's Arena.
+
+614H 104V 1X 66.56% 519C T:38 Exits:(N)S> 
+
+order kor ki guard
+ass
+Kor the bronze dragon's powerful hit makes a minotaur guard double over in pain.
+Kor the bronze dragon hits a minotaur guard hard.
+
+614H 104V 1X 66.56% 519C T:34 Exits:(N)S> 
+You attempt to assist Kor the bronze dragon.
+You stab a minotaur guard extremely hard.
+
+614H 104V 1X 66.56% 519C [Kor the bronze dragon:Perfect] [a minotaur guard:Bad] T:34 Exits:(N)S> 
+
+
+A minotaur guard stumbles and falls while trying to bash Kor the bronze dragon.
+
+614H 104V 1X 66.56% 519C [Kor the bronze dragon:Perfect] [a minotaur guard:Bad] T:33 Exits:(N)S> 
+
+
+You massacre a minotaur guard with your stab.
+Kor the bronze dragon hits a minotaur guard hard.
+A minotaur guard is mortally wounded, and will die soon, if not aided.
+
+614H 104V 1X 66.56% 519C [a minotaur guard:Dying] T:32 Exits:(N)S> 
+
+
+You obliterate a minotaur guard with your stab.
+You receive 0 experience.
+A minotaur guard is dead! R.I.P.
+The death cry of a minotaur guard echoes from somewhere nearby...
+
+614H 104V 1X 66.56% 519C T:28 Exits:(N)S> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+614H 104V 1X 66.56% 519C T:28 Exits:(N)S> 
+
+order kor ki guard
+ass
+Kor the bronze dragon hits a minotaur guard.
+
+614H 104V 1X 66.56% 519C T:25 Exits:(N)S> 
+You attempt to assist Kor the bronze dragon.
+You stab a minotaur guard hard.
+
+614H 104V 1X 66.56% 519C [Kor the bronze dragon:Perfect] [a minotaur guard:Fair] T:25 Exits:(N)S> 
+
+
+You massacre a minotaur guard with your stab.
+Kor the bronze dragon hits a minotaur guard hard.
+A minotaur guard misses Kor the bronze dragon with his crush.
+
+614H 104V 1X 66.56% 519C [Kor the bronze dragon:Perfect] [a minotaur guard:Awful] T:24 Exits:(N)S> 
+
+sc
+
+A minotaur guard misses you with his crush.
+
+614H 104V 1X 66.56% 519C [Zargothrax:Perfect] [a minotaur guard:Awful] T:21 Exits:(N)S> 
+
+A minotaur guard misses you with his crush.
+You stab a minotaur guard hard.
+A minotaur guard is incapacitated and will slowly die, if not aided.
+Kor the bronze dragon massacres a minotaur guard with his hit.
+You receive 0 experience.
+A minotaur guard is dead! R.I.P.
+The death cry of a minotaur guard echoes from somewhere nearby...
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 66.56% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 104(142) movement points.
+Your behaviour has been Good.
+Your fervent faith is confident and strong.
+You have scored 179,999,999 exp, and have 519(209947) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 25 minute(s).
+You have been playing for 4 day(s), 21 hour(s) and 4 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    aura of glory        [9 hrs]
+    bless                [4 hrs]
+
+614H 104V 1X 66.56% 519C T:20 Exits:(N)S> 
+
+take all corpse
+You get a dull-red, metal key from the corpse of a minotaur guard.
+
+614H 104V 1X 66.56% 519C T:16 Exits:(N)S> 
+
+unl door
+*click* as you use a dull-red, metal key.
+The key turns to dust as its usefulness ends.
+
+614H 104V 1X 66.56% 519C T:8 Exits:(N)S> 
+
+op door
+Ok.
+
+614H 104V 1X 66.56% 519C T:7 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Corridor to the Arena
+    This is a dark corridor, well-swept and with floors made smooth by the
+footsteps of many minotaurs. You again notice the walls, which are made
+from large bricks of solid marble, and you wonder how they were lifted up
+to this height. The corridor is around ten feet in height, yet it is quite
+narrow, perhaps to intimidate prospective contestants.
+Kor the bronze dragon is standing here, awaiting a rider.
+A dwarven gladiator is here, practicing fighting moves with his sword.
+
+614H 103V 1X 66.56% 519C T:6 Exits:NS> 
+
+
+A minotaur gladiator arrives from the north.
+
+614H 103V 1X 66.56% 519C T:5 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Corridor to the Arena
+    This is a dark corridor, well-swept and with floors made smooth by the
+footsteps of many minotaurs. You again notice the walls, which are made
+from large bricks of solid marble, and you wonder how they were lifted up
+to this height. The corridor is around ten feet in height, yet it is quite
+narrow, perhaps to intimidate prospective contestants.
+Kor the bronze dragon is standing here, awaiting a rider.
+A minotaur gladiator is here, practicing fighting techniques.
+
+614H 102V 1X 66.56% 519C T:4 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Corridor to the Arena
+    This is a dark corridor, well-swept and with floors made smooth by the
+footsteps of many minotaurs. You again notice the walls, which are made
+from large bricks of solid marble, and you wonder how they were lifted up
+to this height. The corridor is around ten feet in height, yet it is quite
+narrow, perhaps to intimidate prospective contestants.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 101V 1X 66.56% 519C T:4 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Foyer in Hjor's Arena
+    This is a tall archway connecting four rooms in the Arena. The ceiling
+here is even taller than in the corridor, with an opening cut in it through
+which you can see the open sky. There are openings in the western and
+eastern walls, and as you look through to the rooms beyond, you see shadowy
+figures practicing with different weapons. To the north is what looks like
+the actual Arena proper.
+Kor the bronze dragon is standing here, awaiting a rider.
+A minotaur gladiator is here, practicing fighting techniques.
+
+614H 100V 1X 66.56% 519C T:3 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems endless because
+the ceiling is open to the sky, letting the sun beat down and make
+everything hazy, as though you were in the desert. The walls of the hallway
+are smooth marble, and the floor is made of sun-dried mud, stained with
+dark blood in many places. From the many doorways you hear sounds of
+battle, and from time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 99V 1X 66.56% 519C T:3 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long,
+because the ceiling is open to the sky, and the sun beats down and makes
+things hazy, as though you were in the desert. The walls of the hallway are
+smooth marble, and the floor is made of sun-dried mud, stained with dark
+blood in many places. From the many doorways, you hear sounds of battle,
+and from time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 98V 1X 66.56% 519C T:2 Exits:N(E)SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Small Field
+    This is a small, open field covered with long, waving grasses and a few
+trees scattered across it. Around the field you can see the walls of the
+Arena and it seems odd that the builders of this area would create a grassy
+field here. The grass is very tall, around chest-height, and quite thick,
+making you wonder what could be hidden in this field.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small, furry field mouse scurries around in the grass.
+
+614H 97V 1X 66.56% 519C T:1 Exits:ESW> 
+
+
+The rising sun proclaims a new day.
+
+614H 121V 1X 66.56% 519C T:60 Exits:ESW> 
+
+sca
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+A small, furry field mouse scurries around in the grass.
+A small, furry field mouse scurries around in the grass.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 121V 1X 66.56% 519C T:60 Exits:ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Small Field
+    This is a small, open field covered with long, waving grasses and a few
+trees scattered across it. Around the field you can see the walls of the
+Arena and it seems odd that the builders of this area would create a grassy
+field here. The grass is very tall, around chest-height, and quite thick,
+making you wonder what could be hidden in this field.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 119V 1X 66.56% 519C T:59 Exits:NESW> 
+
+sca
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A small, furry field mouse scurries around in the grass.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+A small, furry field mouse scurries around in the grass.
+A snorting bull with sharp horns lowers his head and attacks!
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 119V 1X 66.56% 519C T:57 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Small Field
+    This is a small, open field covered with long, waving grasses and a few
+trees scattered across it. Around the field you can see the walls of the
+Arena and it seems odd that the builders of this area would create a grassy
+field here. The grass is very tall, around chest-height, and quite thick,
+making you wonder what could be hidden in this field.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small, furry field mouse scurries around in the grass.
+A snorting bull with sharp horns lowers his head and attacks!
+A snorting bull tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+614H 117V 1X 66.56% 519C T:56 Exits:NES> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a snorting bull extremely hard.
+
+614H 117V 1X 66.56% 519C [Kor the bronze dragon:Perfect] [a snorting bull:Good] T:54 Exits:NES> 
+
+
+You stab a snorting bull extremely hard.
+A snorting bull misses you with his stab.
+Kor the bronze dragon hits a snorting bull.
+
+614H 117V 1X 66.56% 519C [Zargothrax:Perfect] [a snorting bull:Fair] T:52 Exits:NES> 
+
+resc kor
+str
+But nobody is fighting him.
+
+614H 117V 1X 66.56% 519C [Zargothrax:Perfect] [a snorting bull:Fair] T:49 Exits:NES> 
+
+str
+
+A snorting bull misses you with his stab.
+You stab a snorting bull extremely hard.
+Kor the bronze dragon hits a snorting bull.
+
+614H 117V 1X 66.56% 519C [Zargothrax:Perfect] [a snorting bull:V.Bad] T:48 Exits:NES> 
+
+You attempt to strike at a snorting bull with your pike.
+You stab a snorting bull extremely hard.
+
+614H 117V 1X 66.56% 519C [Zargothrax:Perfect] [a snorting bull:Awful] T:47 Exits:NES> 
+
+
+A snorting bull tries to sweep your legs, but you avoid the attack.
+
+614H 117V 1X 66.56% 519C [Zargothrax:Perfect] [a snorting bull:Awful] T:45 Exits:NES> 
+
+
+A snorting bull misses you with his stab.
+You stab a snorting bull very hard.
+Kor the bronze dragon hits a snorting bull hard.
+A snorting bull is incapacitated and will slowly die, if not aided.
+
+614H 117V 1X 66.56% 519C [a snorting bull:Dying] T:44 Exits:NES> 
+
+You attempt to strike at a snorting bull with your pike.
+You annihilate a snorting bull with your stab.
+You receive 0 experience.
+A snorting bull is dead! R.I.P.
+
+614H 117V 1X 66.81% 519C [a snorting bull:Dying] T:42 Exits:NES> 
+
+
+The death cry of a snorting bull echoes from somewhere nearby...
+
+614H 117V 1X 66.81% 519C T:42 Exits:NES> 
+
+take all corpse
+You get a pile of coins from the corpse of a snorting bull.
+There were 40 coins.
+You get a bull's horn from the corpse of a snorting bull.
+
+614H 117V 1X 66.81% 559C T:38 Exits:NES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Small Field
+    This is a small, open field covered with long, waving grasses and a few
+trees scattered across it. Around the field you can see the walls of the
+Arena and it seems odd that the builders of this area would create a grassy
+field here. The grass is very tall, around chest-height, and quite thick,
+making you wonder what could be hidden in this field.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 115V 1X 66.81% 559C T:37 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Small Field
+    This is a small, open field covered with long, waving grasses and a few
+trees scattered across it. Around the field you can see the walls of the
+Arena and it seems odd that the builders of this area would create a grassy
+field here. The grass is very tall, around chest-height, and quite thick,
+making you wonder what could be hidden in this field.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small, furry field mouse scurries around in the grass.
+A small, furry field mouse scurries around in the grass.
+
+614H 113V 1X 66.81% 559C T:35 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long,
+because the ceiling is open to the sky, and the sun beats down and makes
+things hazy, as though you were in the desert. The walls of the hallway are
+smooth marble, and the floor is made of sun-dried mud, stained with dark
+blood in many places. From the many doorways, you hear sounds of battle,
+and from time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 112V 1X 66.81% 559C T:34 Exits:N(E)SW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 111V 1X 66.81% 559C T:32 Exits:N(E)S(W)> 
+
+unl door w
+*click* as you use a bull's horn.
+The horn turns to dust as its usefulness ends.
+
+614H 111V 1X 66.81% 559C T:30 Exits:N(E)S(W)> 
+
+op door w
+Ok.
+
+614H 111V 1X 66.81% 559C T:29 Exits:N(E)SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Cramped Nook
+    This is a small cramped space, with black marble walls rising up from
+all directions, leaving little space for a person, let alone a party of
+adventurers. There seems to be no exit, until your foot slips and you
+almost fall into a large hole in the ground. Peering down, you attempt to
+make out any sign of life, but it is simply too dark.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 66.81% 559C T:28 Exits:ED> 
+
+d
+Kor the bronze dragon arrives from above.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 109V 1X 66.81% 559C T:26 Exits:NU> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 107V 1X 66.81% 559C T:26 Exits:SD> 
+
+d
+Kor the bronze dragon arrives from above.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 105V 1X 66.81% 559C T:25 Exits:NU> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 103V 1X 66.81% 559C T:25 Exits:SD> 
+
+d
+Kor the bronze dragon arrives from above.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 101V 1X 66.81% 559C T:24 Exits:NU> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 99V 1X 66.81% 559C T:24 Exits:SD> 
+
+d
+Kor the bronze dragon arrives from above.
+The Pit of Death
+    You slide down into a small pit that is filled with damp filth, and you
+begin to choke because there is an odor in the air that is overwhelmingly
+disgusting... Suddenly you realize that the smell is that which rises up
+off of corpses... You sense a large creature slithering around you, and
+your skin starts to crawl...
+Kor the bronze dragon is standing here, awaiting a rider.
+You sense a life form.
+A hissing snake comes out of hiding.
+A hissing snake misses Kor the bronze dragon with its bite.
+
+614H 97V 1X 66.81% 559C T:23 Exits:U> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a hissing snake with your stab.
+
+614H 97V 1X 66.81% 559C [Kor the bronze dragon:Perfect] [a hissing snake:Good] T:22 Exits:U> 
+
+resc kor
+
+You massacre a hissing snake with your stab.
+A hissing snake misses you with its bite.
+Kor the bronze dragon hits a hissing snake hard.
+
+614H 97V 1X 66.81% 559C [Zargothrax:Perfect] [a hissing snake:Bad] T:20 Exits:U> 
+
+
+A hissing snake is hit by Kor the bronze dragon's lightning breath.
+
+614H 97V 1X 66.81% 559C [Zargothrax:Perfect] [a hissing snake:V.Bad] T:18 Exits:U> 
+
+But nobody is fighting him.
+
+614H 97V 1X 66.81% 559C [Zargothrax:Perfect] [a hissing snake:V.Bad] T:17 Exits:U> 
+
+
+A hissing snake misses you with its bite.
+You stab a hissing snake very hard.
+Kor the bronze dragon hits a hissing snake hard.
+A hissing snake is mortally wounded, and will die soon, if not aided.
+
+614H 97V 1X 66.81% 559C [a hissing snake:Dying] T:16 Exits:U> 
+
+take all corpse
+What are you trying to get from?
+
+614H 97V 1X 66.81% 559C [a hissing snake:Dying] T:15 Exits:U> 
+
+
+You obliterate a hissing snake with your stab.
+You receive 0 experience.
+A hissing snake is dead! R.I.P.
+The death cry of a hissing snake echoes from somewhere nearby...
+
+614H 97V 1X 67.07% 559C T:12 Exits:U> 
+
+take all corpse
+You get a pile of coins from the corpse of a hissing snake.
+There were 72 coins.
+You get an iridescent snake scale from the corpse of a hissing snake.
+
+614H 97V 1X 67.07% 631C T:12 Exits:U> 
+
+u
+Kor the bronze dragon arrives from below.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 95V 1X 67.07% 631C T:9 Exits:SD> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 93V 1X 67.07% 631C T:8 Exits:NU> 
+
+u
+Kor the bronze dragon arrives from below.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 91V 1X 67.07% 631C T:8 Exits:SD> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 89V 1X 67.07% 631C T:7 Exits:NU> 
+
+u
+Kor the bronze dragon arrives from below.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+A rabid, dirty, nasty rat scurries around, scavenging for food.
+
+614H 87V 1X 67.07% 631C T:7 Exits:SD> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dark, Dank Tunnel
+    As you enter the tunnel, you are engulfed by the darkness, making your
+soul shiver with frightened anticipation. Your ears pick up sounds of
+languid movement coming from... some direction. Edgy, you begin to turn
+slowly, keeping your eyes open, searching for anything...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 85V 1X 67.07% 631C T:6 Exits:NU> 
+
+u
+Kor the bronze dragon arrives from below.
+A Cramped Nook
+    This is a small cramped space, with black marble walls rising up from
+all directions, leaving little space for a person, let alone a party of
+adventurers. There seems to be no exit, until your foot slips and you
+almost fall into a large hole in the ground. Peering down, you attempt to
+make out any sign of life, but it is simply too dark.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 84V 1X 67.07% 631C T:6 Exits:ED> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 83V 1X 67.07% 631C T:4 Exits:N(E)SW> 
+
+unl door e
+You do not have the proper key for that.
+
+614H 83V 1X 67.07% 631C T:1 Exits:N(E)SW> 
+
+
+The clouds disappear.
+
+614H 107V 1X 67.07% 631C T:60 Exits:N(E)SW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 106V 1X 67.07% 631C T:59 Exits:N(E)S(W)> 
+
+unl door e
+*click* as you use an iridescent snake scale.
+The scale turns to dust as its usefulness ends.
+
+614H 106V 1X 67.07% 631C T:58 Exits:N(E)S(W)> 
+
+op door e
+Ok.
+
+614H 106V 1X 67.07% 631C T:57 Exits:NES(W)> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 104V 1X 67.07% 631C T:56 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 102V 1X 67.07% 631C T:55 Exits:N> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+A toucan sits in a branch above you, strangely calm.
+
+614H 100V 1X 67.07% 631C T:54 Exits:E> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 98V 1X 67.07% 631C T:53 Exits:E> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+A toucan sits in a branch above you, strangely calm.
+
+614H 96V 1X 67.07% 631C T:52 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 94V 1X 67.07% 631C T:52 Exits:W> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+You sense a life form.
+A black panther tries to throat punch Kor the bronze dragon, but misses horribly.
+A black panther comes out of hiding.
+
+614H 92V 1X 67.07% 631C T:51 Exits:S> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a black panther with your stab.
+
+614H 92V 1X 67.07% 631C [Kor the bronze dragon:Perfect] [a black panther:Good] T:50 Exits:S> 
+
+
+With an amazing coup, a black panther thumps Kor the bronze dragon's skull real hard, Kor the bronze dragon looks lost and grins like a chump.
+
+614H 92V 1X 67.07% 631C [Kor the bronze dragon:V.Good] [a black panther:Good] T:50 Exits:S> 
+
+resc kor
+
+You stab a black panther very hard.
+A black panther claws Kor the bronze dragon.
+A black panther misses Kor the bronze dragon with his claw.
+Kor the bronze dragon hits a black panther.
+
+614H 92V 1X 67.07% 631C [Kor the bronze dragon:V.Good] [a black panther:Fair] T:48 Exits:S> 
+
+What a self-sacrificing act! You're such a hero!
+
+614H 92V 1X 67.07% 631C [Zargothrax:Perfect] [a black panther:Fair] T:45 Exits:S> 
+
+
+A black panther misses you with his claw.
+You stab a black panther very hard.
+
+614H 92V 1X 67.07% 631C [Zargothrax:Perfect] [a black panther:Bad] T:44 Exits:S> 
+
+order kor ass
+str
+Kor the bronze dragon hits a black panther.
+
+614H 92V 1X 67.07% 631C [Zargothrax:Perfect] [a black panther:Bad] T:41 Exits:S> 
+
+You attempt to strike at a black panther with your pike.
+You stab a black panther extremely hard.
+
+614H 92V 1X 67.07% 631C [Zargothrax:Perfect] [a black panther:V.Bad] T:41 Exits:S> 
+
+
+Kor the bronze dragon hits a black panther.
+A black panther misses you with his claw.
+You stab a black panther extremely hard.
+
+614H 92V 1X 67.07% 631C [Zargothrax:Perfect] [a black panther:Awful] T:40 Exits:S> 
+
+
+Kor the bronze dragon hits a black panther hard.
+A black panther is incapacitated and will slowly die, if not aided.
+You annihilate a black panther with your stab.
+You receive 0 experience.
+A black panther is dead! R.I.P.
+The death cry of a black panther echoes from somewhere nearby...
+
+614H 92V 1X 67.32% 631C T:36 Exits:S> 
+
+take all corpse
+You get a pile of coins from the corpse of a black panther.
+There were 70 coins.
+You get a panther's whisker from the corpse of a black panther.
+
+614H 92V 1X 67.32% 701C T:36 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Tropical Jungle
+    This is a steamy, humid, hot, tropical jungle, filled with hanging
+vines and grasses and weeds choking the ground. The trees here are close
+together, letting in little light from the dome through them, and you
+wonder how an area like this can be maintained inside the black marble
+walls of the Arena. You hear strange noises coming from various animals on
+the prowl, and you wonder what type of creature you will meet next.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 90V 1X 67.32% 701C T:33 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 88V 1X 67.32% 701C T:31 Exits:NES(W)> 
+
+unl door w
+*click* as you use a panther's whisker.
+The key turns to dust as its usefulness ends.
+
+614H 88V 1X 67.32% 701C T:29 Exits:NES(W)> 
+
+op door w
+Ok.
+
+614H 88V 1X 67.32% 701C T:28 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 86V 1X 67.32% 701C T:27 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+A penguin roams the area, occasionally stopping to preen.
+
+614H 84V 1X 67.32% 701C T:27 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 82V 1X 67.32% 701C T:26 Exits:ES> 
+
+s
+w
+Kor the bronze dragon arrives from the north.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 80V 1X 67.32% 701C T:26 Exits:NW> 
+Kor the bronze dragon arrives from the east.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+A penguin roams the area, occasionally stopping to preen.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 78V 1X 67.32% 701C T:25 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 76V 1X 67.32% 701C T:25 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+A penguin roams the area, occasionally stopping to preen.
+
+614H 74V 1X 67.32% 701C T:25 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Polar Bear Cave
+    This is a large cave, tunneled out with strength and natural force. It
+feels cozy, almost as though you could fall asleep listening to the wind.
+As you look around the cave, you think that perhaps you might see shadows
+creeping over the ground, but your eyes may be playing tricks upon you. You
+are sure that a creature lives here, but perhaps this creature, unlike all
+of the others, will be friendly.
+Kor the bronze dragon is standing here, awaiting a rider.
+A polar bear looks up angrily, having been disturbed from hibernation.
+A polar bear misses Kor the bronze dragon with its hit.
+
+614H 72V 1X 67.32% 701C T:24 Exits:N> 
+
+
+A polar bear is hit by Kor the bronze dragon's lightning breath.
+
+614H 72V 1X 67.32% 701C T:24 Exits:N> 
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a polar bear extremely hard.
+
+614H 72V 1X 67.32% 701C [Kor the bronze dragon:V.Good] [a polar bear:V.Bad] T:24 Exits:N> 
+
+resc
+
+You stab a polar bear very hard.
+A polar bear misses Kor the bronze dragon with its hit.
+Kor the bronze dragon hits a polar bear.
+
+614H 72V 1X 67.32% 701C [Kor the bronze dragon:V.Good] [a polar bear:Awful] T:20 Exits:N> 
+
+
+A polar bear tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+614H 72V 1X 67.32% 701C [Kor the bronze dragon:V.Good] [a polar bear:Awful] T:20 Exits:N> 
+
+Your feeble rescue efforts end in failure.
+
+614H 72V 1X 67.32% 701C [Kor the bronze dragon:V.Good] [a polar bear:Awful] T:19 Exits:N> 
+
+
+You massacre a polar bear with your stab.
+You receive 0 experience.
+A polar bear is dead! R.I.P.
+The death cry of a polar bear echoes from somewhere nearby...
+
+614H 72V 1X 67.58% 701C T:16 Exits:N> 
+
+take all corpse
+You get a pile of coins from the corpse of a polar bear.
+There were 42 coins.
+You get a piece of fur from the corpse of a polar bear.
+You get a polar bear pelt from the corpse of a polar bear.
+
+614H 72V 1X 67.58% 743C T:15 Exits:N> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 70V 1X 67.58% 743C T:14 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+A penguin roams the area, occasionally stopping to preen.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 68V 1X 67.58% 743C T:13 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+A penguin roams the area, occasionally stopping to preen.
+
+614H 66V 1X 67.58% 743C T:13 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 64V 1X 67.58% 743C T:13 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 62V 1X 67.58% 743C T:12 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+A penguin roams the area, occasionally stopping to preen.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 60V 1X 67.58% 743C T:12 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Arctic Tundra
+    This temperature is approximately eighty degrees colder than the rest
+of the Arena, leaving you with frozen hands and stiff limbs. The icy wind
+whips through your hair and against your skin, and you cannot believe how
+cold you feel. The terrain is flat and snow-covered, and you think that you
+see animals creeping over the ground, but your eyes may be playing tricks
+upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 58V 1X 67.58% 743C T:11 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 56V 1X 67.58% 743C T:11 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 55V 1X 67.58% 743C T:10 Exits:(NE)S(W)> 
+
+unl door e
+You do not have the proper key for that.
+
+614H 55V 1X 67.58% 743C T:7 Exits:(NE)S(W)> 
+
+unl door w
+You do not have the proper key for that.
+
+614H 55V 1X 67.58% 743C T:6 Exits:(NE)S(W)> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 54V 1X 67.58% 743C T:5 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 53V 1X 67.58% 743C T:5 Exits:N(E)SW> 
+
+unl door e
+*click* as you use a piece of fur.
+The fur turns to dust as its usefulness ends.
+
+614H 53V 1X 67.58% 743C T:4 Exits:N(E)SW> 
+
+op door e
+Ok.
+
+614H 53V 1X 67.58% 743C T:2 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Base of a Majestic Oak
+    This is the base of an ancient, yet majestic oak tree. The bark is
+ridged with age, and the branches are so gnarled that they resemble claws.
+Into the trunk of the tree, someone has carved a ladder of sorts, which
+goes up as far as you can see. As you look upwards, you also see many
+shadowy figures flying about in the heights of this noble tree.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 52V 1X 67.58% 743C T:2 Exits:WU> 
+
+u
+Kor the bronze dragon arrives from below.
+The Lower Branches
+    As you pause on the way to the top of the tree, you notice how strong
+the branches seem to be, as though man-sized creatures could perch there.
+And you realize that creatures of that sort must, because there are long
+scratches in the wood around you. You again look up, and see that the
+figures never seem to sit still, but flit around in the upper branches.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 74V 1X 67.58% 743C T:60 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Lower Branches
+    As you pause on the way to the top of the tree, you notice how strong
+the branches seem to be, as though man-sized creatures could perch there.
+And you realize that creatures of that sort must, because there are long
+scratches in the wood around you. You again look up, and see that the
+figures never seem to sit still, but flit around in the upper branches.
+Kor the bronze dragon is standing here, awaiting a rider.
+A smaller harpy flies here, emanating a foul odor. (black aura)
+A filthy harpy focuses harshly on you and utters some strange words.
+A filthy harpy misses you with her hit.
+
+614H 72V 1X 67.58% 743C [Zargothrax:Perfect] [a filthy harpy:Perfect] T:60 Exits:ES> 
+
+order kor ass
+Kor the bronze dragon barely hits a filthy harpy.
+
+614H 72V 1X 67.58% 743C [Zargothrax:Perfect] [a filthy harpy:Good] T:58 Exits:ES> 
+
+str
+You attempt to strike at a filthy harpy with your pike.
+You stab a filthy harpy very hard.
+
+614H 72V 1X 67.58% 743C [Zargothrax:Perfect] [a filthy harpy:V.Bad] T:57 Exits:ES> 
+
+
+Kor the bronze dragon hits a filthy harpy.
+A filthy harpy misses you with her hit.
+You stab a filthy harpy extremely hard.
+You receive 0 experience.
+A filthy harpy is dead! R.I.P.
+The death cry of a filthy harpy echoes from somewhere nearby...
+
+614H 72V 1X 67.58% 743C T:56 Exits:ES> 
+
+take all corpse
+s
+You get a pile of coins from the corpse of a filthy harpy.
+There were 20 coins.
+
+614H 72V 1X 67.58% 763C T:53 Exits:ES> 
+
+Kor the bronze dragon arrives from the north.
+The Lower Branches
+    As you pause on the way to the top of the tree, you notice how strong
+the branches seem to be, as though man-sized creatures could perch there.
+And you realize that creatures of that sort must, because there are long
+scratches in the wood around you. You again look up, and see that the
+figures never seem to sit still, but flit around in the upper branches.
+Kor the bronze dragon is standing here, awaiting a rider.
+A smaller harpy flies here, emanating a foul odor. (black aura)
+A filthy harpy focuses harshly on you and utters some strange words.
+A filthy harpy misses you with her hit.
+
+614H 70V 1X 67.58% 763C [Zargothrax:Perfect] [a filthy harpy:Perfect] T:52 Exits:NU> 
+
+order kor ass
+Kor the bronze dragon hits a filthy harpy hard.
+
+614H 70V 1X 67.58% 763C [Zargothrax:Perfect] [a filthy harpy:Fair] T:51 Exits:NU> 
+
+str
+You attempt to strike at a filthy harpy with your pike.
+You massacre a filthy harpy with your stab.
+A filthy harpy is incapacitated and will slowly die, if not aided.
+
+614H 70V 1X 67.58% 763C [a filthy harpy:Dying] T:50 Exits:NU> 
+
+take all corpse
+
+Kor the bronze dragon hits a filthy harpy extremely hard.
+You receive 0 experience.
+A filthy harpy is dead! R.I.P.
+The death cry of a filthy harpy echoes from somewhere nearby...
+
+614H 70V 1X 67.58% 763C T:48 Exits:NU> 
+
+u
+You get a pile of coins from the corpse of a filthy harpy.
+There were 14 coins.
+
+614H 70V 1X 67.58% 777C T:46 Exits:NU> 
+
+Kor the bronze dragon arrives from below.
+The Upper Branches
+    As you reach the top of the tree, you realize that you can look through
+the covering dome and over the marble walls of the Arena to see for miles
+around you, which makes you feel God-like. Suddenly, however, you are
+pulled into the present by chirping sounds that seem to surround you...
+Kor the bronze dragon is standing here, awaiting a rider.
+A smaller harpy flies here, emanating a foul odor. (black aura)
+A filthy harpy focuses harshly on Kor the bronze dragon and utters some strange words.
+A filthy harpy misses Kor the bronze dragon with her hit.
+
+614H 68V 1X 67.58% 777C T:46 Exits:ND> 
+
+
+A filthy harpy misses Kor the bronze dragon with her hit.
+Kor the bronze dragon hits a filthy harpy.
+
+614H 68V 1X 67.58% 777C T:44 Exits:ND> 
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a filthy harpy extremely hard.
+
+614H 68V 1X 67.58% 777C [Kor the bronze dragon:V.Good] [a filthy harpy:V.Bad] T:44 Exits:ND> 
+
+resc
+
+A filthy harpy is hit by Kor the bronze dragon's lightning breath.
+A filthy harpy is stunned, but will likely regain consciousness again.
+
+614H 68V 1X 67.58% 777C [a filthy harpy:Awful] T:42 Exits:ND> 
+
+
+You annihilate a filthy harpy with your stab.
+You receive 0 experience.
+A filthy harpy is dead! R.I.P.
+The death cry of a filthy harpy echoes from somewhere nearby...
+
+614H 68V 1X 67.58% 777C T:40 Exits:ND> 
+
+You couldn't find what you were looking for.
+
+614H 68V 1X 67.58% 777C T:40 Exits:ND> 
+
+take all corpse
+You get a pile of coins from the corpse of a filthy harpy.
+There were 10 coins.
+You get a tiny bronze balance from the corpse of a filthy harpy.
+
+614H 68V 1X 67.58% 787C T:39 Exits:ND> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 67.58% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 68(142) movement points.
+Your behaviour has been Good.
+Your fervent faith is confident and strong.
+You have scored 179,999,999 exp, and have 787(209947) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 27 minute(s).
+You have been playing for 4 day(s), 21 hour(s) and 7 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    detect invisibility
+    aura of glory        [6 hrs]
+    bless                [1 hour]
+
+614H 68V 1X 67.58% 787C T:39 Exits:ND> 
+
+c 'sanc' me
+You utter the words, 'sanctuary'
+You start glowing.
+
+614H 68V 1X 67.58% 787C Mem:1 T:37 Exits:ND> 
+
+c 'h a' me
+c 'bl' me
+You utter the words, 'holy arms'
+A surge of power fills your body.
+
+614H 68V 1X 67.58% 787C Mem:2 T:32 Exits:ND> 
+
+You utter the words, 'bless'
+You feel righteous.
+
+614H 68V 1X 67.58% 787C Mem:2 T:28 Exits:ND> 
+
+d
+Kor the bronze dragon arrives from above.
+The Lower Branches
+    As you pause on the way to the top of the tree, you notice how strong
+the branches seem to be, as though man-sized creatures could perch there.
+And you realize that creatures of that sort must, because there are long
+scratches in the wood around you. You again look up, and see that the
+figures never seem to sit still, but flit around in the upper branches.
+The corpse of a filthy harpy is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 66V 1X 67.58% 787C Mem:2 T:24 Exits:NU> 
+
+u
+Kor the bronze dragon arrives from below.
+The Upper Branches
+    As you reach the top of the tree, you realize that you can look through
+the covering dome and over the marble walls of the Arena to see for miles
+around you, which makes you feel God-like. Suddenly, however, you are
+pulled into the present by chirping sounds that seem to surround you...
+The corpse of a filthy harpy is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 64V 1X 67.58% 787C Mem:2 T:23 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Upper Branches
+    As you reach the top of the tree, you realize that you can look through
+the covering dome and over the marble walls of the Arena to see for miles
+around you, which makes you feel God-like. Suddenly, however, you are
+pulled into the present by chirping sounds that seem to surround you...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 62V 1X 67.58% 787C Mem:2 T:22 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Upper Branches
+    As you reach the top of the tree, you realize that you can look through
+the covering dome and over the marble walls of the Arena to see for miles
+around you, which makes you feel God-like. Suddenly, however, you are
+pulled into the present by chirping sounds that seem to surround you...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 60V 1X 67.58% 787C Mem:2 T:21 Exits:WD> 
+
+d
+Kor the bronze dragon arrives from above.
+The Harpies' Den
+    You climb down into a small space in the trunk of the tree, where the
+harpies seem to use as a dwelling. It is filthy here, with dirty feathers,
+rotten carcasses, and excrement everywhere. The smell of the nook
+overwhelms you and you realize that it emanates from a large nest in the
+corner of the space, and you think that you see something shiny in it...
+Kor the bronze dragon is standing here, awaiting a rider.
+A disgusting harpy flaps her wings, hovering over the ground. (black aura)
+A sinister harpy focuses harshly on Kor the bronze dragon and utters some strange words.
+A sinister harpy misses Kor the bronze dragon with her claw.
+
+614H 58V 1X 67.58% 787C Mem:2 T:20 Exits:UD> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a sinister harpy extremely hard.
+
+614H 58V 1X 67.58% 787C [Kor the bronze dragon:V.Good] [a sinister harpy:Fair] Mem:2 T:19 Exits:UD> 
+
+resc
+
+You massacre a sinister harpy with your stab.
+A sinister harpy misses Kor the bronze dragon with her claw.
+Kor the bronze dragon hits a sinister harpy hard.
+
+614H 58V 1X 67.58% 787C [Kor the bronze dragon:V.Good] [a sinister harpy:Awful] Mem:2 T:16 Exits:UD> 
+
+What a self-sacrificing act! You're such a hero!
+You feel enlightened.
+
+614H 58V 1X 67.58% 787C [Zargothrax:Perfect] [a sinister harpy:Awful] Mem:2 T:15 Exits:UD> 
+
+
+A sinister harpy misses you with her claw.
+You massacre a sinister harpy with your stab.
+You receive 0 experience.
+A sinister harpy is dead! R.I.P.
+The death cry of a sinister harpy echoes from somewhere nearby...
+
+614H 58V 1X 67.58% 787C Mem:2 T:12 Exits:UD> 
+
+take all corpse
+You get a harpy's claw from the corpse of a sinister harpy.
+You get a pile of coins from the corpse of a sinister harpy.
+There were 76 coins.
+You get a dirty feather from the corpse of a sinister harpy.
+
+614H 58V 1X 67.58% 863C Mem:2 T:10 Exits:UD> 
+
+d
+Kor the bronze dragon arrives from above.
+The Base of a Majestic Oak
+    This is the base of an ancient, yet majestic oak tree. The bark is
+ridged with age, and the branches are so gnarled that they resemble claws.
+Into the trunk of the tree, someone has carved a ladder of sorts, which
+goes up as far as you can see. As you look upwards, you also see many
+shadowy figures flying about in the heights of this noble tree.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 56V 1X 67.58% 863C Mem:2 T:8 Exits:WU> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 55V 1X 67.58% 863C Mem:2 T:7 Exits:NESW> 
+
+
+
+614H 55V 1X 67.58% 863C Mem:2 T:6 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 54V 1X 67.58% 863C Mem:2 T:5 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 53V 1X 67.58% 863C Mem:2 T:5 Exits:(NE)S(W)> 
+
+unl door w
+*click* as you use a dirty feather.
+The key turns to dust as its usefulness ends.
+
+614H 53V 1X 67.58% 863C Mem:2 T:3 Exits:(NE)S(W)> 
+
+op door w
+Ok.
+
+614H 53V 1X 67.58% 863C Mem:2 T:2 Exits:(NE)SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Gredt's Stables
+    These are the stables of Gredt, a well-renowned horse-dealer among the
+minotaurs of this settlement. He is known for his aggressive and strong
+horses, able to carry the great weight of the minotaurs. The stalls are
+made of a very hard-looking wood, and the stables are made of the same jet
+black marble. It is rumored that only Gredt can approach his horses,
+because they distrust all others.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 52V 1X 67.58% 863C Mem:2 T:1 Exits:NEW> 
+
+sca
+Looking north:
+You see nothing special.
+A small pony stands here, munching on some hay, and looking irritated.
+A small pony stands here, munching on some hay, and looking irritated.
+Looking east:
+You see nothing special.
+The door is open.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+A wicked black stallion stands here, snorting restlessly. (black aura)
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 76V 1X 67.58% 863C Mem:1 T:59 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Gredt's Stables
+    These are the stables of Gredt, a well-renowned horse-dealer among the
+minotaurs of this settlement. He is known for his aggressive and strong
+horses, able to carry the great weight of the minotaurs. The stalls are
+made of a very hard-looking wood, and the stables are made of the same jet
+black marble. It is rumored that only Gredt can approach his horses,
+because they distrust all others.
+Kor the bronze dragon is standing here, awaiting a rider.
+A wicked black stallion stands here, snorting restlessly. (black aura)
+A mean-looking horse misses Kor the bronze dragon with his hit.
+
+614H 75V 1X 67.58% 863C Mem:1 T:58 Exits:NE> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a mean-looking horse with your stab.
+
+614H 75V 1X 67.58% 863C [Kor the bronze dragon:Perfect] [a mean-looking horse:Good] Mem:1 T:57 Exits:NE> 
+
+You stab a mean-looking horse very hard.
+A mean-looking horse misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a mean-looking horse hard.
+
+614H 75V 1X 67.58% 863C [Kor the bronze dragon:Perfect] [a mean-looking horse:Fair] Mem:1 T:56 Exits:NE> 
+
+resc
+
+A mean-looking horse is hit by Kor the bronze dragon's lightning breath.
+
+614H 75V 1X 67.58% 863C [Kor the bronze dragon:Perfect] [a mean-looking horse:Bad] Mem:1 T:54 Exits:NE> 
+
+
+You massacre a mean-looking horse with your stab.
+A mean-looking horse misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a mean-looking horse.
+
+614H 75V 1X 67.58% 863C [Kor the bronze dragon:Perfect] [a mean-looking horse:V.Bad] Mem:1 T:52 Exits:NE> 
+
+What a self-sacrificing act! You're such a hero!
+
+614H 75V 1X 67.58% 863C [Zargothrax:Perfect] [a mean-looking horse:V.Bad] Mem:1 T:52 Exits:NE> 
+
+str
+
+A mean-looking horse stumbles and falls while trying to bash you.
+
+614H 75V 1X 67.58% 863C [Zargothrax:Perfect] [a mean-looking horse:V.Bad] Mem:1 T:49 Exits:NE> 
+
+
+A mean-looking horse misses you with his hit.
+You annihilate a mean-looking horse with your stab.
+A mean-looking horse is mortally wounded, and will die soon, if not aided.
+
+614H 75V 1X 67.58% 863C [a mean-looking horse:Dying] Mem:1 T:48 Exits:NE> 
+
+You attempt to strike at a mean-looking horse with your pike.
+You annihilate a mean-looking horse with your stab.
+You receive 0 experience.
+A mean-looking horse is dead! R.I.P.
+
+614H 75V 1X 67.83% 863C [a mean-looking horse:Dying] Mem:1 T:48 Exits:NE> 
+
+
+The death cry of a mean-looking horse echoes from somewhere nearby...
+
+614H 75V 1X 67.83% 863C Mem:1 T:47 Exits:NE> 
+
+take all corpse
+You get a small pile of coins from the corpse of a mean-looking horse.
+There were 4 coins.
+You get a bloody horse's hoof from the corpse of a mean-looking horse.
+
+614H 75V 1X 67.83% 867C Mem:1 T:43 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+Gredt's Stables
+    These are the stables of Gredt, a well-renowned horse-dealer among the
+minotaurs of this settlement. He is known for his aggressive and strong
+horses, able to carry the great weight of the minotaurs. The stalls are
+made of a very hard-looking wood, and the stables are made of the same jet
+black marble. It is rumored that only Gredt can approach his horses,
+because they distrust all others.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 74V 1X 67.83% 867C Mem:1 T:43 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 73V 1X 67.83% 867C Mem:1 T:41 Exits:(NE)SW> 
+
+unl door e
+*click* as you use a bloody horse's hoof.
+The hoof turns to dust as its usefulness ends.
+
+614H 73V 1X 67.83% 867C Mem:1 T:39 Exits:(NE)SW> 
+
+op door e
+Ok.
+
+614H 73V 1X 67.83% 867C Mem:1 T:38 Exits:(N)ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 71V 1X 67.83% 867C Mem:1 T:38 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 69V 1X 67.83% 867C Mem:1 T:37 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+A large bumblebee buzzes around, searching for pollen.
+A large bumblebee buzzes around, searching for pollen.
+
+614H 67V 1X 67.83% 867C Mem:1 T:37 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+A large bumblebee buzzes around, searching for pollen.
+
+614H 65V 1X 67.83% 867C Mem:1 T:36 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 63V 1X 67.83% 867C Mem:1 T:35 Exits:NSW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+A wild boar snorts noisily as it searches for roots and grubs.
+A wild, snorting boar misses Kor the bronze dragon with its bite.
+
+614H 61V 1X 67.83% 867C Mem:1 T:35 Exits:E> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a wild, snorting boar extremely hard.
+
+614H 61V 1X 67.83% 867C [Kor the bronze dragon:Perfect] [a wild, snorting boar:Good] Mem:1 T:34 Exits:E> 
+
+resc
+
+You stab a wild, snorting boar very hard.
+A wild, snorting boar misses Kor the bronze dragon with its bite.
+Kor the bronze dragon barely hits a wild, snorting boar.
+
+614H 61V 1X 67.83% 867C [Kor the bronze dragon:Perfect] [a wild, snorting boar:Fair] Mem:1 T:32 Exits:E> 
+
+What a self-sacrificing act! You're such a hero!
+
+614H 61V 1X 67.83% 867C [Zargothrax:Perfect] [a wild, snorting boar:Fair] Mem:1 T:29 Exits:E> 
+
+
+A wild, snorting boar misses you with its bite.
+You stab a wild, snorting boar very hard.
+
+614H 61V 1X 67.83% 867C [Zargothrax:Perfect] [a wild, snorting boar:Fair] Mem:1 T:28 Exits:E> 
+
+order kor ass
+str
+Kor the bronze dragon hits a wild, snorting boar.
+
+614H 61V 1X 67.83% 867C [Zargothrax:Perfect] [a wild, snorting boar:Fair] Mem:1 T:25 Exits:E> 
+
+You attempt to strike at a wild, snorting boar with your pike.
+You stab a wild, snorting boar extremely hard.
+
+614H 61V 1X 67.83% 867C [Zargothrax:Perfect] [a wild, snorting boar:V.Bad] Mem:1 T:25 Exits:E> 
+
+
+Kor the bronze dragon hits a wild, snorting boar.
+A wild, snorting boar misses you with its bite.
+You stab a wild, snorting boar extremely hard.
+
+614H 61V 1X 67.83% 867C [Zargothrax:Perfect] [a wild, snorting boar:Awful] Mem:1 T:24 Exits:E> 
+
+
+Kor the bronze dragon barely hits a wild, snorting boar.
+A wild, snorting boar misses you with its bite.
+You stab a wild, snorting boar very hard.
+A wild, snorting boar is stunned, but will likely regain consciousness again.
+
+614H 61V 1X 67.83% 867C [a wild, snorting boar:Dying] Mem:1 T:20 Exits:E> 
+
+str
+You attempt to strike at a wild, snorting boar with your pike.
+You annihilate a wild, snorting boar with your stab.
+You receive 0 experience.
+A wild, snorting boar is dead! R.I.P.
+
+614H 61V 1X 68.08% 867C [a wild, snorting boar:Dying] Mem:1 T:20 Exits:E> 
+
+The death cry of a wild, snorting boar echoes from somewhere nearby...
+
+614H 61V 1X 68.08% 867C Mem:1 T:19 Exits:E> 
+
+take all corpse
+You get a pile of coins from the corpse of a wild, snorting boar.
+There were 80 coins.
+You get a hairy boar's snout from the corpse of a wild, snorting boar.
+
+614H 61V 1X 68.08% 947C Mem:1 T:15 Exits:E> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 59V 1X 68.08% 947C Mem:1 T:14 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+A large bumblebee buzzes around, searching for pollen.
+
+614H 57V 1X 68.08% 947C Mem:1 T:14 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+A large bumblebee buzzes around, searching for pollen.
+A large bumblebee buzzes around, searching for pollen.
+
+614H 55V 1X 68.08% 947C Mem:1 T:13 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 53V 1X 68.08% 947C Mem:1 T:13 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Sparse Forest
+    This is a forest, with trees scattered about, pressing up against the
+black marble walls of the Arena. You can hear birds chirping, bees buzzing,
+and a loud, harsh, thrashing noise, as though someone were running panicked
+through the forest. There are many flowers on the ground, and an occasional
+babbling stream, giving you the impression of a peaceful place... aside
+from the thrashing underbrush...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 51V 1X 68.08% 947C Mem:1 T:12 Exits:NW> 
+
+s
+Alas, you cannot go that way...
+
+614H 51V 1X 68.08% 947C Mem:1 T:12 Exits:NW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 49V 1X 68.08% 947C Mem:1 T:12 Exits:(N)ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 48V 1X 68.08% 947C Mem:1 T:9 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 47V 1X 68.08% 947C Mem:1 T:9 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long,
+because the ceiling is open to the sky, and the sun beats down and makes
+things hazy, as though you were in the desert. The walls of the hallway are
+smooth marble, and the floor is made of sun-dried mud, stained with dark
+blood in many places. From the many doorways, you hear sounds of battle,
+and from time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 46V 1X 68.08% 947C Mem:1 T:8 Exits:N(E)SW> 
+
+unl door e
+*click* as you use a hairy boar's snout.
+The snout turns to dust as its usefulness ends.
+
+614H 46V 1X 68.08% 947C Mem:1 T:6 Exits:N(E)SW> 
+
+op door e
+Ok.
+
+614H 46V 1X 68.08% 947C Mem:1 T:5 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "If you continue... you will befall a terrible fate.
+Turn back now!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 45V 1X 68.08% 947C Mem:1 T:4 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 43V 1X 68.08% 947C Mem:1 T:4 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 41V 1X 68.08% 947C Mem:1 T:2 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+A deformed fiend half walks, half crawls down the hallway.
+
+614H 39V 1X 68.08% 947C Mem:1 T:1 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 37V 1X 68.08% 947C Mem:1 T:1 Exits:NESW> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+
+614H 61V 1X 68.08% 947C T:60 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Chamber of the Sorceress
+    The corridor opens up to a large chamber, filled with shelves on which
+sit rows and rows of spell components, some sparkly, others gruesome. There
+is a large desk that has piles of spellbooks on it, and they are bound in a
+vivid red leather. Your eyes are drawn to the center of the room, however,
+where a Sorceress of great power stands, glaring at you. She sneers and
+says, "You have dared to enter the sacred chamber of Theissa?!"
+Kor the bronze dragon is standing here, awaiting a rider.
+A deformed fiend half walks, half crawls down the hallway.
+A majestic woman stands before you, filling the room with her presence. (black aura)
+Theissa focuses harshly on Kor the bronze dragon and utters some strange words.
+Kor the bronze dragon is caught in some of Theissa's acid!
+
+614H 59V 1X 68.08% 947C T:60 Exits:W> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab Theissa extremely hard.
+
+614H 59V 1X 68.08% 947C [Kor the bronze dragon:V.Good] [Theissa:Good] T:59 Exits:W> 
+
+resc
+
+You stab Theissa very hard.
+Theissa misses Kor the bronze dragon with her claw.
+Kor the bronze dragon hits Theissa hard.
+
+614H 59V 1X 68.08% 947C [Kor the bronze dragon:V.Good] [Theissa:Fair] T:56 Exits:W> 
+
+What a self-sacrificing act! You're such a hero!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Fair] T:54 Exits:W> 
+
+order kor ass
+av l
+
+Theissa misses you with her claw.
+You stab Theissa very hard.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Bad] T:52 Exits:W> 
+
+
+Theissa focuses harshly on you and utters some strange words.
+Theissa throws webbing all over you!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Bad] T:51 Exits:W> 
+
+str
+Kor the bronze dragon barely hits Theissa.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Bad] T:50 Exits:W> 
+
+The webbing around your body doesn't allow you to move!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Bad] T:50 Exits:W> 
+
+The webbing around your body doesn't allow you to move!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Bad] T:49 Exits:W> 
+
+
+Kor the bronze dragon hits Theissa hard.
+Theissa misses you with her claw.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:V.Bad] T:48 Exits:W> 
+
+str
+The webbing around your body doesn't allow you to move!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:V.Bad] T:46 Exits:W> 
+
+
+Theissa focuses harshly on you and utters some strange words.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:V.Bad] T:45 Exits:W> 
+
+
+Kor the bronze dragon hits Theissa hard.
+Theissa misses you with her claw.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Awful] T:44 Exits:W> 
+str
+The webbing around your body doesn't allow you to move!
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Awful] T:44 Exits:W> 
+
+
+Theissa is hit by Kor the bronze dragon's lightning breath.
+
+614H 59V 1X 68.08% 947C [Zargothrax:Perfect] [Theissa:Awful] T:42 Exits:W> 
+
+
+Kor the bronze dragon hits Theissa.
+Theissa is mortally wounded, and will die soon, if not aided.
+
+614H 59V 1X 68.08% 947C [Theissa:Dying] T:40 Exits:W> 
+
+
+The sticky strands of webbing binding you dissolve.
+Kor the bronze dragon hits Theissa extremely hard.
+You receive 0 experience.
+Theissa is dead! R.I.P.
+The death cry of Theissa echoes from somewhere nearby...
+
+614H 59V 1X 68.34% 947C T:36 Exits:W> 
+
+take all corpse
+You get a vivid red fingernail from the corpse of Theissa.
+You get a large pile of coins from the corpse of Theissa.
+There were 274 coins.
+You get a tiny acorn from the corpse of Theissa.
+
+614H 59V 1X 68.34% 1221C T:36 Exits:W> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 57V 1X 68.34% 1221C T:33 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+A deformed fiend half walks, half crawls down the hallway.
+
+614H 55V 1X 68.34% 1221C T:32 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 53V 1X 68.34% 1221C T:31 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "Please don't go further! You will befall a fate no
+mortal should be tortured with!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 51V 1X 68.34% 1221C T:30 Exits:SW> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Skinny Corridor
+    This is a corridor that seems to have been created for dwarves, being
+tight and only five feet in height. Ducking down, you look at the walls,
+which are marble, but seem to be engraved with scratches. You look closer
+to see that they read: "If you continue... you will befall a terrible fate.
+Turn back now!"
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 49V 1X 68.34% 1221C T:29 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long,
+because the ceiling is open to the sky, and the sun beats down and makes
+things hazy, as though you were in the desert. The walls of the hallway are
+smooth marble, and the floor is made of sun-dried mud, stained with dark
+blood in many places. From the many doorways, you hear sounds of battle,
+and from time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 48V 1X 68.34% 1221C T:29 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 47V 1X 68.34% 1221C T:28 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 46V 1X 68.34% 1221C T:28 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Dusty Arena
+    When you enter the Arena, you are amazed to see that it is merely a
+long, dusty hallway, with doors lining each side. It seems very long, but
+because the ceiling is open to the sky, the sun beats down and makes things
+hazy, as though you were in the desert. The walls of the hallway are smooth
+marble, and the floor is made of sun-dried mud, stained with dark blood in
+many places. From the many doorways, you hear sounds of battle, and from
+time to time you hear a long, agonized death-cry.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 45V 1X 68.34% 1221C T:27 Exits:(N)ESW> 
+
+n
+The door seems to be closed.
+
+614H 45V 1X 68.34% 1221C T:27 Exits:(N)ESW> 
+
+unl door
+*click* as you use a vivid red fingernail.
+The nail turns to dust as its usefulness ends.
+
+614H 45V 1X 68.34% 1221C T:25 Exits:(N)ESW> 
+
+op door
+Ok.
+
+614H 45V 1X 68.34% 1221C T:24 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Portal to Hell
+    This room is filled with smoke and steam, emanating from an unseen
+source. You can feel a palpable evil here, permeating the space and all
+that are in it. Your only thought is escape, and you glance around the
+room, looking for a way out. Your eyes land upon a glowing portal that must
+have been hidden in the steam and smoke...
+A pile of steel coins.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 44V 1X 68.34% 1221C T:24 Exits:S> 
+
+tak all
+You get a pile of steel coins.
+There were 125 coins.
+
+614H 44V 1X 68.34% 1346C T:21 Exits:S> 
+
+enter portal
+Kor the bronze dragon arrives from above.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 43V 1X 68.34% 1346C T:19 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 41V 1X 68.34% 1346C T:17 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 39V 1X 68.34% 1346C T:16 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 37V 1X 68.34% 1346C T:15 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 35V 1X 68.34% 1346C T:14 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 33V 1X 68.34% 1346C T:14 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 31V 1X 68.34% 1346C T:13 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 29V 1X 68.34% 1346C T:13 Exits:ED> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 27V 1X 68.34% 1346C T:12 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 25V 1X 68.34% 1346C T:10 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 23V 1X 68.34% 1346C T:9 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 21V 1X 68.34% 1346C T:8 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 19V 1X 68.34% 1346C T:8 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 17V 1X 68.34% 1346C T:7 Exits:ED> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 15V 1X 68.34% 1346C T:6 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 13V 1X 68.34% 1346C T:6 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 11V 1X 68.34% 1346C T:5 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 9V 1X 68.34% 1346C T:5 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 7V 1X 68.34% 1346C T:4 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 5V 1X 68.34% 1346C T:4 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 3V 1X 68.34% 1346C T:3 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 1V 1X 68.34% 1346C T:2 Exits:ND> 
+
+n
+You are too exhausted.
+
+614H 1V 1X 68.34% 1346C T:1 Exits:ND> 
+
+r
+You rest your tired bones but stay aloft.
+
+614H 1V 1X 68.34% 1346C T:1 Exits:ND> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 68.34% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 31(142) movement points.
+Your behaviour has been Good.
+Your fervent faith is confident and strong.
+You have scored 179,999,999 exp, and have 1346(209947) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 30 minute(s).
+You have been playing for 4 day(s), 21 hour(s) and 9 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are resting.
+You are flying.
+You are affected by the following:
+    bless                [12 hrs]
+    holy arms            [7 hrs]
+    sanctuary            [4 hrs]
+    detect invisibility
+    aura of glory        [3 hrs]
+
+614H 31V 1X 68.34% 1346C T:60 Exits:ND> 
+
+st
+You stand up.
+
+614H 31V 1X 68.34% 1346C T:57 Exits:ND> 
+
+ma
+With a deep sigh, you decide to march.
+
+614H 31V 1X 68.34% 1346C T:56 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 29V 1X 68.34% 1346C T:55 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 29V 1X 68.34% 1346C T:52 Exits:NESW> 
+With a deep sigh, you decide to march.
+
+614H 29V 1X 68.34% 1346C T:52 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 27V 1X 68.34% 1346C T:50 Exits:ED> 
+
+ma
+ma
+You decide to halt.
+
+614H 27V 1X 68.34% 1346C T:47 Exits:ED> 
+
+With a deep sigh, you decide to march.
+
+614H 27V 1X 68.34% 1346C T:47 Exits:ED> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 25V 1X 68.34% 1346C T:47 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 25V 1X 68.34% 1346C T:45 Exits:NESW> 
+
+With a deep sigh, you decide to march.
+
+614H 25V 1X 68.34% 1346C T:44 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 23V 1X 68.34% 1346C T:43 Exits:WD> 
+
+ma
+ma
+You decide to halt.
+
+614H 23V 1X 68.34% 1346C T:41 Exits:WD> 
+
+With a deep sigh, you decide to march.
+
+614H 23V 1X 68.34% 1346C T:41 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 21V 1X 68.34% 1346C T:40 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 21V 1X 68.34% 1346C T:39 Exits:NESW> 
+
+With a deep sigh, you decide to march.
+
+614H 21V 1X 68.34% 1346C T:39 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 19V 1X 68.34% 1346C T:38 Exits:ND> 
+
+ma
+ma
+You decide to halt.
+
+614H 19V 1X 68.34% 1346C T:35 Exits:ND> 
+With a deep sigh, you decide to march.
+
+614H 19V 1X 68.34% 1346C T:35 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 17V 1X 68.34% 1346C T:35 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 17V 1X 68.34% 1346C T:33 Exits:NESW> 
+With a deep sigh, you decide to march.
+
+614H 17V 1X 68.34% 1346C T:33 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 15V 1X 68.34% 1346C T:32 Exits:ND> 
+
+ma
+ma
+You decide to halt.
+
+614H 15V 1X 68.34% 1346C T:31 Exits:ND> 
+With a deep sigh, you decide to march.
+
+614H 15V 1X 68.34% 1346C T:31 Exits:ND> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 13V 1X 68.34% 1346C T:30 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 13V 1X 68.34% 1346C T:29 Exits:NESW> 
+With a deep sigh, you decide to march.
+
+614H 13V 1X 68.34% 1346C T:29 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 11V 1X 68.34% 1346C T:28 Exits:WD> 
+
+ma
+ma
+You decide to halt.
+
+614H 11V 1X 68.34% 1346C T:27 Exits:WD> 
+
+With a deep sigh, you decide to march.
+
+614H 11V 1X 68.34% 1346C T:27 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 9V 1X 68.34% 1346C T:26 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 9V 1X 68.34% 1346C T:25 Exits:NESW> 
+With a deep sigh, you decide to march.
+
+614H 9V 1X 68.34% 1346C T:25 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 7V 1X 68.34% 1346C T:24 Exits:WD> 
+
+ma
+ma
+You decide to halt.
+
+614H 7V 1X 68.34% 1346C T:23 Exits:WD> 
+With a deep sigh, you decide to march.
+
+614H 7V 1X 68.34% 1346C T:23 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 5V 1X 68.34% 1346C T:22 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 5V 1X 68.34% 1346C T:20 Exits:NESW> 
+
+With a deep sigh, you decide to march.
+
+614H 5V 1X 68.34% 1346C T:20 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 3V 1X 68.34% 1346C T:19 Exits:WD> 
+
+ma
+ma
+You decide to halt.
+
+614H 3V 1X 68.34% 1346C T:18 Exits:WD> 
+With a deep sigh, you decide to march.
+
+614H 3V 1X 68.34% 1346C T:18 Exits:WD> 
+
+w
+Kor the bronze dragon arrives from the east.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 1V 1X 68.34% 1346C T:17 Exits:NESW> 
+
+r
+You rest your tired bones but stay aloft.
+
+614H 1V 1X 68.34% 1346C T:16 Exits:NESW> 
+
+st
+You stand up.
+
+614H 1V 1X 68.34% 1346C T:15 Exits:NESW> 
+
+c 's e'
+You utter the words, 'summon elixir'
+Your god grants you elixir for your loyal service.
+
+614H 1V 1X 68.34% 1346C Mem:1 T:14 Exits:NESW> 
+
+r
+dri elixir
+You rest your tired bones but stay aloft.
+
+614H 1V 1X 68.34% 1346C Mem:1 T:10 Exits:NESW> 
+
+The elixir warms your body as it flows through your veins.
+You do not feel thirsty.
+You are full.
+
+614H 1V 1X 68.34% 1346C Mem:1 T:10 Exits:NESW> 
+
+dri elixir
+Your stomach can't contain anymore!
+
+614H 1V 1X 68.34% 1346C Mem:1 T:7 Exits:NESW> 
+
+put 1000 coins bag
+You put a very large pile of coins in a bag of shadows.
+
+614H 1V 1X 68.34% 346C Mem:1 T:1 Exits:NESW> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+
+614H 31V 1X 68.34% 346C T:60 Exits:NESW> 
+
+st
+You stand up.
+
+614H 31V 1X 68.34% 346C T:59 Exits:NESW> 
+
+ma
+ma
+You decide to halt.
+
+614H 31V 1X 68.34% 346C T:57 Exits:NESW> 
+With a deep sigh, you decide to march.
+
+614H 31V 1X 68.34% 346C T:57 Exits:NESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 29V 1X 68.34% 346C T:56 Exits:SD> 
+
+d
+Kor the bronze dragon arrives from above.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 27V 1X 68.34% 346C T:53 Exits:UD> 
+
+d
+Kor the bronze dragon arrives from above.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 25V 1X 68.34% 346C T:51 Exits:UD> 
+
+d
+Kor the bronze dragon arrives from above.
+A Hellish Spiral
+    The smoke and steam continue to invade every room, and you can hardly
+see to find your way around. The feeling of evil persists, and the hairs on
+the back of your neck rise. The atmosphere makes you exceedingly nervous,
+and you are careful to watch for any signs of this evil foe...
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 23V 1X 68.34% 346C T:50 Exits:NU> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Nether Regions of Hell
+    Here it is so extraordinarily evil that you feel as if you could go mad
+at any second. The chaos is overwhelming, and you know that there are evil
+creatures surrounding you, waiting to attack. Then, from the recesses of
+another glowing portal, steps an awe-inspiring hell-hound with three heads,
+each snarling a challenge.
+Kor the bronze dragon is standing here, awaiting a rider.
+You sense a life form.
+A snarling hellhound slowly fades into existence.
+A snarling hellhound comes out of hiding.
+A snarling hellhound spins and tries to kick Kor the bronze dragon, but Kor the bronze dragon dodges out of the way.
+
+614H 21V 1X 68.34% 346C T:49 Exits:S> 
+
+
+A snarling hellhound misses Kor the bronze dragon with its smite.
+Kor the bronze dragon hits a snarling hellhound.
+
+614H 21V 1X 68.34% 346C T:48 Exits:S> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a snarling hellhound with your stab.
+
+614H 21V 1X 68.34% 346C [Kor the bronze dragon:Perfect] [a snarling hellhound:Fair] T:48 Exits:S> 
+
+resc
+
+You stab a snarling hellhound very hard.
+A snarling hellhound misses you with its smite.
+Kor the bronze dragon barely hits a snarling hellhound.
+
+614H 21V 1X 68.34% 346C [Zargothrax:Perfect] [a snarling hellhound:Bad] T:44 Exits:S> 
+
+You rescue yourself from certain death.
+
+614H 21V 1X 68.34% 346C [Zargothrax:Perfect] [a snarling hellhound:Bad] T:43 Exits:S> 
+
+av l
+You mess up the targetting and focus on the torso instead.
+You focus your purity on a snarling hellhound's body!
+
+614H 21V 1X 68.34% 346C [Zargothrax:Perfect] [a snarling hellhound:Bad] T:42 Exits:S> 
+
+str
+
+A snarling hellhound hits you with a lightning breath.
+
+610H 21V 1X 68.34% 346C [Zargothrax:V.Good] [a snarling hellhound:Bad] T:41 Exits:S> 
+
+
+A snarling hellhound misses you with its smite.
+You massacre a snarling hellhound with your stab.
+Kor the bronze dragon hits a snarling hellhound hard.
+
+610H 21V 1X 68.34% 346C [Zargothrax:V.Good] [a snarling hellhound:Awful] T:40 Exits:S> 
+
+You attempt to strike at a snarling hellhound with your pike.
+You stab a snarling hellhound extremely hard.
+A snarling hellhound is mortally wounded, and will die soon, if not aided.
+
+610H 21V 1X 68.34% 346C [a snarling hellhound:Dying] T:38 Exits:S> 
+
+
+You obliterate a snarling hellhound with your stab.
+You receive 0 experience.
+A snarling hellhound is dead! R.I.P.
+The death cry of a snarling hellhound echoes from somewhere nearby...
+
+610H 21V 1X 68.59% 346C T:36 Exits:S> 
+
+take all corpse
+You get a large pile of coins from the corpse of a snarling hellhound.
+There were 178 coins.
+You are zapped by an emerald choker and instantly drop it.
+
+610H 21V 1X 68.59% 524C T:34 Exits:S> 
+
+enter portal
+Kor the bronze dragon arrives from above.
+The Entrance to Hjor's Arena
+    Before you is a gigantic, hexagonal structure, topped with a clear
+dome. As you stare at it, it strikes you that you feel much smaller in
+stature, and almost impotent. The walls of this building are made of large
+blocks of jet black marble, with green veins running through them. There is
+a plaque on the outside wall, to the right of the arched entryway.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+610H 19V 1X 68.59% 524C T:30 Exits:NS> 
+
