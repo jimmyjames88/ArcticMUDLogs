@@ -1,0 +1,18 @@
+Logging started: 05.01.2024 20:51
+brow spiked.ebony
+You browse through the merchandise and notice:
+The greathelm's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'greathelm spiked ebony helm terror'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 360
+
+ Affects  : RESIST_MAGIC  by 11
+ Affects  : healing received by  2%
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 7
+A spiked ebony greathelm of terror is wearable: head.
+
+614H 142V 1X 86.33% 821C T:51 Exits:NESW> 
+

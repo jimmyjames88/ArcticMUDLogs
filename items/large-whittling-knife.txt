@@ -1,0 +1,16 @@
+Logging started: 05.01.2024 20:47
+brow whittling
+You browse through the merchandise and notice:
+The knife's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'knife large whittling'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 4            Value   : 25
+
+ Class    : knife
+ Damage   : 2D6
+A large whittling knife requires knowledge of the skill 'short blades'.
+
+614H 142V 1X 86.33% 821C T:14 Exits:NESW> 
+

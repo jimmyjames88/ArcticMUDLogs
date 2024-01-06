@@ -1,0 +1,25 @@
+Logging started: 05.01.2024 20:45
+brow ceremonial.max
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+614H 138V 1X 86.33% 821C T:38 Exits:NESW> 
+
+brow ceremonial.mace
+You browse through the merchandise and notice:
+The mace is quite beautiful and pristine. (100%)
+A ceremonial crystal mace is of very good quality.
+You feel informed:
+ Object 'mace crystal ceremonial'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 10           Value   : 280
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC
+ Class    : mace
+ Damage   : 3D5
+A ceremonial crystal mace requires knowledge of the skill 'bludgeons'.
+
+614H 138V 1X 86.33% 821C T:37 Exits:NESW> 
+

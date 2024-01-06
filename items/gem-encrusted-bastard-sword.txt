@@ -1,0 +1,19 @@
+Logging started: 05.01.2024 20:45
+brow gem.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A gem encrusted bastard sword is of excellent quality.
+You feel informed:
+ Object 'sword bastard gem encrusted'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: iron
+ Weight   : 20           Value   : 700
+
+ Affects  : HITROLL       by 3
+ Item is  : GLOW ANTI_EVIL
+ Class    : bastard_sword
+ Damage   : 4D5
+A gem encrusted bastard sword requires knowledge of the skill 'two-handed'.
+
+614H 138V 1X 86.33% 821C T:6 Exits:NESW> 
+

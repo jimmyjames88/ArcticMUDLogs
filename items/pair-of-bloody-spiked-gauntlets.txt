@@ -1,0 +1,28 @@
+Logging started: 05.01.2024 20:49
+
+A watchman of Port Balifor leaves north.
+
+614H 142V 1X 86.33% 821C T:33 Exits:NESW> 
+
+brow bloody.spiked
+You browse through the merchandise and notice:
+The gauntlets's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'gauntlets pair spiked bloody'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 200
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by -1
+ Item is  : ANTI_GOOD
+ Restricts: NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+A pair of bloody spiked gauntlets is wearable: hands.
+
+614H 142V 1X 86.33% 821C T:33 Exits:NESW> 
+
+A mouse leaves east.
+
+614H 142V 1X 86.33% 821C T:32 Exits:NESW> 
+

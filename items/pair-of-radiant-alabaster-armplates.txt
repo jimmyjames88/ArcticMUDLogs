@@ -1,0 +1,18 @@
+Logging started: 05.01.2024 20:49
+brow radiant.alabaster
+You browse through the merchandise and notice:
+The stone surface of the armplates is flawless. (99%)
+You feel informed:
+ Object 'armplates radiant alabaster'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: stone
+ Weight   : 7            Value   : 500
+
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+ This object is part of a larger set.
+A pair of radiant alabaster armplates is wearable: arms.
+
+614H 142V 1X 86.33% 821C T:54 Exits:NESW> 
+

@@ -1,0 +1,21 @@
+Logging started: 05.01.2024 20:52
+brow emerald.javelin
+You browse through the merchandise and notice:
+The javelin is quite beautiful as light strikes it. (100%)
+An emerald shafted javelin is of good quality.
+You feel informed:
+ Object 'javelin emerald shafted steel-tipped spear'
+ Item Type: WEAPON      
+ Mat Class: crystal      Material: crystal
+ Weight   : 15           Value   : 250
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : javelin
+ Damage   : 2D8
+An emerald shafted javelin requires knowledge of the skill 'piercers'.
+
+614H 142V 1X 86.33% 821C T:22 Exits:NESW> 
+
