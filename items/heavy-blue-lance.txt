@@ -1,0 +1,22 @@
+Logging started: 07.01.2024 12:45
+brow blue.lanc
+You browse through the merchandise and notice:
+The lance's metallic surface is shiny and new. (100%)
+A heavy blue lance is of fair quality.
+You feel informed:
+ Object 'lance steel blue heavy large'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 25           Value   : 400
+
+ Affects  : HITROLL       by 2
+ Affects  : RESIST_ELECTR by 10
+ Item is  : HUM MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ELECTRICITY
+ Class    : lance
+ Damage   : 4D5
+A heavy blue lance requires knowledge of the skill 'pole arms'.
+
+615H 143V 1X 0.00% 0C T:32 Exits:NESW> 
+

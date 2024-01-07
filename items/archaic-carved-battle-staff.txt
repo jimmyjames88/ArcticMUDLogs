@@ -1,0 +1,22 @@
+Logging started: 07.01.2024 12:44
+brow archaic.staff
+You browse through the merchandise and notice:
+The staff's metallic surface is shiny and new. (100%)
+An archaic carved battle staff is of superb quality.
+You feel informed:
+ Object 'staff archaic carved battle'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 11           Value   : 525
+
+ Affects  : casting level by 3
+ Affects  : LEARN         by 10
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 2D9
+An archaic carved battle staff requires knowledge of the skill 'bludgeons'.
+
+615H 143V 1X 0.00% 0C T:21 Exits:NESW> 
+

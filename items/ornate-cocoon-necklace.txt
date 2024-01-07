@@ -1,0 +1,21 @@
+Logging started: 07.01.2024 12:53
+
+A watchman of Port Balifor arrives from the north.
+
+615H 133V 1X 0.00% 1605C T:5 Exits:NESW> 
+
+brow cocoon.necklace
+You browse through the merchandise and notice:
+The surface of the necklace gleams brightly. (100%)
+You feel informed:
+ Object 'necklace ornate cocoon'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 245
+
+ Affects  : MOVE          by 9
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An ornate cocoon necklace is wearable: neck.
+
+615H 133V 1X 0.00% 1605C T:4 Exits:NESW> 
+

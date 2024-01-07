@@ -1,0 +1,21 @@
+Logging started: 07.01.2024 12:45
+brow black.boots
+You browse through the merchandise and notice:
+The boots appears rough and in perfect condition. (99%)
+You feel informed:
+ Object 'boots leather fine pair black'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 10           Value   : 130
+
+ Affects  : DEX           by 1
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+ Apply    : 4
+A pair of black leather boots is wearable: feet.
+
+The boots appears rough and in perfect condition. (99%)
+Thin-soled black boots is wearable: feet.
+
+615H 143V 1X 0.00% 0C T:40 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 07.01.2024 12:42
+brow seashell.belt
+You browse through the merchandise and notice:
+The belt appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'belt shells seashell seashells'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 5            Value   : 500
+
+ Affects  : SAVING_SPELL  by -1
+ Affects  : SAVING_PARA   by -1
+ Item is  : GLOW MAGIC ANTI_EVIL
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Immune   : IMMUNE_ACID IMMUNE_ELECTRICITY IMMUNE_HEAT
+A belt of seashells is wearable: waist.
+
+593H 131V 1X 0.00% 0C T:9 Exits:NESW> 
+

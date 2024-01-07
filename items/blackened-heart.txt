@@ -1,0 +1,15 @@
+Logging started: 05.01.2024 23:59
+rec lore blackened.heart
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'heart blackened'
+ Item Type: OTHER       
+ Mat Class: natural      Material: organic
+ Weight   : 5            Value   : 60
+
+ Affects  : HEALTH        by 5
+ Item is  : EVIL
+
+614H 128V 1X 89.08% 700C T:5 Exits:NESW> 
+

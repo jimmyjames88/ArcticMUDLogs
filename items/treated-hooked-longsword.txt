@@ -1,0 +1,19 @@
+Logging started: 07.01.2024 12:51
+brow hooked.sword
+You browse through the merchandise and notice:
+The longsword's metallic surface is shiny and new. (100%)
+A treated hooked longsword is of very good quality.
+You feel informed:
+ Object 'longsword treated hooked sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 19           Value   : 360
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : long_sword
+ Damage   : 3D5
+A treated hooked longsword requires knowledge of the skill 'long blades'.
+
+615H 143V 1X 0.00% 0C T:6 Exits:NESW> 
+

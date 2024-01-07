@@ -1,0 +1,27 @@
+Logging started: 07.01.2024 12:47
+
+A watchman of Port Balifor leaves west.
+
+615H 143V 1X 0.00% 0C T:10 Exits:NESW> 
+
+
+A watchman of Port Balifor leaves east.
+
+615H 143V 1X 0.00% 0C T:10 Exits:NESW> 
+
+brow golden.gauntlets
+You browse through the merchandise and notice:
+The surface of the gauntlets is shiny and glitters golden. (98%)
+You feel informed:
+ Object 'gauntlets dwarven golden'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 8            Value   : 150
+
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A pair of golden dwarven gauntlets is wearable: hands.
+
+615H 143V 1X 0.00% 0C T:9 Exits:NESW> 
+

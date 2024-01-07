@@ -1,0 +1,43 @@
+Logging started: 07.01.2024 12:49
+brow rustic.sash
+You browse through the merchandise and notice:
+The sash appears to be brand new. (100%)
+You feel informed:
+ Object 'sash rustic thievery'
+ Item Type: WORN        
+ Mat Class: hide         Material: rawhide
+ Weight   : 3            Value   : 140
+
+ Affects  : RESIST_MAGIC  by 4
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A rustic sash of thievery is wearable: waist.
+
+615H 143V 1X 0.00% 0C T:24 Exits:NESW> 
+
+
+A watchman of Port Balifor arrives from the north.
+A feral cat runs in circles chasing its tail.
+A feral cat purrs contentedly.
+
+615H 143V 1X 0.00% 0C T:23 Exits:NESW> 
+
+
+A feral cat pounces on a piece of dirt.
+
+615H 143V 1X 0.00% 0C T:17 Exits:NESW> 
+
+
+A feral cat runs in circles chasing its tail.
+
+615H 143V 1X 0.00% 0C T:10 Exits:NESW> 
+
+
+A feral cat runs in circles chasing its tail.
+
+615H 143V 1X 0.00% 0C T:5 Exits:NESW> 
+
+
+A watchman of Port Balifor leaves north.
+
+615H 143V 1X 0.00% 0C T:59 Exits:NESW> 
+

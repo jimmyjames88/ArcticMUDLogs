@@ -1,0 +1,31 @@
+Logging started: 07.01.2024 12:46
+
+A feral cat runs in circles chasing its tail.
+A feral cat leaves east.
+
+615H 143V 1X 0.00% 0C T:5 Exits:NESW> 
+
+
+A drunken sailor leaves east.
+
+615H 143V 1X 0.00% 0C T:4 Exits:NESW> 
+
+brow silk.blue.boots
+You browse through the merchandise and notice:
+The boots appears to be soft and brand new. (99%)
+You feel informed:
+ Object 'boots blue silk'
+ Item Type: WORN        
+ Mat Class: cloth        Material: silk
+ Weight   : 4            Value   : 200
+
+ Affects  : MOVE          by 15
+ Affects  : DEX           by 1
+ Affects  : HIT           by 5
+ Affects  : casting level by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOSHAMAN
+A pair of blue silk boots is wearable: feet.
+
+615H 143V 1X 0.00% 0C T:1 Exits:NESW> 
+

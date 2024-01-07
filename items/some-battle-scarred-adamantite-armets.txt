@@ -1,0 +1,30 @@
+Logging started: 07.01.2024 12:54
+brow armets
+You browse through the merchandise and notice:
+The armets's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'armets battle-scarred adamantite battle scarred'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: adamantite
+ Weight   : 8            Value   : 590
+
+ Affects  : HIT           by 10
+ Affects  : RESIST_COLD   by 10
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+ This object is part of a larger set.
+Some battle-scarred adamantite armets is wearable: arms.
+
+615H 143V 1X 0.00% 1605C T:1 Exits:NESW> 
+
+
+The clouds block your view of Solinari.
+The clouds block your view of Lunitari.
+
+615H 143V 1X 0.00% 1605C T:60 Exits:NESW> 
+
+
+A watchman of Port Balifor leaves east.
+
+615H 143V 1X 0.00% 1605C T:59 Exits:NESW> 

@@ -1,0 +1,47 @@
+Logging started: 07.01.2024 12:43
+brow carved.staff
+You browse through the merchandise and notice:
+The surface of the staff gleams brightly. (100%)
+A fossilized carved battle staff is of very good quality.
+You feel informed:
+ Object 'staff fossilized carved battle'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: platinum
+ Weight   : 12           Value   : 340
+
+ Affects  : casting level by 3
+ Affects  : LEARN         by 8
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 3D5
+A fossilized carved battle staff requires knowledge of the skill 'bludgeons'.
+
+The staff's metallic surface is shiny and new. (100%)
+An archaic carved battle staff is of superb quality.
+You feel informed:
+ Object 'staff archaic carved battle'
+ Item Type: WEAPON      
+
+ [return for more, q to stop]
+
+
+ Mat Class: metal        Material: adamantite
+ Weight   : 11           Value   : 525
+
+ Affects  : casting level by 3
+ Affects  : LEARN         by 10
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : staff
+ Damage   : 2D9
+An archaic carved battle staff requires knowledge of the skill 'bludgeons'.
+
+615H 143V 1X 0.00% 0C T:49 Exits:NESW> 
+
+q
+You have to write quit - no less, to quit!
+
+615H 143V 1X 0.00% 0C T:46 Exits:NESW> 
+

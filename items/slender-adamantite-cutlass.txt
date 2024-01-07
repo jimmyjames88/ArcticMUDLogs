@@ -1,0 +1,23 @@
+Logging started: 07.01.2024 12:53
+exam cutlass
+The cutlass's metallic surface is shiny and new. (99%)
+A slender adamantite cutlass is of excellent quality.
+You feel informed:
+ Object 'cutlass sword adamantite slender'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 21           Value   : 250
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 2
+ Item is  : GLOW MAGIC
+ Restricts: NOPALADIN NORANGER NODARK_KNIGHT NOBARBARIAN
+ Class    : main_gauche
+ Damage   : 6D3
+
+A vision fills your mind of a great warrior on the battlefield. He delivers
+a rapid series of attacks against his opponents, leaving them reeling. As
+the loring magic fades, so does the vision.A slender adamantite cutlass requires knowledge of the skill 'short blades'.
+
+615H 133V 1X 0.00% 1605C T:36 Exits:NESW> 
+

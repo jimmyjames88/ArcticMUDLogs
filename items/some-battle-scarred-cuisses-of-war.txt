@@ -1,0 +1,19 @@
+Logging started: 07.01.2024 12:55
+brow cuisses.war
+You browse through the merchandise and notice:
+The cuisses's metallic surface shines brilliantly. (98%)
+You feel informed:
+ Object 'cuisses battle scarred war'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 425
+
+ Affects  : regeneration by  10%
+ Affects  : HIT           by 12
+ Effects  : IMMUNE_DISEASE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+Some battle-scarred cuisses of war is wearable: legs.
+
+615H 143V 1X 0.00% 1605C T:4 Exits:NESW> 
+
