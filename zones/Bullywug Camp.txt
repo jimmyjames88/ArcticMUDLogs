@@ -1,0 +1,3305 @@
+Logging started: 05.01.2024 23:46
+n
+Kor the bronze dragon arrives from the south.
+Traders Street
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze, the occasional flash of white in the sky
+confirms this. The smells and sounds of many horses comes from the east,
+where some wooden stables have been built, while to the west is a
+warehouse.
+Kor the bronze dragon is standing here, awaiting a rider.
+A drunken sailor is attempting to walk back to his ship.
+
+614H 141V 1X 86.33% 764C Mem:2 T:24 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Traders Street
+    The narrow trading street continues to the north, where it leads to the
+docks that provide the town with its revenue. The cry of seabirds is
+carried on the sea breeze. The occasional flash of white in the sky
+confirms the presence of gulls. To the west lies Guild Road, where
+adventurers of many guilds can find training in their arts.
+Kor the bronze dragon is standing here, awaiting a rider.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+A hardened watchman walks through Port Balifor, watching everything closely.
+A hardened watchman walks through Port Balifor, watching everything closely.
+The captain of the watch passes through here, checking for trouble.
+
+614H 140V 1X 86.33% 764C Mem:2 T:24 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+An Intersection
+    Heavy traffic flows in all directions through this intersection. Early
+in the morning, fishermen are heading out to pursue the day's catch in the
+Balifor Sea. The fortunate return in the afternoon and head east to the
+cannery offices. The unfortunate wearily trudge south in search of a warm
+fire and a pint. Travellers heading to and from the north think of long
+treks.
+Kor the bronze dragon is standing here, awaiting a rider.
+A drunken sailor steadies himself as he tries to stagger back to his boat.
+
+614H 139V 1X 86.33% 764C Mem:2 T:23 Exits:NESW> 
+
+n
+
+A drunken sailor leaves west.
+
+614H 139V 1X 86.33% 764C Mem:2 T:22 Exits:NESW> 
+Kor the bronze dragon arrives from the south.
+The North Gate of Port Balifor
+    Tired and weary, you drag your aching feet along the narrow road that
+passes through the north gate of Balifor. A tall city wall surrounds the
+port on its three open sides, an indication of its trading wealth and
+prosperous people. The sea off Balifor is reputedly vicious for the
+inexperienced, defending the town well.
+Kor the bronze dragon is standing here, awaiting a rider.
+A feral cat parades her territory and sniffs your leg.
+A muscular watchman quietly patrols the streets of Port Balifor.
+A young kender stands here, looking about curiously.
+A watchman stands here, guarding the gates of Port Balifor.
+A watchman stands here, guarding the gates of Port Balifor.
+
+614H 138V 1X 86.33% 764C Mem:2 T:22 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+Before the Gates of Balifor
+    This long and dusty road ends south at the port of Balifor, a busy
+trading centre for Krynn. All travellers are welcome in Port Balifor but
+one must remain wary of the constant flow of smugglers and thieves that
+call this town home. Known for its bawdy taverns, black markets and
+expansive slums, Balifor is not a place for the meek.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 136V 1X 86.33% 764C Mem:2 T:21 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Road To Port Balifor
+    This long and dusty road leads south to the port of Balifor, a busy
+trading centre for Krynn. All travellers are welcome in Port Balifor but
+one must remain wary of the constant flow of smugglers and thieves that
+call this town home. Known for its bawdy taverns, black markets and
+expansive slums, Balifor is not a place for the meek.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 86.33% 764C Mem:2 T:20 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Road to Port Balifor
+    Dry, yellow, parched grasses expand all around you. Hot winds goad the
+few trees that brave the heat of the relentless summer suns, and several
+travelers rest in the shade of these large hardwoods. You can see the
+sturdy walls of Port Balifor to the south, and the smell of the sea is
+strong in the air, the glittering, placid waters of the Bay of Balifor
+being visible to the west.  Curving north and to the west, the dusty
+road continues along the rolling plains.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 132V 1X 86.33% 764C Mem:2 T:20 Exits:NES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Branch Off the Main Road
+    An intersection is due west, where a large highway leads into the
+bustling port city of Port Balifor just to the south and on to the west
+through the lands of Khur. The road leads also east, becoming more of a
+path, through the Balifor Steppes towards the eastern lands of Ansalon.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 130V 1X 86.33% 764C Mem:2 T:19 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Cutting Across the Balifor Steppes
+    With the hustle and bustle of Balifor to your west, you find yourself
+at the edge of the desert plains. The road beneath your feet is nothing
+more than packed dirt, created over the years by the thousands of
+travellers that have walked this path before you. Sparse vegetation and a
+lack of trees make your journey a rather mundane one. A faint breeze
+rustles the high grass around the road and ruffles your hair.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 128V 1X 86.33% 764C Mem:2 T:19 Exits:NEW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arid Steppes
+    The lack of moisture in the air sends you searching for your water.
+Scuffling your feet as you trudge along sends dust plumes into the air,
+causing you to squint. The monotonous plains stretch out before you, and
+your unchanging surroundings lull you into a very relaxed state. The path
+continues to the east and south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 126V 1X 86.33% 764C Mem:2 T:18 Exits:ES> 
+
+n
+Alas, you cannot go that way...
+
+614H 126V 1X 86.33% 764C Mem:2 T:17 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Arid Steppes
+    The grass around you is long and yellowed, making you wonder what the
+land would look like if it rained more often. Looking at the dirt road you
+walk on, you decide a firm road is desired more than the alternative of a
+muddy track. Humming softly, you continue on your journey. The path leads
+north and west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 124V 1X 86.33% 764C Mem:2 T:17 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Barren Steppes
+    Looking around, you are amazed to see...more grass. The terrain is
+constant, with little change that you can see. If there is any life in
+these plains, you've seen no sign of it. You idly pluck a nearby strand of
+grass, rolling it between your fingers. A light wind swirls in the air, and
+you continue on. The road runs north and south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 122V 1X 86.33% 764C Mem:2 T:15 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Path Splits
+    You have reached a crossroads of sorts. A small path leads off to the
+east here, and looking in that direction you can barely make out what
+appears to be a crude settlement. Smoke rises in the air and the smell of
+food makes your stomach rumble. Somewhere to the south lies the port town
+of Balifor.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 120V 1X 86.33% 764C Mem:2 T:14 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Arid Plains
+    The plains around you have definitely lost their luster. While once you
+may have thought it serene and peaceful, you are now trying to remember
+what trees look like. Slight smoke trails rise into the air to the south
+east, indicating that there is some sort of life here. The road continues
+to the east and south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 118V 1X 86.33% 764C Mem:2 T:8 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+Cutting Across the Balifor Steppes
+    The unchanging plains span the horizon. Your surroundings blur as you
+concentrate on placing one foot in front of the other. The ruts in the road
+created by some traveling wagon parallel your steps and provide some
+distraction for you. The path runs east and west here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 116V 1X 86.33% 764C Mem:2 T:7 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Crossing the Balifor Steppes
+    The monotony of the grassy plains is broken somewhat by the undeniable
+signs of life to the north. In the distance, you can see a small town, with
+smoke rising from the numerous chimneys there. To the west, the steppes
+continues, and the endless sea of yellow grass ripples with the breeze. You
+can travel north and west here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 114V 1X 86.33% 764C Mem:2 T:6 Exits:NW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Outside a Quaint Town
+    A well-traveled path leads into a scenic town to the north here. You
+can hear children playing and a pleasant aroma hangs in the air. Your weary
+feet long for a break, and the thought of a warm fire and a cold mug of ale
+makes you debate the merits of a quick stop. A small sign is planted in the
+ground here. The long road continues, with Balifor far to the south and
+Kendermore in the distant northeast.
+A wooden signpost has been hammered into the ground here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A kitten plays with some dust bunnies.
+
+614H 112V 1X 86.33% 764C Mem:2 T:3 Exits:NES> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Balifor Steppes
+    The dirt path you walk on is the only blemish on an otherise uniform
+landscape. To the northwest, a small town is visible, and the change of
+scenery is welcome. Looking south, the grass gradually becomes greener, a
+sure sign of a milder climate. Picking up your feet, you increase your
+pace, wanting to see what the next turn in the path will bring. The road
+leads west and south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 86.33% 764C Mem:2 T:2 Exits:SW> 
+
+e
+Alas, you cannot go that way...
+
+614H 110V 1X 86.33% 764C Mem:2 T:2 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Nearing the Fertile Plains
+    In contrast to the Balifor Steppes, the grass here is greener,
+obviously the product of a more temperate climate. The sweet smell of new
+grass fills your nostrils, inspiring you with a newfound vigor for your
+journey. To the north, the grassy plains become more yellow, an unwelcome
+change.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 108V 1X 86.33% 764C Mem:2 T:1 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Verdant Plains
+    The lush plant growth is overwhelming, threatening to overcome the path
+you walk on. A flock of birds suddenly take to flight as some unseen animal
+rustles through the grass. A small rivulet crosses the road here and you
+look in dismay at your muddy boots. The land around you is very flat, and
+the expanse of greenery spans in all directions.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 106V 1X 86.33% 764C Mem:2 T:1 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Through the Flowing Grasses
+    The path cuts through the vibrant grass here. The grass is so thick
+that any attempt to stray from the road would require a great deal of
+cutting. The air is fairly moist, resulting in some uncomfortably damp
+undergaments. Peering into the grass, you see a set of eyes staring back at
+you, but as you blink they are gone.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 128V 1X 86.33% 764C Mem:1 T:60 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Moving Through the Verdant Plains
+    Swatting at a mosquito, you are thankful for the nearby birds who feast
+on these pests. A soft breeze cools your face, and you relish the sweet
+smell it carries. A small creek flows to the south, creating a picturesque
+environment. The path runs east and west here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 126V 1X 86.33% 764C Mem:1 T:59 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Nearing the Woods
+    The lush grassy plains to the west of here gradually give way to a
+dense forest to the east. Sparse trees have sprung up, growing haphazardly
+here on the outskirts of the forest. A squirrel looks down from its perch
+on a tree branch, unsure of your intentions. A doe and her fawn eye you
+warily and then go about their foraging.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 124V 1X 86.33% 764C Mem:1 T:59 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Before the Wendle Woods
+    The path becomes less distinguished here, as it winds its way between
+the trunks of large trees. Leaves and needles are scattered beneath your
+feet, and the sound of breaking twigs rings loudly in your ears. The trees
+are thick enough that the dark canopy above you allows only a dim light to
+pass through. A large tree lies to the east, blocking your movement in that
+direction. A seldom-used path lies to the north, leading off into the
+darkness. The main road leads south, deeper into the forest, and west
+towards the Verdant Plains.
+A wooden signpost has been hammered into the ground here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 122V 1X 86.33% 764C Mem:1 T:58 Exits:NSW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Wendle Woods
+    The trail through the woodlands reaches a fork to the north, where the
+path breaks out of the woods at the edge of the Verdant Plains. The path
+leads south through the woods, meandering around the great trunks of maples
+and pine to destinations unknown.
+Kor the bronze dragon is standing here, awaiting a rider.
+A woodchuck runs along the ground.
+
+614H 120V 1X 86.33% 764C Mem:1 T:57 Exits:NS> 
+
+s
+Kor the bronze dragon arrives from the north.
+Cutting Across the Wendle Woods
+    The path curves around a great tree to the south, leading deeper into
+the woodlands. The sounds of birds break through the air, filling the woods
+with a cheery sound. The path leads off to the east, where the trees grow
+more thickly along the path, darkening the way and north through the light
+woodlands.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 118V 1X 86.33% 764C Mem:1 T:57 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Woods Thicken
+    The trees grow more dense to the east, making the woods darker and more
+foreboding, while thinning to the west. The road follows the course of the
+wooded area. The air is filled with the sounds of wildlife. Along the
+trunks of the trees, ferns and moss cover the forest floor.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 116V 1X 86.33% 764C Mem:1 T:56 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Wendle Woods
+    The chirping of birds is a symphony of peace in the cheerful woods. The
+road casually meanders around the trunks of the maples and oaks that fill
+the woodland. The road leads north towards the edge of the woodlands and
+east towards the heart of the forest.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small robin hops around in the bushes.
+A small robin hops around in the bushes.
+
+614H 114V 1X 86.33% 764C Mem:1 T:55 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Darkening Woods
+    The woods become more dense, the trees blocking out more of the
+sunlight that filters down through the foliage. The atmosphere is still
+friendly, the sounds of birds chirping fills the air and some squirrels can
+be seen playing amongst the lower bowels of a maple tree to the north.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 112V 1X 86.33% 764C Mem:1 T:55 Exits:SW> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Middle of the Woods
+    The path branches here, leading north towards the edge of the woods and
+the Verdant Plains, west into the denser forests known as Beast's Run and
+east towards the woodland marshes. The sounds of wildlife can be heard from
+the first two options, but the east is eerily somber.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 86.33% 764C Mem:1 T:54 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Wendle Woods
+    The woods thicken to the east, while growing bright and cheerful to the
+west. The air is filled with the vibrant sounds of wildlife, birds chirping
+and the occassional crack of a branch as an animal moves through the
+forest. The path forks immediately to the west, while leading into the
+darker forests to the east. South is a small trail, heading off into the
+woods.
+A wooden signpost has been hammered into the ground here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A small robin hops around in the bushes.
+
+614H 108V 1X 86.33% 764C Mem:1 T:50 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Before the Marsh
+    The woods of the west turn into a spongy marsh the further east it
+grows. Bright maple and oak trees give way to cypress and spruce, their
+trunks covered in moss. The sounds of birds and wildlife are vibrant to the
+east, while quieting down into the still eerie quiet of the swampland
+predators. The road leads to the safer regions to the west, while cutting
+through the heart of the marsh east.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 106V 1X 86.33% 764C Mem:1 T:48 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Through a Swampy Forest
+    The forest rises up around you, tall spruce trees mixed with cypress
+and willow. Water spangles cover the murky water, helping to provide cover
+for the various predators of the forest. The main road rises towards the
+west leading deeper into the woods and south into the swampy marshlands. A
+small side path leads north into the swamp.
+A wooden signpost has been hammered into the ground here.
+Kor the bronze dragon is standing here, awaiting a rider.
+A marsh hawk wings about, looking for prey.
+
+614H 104V 1X 86.33% 764C Mem:1 T:47 Exits:NSW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Edge of a Marsh
+    You stand at the edge of a large swampy marsh that extends north for as
+far as you can see, which isn't far with all the mists coming off the
+water. South leads back to the path you came in from and seems a pretty
+good idea now that you've seen a glimpse of what lies ahead.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 102V 1X 86.33% 764C Mem:1 T:45 Exits:NS> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Large Marsh
+    The marsh stretches east and north of here with but a scant bit of
+seemingly dry ground to the south. The ground here is soggy and nearly
+water itself, judging from its density under your feet. In fact the ground
+nearly seems to undulate and you feel more like your on a raft than firm
+soil. The mists of the surrounding marsh leave trailers here, their
+vaporous fingers seemingly seeking you out and leaving you uncomfortably
+damp and cold.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 100V 1X 86.33% 764C Mem:1 T:44 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh. Signs of a small path can be barely made out here and
+there, leading northward.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large crocodile moves slowly through the marsh.
+
+614H 98V 1X 86.33% 764C Mem:1 T:43 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh. A small trail, almost overgrown by the surrounding
+marsh, leads east and south here. It doesn't seem heavily travelled and
+certainly gives no indication as to its destination within the enveloping
+mists.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large water snake moves quickly through the reeds of the marsh.
+
+614H 96V 1X 86.33% 764C Mem:1 T:42 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large crocodile moves slowly through the marsh.
+
+614H 94V 1X 86.33% 764C Mem:1 T:41 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large water snake moves quickly through the reeds of the marsh.
+
+614H 92V 1X 86.33% 764C Mem:1 T:40 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 90V 1X 86.33% 764C Mem:1 T:39 Exits:ESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Large Marsh
+    The mists cover the ground here and you can barely make out your own
+hands clearly let alone the surrounding landscape. Sounds of life come from
+all around you, but they too are hidden in the dense vaporous fog that
+blankets the marsh. A small trail travels north and south here, leading off
+into the mists. Looking northward, you suddenly catch sight of a pair of
+large poles bordering the trail.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 88V 1X 86.33% 764C Mem:1 T:39 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Small Path Past the Marsh
+    A small trail leads through the surrounding trees that have sprung up
+in this area that borders the marsh to the south. The trail seems heavily
+travelled, but the footprints marking it look strange. To the north, you
+can hear sounds of movement and you begin to feel watched from the
+surrounding landscape.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 86V 1X 86.33% 764C Mem:1 T:38 Exits:NES> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 86.33% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 86(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 764(215440) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 5 minute(s).
+You have been playing for 4 day(s), 23 hour(s) and 42 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You barely feel the weight of your items.
+You are standing.
+You are flying.
+You are affected by the following:
+    sanctuary            [6 hrs]
+    holy arms            [9 hrs]
+    aura of glory        [18 hrs]
+    bless                [13 hrs]
+    detect invisibility
+
+614H 86V 1X 86.33% 764C Mem:1 T:35 Exits:NES> 
+
+n
+Kor the bronze dragon arrives from the south.
+Entrance to a Small Village
+    You find yourself at the entrance to a small village. Through the mists
+you can make out short, squat huts made from mud and sticks that stretch
+along a main thoroughfare to the north and end here before a small trail
+that heads south.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 84V 1X 86.33% 764C Mem:1 T:32 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Long Path Through the Village
+    This pathway leads north and south through the village, bordered on
+either side by crude mud huts. No windows adorn the huts through which to
+look inside, but the absence of doors within their empty archways seems to
+render such activities a waste of time.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 82V 1X 86.33% 764C Mem:1 T:29 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Center of the Village
+    You find yourself in what seems to be the center of this crude village.
+A large mound of earth rises up within the northern section of it and is
+surmounted by a trio of large poles from which hang forms that you can't
+make out at a casual glance. Paths lead off in all four directions from
+here, but you are unable to tell to where as the mists that plague this
+land close off any long range view.
+Kor the bronze dragon is standing here, awaiting a rider.
+A frogfaced man moves about the village. (black aura)
+A bullywug tries to sweep Kor the bronze dragon's legs, but misses badly.
+
+614H 80V 1X 86.33% 764C Mem:1 T:28 Exits:NESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a bullywug extremely hard.
+
+614H 80V 1X 86.33% 764C [Kor the bronze dragon:Perfect] [a bullywug:Good] Mem:1 T:27 Exits:NESW> 
+
+ral
+
+You stab a bullywug extremely hard.
+A bullywug misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a bullywug.
+
+614H 80V 1X 86.33% 764C [Kor the bronze dragon:Perfect] [a bullywug:Bad] Mem:1 T:24 Exits:NESW> 
+
+str
+You yell and inspire your companions to fight harder!
+
+614H 80V 1X 86.33% 764C [Kor the bronze dragon:Perfect] [a bullywug:Bad] Mem:1 T:22 Exits:NESW> 
+
+
+A bullywug is hit by Kor the bronze dragon's lightning breath.
+
+614H 80V 1X 86.33% 764C [Kor the bronze dragon:Perfect] [a bullywug:V.Bad] Mem:1 T:21 Exits:NESW> 
+
+
+You massacre a bullywug with your stab.
+A bullywug misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a bullywug very hard.
+A bullywug is incapacitated and will slowly die, if not aided.
+
+614H 80V 1X 86.33% 764C [a bullywug:Dying] Mem:1 T:20 Exits:NESW> 
+
+You attempt to strike at a bullywug with your pike.
+You obliterate a bullywug with your stab.
+You receive 0 experience.
+A bullywug is dead! R.I.P.
+
+614H 80V 1X 86.33% 764C [a bullywug:Dying] Mem:1 T:18 Exits:NESW> 
+
+
+The death cry of a bullywug echoes from somewhere nearby...
+
+614H 80V 1X 86.33% 764C Mem:1 T:18 Exits:NESW> 
+
+take all corpse
+You get a crude long sword from the corpse of a bullywug.
+You get a pile of coins from the corpse of a bullywug.
+There were 10 coins.
+
+614H 80V 1X 86.33% 774C Mem:1 T:11 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Before a Primitive Temple
+    You find yourself before the remains of an ancient primitive temple.
+The bullywugs have added a set of large doors to it here, but seem to have
+done little else in terms of upkeep. A putrid stench flows in from the west
+and exits to the south and east extend from here as well.
+Kor the bronze dragon is standing here, awaiting a rider.
+A frogfaced man moves about the village. (black aura)
+A large frogfaced man searches the area. (black aura)
+A frogfaced man, outrageously covered in feathers and beads, stands here. (black aura)
+A bullywug misses Kor the bronze dragon with his hit.
+A bullywug guard stumbles and falls while trying to bash Kor the bronze dragon.
+The bullywug shaman focuses harshly on Kor the bronze dragon and utters some strange words.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+
+614H 78V 1X 86.33% 774C Mem:1 T:10 Exits:(N)ESW> 
+
+
+The bullywug shaman misses Kor the bronze dragon with his hit.
+A bullywug guard barely hits Kor the bronze dragon.
+A bullywug misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a bullywug.
+
+614H 78V 1X 86.33% 774C Mem:1 T:8 Exits:(N)ESW> 
+
+order kor ass
+
+614H 78V 1X 86.33% 774C Mem:1 T:8 Exits:(N)ESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a bullywug extremely hard.
+
+614H 78V 1X 86.33% 774C [Kor the bronze dragon:V.Good] [a bullywug:Fair] Mem:1 T:5 Exits:(N)ESW> 
+
+
+You find an opening in a bullywug's armor and drive your pike there.
+You massacre a bullywug with your stab.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+A bullywug guard misses Kor the bronze dragon with his hit.
+A bullywug misses Kor the bronze dragon with his hit.
+Kor the bronze dragon misses a bullywug with his hit.
+
+614H 78V 1X 86.33% 774C [Kor the bronze dragon:V.Good] [a bullywug:V.Bad] Mem:1 T:4 Exits:(N)ESW> 
+reck
+
+ral
+str
+
+A bullywug stumbles and falls while trying to bash Kor the bronze dragon.
+A bullywug misses you with his hit.
+
+614H 78V 1X 86.33% 774C [Zargothrax:Perfect] [a bullywug:V.Bad] Mem:1 T:2 Exits:(N)ESW> 
+
+A bullywug misses you with his hit.
+You massacre a bullywug with your stab.
+A bullywug is incapacitated and will slowly die, if not aided.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+A bullywug guard hits Kor the bronze dragon.
+Kor the bronze dragon massacres a bullywug with his hit.
+You receive 0 experience.
+A bullywug is dead! R.I.P.
+The death cry of a bullywug echoes from somewhere nearby...
+Your studies complete, you close your prayerbook with a smile.
+A godly anger burns within you, let the heretics feel your wrath!
+
+614H 102V 1X 86.33% 774C T:60 Exits:(N)ESW> 
+You are not fighting.
+
+614H 102V 1X 86.33% 774C T:60 Exits:(N)ESW> 
+You couldn't find what you were looking for.
+
+614H 102V 1X 86.33% 774C T:60 Exits:(N)ESW> 
+
+
+A bullywug guard stands up.
+
+614H 102V 1X 86.33% 774C T:60 Exits:(N)ESW> 
+
+
+The bullywug shaman laughs and jeers at Kor the bronze dragon, making a fool of himself.
+
+614H 102V 1X 86.33% 774C T:59 Exits:(N)ESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You annihilate a bullywug guard with your stab.
+
+614H 102V 1X 86.33% 774C [Kor the bronze dragon:Perfect] [a bullywug guard:Fair] T:58 Exits:(N)ESW> 
+
+str
+
+You massacre a bullywug guard with your stab.
+Kor the bronze dragon hits a bullywug guard hard.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+A bullywug guard misses Kor the bronze dragon with his hit.
+
+614H 102V 1X 86.33% 774C [Kor the bronze dragon:Perfect] [a bullywug guard:Bad] T:56 Exits:(N)ESW> 
+
+A bullywug guard gives Kor the bronze dragon a solid punch in the face.
+You attempt to strike at a bullywug guard with your pike.
+You massacre a bullywug guard with your stab.
+
+614H 102V 1X 86.33% 774C [Kor the bronze dragon:V.Good] [a bullywug guard:Awful] T:54 Exits:(N)ESW> 
+
+
+You find an opening in a bullywug guard's armor and drive your pike there.
+You massacre a bullywug guard with your stab.
+A bullywug guard is incapacitated and will slowly die, if not aided.
+Kor the bronze dragon annihilates a bullywug guard with his hit.
+You receive 0 experience.
+A bullywug guard is dead! R.I.P.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+The death cry of a bullywug guard echoes from somewhere nearby...
+
+614H 102V 1X 86.33% 774C T:52 Exits:(N)ESW> 
+
+take all corpse
+You get an old brass breastplate from the corpse of a bullywug guard.
+You get a pile of coins from the corpse of a bullywug guard.
+There were 22 coins.
+
+614H 102V 1X 86.33% 796C T:49 Exits:(N)ESW> 
+
+
+Kor the bronze dragon misses the bullywug shaman with his hit.
+The bullywug shaman misses Kor the bronze dragon with his hit.
+
+614H 102V 1X 86.33% 796C T:48 Exits:(N)ESW> 
+
+tak all 2.corpse
+You get a small hide-covered shield from the corpse of a bullywug.
+You get a pile of coins from the corpse of a bullywug.
+There were 16 coins.
+
+614H 102V 1X 86.33% 812C T:48 Exits:(N)ESW> 
+
+
+The bullywug shaman utters some strange words.
+
+614H 102V 1X 86.33% 812C T:47 Exits:(N)ESW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre the bullywug shaman with your stab.
+
+614H 102V 1X 86.33% 812C [Kor the bronze dragon:V.Good] [the bullywug shaman:Good] T:47 Exits:(N)ESW> 
+
+
+The bullywug shaman is hit by Kor the bronze dragon's lightning breath.
+
+614H 102V 1X 86.33% 812C [Kor the bronze dragon:V.Good] [the bullywug shaman:Fair] T:45 Exits:(N)ESW> 
+av l
+
+
+You stab the bullywug shaman very hard.
+Kor the bronze dragon hits the bullywug shaman hard.
+The bullywug shaman misses you with his hit.
+
+614H 102V 1X 86.33% 812C [Zargothrax:Perfect] [the bullywug shaman:Bad] T:44 Exits:(N)ESW> 
+
+You focus your purity on the bullywug shaman's leg!
+You force the bullywug shaman to the ground.
+
+614H 102V 1X 86.33% 812C [Zargothrax:Perfect] [the bullywug shaman:Bad] T:42 Exits:(N)ESW> 
+
+str
+
+The bullywug shaman misses you with his hit.
+You annihilate the bullywug shaman with your stab.
+Kor the bronze dragon hits the bullywug shaman hard.
+
+614H 102V 1X 86.33% 812C [Zargothrax:Perfect] [the bullywug shaman:Awful] T:40 Exits:(N)ESW> 
+
+You attempt to strike at the bullywug shaman with your pike.
+You massacre the bullywug shaman with your stab.
+
+614H 102V 1X 86.33% 812C [Zargothrax:Perfect] [the bullywug shaman:Dying] T:38 Exits:(N)ESW> 
+
+
+The bullywug shaman misses you with his hit.
+You annihilate the bullywug shaman with your stab.
+You receive 0 experience.
+The bullywug shaman is dead! R.I.P.
+The death cry of the bullywug shaman echoes from somewhere nearby...
+
+614H 102V 1X 86.71% 812C T:36 Exits:(N)ESW> 
+
+take all corpse
+You get a cloak of mangled feathers from the corpse of the bullywug shaman.
+You get a small pile of coins from the corpse of the bullywug shaman.
+There were 8 coins.
+
+614H 102V 1X 86.71% 820C T:34 Exits:(N)ESW> 
+
+s
+Kor the bronze dragon arrives from the north.
+Center of the Village
+    You find yourself in what seems to be the center of this crude village.
+A large mound of earth rises up within the northern section of it and is
+surmounted by a trio of large poles from which hang forms that you can't
+make out at a casual glance. Paths lead off in all four directions from
+here, but you are unable to tell to where as the mists that plague this
+land close off any long range view.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 100V 1X 86.71% 820C T:32 Exits:NESW> 
+
+l 2.corpse
+The corpse looks to be that of a young elven maiden.  She doesn't look
+to have been dead long and you say a silent prayer for her soul.
+
+614H 100V 1X 86.71% 820C T:24 Exits:NESW> 
+
+take all 2.corpse
+You get a small silver wedding band from an elven corpse.
+
+614H 100V 1X 86.71% 820C T:21 Exits:NESW> 
+
+
+A bullywug arrives from the west.
+
+614H 100V 1X 86.71% 820C T:20 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+Before a Primitive Temple
+    You find yourself before the remains of an ancient primitive temple.
+The bullywugs have added a set of large doors to it here, but seem to have
+done little else in terms of upkeep. A putrid stench flows in from the west
+and exits to the south and east extend from here as well.
+The corpse of the bullywug shaman is lying here.
+The corpse of a bullywug guard is lying here.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 98V 1X 86.71% 820C T:18 Exits:(N)ESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Offal Heap
+    Fighting back the stench that rises from it, you look upon an immense
+pile of filth. The bullywugs seem to have created what is probably the
+largest pile of waste you have ever seen and as your eyes tear up from the
+intense smell, you wish you could get away from it as quickly as possible.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 96V 1X 86.71% 820C T:17 Exits:ES> 
+
+rummage
+Your frantic search causes an avalanche of offal to break away from the heap,
+revealing a rotted and moldy acorn.
+
+614H 96V 1X 86.71% 820C T:13 Exits:ES> 
+
+
+Sweat dripping, your anger subsides, your blood cools.
+
+614H 96V 1X 86.71% 820C T:12 Exits:ES> 
+
+take acorn
+You get a rotted and moldy acorn.
+
+614H 96V 1X 86.71% 820C T:9 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+Before a Primitive Temple
+    You find yourself before the remains of an ancient primitive temple.
+The bullywugs have added a set of large doors to it here, but seem to have
+done little else in terms of upkeep. A putrid stench flows in from the west
+and exits to the south and east extend from here as well.
+The corpse of the bullywug shaman is lying here.
+The corpse of a bullywug guard is lying here.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 94V 1X 86.71% 820C T:8 Exits:(N)ESW> 
+
+op door
+Ok.
+
+614H 94V 1X 86.71% 820C T:6 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+An Ancient Temple
+    You stand within the rundown remains of some ancient temple. The
+relentless moisture of the constant mists has crumbled most of the mortar
+and some of the walls look ready to fall at any time. Rubbish and small
+piles of compost litter the corners and crevices of this building. And
+while small torches sit in sockets along the western and eastern walls,
+they do little to add light to the room.
+Kor the bronze dragon is standing here, awaiting a rider.
+A giant tentacled frog squats before you upon a huge pedestal. (black aura)
+A froghemoth misses you with its hit.
+
+614H 92V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Perfect] T:4 Exits:S> 
+
+order kor ass
+Kor the bronze dragon hits a froghemoth.
+
+614H 92V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Good] T:2 Exits:S> 
+
+ral
+Kor the bronze dragon barely hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+You massacre a froghemoth with your stab.
+A rally cry has already been heard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Good] T:60 Exits:S> 
+
+str
+You strike at a froghemoth, but miss it completely.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Good] T:60 Exits:S> 
+
+str
+
+Kor the bronze dragon hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+You stab a froghemoth extremely hard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Good] T:56 Exits:S> 
+
+You strike at a froghemoth, but miss it completely.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Good] T:56 Exits:S> 
+
+str
+
+The rally cry fades.
+Kor the bronze dragon barely hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+You massacre a froghemoth with your stab.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Fair] T:52 Exits:S> 
+
+A froghemoth avoids Kor the bronze dragon's lightning breath.
+You attempt to strike at a froghemoth with your pike.
+You stab a froghemoth extremely hard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Fair] T:51 Exits:S> 
+
+ral
+
+Kor the bronze dragon barely hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+You stab a froghemoth extremely hard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Bad] T:48 Exits:S> 
+
+str
+You yell and inspire your companions to fight harder!
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Bad] T:47 Exits:S> 
+
+
+Kor the bronze dragon hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+You massacre a froghemoth with your stab.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:V.Bad] T:44 Exits:S> 
+
+You attempt to strike at a froghemoth with your pike.
+You stab a froghemoth very hard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Awful] T:43 Exits:S> 
+
+str
+
+Kor the bronze dragon barely hits a froghemoth.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth misses you with its hit.
+A froghemoth dodges your attack!
+You trip and attack Kor the bronze dragon!
+You stab Kor the bronze dragon very hard.
+
+614H 116V 1X 86.71% 820C [Zargothrax:Perfect] [a froghemoth:Awful] T:40 Exits:S> 
+
+You attempt to strike at a froghemoth with your pike.
+You massacre a froghemoth with your stab.
+A froghemoth is mortally wounded, and will die soon, if not aided.
+
+614H 116V 1X 86.71% 820C [a froghemoth:Dying] T:39 Exits:S> 
+
+
+You obliterate a froghemoth with your stab.
+You receive 0 experience.
+A froghemoth is dead! R.I.P.
+The death cry of a froghemoth echoes from somewhere nearby...
+
+614H 116V 1X 87.09% 820C T:36 Exits:S> 
+
+take all corpse
+You get a tarnished silver key on a long string from the corpse of a froghemoth.
+You get a bullywug medallion from the corpse of a froghemoth.
+You get a large pile of coins from the corpse of a froghemoth.
+There were 238 coins.
+
+614H 116V 1X 87.09% 1058C T:34 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+Before a Primitive Temple
+    You find yourself before the remains of an ancient primitive temple.
+The bullywugs have added a set of large doors to it here, but seem to have
+done little else in terms of upkeep. A putrid stench flows in from the west
+and exits to the south and east extend from here as well.
+The corpse of the bullywug shaman is lying here.
+The corpse of a bullywug guard is lying here.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 114V 1X 87.09% 1058C T:32 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Offal Heap
+    Fighting back the stench that rises from it, you look upon an immense
+pile of filth. The bullywugs seem to have created what is probably the
+largest pile of waste you have ever seen and as your eyes tear up from the
+intense smell, you wish you could get away from it as quickly as possible.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 112V 1X 87.09% 1058C T:30 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Large Path
+    This large path leads east and west, with a smaller path breaking off
+and heading northward, from which direction a strong stench comes from. You
+get a sense of great importance as you look to the west, as something large
+seems to be looming from behind the mists.
+Kor the bronze dragon is standing here, awaiting a rider.
+A frogfaced man moves about the village. (black aura)
+A bullywug misses Kor the bronze dragon with his hit.
+
+614H 110V 1X 87.09% 1058C T:29 Exits:NEW> 
+
+
+A bullywug misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a bullywug hard.
+
+614H 110V 1X 87.09% 1058C T:28 Exits:NEW> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You massacre a bullywug with your stab.
+
+614H 110V 1X 87.09% 1058C [Kor the bronze dragon:V.Good] [a bullywug:Fair] T:26 Exits:NEW> 
+
+str
+
+You stab a bullywug extremely hard.
+A bullywug misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a bullywug.
+
+614H 110V 1X 87.09% 1058C [Kor the bronze dragon:V.Good] [a bullywug:V.Bad] T:24 Exits:NEW> 
+
+str
+You attempt to strike at a bullywug with your pike.
+You stab a bullywug extremely hard.
+A bullywug is stunned, but will likely regain consciousness again.
+
+614H 110V 1X 87.09% 1058C [a bullywug:Dying] T:21 Exits:NEW> 
+
+
+You annihilate a bullywug with your stab.
+You receive 0 experience.
+A bullywug is dead! R.I.P.
+The death cry of a bullywug echoes from somewhere nearby...
+
+614H 110V 1X 87.09% 1058C T:20 Exits:NEW> 
+
+take all corpse
+You couldn't find what you were looking for.
+
+614H 110V 1X 87.09% 1058C T:17 Exits:NEW> 
+
+You get a small pile of coins from the corpse of a bullywug.
+There were 8 coins.
+
+614H 110V 1X 87.09% 1066C T:17 Exits:NEW> 
+
+l
+A Large Path
+    This large path leads east and west, with a smaller path breaking off
+and heading northward, from which direction a strong stench comes from. You
+get a sense of great importance as you look to the west, as something large
+seems to be looming from behind the mists.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 110V 1X 87.09% 1066C T:15 Exits:NEW> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Offal Heap
+    Fighting back the stench that rises from it, you look upon an immense
+pile of filth. The bullywugs seem to have created what is probably the
+largest pile of waste you have ever seen and as your eyes tear up from the
+intense smell, you wish you could get away from it as quickly as possible.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 108V 1X 87.09% 1066C T:9 Exits:ES> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Large Path
+    This large path leads east and west, with a smaller path breaking off
+and heading northward, from which direction a strong stench comes from. You
+get a sense of great importance as you look to the west, as something large
+seems to be looming from behind the mists.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 106V 1X 87.09% 1066C T:8 Exits:NEW> 
+
+w
+Kor the bronze dragon arrives from the east.
+Before Several Large Dwellings
+    This large path travels in from the east and branches off north and
+west to a large pair of huts. Strangely colored smoke wafts in from the hut
+to the north and the smell of exotic herbs seems to be carried with it.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 104V 1X 87.09% 1066C T:8 Exits:NESW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Cluttered Hut
+    This hut is filled with small clay jars and pots that line its floor
+and impromptu shelves. A small kettle hangs upon a tripod over a low fire
+in the middle of the room and strangely colored smoke flows from its open
+top. The room smells strangely of roses and garlic, but not so strong as to
+be discomforting.
+Kor the bronze dragon is standing here, awaiting a rider.
+An absurd looking frogfaced man tends the kettle. (black aura)
+Yrogurt focuses harshly on you and utters some strange words.
+Yrogurt misses you with his hit.
+
+614H 102V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Perfect] T:6 Exits:S> 
+
+
+Yrogurt misses you with his hit.
+You stab Yrogurt extremely hard.
+
+614H 102V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Good] T:4 Exits:S> 
+
+order kor ass
+Kor the bronze dragon hits Yrogurt hard.
+
+614H 102V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Good] T:4 Exits:S> 
+
+reck
+Alas, you are not ready yet.
+
+614H 102V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Good] T:3 Exits:S> 
+
+
+Kor the bronze dragon hits Yrogurt hard.
+Yrogurt misses you with his hit.
+You stab Yrogurt extremely hard.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Good] T:60 Exits:S> 
+str
+You attempt to strike at Yrogurt with your pike.
+You massacre Yrogurt with your stab.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Fair] T:60 Exits:S> 
+
+str
+
+Yrogurt focuses harshly on you and utters the words, 'dispel magic'.
+You feel less righteous.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Fair] T:59 Exits:S> 
+
+
+Yrogurt is hit by Kor the bronze dragon's lightning breath.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Bad] T:57 Exits:S> 
+
+
+Kor the bronze dragon barely hits Yrogurt.
+Yrogurt misses you with his hit.
+You massacre Yrogurt with your stab.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:V.Bad] T:56 Exits:S> 
+
+You attempt to strike at Yrogurt with your pike.
+You stab Yrogurt hard.
+
+614H 126V 1X 87.09% 1066C [Zargothrax:Perfect] [Yrogurt:Awful] T:56 Exits:S> 
+
+str
+
+Yrogurt focuses harshly on you and utters some strange words.
+You are caught in some of Yrogurt's acid!
+
+587H 126V 1X 87.09% 1066C [Zargothrax:V.Good] [Yrogurt:Awful] T:53 Exits:S> 
+
+
+Kor the bronze dragon hits Yrogurt.
+Yrogurt misses you with his hit.
+You massacre Yrogurt with your stab.
+
+587H 126V 1X 87.09% 1066C [Zargothrax:V.Good] [Yrogurt:Awful] T:52 Exits:S> 
+
+You attempt to strike at Yrogurt with your pike.
+You stab Yrogurt very hard.
+You receive 0 experience.
+Yrogurt is dead! R.I.P.
+
+587H 126V 1X 87.47% 1066C [Yrogurt:Dying] T:52 Exits:S> 
+
+
+The death cry of Yrogurt echoes from somewhere nearby...
+
+587H 126V 1X 87.47% 1066C T:51 Exits:S> 
+
+take all corpse
+You get a large pile of coins from the corpse of Yrogurt.
+There were 194 coins.
+You get some nightshade berries from the corpse of Yrogurt.
+
+587H 126V 1X 87.47% 1260C T:47 Exits:S> 
+
+break pot
+You smash the clay pot, shattering it completely!
+You receive 0 experience.
+
+587H 126V 1X 87.47% 1260C T:46 Exits:S> 
+
+l
+A Cluttered Hut
+    This hut is filled with small clay jars and pots that line its floor
+and impromptu shelves. A small kettle hangs upon a tripod over a low fire
+in the middle of the room and strangely colored smoke flows from its open
+top. The room smells strangely of roses and garlic, but not so strong as to
+be discomforting.
+A fresh heart gleams wetly upon the floor...it emits a sinister glow
+The corpse of Yrogurt is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+587H 126V 1X 87.47% 1260C T:43 Exits:S> 
+
+tak heart
+You get the heart of an elven maiden.
+
+587H 126V 1X 87.47% 1260C T:40 Exits:S> 
+
+c 'bl' me
+You utter the words, 'bless'
+You feel righteous.
+
+587H 126V 1X 87.47% 1260C Mem:1 T:39 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+Before Several Large Dwellings
+    This large path travels in from the east and branches off north and
+west to a large pair of huts. Strangely colored smoke wafts in from the hut
+to the north and the smell of exotic herbs seems to be carried with it.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+587H 124V 1X 87.47% 1260C Mem:1 T:35 Exits:NESW> 
+
+put 1000 coins bag
+You put a very large pile of coins in a bag of shadows.
+
+587H 124V 1X 87.47% 260C Mem:1 T:33 Exits:NESW> 
+
+i
+You are carrying:
+the heart of an elven maiden..it emits a sinister glow
+some nightshade berries
+a bullywug medallion
+a tarnished silver key on a long string
+a rotted and moldy acorn
+a small silver wedding band
+a cloak of mangled feathers
+a small hide-covered shield
+an old brass breastplate
+a crude long sword
+a bag of shadows
+
+587H 124V 1X 87.47% 260C Mem:1 T:33 Exits:NESW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Chieftain's Antechamber
+    The antechamber within the doorway of this large hut is relatively bare
+of decoration or adornment. An open archway lies to the east and a large
+door is set into the western wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large frogfaced man stands guard here. (black aura)
+A large frogfaced man stands guard here. (black aura)
+A bullywug guard delivers a quick snap kick to Kor the bronze dragon. Kor the bronze dragon staggers and tries to recover.
+A bullywug guard gives you a solid punch in the face.
+
+575H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Perfect] Mem:1 T:30 Exits:E(W)> 
+
+order kor ass
+
+A bullywug guard misses you with his slash.
+You stab a bullywug guard very hard.
+A bullywug guard misses Kor the bronze dragon with his slash.
+A bullywug guard misses you with his slash.
+Kor the bronze dragon hits a bullywug guard.
+
+575H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:28 Exits:E(W)> 
+
+575H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:28 Exits:E(W)> 
+
+ral
+A rally cry has already been heard.
+
+575H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:26 Exits:E(W)> 
+
+str
+You attempt to strike at a bullywug guard with your pike.
+You stab a bullywug guard very hard.
+
+575H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:26 Exits:E(W)> 
+
+
+You feel ribs crack as you are kicked in the chest by a bullywug guard.
+
+568H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:25 Exits:E(W)> 
+
+
+A bullywug guard tries to punch you, but you deftly avoid his blow.
+
+568H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Good] Mem:1 T:25 Exits:E(W)> 
+
+
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+You massacre a bullywug guard with your stab.
+Kor the bronze dragon misses a bullywug guard with his hit.
+
+568H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Fair] Mem:1 T:24 Exits:E(W)> 
+str
+
+You attempt to strike at a bullywug guard with your pike.
+You stab a bullywug guard extremely hard.
+
+568H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:Bad] Mem:1 T:21 Exits:E(W)> 
+
+str
+
+The rally cry fades.
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+You massacre a bullywug guard with your stab.
+Kor the bronze dragon hits a bullywug guard.
+
+568H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:V.Bad] Mem:1 T:20 Exits:E(W)> 
+
+
+You feel ribs crack as you are kicked in the chest by a bullywug guard.
+
+555H 122V 1X 87.47% 260C [Zargothrax:V.Good] [a bullywug guard:V.Bad] Mem:1 T:19 Exits:E(W)> 
+
+
+A bullywug guard kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:V.Bad] Mem:1 T:19 Exits:E(W)> 
+
+You attempt to strike at a bullywug guard with your pike.
+You stab a bullywug guard extremely hard.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:Awful] Mem:1 T:17 Exits:E(W)> 
+
+str
+
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+You stab a bullywug guard extremely hard.
+Kor the bronze dragon hits a bullywug guard.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:Awful] Mem:1 T:16 Exits:E(W)> 
+
+A bullywug guard tries to disarm your weapon, but you deftly avoid him.
+You attempt to strike at a bullywug guard with your pike.
+You massacre a bullywug guard with your stab.
+You receive 0 experience.
+A bullywug guard is dead! R.I.P.
+
+547H 122V 1X 87.47% 260C [a bullywug guard:Dying] Mem:1 T:13 Exits:E(W)> 
+
+
+You dodge out of the way of a bullywug guard's mistargeted kick.
+The death cry of a bullywug guard echoes from somewhere nearby...
+You direct your attention to a bullywug guard.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:Good] Mem:1 T:13 Exits:E(W)> 
+
+
+You stab a bullywug guard extremely hard.
+A bullywug guard misses you with his slash.
+Kor the bronze dragon hits a bullywug guard hard.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:Fair] Mem:1 T:12 Exits:E(W)> 
+
+take all corpse
+order kor ass
+str
+
+A bullywug guard is hit by Kor the bronze dragon's lightning breath.
+
+547H 122V 1X 87.47% 260C [Zargothrax:Good] [a bullywug guard:V.Bad] Mem:1 T:9 Exits:E(W)> 
+
+You get a crude long sword from the corpse of a bullywug guard.
+You get a small hide-covered shield from the corpse of a bullywug guard.
+You get an old brass breastplate from the corpse of a bullywug guard.
+You get a pile of coins from the corpse of a bullywug guard.
+There were 46 coins.
+
+547H 122V 1X 87.47% 306C [Zargothrax:Good] [a bullywug guard:V.Bad] Mem:1 T:9 Exits:E(W)> 
+
+You massacre a bullywug guard with your stab.
+A bullywug guard misses you with his slash.
+A bullywug guard misses you with his slash.
+Kor the bronze dragon barely hits a bullywug guard.
+
+547H 122V 1X 87.47% 306C [Zargothrax:Good] [a bullywug guard:Awful] Mem:1 T:8 Exits:E(W)> 
+
+You attempt to strike at a bullywug guard with your pike.
+You massacre a bullywug guard with your stab.
+
+547H 122V 1X 87.47% 306C [Zargothrax:Good] [a bullywug guard:Awful] Mem:1 T:8 Exits:E(W)> 
+
+
+A bullywug guard sunders your shield!
+
+547H 122V 1X 87.47% 306C [Zargothrax:Good] [a bullywug guard:Awful] Mem:1 T:7 Exits:E(W)> 
+
+
+You stab a bullywug guard extremely hard.
+You receive 0 experience.
+A bullywug guard is dead! R.I.P.
+The death cry of a bullywug guard echoes from somewhere nearby...
+
+547H 122V 1X 87.47% 306C Mem:1 T:4 Exits:E(W)> 
+
+take all corpse
+You get a crude long sword from the corpse of a bullywug guard.
+You get a small hide-covered shield from the corpse of a bullywug guard.
+You get an old brass breastplate from the corpse of a bullywug guard.
+You get a pile of coins from the corpse of a bullywug guard.
+There were 36 coins.
+
+547H 122V 1X 87.47% 342C Mem:1 T:3 Exits:E(W)> 
+
+l
+Your studies complete, you close your prayerbook with a smile.
+The Chieftain's Antechamber
+    The antechamber within the doorway of this large hut is relatively bare
+of decoration or adornment. An open archway lies to the east and a large
+door is set into the western wall.
+The corpse of a bullywug guard is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+580H 142V 1X 87.47% 342C T:60 Exits:E(W)> 
+
+op door
+Ok.
+
+580H 142V 1X 87.47% 342C T:59 Exits:EW> 
+
+w
+Kor the bronze dragon arrives from the east.
+The Chieftain's "Throneroom"
+    While large trophies and sets of tattered cloth adorn the walls of this
+room, it is the oversized wooden chair set upon an improvised pedestal of
+dirt that dominates the room. Tearing your eyes away from it for the
+moment, you notice doorways to both the north and east, leading from this
+room.
+Kor the bronze dragon is standing here, awaiting a rider.
+An extremely large frogman sits upon a throne of skulls and large bones. (black aura)
+Grumph, the bullywug chieftain slashes Kor the bronze dragon hard.
+
+580H 141V 1X 87.47% 342C T:57 Exits:(N)E> 
+
+
+Grumph, the bullywug chieftain misses you with his slash.
+You move aside quickly as Grumph, the bullywug chieftain attacks!
+Kor the bronze dragon hits Grumph, the bullywug chieftain very hard.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:V.Good] T:56 Exits:(N)E> 
+
+order kor ass
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:V.Good] T:55 Exits:(N)E> 
+
+av l
+You attempt to focus on Grumph, the bullywug chieftain and fail horribly.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:V.Good] T:54 Exits:(N)E> 
+
+
+Grumph, the bullywug chieftain stands up.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:V.Good] T:53 Exits:(N)E> 
+
+av l
+
+Grumph, the bullywug chieftain misses you with his slash.
+You stab Grumph, the bullywug chieftain very hard.
+Kor the bronze dragon hits Grumph, the bullywug chieftain hard.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:Fair] T:52 Exits:(N)E> 
+
+You focus your purity on Grumph, the bullywug chieftain's leg!
+You force Grumph, the bullywug chieftain to the ground.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:Fair] T:49 Exits:(N)E> 
+
+str
+
+Grumph, the bullywug chieftain misses you with his slash.
+You annihilate Grumph, the bullywug chieftain with your stab.
+Kor the bronze dragon hits Grumph, the bullywug chieftain hard.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:Fair] T:48 Exits:(N)E> 
+
+You attempt to strike at Grumph, the bullywug chieftain with your pike.
+You massacre Grumph, the bullywug chieftain with your stab.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:V.Bad] T:45 Exits:(N)E> 
+
+
+Grumph, the bullywug chieftain misses you with his slash.
+Grumph, the bullywug chieftain misses you with his slash.
+You massacre Grumph, the bullywug chieftain with your stab.
+Kor the bronze dragon hits Grumph, the bullywug chieftain hard.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:Awful] T:44 Exits:(N)E> 
+
+str
+Grumph, the bullywug chieftain stands up.
+You attempt to strike at Grumph, the bullywug chieftain with your pike.
+You stab Grumph, the bullywug chieftain extremely hard.
+
+580H 141V 1X 87.47% 342C [Zargothrax:V.Good] [Grumph, the bullywug chieftain:Awful] T:41 Exits:(N)E> 
+
+
+Grumph, the bullywug chieftain misses you with his slash.
+Grumph, the bullywug chieftain misses you with his slash.
+You massacre Grumph, the bullywug chieftain with your stab.
+You receive 0 experience.
+Grumph, the bullywug chieftain is dead! R.I.P.
+The death cry of Grumph, the bullywug chieftain echoes from somewhere nearby...
+
+580H 141V 1X 87.85% 342C T:40 Exits:(N)E> 
+
+take all corpse
+You get a tarnished silver key from the corpse of Grumph, the bullywug chieftain.
+You get a crude long sword from the corpse of Grumph, the bullywug chieftain.
+You get a teakwood helm from the corpse of Grumph, the bullywug chieftain.
+You get a large pile of coins from the corpse of Grumph, the bullywug chieftain.
+There were 478 coins.
+You get a suit of bronze field plate from the corpse of Grumph, the bullywug chieftain.
+Plate : You can't carry that much weight.
+Plate : You can't carry that much weight.
+
+580H 141V 1X 87.85% 820C T:37 Exits:(N)E> 
+
+unl door
+*click* as you use a tarnished silver key.
+
+580H 141V 1X 87.85% 820C T:32 Exits:(N)E> 
+
+op door
+Ok.
+
+580H 141V 1X 87.85% 820C T:30 Exits:NE> 
+
+n
+Kor the bronze dragon arrives from the south.
+The Bullywug Treasure Trove
+    A room full of junk. That is your first thought upon looking at this
+small room. Large piles of rusted armor lay in one corner while another
+seems to be piled ceiling high with brass bottles and pots. The room's only
+possible redeeming quality seems to lie upon the large steel chest that
+sits against the northern wall.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+580H 140V 1X 87.85% 820C T:30 Exits:S> 
+
+unl chest
+You unlock a large steel chest.
+The key turns to dust as you remove it from a large steel chest.
+
+580H 140V 1X 87.85% 820C T:27 Exits:S> 
+
+op chest
+Ok.
+
+580H 140V 1X 87.85% 820C T:26 Exits:S> 
+
+i
+You are carrying:
+a suit of bronze field plate
+a teakwood helm
+a crude long sword
+a tarnished silver key
+an old brass breastplate
+a small hide-covered shield
+a crude long sword
+an old brass breastplate
+a small hide-covered shield
+a crude long sword
+the heart of an elven maiden..it emits a sinister glow
+some nightshade berries
+a bullywug medallion
+a rotted and moldy acorn
+a small silver wedding band
+a cloak of mangled feathers
+a small hide-covered shield
+an old brass breastplate
+a crude long sword
+a bag of shadows
+
+580H 140V 1X 87.85% 820C T:25 Exits:S> 
+
+arr
+You arrange your inventory.
+
+580H 140V 1X 87.85% 820C T:24 Exits:S> 
+
+i
+You are carrying:
+a bag of shadows
+a bullywug medallion
+a cloak of mangled feathers
+a crude long sword [4]
+a rotted and moldy acorn
+a small hide-covered shield [3]
+a small silver wedding band
+a suit of bronze field plate
+a tarnished silver key
+a teakwood helm
+an old brass breastplate [3]
+some nightshade berries
+the heart of an elven maiden..it emits a sinister glow
+
+580H 140V 1X 87.85% 820C T:23 Exits:S> 
+
+drop all.old.brass
+You drop an old brass breastplate.
+An old brass breastplate disintegrates.
+You drop an old brass breastplate.
+An old brass breastplate disintegrates.
+You drop an old brass breastplate.
+An old brass breastplate disintegrates.
+
+580H 140V 1X 87.85% 820C T:14 Exits:S> 
+
+drop all.small.shield
+You drop a small hide-covered shield.
+A small hide-covered shield disintegrates.
+You drop a small hide-covered shield.
+A small hide-covered shield disintegrates.
+You drop a small hide-covered shield.
+A small hide-covered shield disintegrates.
+
+580H 140V 1X 87.85% 820C T:5 Exits:S> 
+
+drop all.crude
+You drop a crude long sword.
+A crude long sword disintegrates.
+You drop a crude long sword.
+A crude long sword disintegrates.
+You drop a crude long sword.
+A crude long sword disintegrates.
+You drop a crude long sword.
+A crude long sword disintegrates.
+
+580H 140V 1X 87.85% 820C T:1 Exits:S> 
+
+
+Once again the time has come for righteous anger.
+
+613H 142V 1X 87.85% 820C T:60 Exits:S> 
+
+tak all corpse
+What are you trying to get from?
+
+613H 142V 1X 87.85% 820C T:55 Exits:S> 
+
+tak all chest
+You get a large pile of steel coins from a large steel chest.
+There were 156 coins.
+You get a huge green emerald from a large steel chest.
+
+613H 142V 1X 87.85% 976C T:52 Exits:S> 
+
+s
+Kor the bronze dragon arrives from the north.
+The Chieftain's "Throneroom"
+    While large trophies and sets of tattered cloth adorn the walls of this
+room, it is the oversized wooden chair set upon an improvised pedestal of
+dirt that dominates the room. Tearing your eyes away from it for the
+moment, you notice doorways to both the north and east, leading from this
+room.
+The corpse of Grumph, the bullywug chieftain is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 141V 1X 87.85% 976C T:51 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+The Chieftain's Antechamber
+    The antechamber within the doorway of this large hut is relatively bare
+of decoration or adornment. An open archway lies to the east and a large
+door is set into the western wall.
+The corpse of a bullywug guard is lying here. [2]
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 140V 1X 87.85% 976C T:50 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Before Several Large Dwellings
+    This large path travels in from the east and branches off north and
+west to a large pair of huts. Strangely colored smoke wafts in from the hut
+to the north and the smell of exotic herbs seems to be carried with it.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 138V 1X 87.85% 976C T:50 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Large Path
+    This large path leads east and west, with a smaller path breaking off
+and heading northward, from which direction a strong stench comes from. You
+get a sense of great importance as you look to the west, as something large
+seems to be looming from behind the mists.
+The corpse of a bullywug is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 136V 1X 87.85% 976C T:48 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+Center of the Village
+    You find yourself in what seems to be the center of this crude village.
+A large mound of earth rises up within the northern section of it and is
+surmounted by a trio of large poles from which hang forms that you can't
+make out at a casual glance. Paths lead off in all four directions from
+here, but you are unable to tell to where as the mists that plague this
+land close off any long range view.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 134V 1X 87.85% 976C T:45 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Large Path
+    A large path stretches east and west here, bordering a large open space
+to the north. The path looks heavily trafficked and sounds of movement come
+from all directions.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large frogfaced man searches the area. (black aura)
+A bullywug guard tries to punch Kor the bronze dragon, but he deftly avoids the blow.
+
+613H 132V 1X 87.85% 976C T:44 Exits:NEW> 
+
+ass
+
+A bullywug guard tries to sunder Kor the bronze dragon's armour but fails miserably.
+
+613H 132V 1X 87.85% 976C T:42 Exits:NEW> 
+You attempt to assist Kor the bronze dragon.
+You stab a bullywug guard extremely hard.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:Perfect] [a bullywug guard:Good] T:42 Exits:NEW> 
+
+
+You stab a bullywug guard extremely hard.
+A bullywug guard misses Kor the bronze dragon with his slash.
+Kor the bronze dragon hits a bullywug guard.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:Perfect] [a bullywug guard:Fair] T:40 Exits:NEW> 
+
+ral
+
+A bullywug guard is hit by Kor the bronze dragon's lightning breath.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:Perfect] [a bullywug guard:Bad] T:39 Exits:NEW> 
+
+str
+You yell and inspire your companions to fight harder!
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:Perfect] [a bullywug guard:Bad] T:37 Exits:NEW> 
+
+
+You massacre a bullywug guard with your stab.
+A bullywug guard slashes Kor the bronze dragon hard.
+Kor the bronze dragon hits a bullywug guard hard.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:V.Good] [a bullywug guard:Awful] T:36 Exits:NEW> 
+
+A bullywug guard delivers a quick snap kick to Kor the bronze dragon. Kor the bronze dragon staggers and tries to recover.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:V.Good] [a bullywug guard:Awful] T:36 Exits:NEW> 
+
+str
+You attempt to strike at a bullywug guard with your pike.
+You stab a bullywug guard extremely hard.
+
+613H 132V 1X 87.85% 976C [Kor the bronze dragon:V.Good] [a bullywug guard:Awful] T:33 Exits:NEW> 
+
+
+You massacre a bullywug guard with your stab.
+You receive 0 experience.
+A bullywug guard is dead! R.I.P.
+The death cry of a bullywug guard echoes from somewhere nearby...
+
+613H 132V 1X 87.85% 976C T:32 Exits:NEW> 
+
+e
+You couldn't find what you were looking for.
+
+613H 132V 1X 87.85% 976C T:29 Exits:NEW> 
+Kor the bronze dragon arrives from the west.
+A Long Path Through the Village
+    This pathway leads east and west through the village, bordered on
+either side by crude mud huts. No windows adorn the huts through which to
+look inside, but the absence of doors within their empty archways seems to
+render such activities a waste of time.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+613H 130V 1X 87.85% 976C T:29 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Long Path Through the Village
+    This pathway leads east and west through the village, bordered on
+either side by crude mud huts. No windows adorn the huts through which to
+look inside, but the absence of doors within their empty archways seems to
+render such activities a waste of time.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large frogfaced man searches the area. (black aura)
+A frogfaced man moves about the village. (black aura)
+A bullywug guard gives Kor the bronze dragon a solid punch in the face.
+A bullywug tries to sunder Kor the bronze dragon's armour but fails miserably.
+
+613H 128V 1X 87.85% 976C T:26 Exits:NESW> 
+
+ass
+
+A bullywug misses Kor the bronze dragon with his slash.
+A bullywug guard hits Kor the bronze dragon.
+Kor the bronze dragon hits a bullywug guard hard.
+
+613H 128V 1X 87.85% 976C T:24 Exits:NESW> 
+You attempt to assist Kor the bronze dragon.
+You massacre a bullywug guard with your stab.
+
+613H 128V 1X 87.85% 976C [Kor the bronze dragon:Good] [a bullywug guard:Fair] T:24 Exits:NESW> 
+
+str
+
+You massacre a bullywug guard with your stab.
+A bullywug misses you with his slash.
+A bullywug guard misses Kor the bronze dragon with his hit.
+Kor the bronze dragon hits a bullywug guard very hard.
+
+613H 128V 1X 87.85% 976C [Kor the bronze dragon:Good] [a bullywug guard:V.Bad] T:20 Exits:NESW> 
+
+You attempt to strike at a bullywug guard with your pike.
+You find an opening in a bullywug guard's armor and drive your pike there.
+A bullywug guard shivers, and suffers from his evilness!
+You stab a bullywug guard extremely hard.
+
+613H 128V 1X 87.85% 976C [Kor the bronze dragon:Good] [a bullywug guard:Awful] T:20 Exits:NESW> 
+
+
+A bullywug gives you a solid punch in the face.
+
+604H 128V 1X 87.85% 976C [Kor the bronze dragon:Good] [a bullywug guard:Awful] T:19 Exits:NESW> 
+
+
+A bullywug guard misses you with his hit.
+
+604H 128V 1X 87.85% 976C [Zargothrax:V.Good] [a bullywug guard:Awful] T:18 Exits:NESW> 
+
+
+A bullywug guard is incapacitated and will slowly die, if not aided.
+A bullywug misses you with his slash.
+You obliterate a bullywug guard with your stab.
+You receive 0 experience.
+A bullywug guard is dead! R.I.P.
+The death cry of a bullywug guard echoes from somewhere nearby...
+You direct your attention to a bullywug.
+
+604H 128V 1X 87.85% 976C [Zargothrax:V.Good] [a bullywug:Perfect] T:16 Exits:NESW> 
+
+take all corpse
+You get a small hide-covered shield from the corpse of a bullywug guard.
+You get a pile of coins from the corpse of a bullywug guard.
+There were 16 coins.
+
+604H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:Perfect] T:14 Exits:NESW> 
+
+
+A bullywug kicks you in the face, breaking teeth and bone. Blood flies as your head is rocked back.
+
+597H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:Perfect] T:13 Exits:NESW> 
+
+str
+You attempt to strike at a bullywug with your pike.
+You stab a bullywug very hard.
+
+597H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:Good] T:13 Exits:NESW> 
+
+
+You massacre a bullywug with your stab.
+A bullywug misses you with his slash.
+
+597H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:Fair] T:12 Exits:NESW> 
+
+order kor ass
+
+You massacre a bullywug with your stab.
+A bullywug misses you with his slash.
+A bullywug misses you with his slash.
+
+597H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:V.Bad] T:8 Exits:NESW> 
+Kor the bronze dragon hits a bullywug.
+
+597H 128V 1X 87.85% 992C [Zargothrax:V.Good] [a bullywug:Awful] T:8 Exits:NESW> 
+
+str
+You attempt to strike at a bullywug with your pike.
+You stab a bullywug extremely hard.
+A bullywug is mortally wounded, and will die soon, if not aided.
+
+597H 128V 1X 87.85% 992C [a bullywug:Dying] T:8 Exits:NESW> 
+
+
+Kor the bronze dragon massacres a bullywug with his hit.
+You receive 0 experience.
+A bullywug is dead! R.I.P.
+The death cry of a bullywug echoes from somewhere nearby...
+
+597H 128V 1X 87.85% 992C T:4 Exits:NESW> 
+
+take all corpse
+You get a crude long sword from the corpse of a bullywug.
+You get a pile of coins from the corpse of a bullywug.
+There were 16 coins.
+
+597H 128V 1X 87.85% 1008C T:3 Exits:NESW> 
+
+l
+A Long Path Through the Village
+    This pathway leads east and west through the village, bordered on
+either side by crude mud huts. No windows adorn the huts through which to
+look inside, but the absence of doors within their empty archways seems to
+render such activities a waste of time.
+The corpse of a bullywug is lying here.
+The corpse of a bullywug guard is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+597H 128V 1X 87.85% 1008C T:2 Exits:NESW> 
+
+e
+Kor the bronze dragon arrives from the west.
+An Overgrown Path
+    The pathway coming from the west begins to taper off here as it heads
+eastward. Fewer and fewer signs of passage mar the grasses that cover the
+soft ground. But while sounds of movement come to you from both directions,
+they seem more numerous to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+597H 126V 1X 87.85% 1008C T:2 Exits:EW> 
+
+e
+Kor the bronze dragon arrives from the west.
+An Overgrown Path
+    Whatever was left of a trail coming from the west comes to an abrupt
+end against a wall of reeds and trees that springs up from the marsh in
+that direction. Sounds of movement come from the west, but the dense
+vegetation to the east stifles any sounds from that direction.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 140V 1X 87.85% 1008C T:60 Exits:W> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you. A dense wall
+of reeds rises up to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large shambling mound slowly trudges through the muck.
+A shambling mound hits Kor the bronze dragon very hard.
+
+614H 138V 1X 87.85% 1008C T:56 Exits:NES> 
+
+ass
+You attempt to assist Kor the bronze dragon.
+You stab a shambling mound.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:V.Good] T:54 Exits:NES> 
+
+reck
+
+You stab a shambling mound hard.
+A shambling mound misses Kor the bronze dragon with its hit.
+Kor the bronze dragon hits a shambling mound.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Good] T:52 Exits:NES> 
+ral
+
+str
+A godly anger burns within you, let the heretics feel your wrath!
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Good] T:49 Exits:NES> 
+A rally cry has already been heard.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Good] T:49 Exits:NES> 
+
+You attempt to strike at a shambling mound with your pike.
+You stab a shambling mound hard.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Fair] T:49 Exits:NES> 
+
+
+You stab a shambling mound extremely hard.
+A shambling mound hits Kor the bronze dragon.
+A shambling mound misses Kor the bronze dragon with its hit.
+Kor the bronze dragon hits a shambling mound.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Fair] T:48 Exits:NES> 
+
+str
+You attempt to strike at a shambling mound with your pike.
+You find an opening in a shambling mound's armor and drive your pike there.
+A shambling mound shivers, and suffers from its evilness!
+You stab a shambling mound hard.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:V.Bad] T:45 Exits:NES> 
+
+You stab a shambling mound hard.
+A shambling mound misses Kor the bronze dragon with its hit.
+A shambling mound hits Kor the bronze dragon very hard.
+Kor the bronze dragon hits a shambling mound.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Awful] T:44 Exits:NES> 
+
+
+You stab a shambling mound.
+A shambling mound misses Kor the bronze dragon with its hit.
+A shambling mound misses Kor the bronze dragon with its hit.
+Kor the bronze dragon hits a shambling mound.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Awful] T:40 Exits:NES> 
+
+
+A shambling mound avoids Kor the bronze dragon's lightning breath.
+
+614H 138V 1X 87.85% 1008C [Kor the bronze dragon:Good] [a shambling mound:Awful] T:39 Exits:NES> 
+
+str
+You attempt to strike at a shambling mound with your pike.
+You stab a shambling mound.
+A shambling mound is mortally wounded, and will die soon, if not aided.
+
+614H 138V 1X 87.85% 1008C [a shambling mound:Dying] T:38 Exits:NES> 
+
+
+The rally cry fades.
+You annihilate a shambling mound with your stab.
+You receive 0 experience.
+A shambling mound is dead! R.I.P.
+The death cry of a shambling mound echoes from somewhere nearby...
+
+614H 138V 1X 87.85% 1008C T:36 Exits:NES> 
+
+take all corpse
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+614H 138V 1X 87.85% 1008C T:34 Exits:NES> 
+The corpse doesn't seem to have what you are looking for.
+
+614H 138V 1X 87.85% 1008C T:33 Exits:NES> 
+
+l
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you. A dense wall
+of reeds rises up to the west.
+The corpse of a shambling mound is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 138V 1X 87.85% 1008C T:32 Exits:NES> 
+
+sca
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+A large shambling mound slowly trudges through the muck.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 138V 1X 87.85% 1008C T:30 Exits:NES> 
+
+s
+Kor the bronze dragon arrives from the north.
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you. A dense wall
+of reeds rises up to the west.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 136V 1X 87.85% 1008C T:28 Exits:NE> 
+
+sca
+Looking north:
+You see nothing special.
+Looking east:
+You see nothing special.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 136V 1X 87.85% 1008C T:27 Exits:NE> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+614H 134V 1X 87.85% 1008C T:27 Exits:NEW> 
+
+sca
+Looking north:
+You see nothing special.
+A large shambling mound slowly trudges through the muck.
+Looking east:
+You see nothing special.
+A lost and ragged elf searches through the mists of the marsh.
+Looking south:
+You see nothing special.
+Looking west:
+You see nothing special.
+Looking up:
+You see nothing special.
+Looking down:
+You see nothing special.
+
+614H 134V 1X 87.85% 1008C T:25 Exits:NEW> 
+
+e
+Kor the bronze dragon arrives from the west.
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+Kor the bronze dragon is standing here, awaiting a rider.
+A lost and ragged elf searches through the mists of the marsh.
+
+614H 132V 1X 87.85% 1008C T:24 Exits:NEW> 
+
+'rylowyn
+     Lonindell reverently takes the band from you and quietly begins to
+speak as tears flow from his eyes.
+     "I gave this to her the day we became betrothed you know.", his voice
+beginning to crack as he continues.  "Now they have stolen the light of
+my life and the heart of my heart, leaving only emptiness."  His voice
+suddenly takes on a steely tone.  "Now shall they pay for this deed and
+for all the others their foul ilk has harmed.  Take these belongings,
+for I go to the arms of my beloved on the wings of vengeance!"
+     With that he empties the contents of a small bag into your hands, draws
+his sword and rushes off into the mists.
+You receive 0 experience.
+
+614H 132V 1X 87.85% 1008C T:19 Exits:NEW> 
+
+n
+Kor the bronze dragon arrives from the south.
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you.
+Kor the bronze dragon is standing here, awaiting a rider.
+A large shambling mound slowly trudges through the muck.
+A shambling mound hits Kor the bronze dragon hard.
+
+614H 130V 1X 87.85% 1008C T:16 Exits:NESW> 
+
+
+A shambling mound misses Kor the bronze dragon with its hit.
+Kor the bronze dragon misses a shambling mound with his hit.
+
+614H 130V 1X 87.85% 1008C T:12 Exits:NESW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 128V 1X 87.85% 1008C T:12 Exits:NESW> 
+
+ma
+With a deep sigh, you decide to march.
+
+614H 128V 1X 87.85% 1008C T:8 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+A ghostly figure moves about the mists of the marsh. (invisible)
+A groaning spirit focuses harshly on you and utters some strange words.
+A groaning spirit slowly fades into existence.
+A groaning spirit misses you with her claw.
+
+614H 126V 1X 87.85% 1008C [Zargothrax:Perfect] [a groaning spirit:Perfect] T:7 Exits:NESW> 
+
+turn
+
+Sweat dripping, your anger subsides, your blood cools.
+A groaning spirit misses you with her claw.
+You massacre a groaning spirit with your stab.
+
+614H 126V 1X 87.85% 1008C [Zargothrax:Perfect] [a groaning spirit:Good] T:4 Exits:NESW> 
+You raise your holy symbol and utter some words...
+A groaning spirit is utterly destroyed by your faith!
+You receive 0 experience.
+A groaning spirit is dead! R.I.P.
+
+614H 126V 1X 88.23% 1008C [a groaning spirit:Dying] T:4 Exits:NESW> 
+
+The death cry of a groaning spirit echoes from somewhere nearby...
+A groaning spirit's corpse disintegrates instantly!
+
+614H 126V 1X 88.23% 1008C T:4 Exits:NESW> 
+
+l
+
+The white aura around your body fades.
+
+614H 142V 1X 88.23% 1008C T:60 Exits:NESW> 
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+A crystal flask of inky black oil is here...it emits a sinister glow
+A tiny bit of animal fat needs to be cleaned up.
+
+614H 142V 1X 88.23% 1008C T:60 Exits:NESW> 
+
+tak all
+You get a crystal flask of inky black oil.
+You get a bit of tallow.
+
+614H 142V 1X 88.23% 1008C T:58 Exits:NESW> 
+
+ma
+You decide to halt.
+
+614H 142V 1X 88.23% 1008C T:55 Exits:NESW> 
+
+c 's e'
+You utter the words, 'summon elixir'
+Your god grants you elixir for your loyal service.
+
+614H 142V 1X 88.23% 1008C Mem:1 T:53 Exits:NESW> 
+
+dri elixir
+dri elixir
+The elixir warms your body as it flows through your veins.
+You do not feel thirsty.
+You are full.
+
+614H 142V 1X 88.23% 1008C Mem:1 T:49 Exits:NESW> 
+Your stomach can't contain anymore!
+
+614H 142V 1X 88.23% 1008C Mem:1 T:49 Exits:NESW> 
+
+e
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 140V 1X 88.23% 1008C Mem:1 T:48 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 140V 1X 88.23% 1008C Mem:1 T:45 Exits:NESW> 
+You decide to halt.
+
+614H 140V 1X 88.23% 1008C Mem:1 T:45 Exits:NESW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 138V 1X 88.23% 1008C Mem:1 T:40 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 138V 1X 88.23% 1008C Mem:1 T:37 Exits:NESW> 
+
+You decide to halt.
+
+614H 138V 1X 88.23% 1008C Mem:1 T:36 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 136V 1X 88.23% 1008C Mem:1 T:35 Exits:NSW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 136V 1X 88.23% 1008C Mem:1 T:33 Exits:NSW> 
+You decide to halt.
+
+614H 136V 1X 88.23% 1008C Mem:1 T:33 Exits:NSW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 134V 1X 88.23% 1008C Mem:1 T:33 Exits:NSW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 134V 1X 88.23% 1008C Mem:1 T:31 Exits:NSW> 
+You decide to halt.
+
+614H 134V 1X 88.23% 1008C Mem:1 T:30 Exits:NSW> 
+
+w
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 132V 1X 88.23% 1008C Mem:1 T:30 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 132V 1X 88.23% 1008C Mem:1 T:29 Exits:NESW> 
+You decide to halt.
+
+614H 132V 1X 88.23% 1008C Mem:1 T:28 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 130V 1X 88.23% 1008C Mem:1 T:28 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 130V 1X 88.23% 1008C Mem:1 T:26 Exits:NESW> 
+
+You decide to halt.
+
+614H 130V 1X 88.23% 1008C Mem:1 T:26 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+A formless crystal ooze moves through the reeds of the marsh.
+
+614H 128V 1X 88.23% 1008C Mem:1 T:25 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 128V 1X 88.23% 1008C Mem:1 T:24 Exits:NESW> 
+
+You decide to halt.
+
+614H 128V 1X 88.23% 1008C Mem:1 T:24 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 126V 1X 88.23% 1008C Mem:1 T:23 Exits:ES> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 126V 1X 88.23% 1008C Mem:1 T:22 Exits:ES> 
+
+You decide to halt.
+
+614H 126V 1X 88.23% 1008C Mem:1 T:22 Exits:ES> 
+
+e
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 124V 1X 88.23% 1008C Mem:1 T:22 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 124V 1X 88.23% 1008C Mem:1 T:20 Exits:NESW> 
+
+You decide to halt.
+
+614H 124V 1X 88.23% 1008C Mem:1 T:20 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 122V 1X 88.23% 1008C Mem:1 T:20 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 122V 1X 88.23% 1008C Mem:1 T:18 Exits:NESW> 
+
+You decide to halt.
+
+614H 122V 1X 88.23% 1008C Mem:1 T:18 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 120V 1X 88.23% 1008C Mem:1 T:18 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 120V 1X 88.23% 1008C Mem:1 T:17 Exits:NESW> 
+
+You decide to halt.
+
+614H 120V 1X 88.23% 1008C Mem:1 T:16 Exits:NESW> 
+
+e
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 118V 1X 88.23% 1008C Mem:1 T:16 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 118V 1X 88.23% 1008C Mem:1 T:15 Exits:NESW> 
+You decide to halt.
+
+614H 118V 1X 88.23% 1008C Mem:1 T:15 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 116V 1X 88.23% 1008C Mem:1 T:14 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 116V 1X 88.23% 1008C Mem:1 T:13 Exits:NESW> 
+You decide to halt.
+
+614H 116V 1X 88.23% 1008C Mem:1 T:13 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 114V 1X 88.23% 1008C Mem:1 T:10 Exits:ES> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 114V 1X 88.23% 1008C Mem:1 T:9 Exits:ES> 
+You decide to halt.
+
+614H 114V 1X 88.23% 1008C Mem:1 T:9 Exits:ES> 
+
+e
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 112V 1X 88.23% 1008C Mem:1 T:8 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 112V 1X 88.23% 1008C Mem:1 T:6 Exits:NESW> 
+
+You decide to halt.
+
+614H 112V 1X 88.23% 1008C Mem:1 T:6 Exits:NESW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 110V 1X 88.23% 1008C Mem:1 T:4 Exits:ES> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 110V 1X 88.23% 1008C Mem:1 T:2 Exits:ES> 
+
+You decide to halt.
+
+614H 110V 1X 88.23% 1008C Mem:1 T:2 Exits:ES> 
+
+e
+Your studies complete, you close your prayerbook with a smile.
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 132V 1X 88.23% 1008C T:60 Exits:NESW> 
+
+ma
+ma
+With a deep sigh, you decide to march.
+
+614H 132V 1X 88.23% 1008C T:58 Exits:NESW> 
+
+You decide to halt.
+
+614H 132V 1X 88.23% 1008C T:58 Exits:NESW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 130V 1X 88.23% 1008C T:58 Exits:NESW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 128V 1X 88.23% 1008C T:47 Exits:NESW> 
+
+w
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 126V 1X 88.23% 1008C T:46 Exits:NESW> 
+
+w
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 124V 1X 88.23% 1008C T:45 Exits:NESW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 122V 1X 88.23% 1008C T:45 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 120V 1X 88.23% 1008C T:44 Exits:NESW> 
+
+s
+A Deep Marsh
+    The marsh is nearly devoid of solid ground within this area and the
+powerful smell of stagnant water assaults your nostrils. While dense clumps
+of vegetation threaten to block your view of the landscape, the ever-
+present mists make the matter worse as they close in upon you.
+
+614H 118V 1X 88.23% 1008C T:43 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 116V 1X 88.23% 1008C T:43 Exits:NESW> 
+
+e
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 114V 1X 88.23% 1008C T:42 Exits:NSW> 
+
+n
+A Stagnant Swamp
+    The marsh is darker here, the mists and foliage creating dark shadows
+and forms as if from a nightmare. The water here is stagnant and black, its
+still surface moving only at your intrusion. The reeds and plants have
+begun to look sickly and black, suffering from some unknown disease or rot.
+All around you, the marsh seems dead and you long for an escape from its
+foul touch.
+
+614H 112V 1X 88.23% 1008C T:40 Exits:NSW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 110V 1X 88.23% 1008C T:40 Exits:NSW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 108V 1X 88.23% 1008C T:39 Exits:NSW> 
+
+n
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed.
+
+614H 106V 1X 88.23% 1008C T:38 Exits:NESW> 
+
+e
+Deep into the Swamp
+    You are deep within the mist enshrouded domains of the swamp now, miles
+from civilization and safety. The reeds and fens are now but densely
+clustered shadows within the mists and you are unsure which direction you
+are headed. A dim torch light can barely be seen through the mists to the
+north.
+
+614H 104V 1X 88.23% 1008C T:37 Exits:NESW> 
+
+n
+Outside a Crooked House
+    A small torch set upon a long pole sits outside an old house that seems
+to be leaning more then standing. Smoke drifts from the lone chimney to the
+northern side and a dim light can be seen through its boarded up windows. A
+large marsh surrounds this small island, but trees prevent movement to
+either the north or west.
+
+614H 102V 1X 88.23% 1008C T:36 Exits:(E)S> 
+
+op door
+Ok.
+
+614H 102V 1X 88.23% 1008C T:31 Exits:ES> 
+
+c 'sum mou'
+You utter the words, 'summon mount'
+Kor the bronze dragon suddenly appears!
+
+614H 102V 1X 88.23% 1008C Mem:1 T:30 Exits:ES> 
+
+sc
+You are Zargothrax, Scourge of Auchtermuchty, a level 30 Paladin.
+You are rank 20. You have completed 88.23% of your next rank.
+You are 19 years old.
+You have 614(614) hit and 102(142) movement points.
+Your behaviour has been Good.
+A great strength fills you as you strive for perfect devotion.
+You have scored 179,999,999 exp, and have 2008(215440) steel coins.
+You have 1 rank point to spend.
+You have died 5 horrible deaths.
+You have been connected for 13 minute(s).
+You have been playing for 4 day(s), 23 hour(s) and 50 minute(s).
+Your natural ability scores are:
+    Str: 16 Int: 14 Wis: 16 Dex: 16 Con: 18 Cha: 16
+Your equipment is currently being concealed.
+You could comfortably carry more.
+You are standing.
+You are flying.
+You are affected by the following:
+    bless                [10 hrs]
+    holy arms            [1 hour]
+    aura of glory        [10 hrs]
+    detect invisibility
+
+614H 102V 1X 88.23% 1008C Mem:1 T:26 Exits:ES> 
+
+put 1000 coins bag
+You put a very large pile of coins in a bag of shadows.
+
+614H 102V 1X 88.23% 8C Mem:1 T:25 Exits:ES> 
+
+c 'sanc' me
+You utter the words, 'sanctuary'
+You start glowing.
+
+614H 102V 1X 88.23% 8C Mem:2 T:21 Exits:ES> 
+
+c 'h a' me
+You utter the words, 'holy arms'
+A surge of power fills your body.
+
+614H 102V 1X 88.23% 8C Mem:2 T:17 Exits:ES> 
+
+e
+Kor the bronze dragon arrives from the west.
+Inside a Crooked House
+    A large cauldron bubbles in the fireplace, filling the one room of this
+house with a noxious stink of sulphur and various other smells. A large
+table stands against the eastern wall and both it and the shelves above it
+are covered in jars, containers, pots and small cages. A large book sits
+upon a stand in the middle of the room and a smallish bed and dining area
+fill the southern half of the house.
+Kor the bronze dragon is standing here, awaiting a rider.
+A hunched figure stands before a large table, fiddling with a large prism. (black aura)
+Deloris, the Green Hag focuses harshly on you and utters some strange words.
+Deloris, the Green Hag misses you with her claw.
+
+614H 101V 1X 88.23% 8C [Zargothrax:Perfect] [Deloris, the Green Hag:Perfect] Mem:2 T:13 Exits:W> 
+
+
+Deloris, the Green Hag massacres YOU with her claw.
+You stab Deloris, the Green Hag extremely hard.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:V.Good] Mem:2 T:12 Exits:W> 
+
+order kor ass
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:V.Good] Mem:2 T:11 Exits:W> 
+
+av l
+You focus your purity on Deloris, the Green Hag's leg!
+You force Deloris, the Green Hag to the ground.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:V.Good] Mem:2 T:9 Exits:W> 
+
+
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+Deloris, the Green Hag misses you with her claw.
+You massacre Deloris, the Green Hag with your stab.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Good] Mem:2 T:8 Exits:W> 
+
+reck
+str
+Alas, you are not ready yet.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Good] Mem:2 T:5 Exits:W> 
+
+You attempt to strike at Deloris, the Green Hag with your pike.
+You stab Deloris, the Green Hag extremely hard.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Good] Mem:2 T:5 Exits:W> 
+
+
+Kor the bronze dragon hits Deloris, the Green Hag.
+Deloris, the Green Hag misses you with her claw.
+You massacre Deloris, the Green Hag with your stab.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Fair] Mem:2 T:4 Exits:W> 
+
+str
+You attempt to strike at Deloris, the Green Hag with your pike.
+You massacre Deloris, the Green Hag with your stab.
+
+592H 101V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Fair] Mem:2 T:1 Exits:W> 
+
+str
+
+Kor the bronze dragon misses Deloris, the Green Hag with his hit.
+You deflect part of Deloris, the Green Hag's blow with your shield.
+Deloris, the Green Hag claws YOU hard.
+You massacre Deloris, the Green Hag with your stab.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Fair] Mem:2 T:60 Exits:W> 
+
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+Deloris, the Green Hag misses you with her claw.
+You stab Deloris, the Green Hag extremely hard.
+You attempt to strike at Deloris, the Green Hag with your pike.
+Your pike leaves a golden trail in the air as you strike Deloris, the Green Hag.
+You find an opening in Deloris, the Green Hag's armor and drive your pike there.
+You massacre Deloris, the Green Hag with your stab.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Bad] Mem:2 T:56 Exits:W> 
+
+str
+
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+Deloris, the Green Hag misses you with her claw.
+You annihilate Deloris, the Green Hag with your stab.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:V.Bad] Mem:2 T:52 Exits:W> 
+Deloris, the Green Hag stands up.
+You attempt to strike at Deloris, the Green Hag with your pike.
+You stab Deloris, the Green Hag extremely hard.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:V.Bad] Mem:2 T:52 Exits:W> 
+
+
+Deloris, the Green Hag is hit by Kor the bronze dragon's lightning breath.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:51 Exits:W> 
+
+str
+
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+You raise your shield and block Deloris, the Green Hag's blow.
+You stab Deloris, the Green Hag extremely hard.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:48 Exits:W> 
+
+You attempt to strike at Deloris, the Green Hag with your pike.
+You stab Deloris, the Green Hag hard.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:48 Exits:W> 
+
+
+Deloris, the Green Hag focuses harshly on you and utters some strange words.
+You freeze in place, unable to move.
+
+613H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:46 Exits:W> 
+
+str
+
+Kor the bronze dragon barely hits Deloris, the Green Hag.
+Deloris, the Green Hag claws YOU extremely hard.
+
+593H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:44 Exits:W> 
+
+You are unable to use your physical form.
+
+593H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:44 Exits:W> 
+
+l
+You are unable to use your physical form.
+
+593H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:43 Exits:W> 
+
+
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+Deloris, the Green Hag claws YOU extremely hard.
+
+573H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:40 Exits:W> 
+
+Deloris, the Green Hag focuses harshly on you and utters some strange words.
+
+573H 125V 1X 88.23% 8C [Zargothrax:V.Good] [Deloris, the Green Hag:Awful] Mem:2 T:40 Exits:W> 
+
+
+You feel the magic bond holding you shatter!
+Kor the bronze dragon hits Deloris, the Green Hag hard.
+You deflect part of Deloris, the Green Hag's blow with your shield.
+Deloris, the Green Hag claws YOU extremely hard.
+You stab Deloris, the Green Hag extremely hard.
+You receive 0 experience.
+Deloris, the Green Hag is dead! R.I.P.
+The death cry of Deloris, the Green Hag echoes from somewhere nearby...
+
+554H 125V 1X 88.61% 8C Mem:2 T:36 Exits:W> 
+
+str
+You couldn't find what you were looking for.
+
+554H 125V 1X 88.61% 8C Mem:2 T:36 Exits:W> 
+
+take all corpse
+You get a large crystal prism from the corpse of Deloris, the Green Hag.
+You get a large pile of coins from the corpse of Deloris, the Green Hag.
+There were 162 coins.
+You get a short and curly hair from the corpse of Deloris, the Green Hag.
+You get a small silver sea serpent's scale from the corpse of Deloris, the Green Hag.
+You get a miniature golden lyre from the corpse of Deloris, the Green Hag.
+
+554H 125V 1X 88.61% 170C Mem:2 T:31 Exits:W> 
+
+l
+Inside a Crooked House
+    A large cauldron bubbles in the fireplace, filling the one room of this
+house with a noxious stink of sulphur and various other smells. A large
+table stands against the eastern wall and both it and the shelves above it
+are covered in jars, containers, pots and small cages. A large book sits
+upon a stand in the middle of the room and a smallish bed and dining area
+fill the southern half of the house.
+The corpse of Deloris, the Green Hag is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+554H 125V 1X 88.61% 170C Mem:2 T:11 Exits:W> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+554H 125V 1X 88.61% 170C Mem:2 T:10 Exits:W> 
+
+conjure beast
+     As you go about the process of conjuring the 'beast', a sudden silence
+falls about the room.  Strange lights begin to appear from the fires under
+the cauldron and the smoke thickens and takes on a sulphuric stench.  The
+fumes and lights begin to disorient you, but you continue to follow through
+with the rite.
+     As you near the end of the spell, you begin to hear voices whispering
+almost within your head.  As they continue you hurry to finish the spell's
+incantation, hoping to keep your sanity if nothing else.
+     Suddenly a line of light appears within the middle of the room and
+then stretches to either side to form a doorway.  And as you crush the
+prism, you hear a cry of rage from beyond the doorway and a dim form
+begins to coelesce before you, startling you so that you drop the final
+element of the spell into the fire.
+     And thus with a triumphant bellow, you face the full power of the beast.
+Good luck.....you'll need it....
+
+You receive 0 experience.
+A bone devil misses you with its hit.
+
+554H 125V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Perfect] Mem:2 T:4 Exits:W> 
+
+order kor ass
+Kor the bronze dragon barely hits a bone devil.
+
+554H 125V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:V.Good] Mem:2 T:2 Exits:W> 
+
+turn
+You raise your holy symbol and utter some words...
+You failed to turn anything.
+
+554H 125V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:V.Good] Mem:2 T:1 Exits:W> 
+
+
+Kor the bronze dragon misses a bone devil with his hit.
+A bone devil misses you with its hit.
+You stab a bone devil extremely hard.
+Once again the time has come for righteous anger.
+
+587H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Perfect] Mem:2 T:60 Exits:W> 
+
+
+A bone devil is hit by Kor the bronze dragon's lightning breath.
+
+587H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:V.Good] Mem:2 T:57 Exits:W> 
+
+c 'exo'
+You utter the words, 'exorcism'
+A bone devil shivers, and suffers from its evilness!
+
+587H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Fair] Mem:2 T:57 Exits:W> 
+
+
+Kor the bronze dragon hits a bone devil.
+A bone devil misses you with its hit.
+You massacre a bone devil with your stab.
+
+587H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Bad] Mem:2 T:56 Exits:W> 
+
+str
+Kor the bronze dragon hits a bone devil.
+You deflect part of a bone devil's blow with your shield.
+A bone devil hits YOU.
+A bone devil misses you with its hit.
+You massacre a bone devil with your stab.
+You attempt to strike at a bone devil with your pike.
+You stab a bone devil extremely hard.
+
+579H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Awful] Mem:2 T:52 Exits:W> 
+take all corpse
+
+
+Kor the bronze dragon misses a bone devil with his hit.
+A bone devil misses you with its hit.
+You deflect part of a bone devil's blow with your shield.
+A bone devil barely hits YOU.
+You stab a bone devil very hard.
+
+573H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Awful] Mem:2 T:48 Exits:W> 
+
+The corpse doesn't seem to have what you are looking for.
+
+573H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Awful] Mem:2 T:48 Exits:W> 
+
+tak all 2.corpse
+What are you trying to get from?
+
+573H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Awful] Mem:2 T:47 Exits:W> 
+
+l
+Inside a Crooked House
+    A large cauldron bubbles in the fireplace, filling the one room of this
+house with a noxious stink of sulphur and various other smells. A large
+table stands against the eastern wall and both it and the shelves above it
+are covered in jars, containers, pots and small cages. A large book sits
+upon a stand in the middle of the room and a smallish bed and dining area
+fill the southern half of the house.
+The corpse of Deloris, the Green Hag is lying here.
+A bone devil is standing here, fighting YOU. (black aura)
+Kor the bronze dragon is standing here, fighting a bone devil.
+
+573H 142V 1X 88.61% 170C [Zargothrax:V.Good] [a bone devil:Awful] Mem:2 T:45 Exits:W> 
+
+
+Kor the bronze dragon misses a bone devil with his hit.
+You deflect part of a bone devil's blow with your shield.
+A bone devil hits YOU hard.
+You deflect part of a bone devil's blow with your shield.
+A bone devil bruises YOU with its hit.
+You stab a bone devil extremely hard.
+A bone devil is stunned, but will likely regain consciousness again.
+
+562H 142V 1X 88.61% 170C [a bone devil:Dying] Mem:2 T:44 Exits:W> 
+
+tak all corpse
+The corpse doesn't seem to have what you are looking for.
+
+562H 142V 1X 88.61% 170C [a bone devil:Dying] Mem:2 T:42 Exits:W> 
+
+
+Kor the bronze dragon massacres a bone devil with his hit.
+You receive 0 experience.
+A bone devil is dead! R.I.P.
+The death cry of a bone devil echoes from somewhere nearby...
+     The bone devil's body suddenly cracks and then shatters, throwing
+harmless flecks and chips of bone everywhere.  The doorway of light behind
+the creature quickly blinks out of existence and all is quiet other than
+the sound of your own gasping as you try to regain your breath.
+
+562H 142V 1X 89.08% 170C Mem:2 T:40 Exits:W> 
+
+take all corpse
+The corpse doesn't seem to have what you are looking for.
+
+562H 142V 1X 89.08% 170C Mem:2 T:40 Exits:W> 
+
+l
+Inside a Crooked House
+    A large cauldron bubbles in the fireplace, filling the one room of this
+house with a noxious stink of sulphur and various other smells. A large
+table stands against the eastern wall and both it and the shelves above it
+are covered in jars, containers, pots and small cages. A large book sits
+upon a stand in the middle of the room and a smallish bed and dining area
+fill the southern half of the house.
+A gold collar rests upon the floor...it glows dimly..it hums softly
+A blackened heart sits upon the floor...it emits a sinister glow
+The corpse of Deloris, the Green Hag is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+562H 142V 1X 89.08% 170C Mem:2 T:37 Exits:W> 
+
+tak all
+You get a golden collar.
+You get a blackened heart.
+You get the corpse of Deloris, the Green Hag.
+
+562H 142V 1X 89.08% 170C Mem:2 T:32 Exits:W> 
+
+dro corpse
+You drop the corpse of Deloris, the Green Hag.
+
+562H 142V 1X 89.08% 170C Mem:2 T:30 Exits:W> 
+
+l blackened
+The heart's blackened surface is crisped and fragile.
+..it emits a sinister glow
+
+562H 142V 1X 89.08% 170C Mem:2 T:27 Exits:W> 
+
+l
+Inside a Crooked House
+    A large cauldron bubbles in the fireplace, filling the one room of this
+house with a noxious stink of sulphur and various other smells. A large
+table stands against the eastern wall and both it and the shelves above it
+are covered in jars, containers, pots and small cages. A large book sits
+upon a stand in the middle of the room and a smallish bed and dining area
+fill the southern half of the house.
+The corpse of Deloris, the Green Hag is lying here.
+Kor the bronze dragon is standing here, awaiting a rider.
+
+562H 142V 1X 89.08% 170C Mem:2 T:19 Exits:W> 
+
