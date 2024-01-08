@@ -1,0 +1,20 @@
+Logging started: 07.01.2024 19:01
+brow intimidating
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+An intimidating heavy bastard sword is of very good quality.
+You feel informed:
+ Object 'sword intimidating heavy bastard'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 16           Value   : 320
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : bastard_sword
+ Damage   : 3D5
+An intimidating heavy bastard sword requires knowledge of the skill 'two-handed'.
+
+615H 143V 1X 0.12% 642C T:8 Exits:NESW> 
+

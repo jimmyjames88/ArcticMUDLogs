@@ -1,0 +1,16 @@
+Logging started: 07.01.2024 19:03
+brow wings.dragon
+You browse through the merchandise and notice:
+The wings's scaly surface is in fine shape. (96%)
+You feel informed:
+ Object 'wings young black dragon'
+ Item Type: WORN        
+ Mat Class: scale        Material: dragonscale
+ Weight   : 8            Value   : 410
+
+ Affects  : score criticals by 1.6%
+ Effects  : CAN_FLY
+The wings of a young black dragon is wearable: about.
+
+615H 143V 1X 0.12% 642C T:45 Exits:NESW> 
+

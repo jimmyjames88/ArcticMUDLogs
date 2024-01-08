@@ -1,0 +1,19 @@
+Logging started: 07.01.2024 19:02
+browse red.heater
+You browse through the merchandise and notice:
+The hard wooden surface of the shield is in perfect condition. (100%)
+An ornate red dragon heater is of fair quality.
+You feel informed:
+ Object 'shield ornate red dragon heater'
+ Item Type: WORN        
+ Mat Class: wood         Material: blackenwood
+ Weight   : 13           Value   : 200
+
+ Affects  : healing done by  3%
+ Affects  : resist criticals by 0.9%
+ Effects  : DETECT_POISON
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An ornate red dragon heater is wearable: shield.
+
+615H 143V 1X 0.12% 642C T:43 Exits:NESW> 
+

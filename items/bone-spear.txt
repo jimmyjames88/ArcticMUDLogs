@@ -1,0 +1,28 @@
+Logging started: 07.01.2024 19:27
+
+The lightning has stopped.
+The elixir flashes a silvery glint and twinkles out.
+
+615H 143V 1X 4.59% 2170C T:60 Exits:NESW> 
+
+rec lore bone.spear
+You stop using a glowing scroll of recall.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear bone'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 10           Value   : 100
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Class    : spear
+ Damage   : 1D8
+
+615H 143V 1X 4.59% 2170C T:59 Exits:NESW> 
+
+A mouse arrives from the south.
+
+615H 143V 1X 4.59% 2170C T:58 Exits:NESW> 
+

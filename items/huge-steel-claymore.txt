@@ -1,0 +1,24 @@
+Logging started: 07.01.2024 18:56
+brow huge.claymore
+
+615H 143V 1X 0.12% 642C T:34 Exits:NESW> 
+
+brow huge.claymore
+You browse through the merchandise and notice:
+The claymore's metallic surface is shiny and new. (99%)
+A huge steel claymore is of poor quality.
+You feel informed:
+ Object 'claymore huge steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 24           Value   : 600
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC
+ Class    : claymore
+ Damage   : 5D5
+A huge steel claymore requires knowledge of the skill 'two-handed'.
+
+615H 143V 1X 0.12% 642C T:32 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 07.01.2024 19:02
+brow tribal.bracers
+You browse through the merchandise and notice:
+The bracers's scaly surface is in fine shape. (95%)
+You feel informed:
+ Object 'bracers tribal que-kiri'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 8            Value   : 320
+
+ Affects  : HITROLL       by 2
+ Affects  : HIT           by 10
+ Effects  : SLEEP_AWARENESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 8
+Some tribal bracers of Que-Kiri is wearable: arms.
+
+615H 143V 1X 0.12% 642C T:2 Exits:NESW> 
+

@@ -1,0 +1,16 @@
+Logging started: 07.01.2024 19:28
+rec lore moonstone
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'stone moonstone moon'
+ Item Type: LIGHT       
+ Mat Class: crystal      Material: crystal
+ Weight   : 2            Value   : 100
+
+ Affects  : HIT           by -1
+ Affects  : casting level by 2
+ Item is  : GLOW MAGIC
+
+615H 133V 1X 4.59% 2393C T:21 Exits:NESW> 
+

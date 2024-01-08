@@ -1,0 +1,18 @@
+Logging started: 07.01.2024 19:04
+brow medusa
+You browse through the merchandise and notice:
+The wooden surface of the crossbow is in perfect condition. (100%)
+The crossbow of Medusa is of poor quality.
+You feel informed:
+ Object 'crossbow medusa bow'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 7            Value   : 200
+
+ Affects  : HITROLL       by 2
+ Class    : hand_crossbow
+ Damage   : 3D4
+The crossbow of Medusa requires knowledge of the skill 'miscellaneous'.
+
+615H 143V 1X 0.12% 642C T:46 Exits:NESW> 
+
