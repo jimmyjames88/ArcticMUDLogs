@@ -1,0 +1,25 @@
+Logging started: 11.01.2024 20:33
+
+The captain of the watch arrives from the south.
+A feral cat chases a piece of dust around the room.
+
+593H 131V 1X 19.98% 115C T:10 Exits:NESW> 
+
+brow chain.skirt
+You browse through the merchandise and notice:
+The skirt's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'skirt cerulean chain blue pile heap'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: tin
+ Weight   : 25           Value   : 500
+
+ Affects  : STR           by 1
+ Affects  : score criticals by 1%
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 8
+A cerulean chain skirt is wearable: legs.
+
+593H 131V 1X 19.98% 115C T:10 Exits:NESW> 
+

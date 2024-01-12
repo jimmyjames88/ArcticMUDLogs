@@ -1,0 +1,19 @@
+Logging started: 10.01.2024 11:44
+brow hefty.bastard
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A formidable hefty bastard sword is of fair quality.
+You feel informed:
+ Object 'sword formidable hefty bastard'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 14           Value   : 275
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : bastard_sword
+ Damage   : 3D4
+A formidable hefty bastard sword requires knowledge of the skill 'two-handed'.
+
+593H 131V 1X 18.97% 2187C T:14 Exits:NESW> 
+

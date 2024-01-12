@@ -1,0 +1,20 @@
+Logging started: 09.01.2024 22:47
+browse huge.broadsword
+You browse through the merchandise and notice:
+The broadsword's metallic surface is shiny and new. (100%)
+A huge broadsword of blackened steel is of very good quality.
+You feel informed:
+ Object 'broadsword sword huge black blackened steel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 22           Value   : 500
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : EVIL MAGIC ANTI_GOOD
+ Class    : broad_sword
+ Damage   : 2D9
+A huge broadsword of blackened steel requires knowledge of the skill 'long blades'.
+
+633H 143V 1X 4.59% 0C T:24 Exits:NESW> 
+

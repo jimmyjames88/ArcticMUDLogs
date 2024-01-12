@@ -1,0 +1,50 @@
+Logging started: 09.01.2024 22:47
+
+A feral cat pounces on a piece of dirt.
+
+633H 143V 1X 4.59% 0C T:5 Exits:NESW> 
+
+brow black.falchion
+You browse through the merchandise and notice:
+The falchion's metallic surface is shiny and new. (100%)
+A massive black steel falchion is of superb quality.
+You feel informed:
+ Object 'falchion steel black massive'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 18           Value   : 1500
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Affects  : FUMBLE_CHANCE by -25
+ Class    : scimitar
+ Damage   : 6D3
+A massive black steel falchion requires knowledge of the skill 'long blades'.
+
+633H 143V 1X 4.59% 0C T:2 Exits:NESW> 
+
+
+A feral cat hunches down and hisses in your general direction.
+
+633H 143V 1X 4.59% 0C T:59 Exits:NESW> 
+
+Logging started: 10.01.2024 19:30
+brow black.falchion
+You browse through the merchandise and notice:
+The falchion's metallic surface is shiny and new. (99%)
+A massive black steel falchion is of superb quality.
+You feel informed:
+ Object 'falchion steel black massive'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 18           Value   : 1500
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Affects  : FUMBLE_CHANCE by -25
+ Class    : scimitar
+ Damage   : 6D3
+A massive black steel falchion requires knowledge of the skill 'long blades'.
+
+633H 143V 1X 18.97% 1989C T:58 Exits:NESW> 
+

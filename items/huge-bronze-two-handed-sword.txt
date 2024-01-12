@@ -1,0 +1,10 @@
+Logging started: 11.01.2024 20:36
+
+browse huge.bronze
+You browse through the merchandise and notice:
+The sword's metallic surface is bright and shiny. (100%)
+A huge bronze two-handed sword is of poor quality.
+A huge bronze two-handed sword requires knowledge of the skill 'two-handed'.
+
+615H 143V 1X 19.98% 115C T:18 Exits:NESW> 
+

@@ -1,0 +1,18 @@
+Logging started: 09.01.2024 23:36
+rec lore autumn.shirt
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shirt autumn leaves'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 250
+
+ Affects  : WIS           by 1
+ Effects  : DETECT_INVISIBLE
+ Item is  : GLOW MAGIC BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_HEAT
+
+615H 143V 1X 14.69% 2321C T:50 Exits:NESW> 
+

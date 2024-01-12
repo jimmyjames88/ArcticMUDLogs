@@ -1,0 +1,18 @@
+Logging started: 11.01.2024 20:35
+brow shield.lily
+You browse through the merchandise and notice:
+The shield's metallic surface is shiny and new. (99%)
+A heavy shield of the Lily is of very good quality.
+You feel informed:
+ Object 'shield heavy lily'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 40           Value   : 200
+
+ Affects  : ARMOR         by -8
+ Item is  : MAGIC
+ Apply    : 10
+A heavy shield of the Lily is wearable: shield.
+
+615H 143V 1X 19.98% 115C T:12 Exits:NESW> 
+

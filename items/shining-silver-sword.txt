@@ -1,0 +1,19 @@
+Logging started: 10.01.2024 19:31
+brow shining.sword
+You browse through the merchandise and notice:
+The surface of the sword gleams brightly. (100%)
+A shining silver sword is of poor quality.
+You feel informed:
+ Object 'sword silver rose shining'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 15           Value   : 230
+
+ Item is  : MAGIC
+ Restricts: NOCLERIC NOSHAMAN
+ Class    : long_sword
+ Damage   : 3D6
+A shining silver sword requires knowledge of the skill 'long blades'.
+
+633H 143V 1X 18.97% 339C T:47 Exits:NESW> 
+

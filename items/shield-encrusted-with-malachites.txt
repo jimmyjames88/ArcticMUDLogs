@@ -1,0 +1,26 @@
+Logging started: 11.01.2024 20:39
+
+A feral cat chases a piece of dust around the room.
+
+615H 143V 1X 19.98% 560C T:54 Exits:NESW> 
+
+rec lore encrusted.shield
+
+A feral cat purrs contentedly.
+
+615H 143V 1X 19.98% 560C T:48 Exits:NESW> 
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'shield encrusted malachites'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: gold
+ Weight   : 16           Value   : 200
+
+ Effects  : DETECT_INVISIBLE
+ Item is  : GLOW BLESS
+ Restricts: NOMAGE NOTHIEF NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 4
+
+615H 143V 1X 19.98% 560C T:47 Exits:NESW> 
+

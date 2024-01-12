@@ -1,0 +1,25 @@
+Logging started: 10.01.2024 19:30
+
+A watchman of Port Balifor leaves east.
+
+626H 136V 1X 18.97% 1989C T:26 Exits:NESW> 
+
+brow lightweight.bow
+You browse through the merchandise and notice:
+The hard wooden surface of the crossbow is in perfect condition. (100%)
+A lightweight recurve crossbow is of fair quality.
+You feel informed:
+ Object 'crossbow lightweight recurve bow'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: blackenwood
+ Weight   : 30           Value   : 275
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : crossbow
+ Damage   : 4D5
+A lightweight recurve crossbow requires knowledge of the skill 'miscellaneous'.
+
+626H 136V 1X 18.97% 1989C T:24 Exits:NESW> 
+

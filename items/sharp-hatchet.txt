@@ -1,0 +1,17 @@
+Logging started: 10.01.2024 11:44
+brow sharp.hatchet
+You browse through the merchandise and notice:
+The hatchet's metallic surface is shiny and new. (100%)
+A sharp hatchet is of poor quality.
+You feel informed:
+ Object 'hatchet sharp'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: tin
+ Weight   : 6            Value   : 100
+
+ Class    : hatchet
+ Damage   : 2D3
+A sharp hatchet requires knowledge of the skill 'axes'.
+
+600H 135V 1X 18.97% 2187C T:18 Exits:NESW> 
+
