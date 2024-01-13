@@ -1,0 +1,21 @@
+Logging started: 13.01.2024 11:49
+brow dark.ring
+You browse through the merchandise and notice:
+The ring is in perfect condition. (100%)
+You feel informed:
+ Object 'ring shadows dark'
+ Item Type: WORN        
+ Mat Class: other        Material: not_there
+ Weight   : 1            Value   : 500
+
+ Effects  : HIDE
+ Restricts: NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NOBARBARIAN NOSHAMAN
+A dark ring of shadows is wearable: finger.
+
+615H 143V 1X 39.43% 167C T:11 Exits:NESW> 
+
+
+A drunken sailor arrives from the west.
+
+615H 143V 1X 39.43% 167C T:11 Exits:NESW> 
+

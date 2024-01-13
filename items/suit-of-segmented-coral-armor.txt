@@ -1,0 +1,21 @@
+Logging started: 13.01.2024 15:15
+brow coral.armor
+You browse through the merchandise and notice:
+The armor appears to be in perfect condition. (99%)
+You feel informed:
+ Object 'armor armour suit coral segmented narrow plates'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 18           Value   : 660
+
+ Affects  : CON           by 1
+ Affects  : RESIST_COLD   by 8
+ Affects  : score criticals by 1%
+ Effects  : WATERBREATH
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 10
+A suit of segmented coral armor is wearable: body.
+
+615H 143V 1X 45.90% 1442C T:58 Exits:NES> 
+

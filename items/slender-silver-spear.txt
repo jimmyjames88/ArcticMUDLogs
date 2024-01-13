@@ -1,0 +1,21 @@
+Logging started: 13.01.2024 11:53
+brow slender.spear
+You browse through the merchandise and notice:
+The surface of the spear gleams brightly. (100%)
+A slender silver spear is of good quality.
+You feel informed:
+ Object 'spear silver slender shaft'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 10           Value   : 300
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC NORENT
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : spear
+ Damage   : 3D5
+A slender silver spear requires knowledge of the skill 'piercers'.
+
+615H 143V 1X 39.43% 167C T:4 Exits:NESW> 
+

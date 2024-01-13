@@ -1,0 +1,23 @@
+Logging started: 13.01.2024 15:11
+
+brow demonic.staff
+You browse through the merchandise and notice:
+The staff appears to be in perfect condition. (100%)
+A demonic bone staff is of good quality.
+You feel informed:
+ Object 'staff demonic bone'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 16           Value   : 700
+
+ Affects  : HITROLL       by 2
+ Affects  : casting level by 2
+ Effects  : CAN_FLY
+ Item is  : GLOW HUM INVISIBLE MAGIC ANTI_GOOD
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT
+ Class    : staff
+ Damage   : 3D5
+A demonic bone staff requires knowledge of the skill 'bludgeons'.
+
+615H 92V 1X 45.90% 1442C T:3 Exits:NES> 
+

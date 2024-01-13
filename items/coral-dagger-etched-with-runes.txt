@@ -1,0 +1,27 @@
+Logging started: 13.01.2024 15:10
+
+The rising sun barely lights the dark and cloudy sky.
+With the rising sun, the torch flickers and goes out.
+
+615H 92V 1X 45.90% 1442C T:60 Exits:NES> 
+brow coral.dagger
+You browse through the merchandise and notice:
+The dagger appears to be in perfect condition. (100%)
+A coral dagger etched with runes is of very good quality.
+You feel informed:
+ Object 'dagger coral shard polished etched runes'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 8            Value   : 120
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Affects  : casting level by 2
+ Item is  : HUM MAGIC
+ Restricts: NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+ Class    : dagger
+ Damage   : 3D3
+A coral dagger etched with runes requires knowledge of the skill 'short blades'.
+
+615H 92V 1X 45.90% 1442C T:60 Exits:NES> 
+

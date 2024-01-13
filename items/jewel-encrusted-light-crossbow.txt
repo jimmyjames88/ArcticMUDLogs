@@ -1,0 +1,21 @@
+Logging started: 12.01.2024 16:02
+brow jewel.crossbow
+You browse through the merchandise and notice:
+The crossbow's metallic surface shines brilliantly. (99%)
+A jewel encrusted light crossbow is of good quality.
+You feel informed:
+ Object 'crossbow bow jewel'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 8            Value   : 1200
+
+ Affects  : DAMROLL       by 3
+ Affects  : HITROLL       by 3
+ Item is  : MAGIC ANTI_EVIL
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : hand_crossbow
+ Damage   : 3D3
+A jewel encrusted light crossbow requires knowledge of the skill 'miscellaneous'.
+
+615H 143V 1X 27.23% 0C Mem:1 T:45 Exits:NESW> 
+

@@ -1,0 +1,26 @@
+Logging started: 13.01.2024 15:13
+brow clamshell
+
+615H 143V 1X 45.90% 1442C T:6 Exits:NES> 
+
+brow clamshell
+You browse through the merchandise and notice:
+The brassiere appears to be undamaged. (100%)
+You feel informed:
+ Object 'brassiere bra purple clamshell clamshells'
+ Item Type: WORN        
+ Mat Class: natural      Material: ceramic
+ Weight   : 4            Value   : 60
+
+ Affects  : CHA           by 2
+ Item is  : MAGIC
+ Immune   : IMMUNE_COLD IMMUNE_HEAT
+A purple clamshell brassiere is wearable: body.
+
+615H 143V 1X 45.90% 1442C T:5 Exits:NES> 
+
+
+A Solace peacekeeper arrives from the south.
+
+615H 143V 1X 45.90% 1442C T:4 Exits:NES> 
+

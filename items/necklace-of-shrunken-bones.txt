@@ -1,0 +1,19 @@
+Logging started: 12.01.2024 23:27
+brow necklace.bones
+You browse through the merchandise and notice:
+The necklace appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'necklace bone bones'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 300
+
+ Affects  : AGE           by 5
+ Affects  : RESIST_MAGIC  by 3
+ Affects  : casting level by 1
+ Effects  : NOCHARM
+ Item is  : MAGIC BLESS
+A necklace of shrunken bones is wearable: neck.
+
+615H 143V 1X 32.28% 493C T:33 Exits:NESW> 
+

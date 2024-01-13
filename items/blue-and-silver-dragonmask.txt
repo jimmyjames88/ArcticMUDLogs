@@ -1,0 +1,18 @@
+Logging started: 12.01.2024 23:26
+brow dragon.mask
+You browse through the merchandise and notice:
+The mask's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'mask dragonmask blue silver'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 12           Value   : 250
+
+ Affects  : CON           by 1
+ Effects  : DETECT_MAGIC
+ Item is  : MAGIC BLESS
+ Apply    : 7
+The eyes of the mask glow intensely as your loring magic penetrates it.A blue and silver dragonmask is wearable: head.
+
+592H 141V 1X 32.28% 493C T:16 Exits:NESW> 
+

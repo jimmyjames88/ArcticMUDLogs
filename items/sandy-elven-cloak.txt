@@ -1,0 +1,19 @@
+Logging started: 13.01.2024 11:52
+brow sandy.cloak
+You browse through the merchandise and notice:
+The cloak appears to be brand new. (100%)
+You feel informed:
+ Object 'cloak sandy elven beige pile cloth'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 4            Value   : 250
+
+ Affects  : ARMOR         by -3
+ Affects  : SAVING_BREATH by -1
+ Item is  : BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_DISINTEGRATION IMMUNE_ELECTRICITY IMMUNE_GAS
+A sandy elven cloak is wearable: neck about.
+
+615H 143V 1X 39.43% 167C T:36 Exits:NESW> 
+

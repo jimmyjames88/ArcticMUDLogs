@@ -1,0 +1,16 @@
+Logging started: 13.01.2024 11:50
+brow emerald.ring
+You browse through the merchandise and notice:
+The ring is quite beautiful as light strikes it. (99%)
+You feel informed:
+ Object 'ring emerald'
+ Item Type: WORN        
+ Mat Class: crystal      Material: crystal
+ Weight   : 2            Value   : 76
+
+ Effects  : SENSE_LIFE INFRAVISION
+ Item is  : GLOW MAGIC
+A large emerald ring is wearable: finger.
+
+615H 143V 1X 39.43% 167C T:25 Exits:NESW> 
+

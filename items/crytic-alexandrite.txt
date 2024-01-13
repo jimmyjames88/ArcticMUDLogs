@@ -1,0 +1,23 @@
+Logging started: 12.01.2024 16:39
+
+A feral cat purrs contentedly.
+A feral cat leaves east.
+
+463H 143V 1X 32.28% 1861C T:49 Exits:NESW> 
+
+rec lore alexandrite
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'jewel alexandrite crytic'
+ Item Type: WORN        
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 2            Value   : 100
+
+ Affects  : INT           by 1
+ Affects  : WIS           by 1
+ Effects  : DETECT_INVISIBLE DETECT_MAGIC
+ Item is  : MAGIC BLESS ANTI_EVIL
+
+463H 143V 1X 32.28% 1861C T:44 Exits:NESW> 
+

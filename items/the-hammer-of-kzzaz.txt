@@ -1,0 +1,20 @@
+Logging started: 13.01.2024 15:19
+brow hammer.kzzaz
+You browse through the merchandise and notice:
+The hammer's metallic surface shines brilliantly. (99%)
+The Hammer of Kzzaz is of poor quality.
+You feel informed:
+ Object 'hammer kzzaz'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 140
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : hammer
+ Damage   : 2D7
+The Hammer of Kzzaz requires knowledge of the skill 'bludgeons'.
+
+615H 143V 1X 45.90% 1442C T:45 Exits:NES> 
+

@@ -1,0 +1,18 @@
+Logging started: 13.01.2024 15:14
+brow green.ring
+You browse through the merchandise and notice:
+The surface of the ring gleams brightly. (100%)
+You feel informed:
+ Object 'ring stone sparkling green'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 250
+
+ Affects  : HIT           by 5
+ Affects  : regeneration by  15%
+ Item is  : MAGIC NORENT
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A ring adorned with a green stone is wearable: finger.
+
+615H 143V 1X 45.90% 1442C T:35 Exits:NES> 
+

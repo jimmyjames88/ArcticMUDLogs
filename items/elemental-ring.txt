@@ -1,0 +1,20 @@
+Logging started: 13.01.2024 11:55
+brow elemental.ring
+You browse through the merchandise and notice:
+The surface of the ring gleams brightly. (100%)
+You feel informed:
+ Object 'ring elemental'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 1000
+
+ Item is  : MAGIC NORENT
+An elemental ring is wearable: finger.
+
+615H 143V 1X 39.43% 167C T:57 Exits:NESW> 
+
+
+A watchman of Port Balifor arrives from the west.
+
+615H 143V 1X 39.43% 167C T:57 Exits:NESW> 
+

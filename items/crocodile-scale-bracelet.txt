@@ -1,0 +1,29 @@
+Logging started: 13.01.2024 15:11
+brow crocodile
+
+615H 92V 1X 45.90% 1442C T:38 Exits:NES> 
+
+brow crocodile
+You browse through the merchandise and notice:
+The bracelet appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'bracelet scale crocodile'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 100
+
+ Affects  : MOVE          by 10
+ Item is  : MAGIC
+A crocodile scale bracelet is wearable: wrist.
+
+615H 92V 1X 45.90% 1442C T:37 Exits:NES> 
+
+
+The janitor arrives from the south.
+
+615H 92V 1X 45.90% 1442C T:36 Exits:NES> 
+
+
+A cagey elf arrives from the east.
+
+615H 92V 1X 45.90% 1442C T:35 Exits:NES> 

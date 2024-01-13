@@ -1,0 +1,25 @@
+Logging started: 13.01.2024 11:54
+
+A drunken sailor arrives from the north.
+
+615H 143V 1X 39.43% 167C T:30 Exits:NESW> 
+
+brow tessto
+You browse through the merchandise and notice:
+The hard wooden surface of the tessto is in perfect condition. (100%)
+A tessto is of poor quality.
+You feel informed:
+ Object 'tessto club'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: rosewood
+ Weight   : 40           Value   : 100
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 1
+ Item is  : MAGIC
+ Class    : mace
+ Damage   : 5D5
+A tessto requires knowledge of the skill 'bludgeons'.
+
+615H 143V 1X 39.43% 167C T:29 Exits:NESW> 
+

@@ -1,0 +1,15 @@
+The sash appears to be soft and brand new. (96%)
+You feel informed:
+ Object 'sash strip golden silk'
+ Item Type: WORN        
+ Mat Class: cloth        Material: silk
+ Weight   : 2            Value   : 250
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : healing done by  4%
+ Item is  : GLOW MAGIC BLESS ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_HEAT
+The sash of the Caergothian Patriarch is wearable: body.
+
+615H 143V 1X 39.43% 167C T:40 Exits:NESW> 

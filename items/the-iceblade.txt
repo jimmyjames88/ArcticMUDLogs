@@ -1,0 +1,35 @@
+Logging started: 12.01.2024 23:30
+
+A feral cat purrs contentedly.
+
+615H 143V 1X 32.28% 493C T:60 Exits:NESW> 
+
+
+A feral cat runs in circles chasing its tail.
+
+615H 143V 1X 32.28% 493C T:59 Exits:NESW> 
+
+brow iceblade
+You browse through the merchandise and notice:
+The iceblade's metallic surface shines brilliantly. (100%)
+The Iceblade is of poor quality.
+You feel informed:
+ Object 'iceblade blade ice sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 18           Value   : 330
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Class    : long_sword
+ Damage   : 2D7
+The Iceblade requires knowledge of the skill 'long blades'.
+
+615H 143V 1X 32.28% 493C T:57 Exits:NESW> 
+
+
+A drunken sailor arrives from the north.
+A feral cat purrs contentedly.
+
+615H 143V 1X 32.28% 493C T:57 Exits:NESW> 
+

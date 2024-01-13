@@ -1,0 +1,23 @@
+Logging started: 12.01.2024 16:02
+brow wyvern.claw
+You browse through the merchandise and notice:
+The claw is quite beautiful and pristine. (100%)
+A jagged gray wyvern claw is of very good quality.
+You feel informed:
+ Object 'claw jagged gray wyvern'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 8            Value   : 400
+
+ Affects  : HITROLL       by 1
+ Class    : claw
+ Damage   : 3D4
+A jagged gray wyvern claw requires knowledge of the skill 'miscellaneous'.
+
+593H 131V 1X 27.23% 0C Mem:2 T:18 Exits:NESW> 
+
+
+A curious kender leaves north.
+
+593H 131V 1X 27.23% 0C Mem:2 T:16 Exits:NESW> 
+

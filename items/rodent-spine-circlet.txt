@@ -1,0 +1,23 @@
+Logging started: 13.01.2024 15:14
+
+You hear an old beggar's stomach rumbling.
+
+615H 143V 1X 45.90% 1442C T:44 Exits:NES> 
+
+brow rodent.spine
+You browse through the merchandise and notice:
+The circlet appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'circlet rodent spine loop'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 4            Value   : 120
+
+ Affects  : healing received by  1%
+ Item is  : MAGIC
+
+The magic reveals a tiny mark on the largest bone in the spine, but
+this type of magic seems unable to reveal more.A rodent spine circlet is wearable: finger wrist.
+
+615H 143V 1X 45.90% 1442C T:41 Exits:NES> 
+

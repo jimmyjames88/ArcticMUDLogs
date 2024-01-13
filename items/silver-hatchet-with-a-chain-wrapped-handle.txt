@@ -1,0 +1,26 @@
+Logging started: 13.01.2024 11:52
+brow hatchet.chain
+You browse through the merchandise and notice:
+The surface of the handle gleams brightly. (100%)
+A silver hatchet with a chain-wrapped handle is of excellent quality.
+You feel informed:
+ Object 'handle hatchet chain silver'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: silver
+ Weight   : 4            Value   : 1400
+
+ Affects  : HITROLL       by 3
+ Affects  : skill fence         by +5
+ Affects  : skill riposte       by +5
+ Affects  : skill parry         by +5
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NODRUID NOCLERIC NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Class    : hatchet
+ Damage   : 4D2
+
+The sinuous kagonesti runes flash brightly as the strange weapon parries
+your attempts to learn more about the enchantment on it.A silver hatchet with a chain-wrapped handle requires knowledge of the skill 'axes'.
+
+615H 143V 1X 39.43% 167C T:46 Exits:NESW> 
+

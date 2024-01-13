@@ -1,0 +1,17 @@
+Logging started: 13.01.2024 15:16
+brow alligator.necklace
+You browse through the merchandise and notice:
+The necklace appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'necklace scale alligator'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 3            Value   : 100
+
+ Affects  : HIT           by 5
+ Affects  : DEX           by -1
+ Item is  : MAGIC
+An alligator scale necklace is wearable: neck.
+
+615H 143V 1X 45.90% 1442C T:41 Exits:NES> 
+

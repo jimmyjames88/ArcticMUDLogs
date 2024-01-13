@@ -1,0 +1,55 @@
+Logging started: 13.01.2024 11:48
+brow bone.whip
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+615H 143V 1X 39.43% 167C T:14 Exits:NESW> 
+
+
+Mustafa flies in from the west.
+
+615H 143V 1X 39.43% 167C T:11 Exits:NESW> 
+
+
+Mustafa flies south.
+
+615H 143V 1X 39.43% 167C T:11 Exits:NESW> 
+
+
+A drunken sailor arrives from the west.
+
+615H 143V 1X 39.43% 167C T:11 Exits:NESW> 
+
+brow bone.spiked
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+615H 143V 1X 39.43% 167C T:8 Exits:NESW> 
+
+browse spiked.bullwhip
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+615H 143V 1X 39.43% 167C T:2 Exits:NESW> 
+
+
+The cloud-veiled sky becomes even darker as the sun sets.
+You feel less powerful.
+
+615H 143V 1X 39.43% 167C T:60 Exits:NESW> 
+
+Logging started: 13.01.2024 11:49
+brow bullwhip
+You browse through the merchandise and notice:
+The bullwhip appears rough and in perfect condition. (97%)
+A bone spiked bullwhip is of fair quality.
+You feel informed:
+ Object 'bullwhip whip leather'
+ Item Type: WEAPON      
+ Mat Class: leather      Material: rough_leather
+ Weight   : 18           Value   : 330
+
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : whip
+ Damage   : 3D5
+A bone spiked bullwhip requires knowledge of the skill 'miscellaneous'.
+
+615H 143V 1X 39.43% 167C T:42 Exits:NESW> 
+

@@ -1,0 +1,23 @@
+Logging started: 12.01.2024 23:28
+
+A feral cat purrs contentedly.
+
+615H 143V 1X 32.28% 493C T:53 Exits:NESW> 
+
+brow silver.glasses
+You browse through the merchandise and notice:
+The glasses is in pristine condition. (98%)
+You feel informed:
+ Object 'glasses reading pair glass silver'
+ Item Type: WORN        
+ Mat Class: crystal      Material: glass
+ Weight   : 0            Value   : 120
+
+ Affects  : skill scribe        by +6
+ Affects  : LEARN         by 2
+ Affects  : casting level by 1
+ Item is  : MAGIC
+A pair of silver reading glasses is wearable: head.
+
+615H 143V 1X 32.28% 493C T:47 Exits:NESW> 
+

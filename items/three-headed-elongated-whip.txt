@@ -1,0 +1,23 @@
+Logging started: 13.01.2024 15:16
+
+An old beggar leaves east.
+
+615H 143V 1X 45.90% 1442C T:21 Exits:NES> 
+
+brow three.whip
+You browse through the merchandise and notice:
+The whip appears to be in perfect condition. (100%)
+A three-headed elongated whip is of very good quality.
+You feel informed:
+ Object 'whip three headed elongated'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: earth
+ Weight   : 18           Value   : 340
+
+ Item is  : MAGIC
+ Class    : whip
+ Damage   : 2D8
+A three-headed elongated whip requires knowledge of the skill 'miscellaneous'.
+
+615H 143V 1X 45.90% 1442C T:18 Exits:NES> 
+
