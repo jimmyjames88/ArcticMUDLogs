@@ -1,0 +1,236 @@
+Logging started: 14.01.2024 00:26
+brow charred.sleeves
+You browse through the merchandise and notice:
+The sleeves's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'sleeves charred black platemail'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 125
+
+ Affects  : ARMOR         by -10
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A pair of charred platemail sleeves is wearable: arms.
+
+633H 143V 1X 46.34% 781C T:23 Exits:NESW> 
+
+brow
+You browse through the merchandise and notice:
+The whip appears rough and in perfect condition. (100%)
+A barbed whip is of poor quality.
+A barbed whip requires knowledge of the skill 'miscellaneous'.
+
+The surface of the pearl is shiny and glitters golden. (99%)
+A black pearl is wearable: finger.
+
+The gown appears to be brand new. (100%)
+You feel informed:
+ Object 'gown braided hemp thicket'
+ Item Type: WORN        
+ Mat Class: hide         Material: pelt
+ Weight   : 4            Value   : 260
+
+ Affects  : healing received by  2%
+ Affects  : regeneration by  4%
+ Effects  : HIDE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A braided hemp gown of the thicket is wearable: about.
+
+
+ [return for more, q to stop]
+
+The necklace appears to be undamaged. (98%)
+You feel informed:
+ Object 'necklace beaded bright colored'
+ Item Type: WORN        
+ Mat Class: natural      Material: ceramic
+ Weight   : 4            Value   : 800
+
+ Affects  : INT           by 1
+ Item is  : BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A brightly colored, beaded necklace is wearable: neck.
+
+The shroud appears to be brand new. (99%)
+You feel informed:
+ Object 'shroud burial purple dark'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 2            Value   : 75
+
+ Effects  : HIDE
+ Item is  : GLOW BLESS
+
+ [return for more, q to stop]
+
+
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+A dark purple burial shroud is wearable: body.
+
+The surface of the bracelet gleams brightly. (100%)
+You feel informed:
+ Object 'bracelet decorated crystalline etched'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 1            Value   : 260
+
+ Affects  : healing received by  2%
+ Affects  : HP_REGEN      by 1
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A decorated crystalline etched bracelet is wearable: wrist.
+
+The hard wooden surface of the hammer is in perfect condition. (100%)
+A giant's hammer is of good quality.
+A giant's hammer requires knowledge of the skill 'bludgeons'.
+
+
+ [return for more, q to stop]
+
+
+The stone surface of the hand is flawless. (100%)
+You feel informed:
+ Object 'hand granite carved'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 2            Value   : 200
+
+ Affects  : spell slots   by +1 at level 7
+ Item is  : GLOW MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A granite hand is wearable: hold.
+
+The ring is quite beautiful and pristine. (99%)
+A green druid's ring is wearable: finger.
+
+The axe's metallic surface is shiny and new. (99%)
+A hearthguard's axe is of good quality.
+A hearthguard's axe requires knowledge of the skill 'axes'.
+
+The hard wooden surface of the hoopak is in perfect condition. (100%)
+A hoopak of office is of poor quality.
+
+ [return for more, q to stop]
+
+
+A hoopak of office requires knowledge of the skill 'bludgeons'.
+
+The claymore's metallic surface is shiny and new. (100%)
+A huge gleaming claymore is of fair quality.
+You feel informed:
+ Object 'claymore huge gleaming sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 38           Value   : 275
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : claymore
+ Damage   : 4D5
+A huge gleaming claymore requires knowledge of the skill 'two-handed'.
+
+The hard wooden surface of the spear is in perfect condition. (100%)
+A large wooden spear is of poor quality.
+A large wooden spear requires knowledge of the skill 'piercers'.
+
+The stone surface of the medallion is flawless. (100%)
+
+ [return for more, q to stop]
+
+
+A light medallion has at least a day of light left.
+
+The rapier's metallic surface is shiny and new. (100%)
+A long swordmaster's rapier is of fair quality.
+A long swordmaster's rapier requires knowledge of the skill 'long blades'.
+
+The gloves appears to be brand new. (100%)
+A pair of black hunting gloves is wearable: hands.
+
+The sleeves's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'sleeves charred black platemail'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 5            Value   : 125
+
+ Affects  : ARMOR         by -10
+ Affects  : HITROLL       by 1
+ Restricts: NOMAGE NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A pair of charred platemail sleeves is wearable: arms.
+
+The boots appears very tough and in perfect condition. (100%)
+
+ [return for more, q to stop]
+
+
+A pair of shadow boots is wearable: feet.
+
+The sleeves appears to be brand new. (100%)
+A pair of shadow sleeves is wearable: arms.
+
+The gauntlets's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'gauntlets pair shiny iron'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 60
+
+ Affects  : HIT           by 5
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A pair of shiny iron gauntlets is wearable: hands.
+
+The armor's metallic surface is shiny and new. (99%)
+A pair of steel armplates inlaid with ebony is wearable: arms.
+
+
+ [return for more, q to stop]
+
+
+The armor's metallic surface is shiny and new. (99%)
+A pair of steel legplates inlaid with ebony is wearable: legs.
+
+The ring is breathtaking as light refracts through it. (99%)
+You feel informed:
+ Object 'ring pink diamond'
+ Item Type: WORN        
+ Mat Class: crystal      Material: diamond
+ Weight   : 4            Value   : 240
+
+ Affects  : spell slots   by +1 at level 2
+ Affects  : MOVE          by -10
+ Item is  : GLOW BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_COLD
+A pink diamond ring is wearable: finger.
+
+The sword's metallic surface is shiny and new. (95%)
+A platinum gilt claymore is of fair quality.
+A platinum gilt claymore requires knowledge of the skill 'two-handed'.
+
+
+ [return for more, q to stop]
+
+q
+A street cleaner arrives from the north.
+A knight of the crown leaves west.
+The white aura around your body fades.
+
+633H 143V 1X 46.34% 781C T:59 Exits:NESW> 
+
+
+A street cleaner leaves south.
+
+633H 143V 1X 46.34% 781C T:49 Exits:NESW> 
+
+
+A street cleaner arrives from the south.
+
+633H 143V 1X 46.34% 781C T:49 Exits:NESW> 
+

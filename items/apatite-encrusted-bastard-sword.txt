@@ -1,0 +1,21 @@
+Logging started: 13.01.2024 21:39
+brow apatite.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (99%)
+An apatite-encrusted bastard sword is of good quality.
+You feel informed:
+ Object 'sword bastard apatite'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 340
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : two_handed_sword
+ Damage   : 4D4
+An apatite-encrusted bastard sword requires knowledge of the skill 'two-handed'.
+
+615H 143V 1X 46.10% 558C T:5 Exits:NESW> 
+

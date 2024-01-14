@@ -1,0 +1,23 @@
+Logging started: 13.01.2024 21:35
+
+A Kalaman cityguard leaves east.
+
+615H 133V 1X 46.10% 558C T:39 Exits:NESW> 
+
+brow glittering.halberd
+You browse through the merchandise and notice:
+The halberd's metallic surface shines brilliantly. (100%)
+A glittering wood-shafted halberd is of superb quality.
+You feel informed:
+ Object 'halberd glittering wood shafted'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 20           Value   : 500
+
+ Item is  : MAGIC
+ Class    : halberd
+ Damage   : 3D6
+A glittering wood-shafted halberd requires knowledge of the skill 'pole arms'.
+
+615H 133V 1X 46.10% 558C T:34 Exits:NESW> 
+

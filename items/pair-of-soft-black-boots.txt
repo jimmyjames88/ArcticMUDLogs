@@ -1,0 +1,17 @@
+Logging started: 13.01.2024 21:38
+brow soft.black.boots
+You browse through the merchandise and notice:
+The boots appears rough and in perfect condition. (100%)
+You feel informed:
+ Object 'boots pair soft black'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 8            Value   : 60
+
+ Affects  : MOVE          by 10
+ Affects  : casting level by 2
+ Item is  : MAGIC
+A pair of soft black boots is wearable: feet.
+
+615H 143V 1X 46.10% 558C T:60 Exits:NESW> 
+

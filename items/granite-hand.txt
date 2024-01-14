@@ -1,0 +1,17 @@
+Logging started: 14.01.2024 00:25
+brow granite.hand
+You browse through the merchandise and notice:
+The stone surface of the hand is flawless. (100%)
+You feel informed:
+ Object 'hand granite carved'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 2            Value   : 200
+
+ Affects  : spell slots   by +1 at level 7
+ Item is  : GLOW MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A granite hand is wearable: hold.
+
+633H 143V 1X 46.34% 781C T:47 Exits:NESW> 
+

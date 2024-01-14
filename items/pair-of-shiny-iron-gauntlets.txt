@@ -1,0 +1,31 @@
+Logging started: 13.01.2024 21:37
+
+Lord Calof arrives from the north.
+A bodyguard arrives from the north.
+A bodyguard arrives from the north.
+A bodyguard arrives from the north.
+
+615H 143V 1X 46.10% 558C T:33 Exits:NESW> 
+
+
+A citizen of Kalaman leaves west.
+
+615H 143V 1X 46.10% 558C T:31 Exits:NESW> 
+
+brow shiny.gauntlets
+You browse through the merchandise and notice:
+The gauntlets's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'gauntlets pair shiny iron'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 10           Value   : 60
+
+ Affects  : HIT           by 5
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NODRUID NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 6
+A pair of shiny iron gauntlets is wearable: hands.
+
+615H 143V 1X 46.10% 558C T:30 Exits:NESW> 
+

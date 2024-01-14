@@ -1,0 +1,17 @@
+Logging started: 13.01.2024 21:38
+brow translucent.mask
+You browse through the merchandise and notice:
+The mask is in pristine condition. (98%)
+You feel informed:
+ Object 'mask translucent'
+ Item Type: WORN        
+ Mat Class: crystal      Material: glass
+ Weight   : 4            Value   : 500
+
+ Affects  : casting level by 2
+ Effects  : DETECT_EVIL DETECT_INVISIBLE DETECT_GOOD
+ Item is  : MAGIC
+A translucent mask is wearable: head.
+
+615H 143V 1X 46.10% 558C T:34 Exits:NESW> 
+

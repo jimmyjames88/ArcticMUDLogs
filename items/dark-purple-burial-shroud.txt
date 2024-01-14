@@ -1,0 +1,24 @@
+Logging started: 14.01.2024 00:24
+brow purple.shroud
+The rising sun barely lights the dark and cloudy sky.
+It starts to rain.
+
+633H 143V 1X 46.34% 781C T:52 Exits:NESW> 
+
+brow purple.shroud
+You browse through the merchandise and notice:
+The shroud appears to be brand new. (99%)
+You feel informed:
+ Object 'shroud burial purple dark'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 2            Value   : 75
+
+ Effects  : HIDE
+ Item is  : GLOW BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+A dark purple burial shroud is wearable: body.
+
+633H 143V 1X 46.34% 781C T:50 Exits:NESW> 
+

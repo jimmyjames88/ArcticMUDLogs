@@ -1,0 +1,17 @@
+Logging started: 13.01.2024 22:15
+rec lore crimson.scimitar
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'sword scimitar sharp crimson'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 8            Value   : 100
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 1
+ Class    : scimitar
+ Damage   : 2D7
+
+615H 143V 1X 46.34% 69C T:5 Exits:D> 
+

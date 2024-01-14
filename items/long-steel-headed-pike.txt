@@ -1,0 +1,28 @@
+Logging started: 13.01.2024 15:22
+
+A plump housewife leaves east.
+
+615H 143V 1X 45.90% 1376C T:45 Exits:NES> 
+
+rec lore steel.headed.pike
+You stop using a crytic alexandrite.
+You grab a scroll of legend lore.
+You couldn't find what you were looking for.
+
+615H 143V 1X 45.90% 1376C T:42 Exits:NES> 
+
+rec lore 2.pike
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'pike long steel'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: oak
+ Weight   : 16           Value   : 180
+
+ Affects  : DAMROLL       by 2
+ Restricts: NOBARBARIAN NOSHAMAN
+ Class    : pike
+ Damage   : 4D3
+
+615H 143V 1X 45.90% 1376C T:38 Exits:NES> 
+

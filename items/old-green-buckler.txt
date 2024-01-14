@@ -1,0 +1,18 @@
+Logging started: 13.01.2024 21:40
+brow green.buckler
+You browse through the merchandise and notice:
+The hard wooden surface of the shield is in perfect condition. (100%)
+An old green buckler is of poor quality.
+You feel informed:
+ Object 'shield old green buckler'
+ Item Type: WORN        
+ Mat Class: wood         Material: vallenwood
+ Weight   : 16           Value   : 100
+
+ Affects  : regeneration by  1%
+ Affects  : RESIST_BREATH by 5
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An old green buckler is wearable: shield.
+
+615H 143V 1X 46.10% 558C T:41 Exits:NESW> 
+

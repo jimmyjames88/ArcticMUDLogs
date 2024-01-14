@@ -1,0 +1,24 @@
+Logging started: 14.01.2024 00:26
+
+A street cleaner leaves south.
+
+633H 143V 1X 46.34% 781C T:43 Exits:NESW> 
+
+brow pink.ring
+You browse through the merchandise and notice:
+The ring is breathtaking as light refracts through it. (99%)
+You feel informed:
+ Object 'ring pink diamond'
+ Item Type: WORN        
+ Mat Class: crystal      Material: diamond
+ Weight   : 4            Value   : 240
+
+ Affects  : spell slots   by +1 at level 2
+ Affects  : MOVE          by -10
+ Item is  : GLOW BLESS
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_COLD
+A pink diamond ring is wearable: finger.
+
+633H 143V 1X 46.34% 781C T:42 Exits:NESW> 
+

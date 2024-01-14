@@ -1,0 +1,26 @@
+Logging started: 13.01.2024 21:36
+brow mithril.ranseur
+You browse through the merchandise and notice:
+The ranseur's metallic surface shines brilliantly. (100%)
+A mithril ranseur is of fair quality.
+You feel informed:
+ Object 'ranseur mithril'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 18           Value   : 450
+
+ Affects  : HITROLL       by 1
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC BLESS ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : ranseur
+ Damage   : 2D13
+A mithril ranseur requires knowledge of the skill 'pole arms'.
+
+615H 143V 1X 46.10% 558C T:32 Exits:NESW> 
+
+
+A citizen of Kalaman arrives from the east.
+
+615H 143V 1X 46.10% 558C T:31 Exits:NESW> 
+
