@@ -1,0 +1,18 @@
+Logging started: 14.01.2024 17:04
+brow goblin.charm
+You browse through the merchandise and notice:
+The surface of the charm gleams brightly. (100%)
+You feel informed:
+ Object 'charm decorated mummified goblin finger'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 215
+
+ Affects  : regeneration by  2%
+ Affects  : regeneration by  1%
+ Effects  : IMMUNE_POISON
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A decorated mummified goblin finger charm is wearable: neck.
+
+626H 143V 1X 50.59% 3123C T:15 Exits:NESW> 
+

@@ -1,0 +1,34 @@
+Logging started: 16.01.2024 00:49
+rec lore black.chainmail
+You grab a scroll of legend lore.
+You are unable to recite a scroll of legend lore on that.
+
+593H 143V 10368207X 63.58% 803C T:26 Exits:NES> 
+
+
+The janitor leaves north.
+
+593H 143V 10368207X 63.58% 803C T:24 Exits:NES> 
+
+
+The janitor arrives from the north.
+
+593H 143V 10368207X 63.58% 803C T:18 Exits:NES> 
+
+rec lore sturdy
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'suit platemail sturdy armor armour black'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 30           Value   : 130
+
+ Affects  : DEX           by 1
+ Affects  : STR           by 1
+ Item is  : GLOW
+ Restricts: NOBARBARIAN NOSHAMAN
+ Immune   : IMMUNE_ACID
+ Apply    : 7
+
+593H 143V 10368207X 63.58% 803C T:18 Exits:NES> 
+

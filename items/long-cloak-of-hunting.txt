@@ -1,0 +1,26 @@
+Logging started: 16.01.2024 00:40
+brow long.cloak
+You browse through the merchandise and notice:
+The cloak's scaly surface is in fine shape. (99%)
+You feel informed:
+ Object 'cloak hunting long'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: dragonscale
+ Weight   : 4            Value   : 500
+
+ Affects  : skill evade         by +10
+ Affects  : skill shoot         by +5
+ Effects  : HIDE
+ Item is  : ANTI_EVIL ANTI_NEUTRAL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_GAS IMMUNE_HEAT
+ Apply    : 6
+A long cloak of hunting is wearable: about.
+
+593H 143V 10368207X 63.58% 1252C T:57 Exits:NES> 
+
+
+Sir Kantar uth MacKan marches in from the north and looks you over.
+
+593H 143V 10368207X 63.58% 1252C T:55 Exits:NES> 
+

@@ -1,0 +1,19 @@
+Logging started: 16.01.2024 00:38
+brow brathnoc
+You browse through the merchandise and notice:
+The cloak looks healthy. (100%)
+You feel informed:
+ Object 'cloak bloodstained brathnoc skin black grey heap'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 6            Value   : 200
+
+ Affects  : HIT           by 5
+ Affects  : skill wardance      by +5
+ Affects  : skill frenzy        by +5
+ Item is  : MAGIC ANTI_GOOD
+ Immune   : IMMUNE_COLD IMMUNE_HEAT
+A bloodstained brathnoc skin cloak is wearable: about.
+
+611H 143V 10368207X 63.58% 1252C T:46 Exits:NES> 
+

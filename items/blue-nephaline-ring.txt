@@ -1,0 +1,21 @@
+Logging started: 14.01.2024 17:03
+
+The spirit of the heavens fades slowly.
+
+626H 143V 1X 50.59% 3123C T:60 Exits:NESW> 
+brow blue.ring
+
+You browse through the merchandise and notice:
+The stone surface of the ring is flawless. (99%)
+You feel informed:
+ Object 'ring nephaline blue'
+ Item Type: WORN        
+ Mat Class: natural      Material: stone
+ Weight   : 3            Value   : 250
+
+ Affects  : AGE           by -3
+ Affects  : SAVING_PARA   by -1
+A blue nephaline ring is wearable: finger.
+
+626H 143V 1X 50.59% 3123C T:60 Exits:NESW> 
+

@@ -1,0 +1,24 @@
+Logging started: 16.01.2024 00:48
+
+A Solace peacekeeper arrives from the south.
+
+593H 143V 10368207X 63.58% 803C T:8 Exits:NES> 
+
+rec lore scratched
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'breastplate plate dolphin bone scratched ribcage white large'
+ Item Type: ARMOR       
+ Mat Class: natural      Material: bone
+ Weight   : 16           Value   : 240
+
+ Affects  : CONCENTRATION by 5
+ Affects  : healing received by  2%
+ Affects  : SAVING_SPELL  by -1
+ Item is  : MAGIC
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 6
+
+593H 143V 10368207X 63.58% 803C T:6 Exits:NES> 
+

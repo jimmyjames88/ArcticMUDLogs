@@ -1,0 +1,16 @@
+Logging started: 14.01.2024 10:36
+brow clear.sceptre
+You browse through the merchandise and notice:
+The sceptre is quite beautiful and pristine. (99%)
+You feel informed:
+ Object 'sceptre crystal clear'
+ Item Type: LIGHT       
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 8            Value   : 300
+
+ Effects  : IS_FLYING
+ Item is  : MAGIC
+ This object is part of a larger set.
+
+626H 143V 1X 50.59% 3308C T:28 Exits:NESW> 
+

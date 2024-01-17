@@ -1,0 +1,19 @@
+Logging started: 14.01.2024 17:08
+brow twin.axe
+You browse through the merchandise and notice:
+The axe's metallic surface is shiny and new. (98%)
+A twin-bladed battle axe is of average quality.
+You feel informed:
+ Object 'axe battle battleaxe twin bladed'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 14           Value   : 250
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 2
+ Class    : battle_axe
+ Damage   : 3D5
+A twin-bladed battle axe requires knowledge of the skill 'axes'.
+
+633H 143V 1X 50.59% 3123C T:3 Exits:NESW> 
+

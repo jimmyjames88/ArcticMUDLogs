@@ -1,0 +1,18 @@
+Logging started: 15.01.2024 23:22
+rec lore dirk
+You stop using a set of black talons.
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'dirk long sharp'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 8            Value   : 100
+
+ Affects  : HITROLL       by 1
+ Item is  : MAGIC
+ Class    : pick
+ Damage   : 2D5
+
+593H 135V 11606806X 62.57% 466C Mem:1 T:31 Exits:WU> 
+

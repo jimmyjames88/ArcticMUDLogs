@@ -1,0 +1,15 @@
+Logging started: 16.01.2024 13:08
+rec lore iron.gorget
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'gorget large iron'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: iron
+ Weight   : 6            Value   : 50
+
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 2
+
+602H 77V 9959881X 63.78% 475C T:22 Exits:WU> 
+

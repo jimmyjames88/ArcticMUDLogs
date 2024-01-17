@@ -1,0 +1,22 @@
+Logging started: 14.01.2024 17:06
+brow bandolier
+You browse through the merchandise and notice:
+The bandolier appears very tough and in perfect condition. (99%)
+You feel informed:
+ Object 'bandolier leather studded heavy harness'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rigid_leather
+ Weight   : 20           Value   : 55
+
+ Affects  : STR           by 1
+ Affects  : score criticals by 1%
+ Item is  : MAGIC
+ Apply    : 2
+A heavy bandolier of studded leather is wearable: body.
+
+633H 143V 1X 50.59% 3123C T:30 Exits:NESW> 
+
+A tired traveller leaves east.
+
+633H 143V 1X 50.59% 3123C T:29 Exits:NESW> 
+

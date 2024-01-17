@@ -1,0 +1,17 @@
+Logging started: 16.01.2024 00:41
+brow kelp.pants
+You browse through the merchandise and notice:
+The pants looks healthy. (100%)
+You feel informed:
+ Object 'pants blue yellow kelp jumble'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 4            Value   : 320
+
+ Affects  : MOVE_REGEN    by 10
+ Affects  : SAVING_BREATH by -1
+ Item is  : MAGIC
+A pair of blue and yellow kelp pants is wearable: legs.
+
+593H 143V 10368207X 63.58% 1252C T:17 Exits:NES> 
+

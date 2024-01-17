@@ -1,0 +1,25 @@
+Logging started: 16.01.2024 00:39
+
+Aidan chirps happily as he greets other citizens of Solace.
+
+611H 143V 10368207X 63.58% 1252C T:20 Exits:NES> 
+
+brow iridium.bracer
+You browse through the merchandise and notice:
+The surface of the bracer gleams brightly. (99%)
+You feel informed:
+ Object 'bracer dark iridium silver'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: platinum
+ Weight   : 4            Value   : 550
+
+ Affects  : RANGED_DAMROL by 1
+ Affects  : INT           by -1
+ Item is  : MAGIC
+ Restricts: NOTHIEF NODRUID NOCLERIC NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Apply    : 4
+A dark iridium bracer is wearable: wrist.
+
+611H 143V 10368207X 63.58% 1252C T:17 Exits:NES> 
+

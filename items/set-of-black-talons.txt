@@ -1,0 +1,23 @@
+Logging started: 15.01.2024 23:21
+
+Your hands tingle as a feeling of goodness fills you.
+
+544H 143V 11606806X 62.57% 826C Mem:1 T:60 Exits:E> 
+
+rec lore black.talons
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'talons talon black'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: bone
+ Weight   : 8            Value   : 450
+
+ Affects  : HITROLL       by 2
+ Affects  : DAMROLL       by 2
+ Item is  : MAGIC
+ Class    : claw
+ Damage   : 2D6
+
+544H 143V 11606806X 62.57% 826C Mem:1 T:59 Exits:E> 
+

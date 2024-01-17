@@ -1,0 +1,19 @@
+Logging started: 17.01.2024 11:53
+rec lore obsidian.spear
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'spear ironwood obsidian'
+ The item is approaching the end of its life.
+ Item Type: WEAPON      
+ Mat Class: wood         Material: ironwood
+ Weight   : 34           Value   : 350
+
+ Affects  : HITROLL       by 1
+ Item is  : NORENT
+ Restricts: NOTHIEF
+ Class    : spear
+ Damage   : 6D4
+
+611H 135V 8395431X 66.54% 35C T:4 Exits:NESW> 
+

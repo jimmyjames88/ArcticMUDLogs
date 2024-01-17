@@ -1,0 +1,28 @@
+Logging started: 16.01.2024 00:50
+rec lore silver.bracelet
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'bracelet polished silver adorned moons'
+ The item is approaching the end of its life.
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 900
+
+You glimpse an image of a regal dargonesti elf walking across a perfectly
+calm sea. The regal elf must be a leader amongst the dargonesti as there
+are hundreds of other sea elves swimming in his wake. As Solinari's light
+reflects off the water's surface, it creates a brilliant halo around the
+regal elf. You sense that the reflected light might illuminate the hidden
+channels of magic around him, but the fleeting sensation vanishes quickly,
+leaving you with naught but a vague idea of what you might have seen.
+
+593H 143V 10368207X 63.58% 803C T:2 Exits:NES> 
+
+
+The darkness marks the end of another day.
+With the setting of the sun, the torch starts to glow lighting the
+surrounding area.
+
+593H 143V 10368207X 63.58% 803C T:60 Exits:NES> 
+

@@ -1,0 +1,20 @@
+Logging started: 16.01.2024 13:34
+
+A street illusionist arrives from above.
+
+602H 144V 9435929X 65.07% 1629C T:47 Exits:WU> 
+
+rec lore green.armor
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'armor armour green leather suit'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 8            Value   : 15
+
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Apply    : 4
+
+602H 144V 9435929X 65.07% 1629C T:47 Exits:WU> 
+

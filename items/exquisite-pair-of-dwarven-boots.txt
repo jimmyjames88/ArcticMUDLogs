@@ -1,0 +1,23 @@
+Logging started: 16.01.2024 00:42
+brow dwarven.boots
+You step aside just in time to avoid a young child running from the north.
+Bored with this area, a young child runs north.
+
+593H 143V 10368207X 63.58% 1252C T:17 Exits:NES> 
+
+brow dwarven.boots
+You browse through the merchandise and notice:
+The boots appears to be brand new. (100%)
+You feel informed:
+ Object 'boots dwarf dwarven exquisite'
+ Item Type: ARMOR       
+ Mat Class: cloth        Material: wool
+ Weight   : 5            Value   : 600
+
+ Affects  : MOVE          by 20
+ Restricts: NOTHIEF NOPALADIN NODRUID NODARK_KNIGHT NOBARBARIAN
+ Apply    : 10
+An exquisite pair of dwarven boots is wearable: feet.
+
+593H 143V 10368207X 63.58% 1252C T:14 Exits:NES> 
+

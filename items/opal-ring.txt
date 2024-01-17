@@ -1,0 +1,19 @@
+Logging started: 16.01.2024 23:55
+
+A tired traveller arrives from the east.
+
+574H 136V 8395431X 66.54% 94C Mem:1 T:25 Exits:NESW> 
+
+rec lore opal.ring
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring opal key'
+ Item Type: KEY         
+ Mat Class: natural      Material: natural_crystal
+ Weight   : 2            Value   : 0
+
+ Item is  : BLESS NORENT
+
+574H 136V 8395431X 66.54% 94C Mem:1 T:23 Exits:NESW> 
+

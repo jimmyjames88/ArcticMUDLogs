@@ -1,0 +1,17 @@
+Logging started: 16.01.2024 13:09
+rec lore light.boots
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'boots leather light'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 120
+
+ Effects  : SNEAK
+ Item is  : MAGIC BLESS
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 3
+
+602H 102V 9959881X 63.78% 475C T:40 Exits:WU> 
+

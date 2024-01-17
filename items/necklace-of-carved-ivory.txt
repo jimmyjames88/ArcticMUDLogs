@@ -1,0 +1,17 @@
+Logging started: 14.01.2024 10:40
+brow carved.ivory
+You browse through the merchandise and notice:
+The necklace appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'necklace ivory carved'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 1            Value   : 150
+
+ Affects  : HIT           by 4
+ Item is  : BLESS
+ Restricts: NOMAGE NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A necklace of carved ivory is wearable: neck.
+
+633H 143V 1X 50.59% 3308C T:25 Exits:NESW> 
+

@@ -1,0 +1,23 @@
+Logging started: 16.01.2024 00:40
+
+The janitor leaves south.
+
+593H 143V 10368207X 63.58% 1252C T:39 Exits:NES> 
+
+brow hooded.red
+You browse through the merchandise and notice:
+The chasuble appears to be brand new. (98%)
+You feel informed:
+ Object 'chasuble red hooded deep'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 6            Value   : 500
+
+ Affects  : spell slots   by +1 at level 6
+ Item is  : MAGIC BLESS ANTI_GOOD ANTI_EVIL
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_HEAT IMMUNE_MAGIC
+A hooded red chasuble is wearable: body.
+
+593H 143V 10368207X 63.58% 1252C T:38 Exits:NES> 
+

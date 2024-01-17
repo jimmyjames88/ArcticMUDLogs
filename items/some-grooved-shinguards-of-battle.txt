@@ -1,0 +1,19 @@
+Logging started: 14.01.2024 17:10
+brow grooved.shinguards
+You browse through the merchandise and notice:
+The shinguards's metallic surface is shiny and new. (100%)
+You feel informed:
+ Object 'shinguards grooved guards battle'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 6            Value   : 360
+
+ Affects  : MOVE          by 18
+ Affects  : resist criticals by 1.4%
+ Effects  : IMMUNE_DISEASE
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NOCLERIC NORANGER NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 5
+Some grooved shinguards of battle is wearable: legs.
+
+633H 143V 1X 50.59% 3123C T:42 Exits:NESW> 
+

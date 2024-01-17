@@ -1,0 +1,17 @@
+Logging started: 14.01.2024 10:39
+brow copper.pickaxe
+You browse through the merchandise and notice:
+The pickaxe's metallic surface is shiny and new. (100%)
+A large copper pickaxe is of poor quality.
+You feel informed:
+ Object 'pickaxe copper large axe'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: copper
+ Weight   : 16           Value   : 80
+
+ Class    : pole_axe
+ Damage   : 2D10
+A large copper pickaxe requires knowledge of the skill 'axes'.
+
+633H 143V 1X 50.59% 3308C T:43 Exits:NESW> 
+

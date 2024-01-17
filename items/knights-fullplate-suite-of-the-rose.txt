@@ -1,0 +1,19 @@
+Logging started: 15.01.2024 21:02
+browse suit.rose
+You browse through the merchandise and notice:
+The fullplate's metallic surface shines brilliantly. (100%)
+You feel informed:
+ Object 'fullplate knight's plate suit rose'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: mithril
+ Weight   : 9            Value   : 425
+
+ Affects  : HEALTH        by 10
+ Affects  : RESIST_BREATH by 6
+ Effects  : PROTECT_GOOD
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Apply    : 10
+A knight's fullplate suit of the Rose is wearable: body.
+
+593H 127V 4409408X 52.67% 0C T:24 Exits:NES> 
+

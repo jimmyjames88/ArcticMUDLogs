@@ -1,0 +1,17 @@
+Logging started: 14.01.2024 17:09
+brow auburn.robe
+You browse through the merchandise and notice:
+The robe appears to be brand new. (100%)
+You feel informed:
+ Object 'robe auburn embroidered'
+ Item Type: WORN        
+ Mat Class: cloth        Material: wool
+ Weight   : 6            Value   : 200
+
+ Affects  : CON           by -1
+ Effects  : INVISIBLE
+ Item is  : INVISIBLE BLESS
+An auburn embroidered robe is wearable: about.
+
+633H 143V 1X 50.59% 3123C T:21 Exits:NESW> 
+

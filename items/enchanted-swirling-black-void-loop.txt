@@ -1,0 +1,22 @@
+Logging started: 17.01.2024 11:52
+
+A Kalaman cityguard leaves north.
+
+611H 144V 8395431X 66.54% 670C T:59 Exits:NESW> 
+
+brow enchanted.loop
+You browse through the merchandise and notice:
+The surface of the loop gleams brightly. (100%)
+You feel informed:
+ Object 'loop enchanted swirling black void'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 245
+
+ Affects  : resist criticals by 0.5%
+ Affects  : MOVE          by 17
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+An enchanted swirling black void loop is wearable: finger.
+
+611H 144V 8395431X 66.54% 670C T:52 Exits:NESW> 
+
