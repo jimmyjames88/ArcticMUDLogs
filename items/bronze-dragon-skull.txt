@@ -1,0 +1,29 @@
+Logging started: 21.01.2024 11:56
+
+Granger flies west.
+
+611H 144V 4625258X 74.15% 453C T:56 Exits:NESW> 
+brow bronze.skull
+
+You browse through the merchandise and notice:
+The skull's metallic surface is bright and shiny. (100%)
+You feel informed:
+ Object 'skull bronze dragon helm helmet'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: bronze
+ Weight   : 6            Value   : 120
+
+ Affects  : ARMOR         by -6
+ Affects  : regeneration by  10%
+ Effects  : INFRAVISION
+ Item is  : GLOW MAGIC ANTI_EVIL
+ Apply    : 8
+A bronze dragon skull is wearable: head.
+
+611H 144V 4625258X 74.15% 453C T:56 Exits:NESW> 
+
+
+A knight of the crown leaves east.
+
+611H 144V 4625258X 74.15% 453C T:55 Exits:NESW> 
+

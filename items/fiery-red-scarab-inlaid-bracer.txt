@@ -1,0 +1,27 @@
+Logging started: 21.01.2024 11:57
+brow scarb.bracer
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+611H 144V 4625258X 74.15% 453C T:25 Exits:NESW> 
+
+
+A knight of the crown leaves north.
+
+611H 144V 4625258X 74.15% 453C T:25 Exits:NESW> 
+
+brow fiery.bracer
+You browse through the merchandise and notice:
+The surface of the bracer gleams brightly. (100%)
+You feel informed:
+ Object 'bracer fiery red scarab inlaid'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 230
+
+ Affects  : HIT           by 3
+ Affects  : spell slots   by +1 at level 3
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A fiery red scarab inlaid bracer is wearable: wrist.
+
+611H 144V 4625258X 74.15% 453C T:18 Exits:NESW> 
+

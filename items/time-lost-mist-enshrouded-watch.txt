@@ -1,0 +1,18 @@
+Logging started: 21.01.2024 11:59
+brow time.watch
+You browse through the merchandise and notice:
+The surface of the watch gleams brightly. (100%)
+You feel informed:
+ Object 'watch time lost mist enshrouded'
+ Item Type: WORN        
+ Mat Class: metal        Material: platinum
+ Weight   : 1            Value   : 425
+
+ Affects  : target resist by  5%
+ Affects  : MOVE          by 18
+ Effects  : IS_FLYING
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A time-lost mist enshrouded watch is wearable: wrist.
+
+611H 144V 4625258X 74.15% 453C T:13 Exits:NESW> 
+

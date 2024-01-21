@@ -1,0 +1,16 @@
+Logging started: 17.01.2024 19:56
+brow fuchsia.wings
+You browse through the merchandise and notice:
+The wings's scaly surface is in fine shape. (99%)
+You feel informed:
+ Object 'wings slighide fuchsia'
+ Item Type: WORN        
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 10           Value   : 200
+
+ Affects  : ARMOR         by -10
+ Effects  : CAN_FLY
+Some fuchsia slighide wings is wearable: about.
+
+611H 144V 8395431X 66.54% 154C T:37 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 20.01.2024 19:37
+brow delicate.glasses
+You browse through the merchandise and notice:
+The glasses is quite beautiful as light strikes it. (96%)
+You feel informed:
+ Object 'glasses pair delicate crystal'
+ Item Type: WORN        
+ Mat Class: crystal      Material: crystal
+ Weight   : 2            Value   : 1000
+
+ Affects  : LEARN         by 5
+ Affects  : casting level by 3
+ Effects  : DETECT_INVISIBLE DETECT_MAGIC
+ Item is  : MAGIC
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+You have the urge to wear these glasses and study something - anything.A pair of delicate crystal glasses is wearable: head.
+
+611H 144V 6647879X 71.22% 449C T:19 Exits:NESW> 
+

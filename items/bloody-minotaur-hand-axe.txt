@@ -1,0 +1,17 @@
+Logging started: 21.01.2024 11:56
+brow bloody.axe
+You browse through the merchandise and notice:
+The axe's metallic surface shines brilliantly. (99%)
+A bloody minotaur hand axe is of good quality.
+You feel informed:
+ Object 'axe bloody minotaur'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: mithril
+ Weight   : 10           Value   : 100
+
+ Class    : battle_axe
+ Damage   : 3D5
+A bloody minotaur hand axe requires knowledge of the skill 'axes'.
+
+611H 144V 4625258X 74.15% 453C T:38 Exits:NESW> 
+

@@ -1,0 +1,18 @@
+Logging started: 17.01.2024 19:54
+brow copper.bracelet
+You browse through the merchandise and notice:
+The surface of the bracelet gleams brightly. (100%)
+You feel informed:
+ Object 'bracelet prestigious copper dragonscale'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 3            Value   : 260
+
+ Affects  : resist criticals by 0.3%
+ Affects  : RESIST_MAGIC  by 4
+ Effects  : DETECT_INVISIBLE
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A prestigious copper dragonscale bracelet is wearable: wrist.
+
+611H 144V 8395431X 66.54% 154C T:6 Exits:NESW> 
+

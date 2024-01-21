@@ -1,0 +1,15 @@
+Logging started: 20.01.2024 20:15
+rec lore braided.ring
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'ring braided grass'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 2            Value   : 50
+
+ Effects  : SENSE_LIFE INFRAVISION
+ Item is  : GLOW
+
+611H 142V 4625258X 74.15% 1759C T:20 Exits:NESW> 
+

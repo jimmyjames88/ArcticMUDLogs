@@ -1,0 +1,17 @@
+Logging started: 17.01.2024 19:51
+brow icy.idol
+You browse through the merchandise and notice:
+The surface of the idol gleams brightly. (100%)
+You feel informed:
+ Object 'idol glowing icy black'
+ Item Type: WORN        
+ Mat Class: metal        Material: silver
+ Weight   : 2            Value   : 215
+
+ Affects  : RESIST_ELECTR by 5
+ Affects  : BASH_MOD      by -1
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+A glowing icy black idol is wearable: hold.
+
+611H 144V 8395431X 66.54% 180C T:20 Exits:NESW> 
+

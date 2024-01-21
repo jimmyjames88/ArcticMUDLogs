@@ -1,0 +1,29 @@
+Logging started: 21.01.2024 11:55
+
+A knight of the crown arrives from the east.
+
+611H 144V 4625258X 74.15% 453C T:1 Exits:NESW> 
+
+
+The spirit of the heavens fades slowly.
+
+611H 144V 4625258X 74.15% 453C T:60 Exits:NESW> 
+
+brow red.stole
+You browse through the merchandise and notice:
+The stole appears to be soft and brand new. (99%)
+You feel informed:
+ Object 'stole red'
+ Item Type: WORN        
+ Mat Class: cloth        Material: silk
+ Weight   : 1            Value   : 200
+
+ Affects  : spell slots   by +1 at level 3
+ Affects  : WIS           by 1
+ Item is  : ANTI_GOOD
+ Restricts: NOMAGE NOTHIEF NOPALADIN NODRUID NORANGER NOWARRIOR NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_HEAT
+A blood-red stole of Zeboim is wearable: about.
+
+611H 144V 4625258X 74.15% 453C T:60 Exits:NESW> 
+

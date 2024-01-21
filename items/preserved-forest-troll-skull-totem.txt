@@ -1,0 +1,17 @@
+Logging started: 17.01.2024 19:57
+brow skull.totem
+You browse through the merchandise and notice:
+The surface of the totem is shiny and glitters golden. (99%)
+You feel informed:
+ Object 'totem preserved forest troll skull'
+ Item Type: WORN        
+ Mat Class: metal        Material: gold
+ Weight   : 1            Value   : 360
+
+ Affects  : MOVE_REGEN    by 4
+ Affects  : MEM_FACTOR    by 3
+ Restricts: NOTHIEF NOPALADIN NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN
+A preserved forest troll skull totem is wearable: hold.
+
+611H 144V 8395431X 66.54% 934C T:33 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 17.01.2024 19:58
+brow golden.footpads
+You browse through the merchandise and notice:
+The wooden surface of the footpad is in excellent shape. (99%)
+You feel informed:
+ Object 'footpad footpads golden'
+ Item Type: WORN        
+ Mat Class: wood         Material: pine
+ Weight   : 7            Value   : 500
+
+ Affects  : DEX           by 1
+ Affects  : HEALTH        by 10
+ Effects  : SNEAK
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+Some golden footpads is wearable: feet.
+
+611H 144V 8395431X 66.54% 934C T:53 Exits:NESW> 
+

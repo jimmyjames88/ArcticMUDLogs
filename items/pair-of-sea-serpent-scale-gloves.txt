@@ -1,0 +1,22 @@
+Logging started: 17.01.2024 19:52
+brow seprent.gloves
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+611H 144V 8395431X 66.54% 180C T:48 Exits:NESW> 
+
+brow serpent.gloves
+You browse through the merchandise and notice:
+The gloves's scaly surface is in fine shape. (100%)
+You feel informed:
+ Object 'gloves scale serpent sea black'
+ Item Type: ARMOR       
+ Mat Class: scale        Material: lizard_scale
+ Weight   : 3            Value   : 130
+
+ Affects  : HITROLL       by 1
+ Affects  : RESIST_NEGATI by 8
+ Apply    : 5
+A pair of sea serpent scale gloves is wearable: hands.
+
+611H 144V 8395431X 66.54% 180C T:45 Exits:NESW> 
+

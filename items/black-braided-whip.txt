@@ -1,0 +1,26 @@
+Logging started: 17.01.2024 19:51
+
+A Kalaman cityguard arrives from the north.
+
+611H 144V 8395431X 66.54% 180C T:56 Exits:NESW> 
+
+brow braided.whip
+You browse through the merchandise and notice:
+The whip looks healthy. (100%)
+A black braided whip is of excellent quality.
+You feel informed:
+ Object 'whip black braided ponytail hair'
+ Item Type: WEAPON      
+ Mat Class: natural      Material: organic
+ Weight   : 5            Value   : 500
+
+ Affects  : DAMROLL       by 3
+ Affects  : skill envenom       by +8
+ Item is  : MAGIC
+ Restricts: NOMAGE NOPALADIN NODRUID NOCLERIC NORANGER NOWARRIOR NODARK_KNIGHT NOBARBARIAN NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : whip
+ Damage   : 2D6
+A black braided whip requires knowledge of the skill 'miscellaneous'.
+
+611H 144V 8395431X 66.54% 180C T:53 Exits:NESW> 
+

@@ -1,0 +1,26 @@
+Logging started: 17.01.2024 19:56
+brow denim.pants
+You browse through the merchandise and notice:
+The pants appears to be brand new. (99%)
+You feel informed:
+ Object 'pants brown denim'
+ Item Type: WORN        
+ Mat Class: cloth        Material: cotton
+ Weight   : 3            Value   : 300
+
+ Affects  : skill kick          by +5
+Some brown denim pants is wearable: legs.
+
+611H 144V 8395431X 66.54% 154C T:1 Exits:NESW> 
+
+
+The rising sun barely lights the dark and cloudy sky.
+You hear a loud "cock-a-doodle-doo" from far away.
+
+611H 144V 8395431X 66.54% 154C T:60 Exits:NESW> 
+
+
+A Kalaman cityguard leaves east.
+
+611H 144V 8395431X 66.54% 154C T:49 Exits:NESW> 
+

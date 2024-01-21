@@ -1,0 +1,27 @@
+Logging started: 20.01.2024 19:34
+brow copper.blunderbuss
+You browse through the merchandise and notice:
+The blunderbuss's metallic surface is shiny and new. (100%)
+A copper and wood blunderbuss is of excellent quality.
+You feel informed:
+ Object 'blunderbuss gun copper wood'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: adamantite
+ Weight   : 14           Value   : 1200
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Immune   : IMMUNE_ACID IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Class    : club
+ Damage   : 6D4
+A copper and wood blunderbuss requires knowledge of the skill 'bludgeons'.
+
+611H 140V 6647879X 71.22% 449C Mem:1 T:1 Exits:NESW> 
+
+
+Your studies complete, you close your prayerbook with a smile.
+Once again the time has come for righteous anger.
+
+611H 144V 6647879X 71.22% 449C T:60 Exits:NESW> 
+
