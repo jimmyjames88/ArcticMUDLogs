@@ -1,0 +1,21 @@
+Logging started: 24.01.2024 19:30
+brow black.short.sword
+You browse through the merchandise and notice:
+The sword's metallic surface is shiny and new. (100%)
+A black short sword is of good quality.
+You feel informed:
+ Object 'sword short lily black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 200
+
+ Affects  : DAMROLL       by 2
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Restricts: NOTHIEF
+ Class    : short_sword
+ Damage   : 5D3
+A black short sword requires knowledge of the skill 'short blades'.
+
+593H 125V 4318685X 74.70% 0C T:6 Exits:NESW> 
+

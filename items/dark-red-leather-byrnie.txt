@@ -1,0 +1,23 @@
+Logging started: 24.01.2024 19:31
+
+A Kalaman cityguard arrives from the east.
+
+611H 144V 4318685X 74.70% 0C T:36 Exits:NESW> 
+
+brow byrnie
+You browse through the merchandise and notice:
+The byrnie appears rough and in perfect condition. (99%)
+You feel informed:
+ Object 'byrnie dark red leather'
+ Item Type: ARMOR       
+ Mat Class: leather      Material: rough_leather
+ Weight   : 11           Value   : 300
+
+ Affects  : HIT           by 5
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Immune   : IMMUNE_ACID IMMUNE_HEAT
+ Apply    : 6
+A dark red leather byrnie is wearable: body.
+
+611H 144V 4318685X 74.70% 0C T:36 Exits:NESW> 
+

@@ -1,0 +1,27 @@
+Logging started: 24.01.2024 19:36
+
+A knight of the sword arrives from the south.
+A street cleaner arrives from the west.
+
+611H 144V 4318685X 74.70% 1429C T:22 Exits:NESW> 
+
+brow treated.steel.armplates
+You browse through the merchandise and notice:
+The armor's metallic surface is shiny and new. (99%)
+You feel informed:
+ Object 'armor armour arm plate plates armplate armplates steel treated'
+ Item Type: ARMOR       
+ Mat Class: metal        Material: steel
+ Weight   : 20           Value   : 500
+
+ Affects  : skill impair        by +7
+ Affects  : DEX           by 1
+ Effects  : INFRAVISION
+ Item is  : GLOW MAGIC
+ Immune   : IMMUNE_ACID IMMUNE_COLD IMMUNE_ELECTRICITY IMMUNE_HEAT
+ Apply    : 10
+ This object is part of a larger set.
+A set of treated steel armplates is wearable: arms.
+
+611H 144V 4318685X 74.70% 1429C T:18 Exits:NESW> 
+

@@ -1,0 +1,19 @@
+Logging started: 26.01.2024 14:55
+brow dazzling.lance
+You browse through the merchandise and notice:
+The hard wooden surface of the lance is in perfect condition. (100%)
+A dazzling well-balanced lance is of fair quality.
+You feel informed:
+ Object 'lance dazzling well balanced'
+ Item Type: WEAPON      
+ Mat Class: wood         Material: blackenwood
+ Weight   : 30           Value   : 245
+
+ Affects  : HITROLL       by 2
+ Item is  : MAGIC
+ Class    : lance
+ Damage   : 2D12
+A dazzling well-balanced lance requires knowledge of the skill 'pole arms'.
+
+611H 134V 415006X 79.79% 577C T:6 Exits:NESW> 
+

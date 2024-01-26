@@ -1,0 +1,21 @@
+Logging started: 24.01.2024 19:37
+brow sun.blade
+You browse through the merchandise and notice:
+The blade's metallic surface is bright and shiny. (100%)
+A sun blade is of poor quality.
+You feel informed:
+ Object 'blade sun sword'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: bronze
+ Weight   : 10           Value   : 450
+
+ Affects  : HITROLL       by 3
+ Affects  : DAMROLL       by 3
+ Item is  : GLOW MAGIC HOT
+ Restricts: NOTHIEF NODRUID NOCLERIC NOSHAMAN
+ Class    : long_sword
+ Damage   : 5D3
+A sun blade requires knowledge of the skill 'long blades'.
+
+611H 144V 4318685X 74.70% 1429C T:32 Exits:NESW> 
+

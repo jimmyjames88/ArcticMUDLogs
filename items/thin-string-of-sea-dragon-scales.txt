@@ -1,0 +1,15 @@
+Logging started: 26.01.2024 00:39
+rec lore thin.string
+You grab a scroll of legend lore.
+You recite a scroll of legend lore which dissolves.
+You feel informed:
+ Object 'string thin scales dragon sea'
+ Item Type: WORN        
+ Mat Class: scale        Material: dragonscale
+ Weight   : 3            Value   : 120
+
+ Effects  : WATERBREATH FREE_WATER_ACTION
+ Item is  : MAGIC NORENT
+
+604H 69V 415006X 79.79% 4980C T:14 Exits:NESW> 
+

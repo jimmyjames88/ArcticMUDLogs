@@ -1,0 +1,25 @@
+Logging started: 26.01.2024 14:56
+
+Maniatis flies in from the west.
+Jokulhaups arrives from the west.
+
+611H 144V 415006X 79.79% 577C T:7 Exits:NESW> 
+
+brow ghastly.mask
+You browse through the merchandise and notice:
+The mask appears to be in perfect condition. (100%)
+You feel informed:
+ Object 'mask voodoo ghastly white black'
+ Item Type: WORN        
+ Mat Class: natural      Material: bone
+ Weight   : 10           Value   : 250
+
+ Affects  : CHA           by 3
+ Affects  : skill spook         by +10
+ Affects  : skill gaze          by +10
+ Effects  : DETECT_ASTRAL
+ Item is  : NORENT
+A ghastly voodoo mask is wearable: head.
+
+611H 144V 415006X 79.79% 577C T:3 Exits:NESW> 
+

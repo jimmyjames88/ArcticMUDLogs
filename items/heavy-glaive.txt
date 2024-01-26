@@ -1,0 +1,61 @@
+Logging started: 26.01.2024 14:57
+
+Maniatis sells some thick metal boots.
+
+611H 144V 415006X 79.79% 577C T:33 Exits:NESW> 
+
+
+Maniatis sells some thick metal gauntlets.
+
+611H 144V 415006X 79.79% 577C T:32 Exits:NESW> 
+
+
+Maniatis sells some thick metal boots.
+
+611H 144V 415006X 79.79% 577C T:31 Exits:NESW> 
+
+
+Maniatis sells some thick metal gauntlets.
+
+611H 144V 415006X 79.79% 577C T:31 Exits:NESW> 
+
+
+Maniatis sells some thick metal boots.
+
+611H 144V 415006X 79.79% 577C T:30 Exits:NESW> 
+
+
+Maniatis sells some thick metal gauntlets.
+
+611H 144V 415006X 79.79% 577C T:30 Exits:NESW> 
+
+
+Maniatis sells some thick metal boots.
+
+611H 144V 415006X 79.79% 577C T:30 Exits:NESW> 
+
+
+Maniatis sells some thick metal gauntlets.
+
+611H 144V 415006X 79.79% 577C T:29 Exits:NESW> 
+
+brow heavy.glaive
+You browse through the merchandise and notice:
+The glaive's metallic surface is shiny and new. (100%)
+A heavy glaive is of poor quality.
+You feel informed:
+ Object 'glaive heavy'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 24           Value   : 120
+
+ Affects  : STR           by 1
+ Affects  : HITROLL       by 2
+ Effects  : DETECT_EVIL
+ Restricts: NOMAGE NOTHIEF NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE NOSHAMAN
+ Class    : voulge
+ Damage   : 4D6
+A heavy glaive requires knowledge of the skill 'pole arms'.
+
+611H 144V 415006X 79.79% 577C T:29 Exits:NESW> 
+

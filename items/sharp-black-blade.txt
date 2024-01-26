@@ -1,0 +1,27 @@
+Logging started: 26.01.2024 14:58
+
+A loud voice is heard booming throughout the town, 'The caravan has
+arrived, we will be leaving in about four hours.'
+
+611H 144V 415006X 79.79% 577C T:42 Exits:NESW> 
+
+brow sharp.black
+You browse through the merchandise and notice:
+The blade's metallic surface is shiny and new. (98%)
+A sharp black blade is of good quality.
+You feel informed:
+ Object 'blade sharp black'
+ Item Type: WEAPON      
+ Mat Class: metal        Material: steel
+ Weight   : 15           Value   : 400
+
+ Affects  : DAMROLL       by 1
+ Affects  : HITROLL       by 1
+ Item is  : EVIL
+ Restricts: NOMAGE NODRUID NOCLERIC NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+ Class    : short_sword
+ Damage   : 2D8
+A sharp black blade requires knowledge of the skill 'short blades'.
+
+611H 144V 415006X 79.79% 577C T:41 Exits:NESW> 
+

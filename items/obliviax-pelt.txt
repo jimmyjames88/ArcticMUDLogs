@@ -1,0 +1,24 @@
+Logging started: 26.01.2024 14:58
+
+Maniatis flies in from the north.
+Jokulhaups arrives from the north.
+
+611H 144V 415006X 79.79% 577C T:4 Exits:NESW> 
+
+brow obliviax
+You browse through the merchandise and notice:
+The pelt looks healthy. (99%)
+You feel informed:
+ Object 'pelt obliviax moss mossy'
+ Item Type: WORN        
+ Mat Class: natural      Material: organic
+ Weight   : 10           Value   : 200
+
+ Affects  : INT           by 1
+ Affects  : spell slots   by +1 at level 2
+ Affects  : casting level by 2
+ Item is  : MAGIC
+An obliviax pelt is wearable: body.
+
+611H 144V 415006X 79.79% 577C T:2 Exits:NESW> 
+

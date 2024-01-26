@@ -1,0 +1,27 @@
+Logging started: 26.01.2024 14:57
+
+Maniatis flies north.
+Jokulhaups leaves north.
+
+611H 144V 415006X 79.79% 577C T:9 Exits:NESW> 
+
+brow patterned.block
+A wandering merchant tells you 'Sorry, I don't have that in stock.'
+
+611H 144V 415006X 79.79% 577C T:8 Exits:NESW> 
+
+brow patterned.cloak
+You browse through the merchandise and notice:
+The cloak appears rough and in perfect condition. (100%)
+You feel informed:
+ Object 'cloak patterned leather'
+ Item Type: WORN        
+ Mat Class: leather      Material: rough_leather
+ Weight   : 5            Value   : 300
+
+ Effects  : HIDE
+ Restricts: NOMAGE NOPALADIN NOCLERIC NOWARRIOR NODARK_KNIGHT NOBLACK_ROBE NORED_ROBE NOWHITE_ROBE
+A patterned leather cloak is wearable: neck about.
+
+611H 144V 415006X 79.79% 577C T:5 Exits:NESW> 
+
